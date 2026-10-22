@@ -1,0 +1,13 @@
+{
+  "id": "mira",
+  "number": 3,
+  "status": "available",
+  "releaseDate": "2026-10-25",
+  "accent": "#3e7cb1",
+  "cover": "assets/images/covers/mira-cover.jpg",
+  "chatUrl": "",
+  "gallery": [
+    { "src": "assets/images/gallery/mira/mira-01.jpg" }
+  ],
+  "tracks": []
+}

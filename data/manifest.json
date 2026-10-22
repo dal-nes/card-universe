@@ -35,7 +35,8 @@
   ],
   "characters": [
     { "id": "yuna", "file": "data/characters/yuna.json" },
-    { "id": "rin", "file": "data/characters/rin.json" }
+    { "id": "rin", "file": "data/characters/rin.json" },
+    { "id": "mira", "file": "data/characters/mira.json" }
   ],
   "group": "data/group.json"
 }
