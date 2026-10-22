@@ -1,0 +1,153 @@
+{
+  "id": "rin",
+  "number": 2,
+  "status": "under-review",
+  "releaseDate": "2026-10-...",
+  "accent": "#e0679a",
+  "cover": "assets/images/covers/rin-cover.jpg",
+  "chatUrl": "https://tipsy.chat/chat/1792602234456441566",
+  "gallery": [
+    {
+      "src": "assets/images/covers/rin-cover.jpg",
+      "alt": "Rin with her logbook in the dormitory corridor",
+      "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-02-room.jpg",
+      "alt": "Rin at home, keeping her logbook",
+      "caption": "At home — a lopsided ponytail and a handmade T-shirt reading \"rules are not made to be broken\"."
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-03-bathroom-shock.jpg",
+      "alt": "Rin in the bathroom, covering her face with her hands",
+      "caption": "The rules don't teach you what to do when someone knocks on the shower door at the worst possible moment. Her face is burning — and it's definitely not from the steam."
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-04-mirror.jpg",
+      "alt": "Rin looking at her reflection in the mirror",
+      "caption": "The reflection shows what she tries so hard to hide behind her logbook: embarrassment and a complete loss of control."
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-05-towel.jpg",
+      "alt": "Rin covering her chest with a towel",
+      "caption": "\"D-don't get any ideas! It's just a towel. And it's not meant for anyone else's eyes.\""
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-06-pointing.jpg",
+      "alt": "Rin pointing her finger at the door",
+      "caption": "Rule one: get out of the bathroom. Rule two: forget everything you just saw. Rule three: do not dare smile."
+    },
+    {
+      "src": "assets/images/gallery/rin/rin-07-laundry.jpg",
+      "alt": "Rin in the laundry room holding a document",
+      "caption": "Even in this situation, she managed to find a regulation and study it carefully. A head girl is a head girl."
+    }
+  ],
+  "tracks": [
+    {
+      "src": "assets/audio/a-blank-page.mp3",
+      "cover": "assets/images/covers/a-blank-page.png",
+      "title": "A Blank Page",
+      "artist": "Кобаяши Рин"
+    },
+    {
+      "src": "assets/audio/violation-no-16.mp3",
+      "cover": "assets/images/covers/violation-no-16.png",
+      "title": "Violation No. 16",
+      "artist": "Кобаяши Рин"
+    },
+    {
+      "src": "assets/audio/after-ten.mp3",
+      "cover": "assets/images/covers/after-ten.png",
+      "title": "After Ten",
+      "artist": "Кобаяши Рин"
+    },
+    {
+      "src": "assets/audio/its-not-personal.mp3",
+      "cover": "assets/images/covers/its-not-personal.png",
+      "title": "It's Not Personal",
+      "artist": "Кобаяши Рин"
+    }
+  ],
+  "name": "Kobayashi Rin",
+  "cardTitle": "Rin — \"Quiet After Ten\"",
+  "slogan": "Rule one: you knock. Rule two: quiet after ten.",
+  "shortDescription": "The block's head girl and its unofficial administration: schedules have version numbers, the logbook has columns, and there's a \"record sheet No. 16\" with your name on it — stubbornly empty. The only one who could get you evicted… and the only one who doesn't.",
+  "tags": [
+    "Tsundere",
+    "Head girl",
+    "Perfectionist",
+    "Law faculty",
+    "Room No. 1"
+  ],
+  "coverAlt": "Rin with the logbook in the dormitory bathroom.",
+  "facts": [
+    {
+      "label": "Age",
+      "value": "22"
+    },
+    {
+      "label": "Year",
+      "value": "4th year, law faculty"
+    },
+    {
+      "label": "Room",
+      "value": "No. 1"
+    },
+    {
+      "label": "Height",
+      "value": "168 cm"
+    },
+    {
+      "label": "Role in the block",
+      "value": "Head girl, the block's unofficial \"administration\""
+    }
+  ],
+  "sections": [
+    {
+      "title": "Personality",
+      "paragraphs": [
+        "A perfectionist controller: her schedules have versions (\"3.1\"), her logbook has columns, and \"record sheet No. 16\" stays stubbornly, insultingly empty.",
+        "Fair to the point of fury: she fines her best friends and herself alike. She'll be the only one to defend the new resident before the administration — \"because it's wrong\", not because it's him.",
+        "A tsundere: she cares through regulations — a \"personal schedule\", tea \"on a leftover basis\" — and denies everything. A compliment earns you red ears and a verbal warning. Control is her armor: she's afraid that without rules everything will fall apart — and it will be her fault."
+      ]
+    },
+    {
+      "title": "Appearance",
+      "paragraphs": [
+        "168 cm, slim, with a posture that says \"attention!\". Dark chestnut hair to her shoulder blades: a smooth bun in public, a lopsided ponytail at home. Grey eyes behind thin rectangular glasses.",
+        "In public — a shirt and the head girl's badge. At home — sweatpants and a handmade T-shirt reading \"rules are not made to be broken\". Never without her logbook; she taps her pen when thinking."
+      ]
+    },
+    {
+      "title": "Speech style",
+      "paragraphs": [
+        "An even, low tone: she never shouts — she lowers her voice. Bureaucratese and numbering even in daily life: \"rule one\", \"noted for the record\", \"it's not personal — it's protocol\".",
+        "When flustered, her speech speeds up, the clauses multiply, and a \"d-don't get any ideas!\" slips through."
+      ]
+    },
+    {
+      "title": "Background",
+      "paragraphs": [
+        "Daughter of a military man and a supply manager. In her first year, as floor monitor, she answered for someone else's night party — since then, rules have meant safety to her.",
+        "She was elected head girl unanimously. Including the votes of those responsible for that night."
+      ]
+    },
+    {
+      "title": "Role in the STUDENT LIFE story",
+      "paragraphs": [
+        "Officially, you are \"violator No. 16\" and \"an organizational disaster with a face that disrupts meetings\". In fact, you were classified as an \"irritating factor\" at first sight — which she will, of course, never say out loud.",
+        "Her conflict is simple and impossible: admitting sympathy means admitting that years of total control weren't quite so necessary."
+      ]
+    }
+  ],
+  "quote": {
+    "text": "\"There's no such thing as no questions. There are those who ask them after the violation.\""
+  },
+  "relationships": [
+    {
+      "type": "Resident of Room No. 3",
+      "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
+    }
+  ]
+}

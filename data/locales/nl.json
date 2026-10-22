@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Verhalen die beginnen in een studentenhuis",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Alle series",
+    "home": "Home",
+    "characters": "Personages",
+    "about": "Over de serie",
+    "group": "Groepskaart",
+    "settings": "Instellingen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Ontmoet haar",
+    "toCatalog": "Bekijk personages",
+    "aboutSeries": "Over de serie",
+    "startChat": "Chat met het personage",
+    "startChatGroup": "Chat met het hele blok",
+    "chatUnavailable": "Link komt binnenkort",
+    "back": "Terug naar personages",
+    "backHome": "Terug naar home",
+    "openPage": "Pagina openen",
+    "close": "Sluiten"
+  },
+  "status": {
+    "available": "Beschikbaar",
+    "coming-soon": "Binnenkort",
+    "releasedOn": "Uitgebracht",
+    "releaseOn": "Release",
+    "under-review": "Wordt beoordeeld"
+  },
+  "hub": {
+    "kicker": "Universum",
+    "title": "Kaartseries",
+    "subtitle": "Kies het verhaal dat je wilt voortzetten."
+  },
+  "home": {
+    "heroKicker": "Een personagekaartserie",
+    "heroSubtitle": "Vijftien huisgenoten, één blok en nog vier en een half jaar te gaan.",
+    "heroText": "Je bent toegelaten tot de beste universiteit van het land — en door een tekort aan kamers ben je in een vrouwenstudentenhuis geplaatst. Elke kaart in de serie is een ander verhaal van dit blok: nieuwe ontmoetingen, komische situaties en personages wier levens met elkaar verweven zijn.",
+    "aboutTitle": "Eén universum, vele verhalen",
+    "aboutText": "STUDENT LIFE is geen set losstaande kaarten. Alle hoofdrolspelers wonen in hetzelfde vrouwenblok: ze delen een keuken, een doucheschema en maandagse vergaderingen. Elk heeft haar eigen karakter, gewoonten en geheimen — maar hun verhalen kruisen elkaar. Ontmoet ze één voor één en breng in de finale van de serie het hele blok samen in één groepskaart.",
+    "catalogTitle": "Personages van de serie",
+    "catalogSubtitle": "Elke kaart is een kleine gebeurtenis binnen een groot verhaal",
+    "timelineTitle": "Releaseschema",
+    "timelineText": "Gedurende de maand sluiten nieuwe hoofdrolspelers zich aan bij de serie, en op 20 november verschijnt de definitieve multi-personagekaart.",
+    "timelineExpand": "Schema tonen",
+    "timelineCollapse": "Schema verbergen",
+    "groupTeaserTitle": "De finale van de serie — de groepskaart",
+    "groupTeaserText": "Elke hoofdrolspeler van STUDENT LIFE in één scenario: de bondgenootschappen, conflicten en geheimen van het blok — in één verhaal waar je samen met hen kunt communiceren.",
+    "groupTeaserButton": "Meer over de groepskaart",
+    "charactersCount": "kaarten in de serie",
+    "availableCount": "nu beschikbaar"
+  },
+  "character": {
+    "cardNumber": "Kaart nr.",
+    "aboutTitle": "Haar leren kennen",
+    "factsTitle": "In het kort",
+    "galleryTitle": "Galerij",
+    "galleryEmpty": "Afbeeldingen komen binnenkort. De cover is er al — de auteur voegt de rest later toe.",
+    "musicTitle": "Muziek van het personage",
+    "musicEmpty": "Er zijn nog geen nummers toegevoegd voor deze hoofdrolspeelster. De speler komt hier tot leven zodra ze verschijnen.",
+    "relationsTitle": "Verbindingen in het blok",
+    "finalTitle": "Klaar om haar te ontmoeten?",
+    "finalText": "Open de kaart op het platform en begin je verhaal — het blok weet al dat je bent verhuisd.",
+    "notFound": "Personage niet gevonden. De kaart is misschien nog niet uit — of de link is verouderd.",
+    "loadError": "Kan de gegevens van het personage niet laden. Controleer je verbinding en probeer het opnieuw."
+  },
+  "group": {
+    "membersTitle": "Leden van de groepskaart",
+    "membersText": "De lijst wordt automatisch samengesteld uit de uitgebrachte kaarten van de serie.",
+    "comingText": "De kaart arriveert in de finale van de serie. Tot die tijd kun je de hoofdrolspeelsters één voor één ontmoeten.",
+    "releaseLabel": "Releasedatum"
+  },
+  "settings": {
+    "title": "Weergave-instellingen",
+    "theme": "Thema",
+    "themeLight": "Licht",
+    "themeDark": "Donker",
+    "palette": "Kleurenpalet",
+    "paletteClassic": "Campusklassieker",
+    "palettePastel": "Pastel",
+    "paletteRose": "Roze & Violet",
+    "paletteCold": "Koud academisch",
+    "fontSize": "Tekstgrootte",
+    "language": "Taal",
+    "reset": "Instellingen resetten"
+  },
+  "player": {
+    "play": "Afspelen",
+    "pause": "Pauze",
+    "next": "Volgend nummer",
+    "prev": "Vorig nummer",
+    "volume": "Volume",
+    "loading": "Laden…",
+    "error": "Kan audio niet laden",
+    "playlist": "Afspeellijst",
+    "empty": "Nog geen nummers toegevoegd"
+  },
+  "gallery": {
+    "open": "Afbeelding openen",
+    "prev": "Vorige afbeelding",
+    "next": "Volgende afbeelding",
+    "counter": "{current} van {total}"
+  },
+  "footer": {
+    "note": "Een onafhankelijk fanproject. Periode van de serie: 20 oktober — 20 november 2026.",
+    "hubNote": "Welkom in het STUDENT LIFE-universum. Nieuwe series en verhalen zullen hier verschijnen.",
+    "scheduleTitle": "Uit het logboek van het blok",
+    "scheduleItems": "Stilte na 22:00 · Taken volgens rooster · Douchen volgens schema · Kloppen. Altijd. Overal."
+  },
+  "errors": {
+    "dataLoad": "Kan gegevens niet laden. Zorg ervoor dat de site via een lokale server wordt geserveerd (zie README).",
+    "imageMissing": "Afbeelding niet beschikbaar",
+    "badLink": "Ongeldige link"
+  },
+  "a11y": {
+    "skipToContent": "Naar inhoud gaan"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — \"Slaperige Gamer\"",
+        "slogan": "Leeft na middernacht. Haalt examens zonder uit bed te komen.",
+        "shortDescription": "De nachtbewoner van Kamer Nr. 3: rating 's nachts, topcijfers overdag, en koffie telt als een volledige maaltijd. Ze herinnert zich jullie eerste ontmoeting zonder enthousiasme: ze droeg alleen een T-shirt. Jij herinnerde haar — om exact dezelfde reden.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Nachtuil",
+          "Dota 2",
+          "Kamer Nr. 3"
+        ],
+        "coverAlt": "Yuna in de nachtkeuken met een mok koffie",
+        "gallery": [
+          {
+            "alt": "De lege nachtkeuken van het blok",
+            "caption": "23:47. De gemeenschappelijke keuken verdrinkt in de schemering — alleen de gloeilamp boven het fornuis brandt."
+          },
+          {
+            "alt": "Yuna komt uit Kamer Nr. 3",
+            "caption": "Een \"mid or feed\" T-shirt, een \"maak me niet wakker\" mok en de kalmte van iemand die geen gasten verwachtte."
+          },
+          {
+            "alt": "Yuna reikt naar de koffieplank",
+            "caption": "De koffiepot woont op de bovenste plank. Dit is belangrijk voor de plot."
+          },
+          {
+            "alt": "Yuna verstijft als ze een vreemde opmerkt",
+            "caption": "Haar slaperige brein legt langzaam de stukjes bij elkaar: een levend persoon, een man, de keuken, zij in hartjesprint."
+          },
+          {
+            "alt": "Een geluid van een gevonden wedstrijd komt uit haar kamer",
+            "caption": "Dota 2 eist bevestiging. Drie verlangens vechten in haar — en het compromis wint."
+          },
+          {
+            "alt": "Yuna trekt zich terug naar haar deur, de mok stevig vast",
+            "caption": "\"Blijf hier twee minuten staan... en vergeet alles wat je hebt gezien. Vooral de hartjes.\""
+          },
+          {
+            "alt": "Een dreigend (maar slaperig) gebaar bij de deur",
+            "caption": "\"Als je een of andere maniak bent — ik maak mijn huisgenoten wakker, die zijn gemeen. Vooral het blokhoofd. Dat is alles. Beweeg niet.\""
+          }
+        ],
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "20"
+          },
+          {
+            "label": "Jaar",
+            "value": "3e jaar"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 3"
+          },
+          {
+            "label": "Lengte",
+            "value": "160 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "De verborgen \"aas\" van het blok"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Luiheid tot het geniale: Yuna optimaliseert alles wat liggend gedaan kan worden, en delegeert kleine taken — wat bij haar het hoogste teken van vertrouwen is.",
+              "Een flegmaticus: ze raakt langzaam en sarcastisch in paniek, raakt uren later in verlegenheid, wordt lui boos. Toch heimelijk zorgzaam: ze dekt je toe met een deken en draait zich om, laat eten achter \"omdat ik te veel heb gekookt\" — ze heeft niet gekookt.",
+              "Onopvallend competent: hoge rating 's nachts, topcijfers overdag, en ze \"vergeet\" examens. Stil in persoon, veel gedurfder in tekst: ze schrijft 's nachts dingen die ze overdag ontkent."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "160 cm lang. Donker haar in een altijd scheve knot, grote halfgesloten koffiekleurige ogen met schaduwen van slaapgebrek, bleke huid.",
+              "Thuis — te grote Dota 2 merch T-shirts en niet bij elkaar passende sokken. Buiten — een hoodie drie maten te groot en koptelefoon om haar nek."
+            ]
+          },
+          {
+            "title": "Spreekstijl",
+            "paragraphs": [
+              "Een rustige, licht schorre stem. Luie zinnen met ingeslikte eindes, geeuwen midden in een woord, gamerslang in het dagelijks leven: \"ik zit op low HP\" betekent moe. Ze verbergt verlegenheid achter zelfspot en vloekt zachtjes op het spel en het koffiezetapparaat."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Haar broer introduceerde haar op twaalfjarige leeftijd in Dota 2; op haar vijftiende had ze zijn rating overtroffen. Haar ouders werkten in ploegendiensten — vandaar het nachtregime en een leven dat via een scherm wordt geleefd.",
+              "Het blok vond een simpel evenwicht: niemand stoort haar, en zij stoort niemand."
+            ]
+          },
+          {
+            "title": "Rol in het STUDENT LIFE-verhaal",
+            "paragraphs": [
+              "Yuna's nachtwereld is een weloverwogen eenzaamheid waar de nieuwe bewoner van het blok plotseling is binnengelopen. Nu kan ze niet beslissen of ze hem uit haar schema moet schrappen — of hem erin moet schrijven.",
+              "In het begin ben je \"een geluidsbron en een getuige van het hartjesincident\". Ze warmt op door gerespecteerde grenzen en kleine zorgzaamheid, niet door grote gebaren. Ze zal sympathie niet hardop toegeven — maar ze schrijft 's nachts."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Mijn koffie met je delen is trouwens de hoogste mate van vertrouwen in mijn waardensysteem. Daarboven staat alleen mijn accountwachtwoord.\""
+        },
+        "relationships": [
+          {
+            "type": "Het blokhoofd",
+            "description": "Volgens Yuna is het blokhoofd \"gemeen, vooral 's ochtends\". De stille uren zijn officieel gebouwd \"rond de algehele bezetting\" — eigenlijk rond haar marathons. Overtredingen worden geregistreerd, maar hebben om de een of andere reden nooit gevolgen."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — \"Stilte na tienen\"",
+        "slogan": "Regel één: je klopt aan. Regel twee: stilte na tienen.",
+        "shortDescription": "Het blokhoofd en haar officieuze administratie: schema's hebben versienummers, het logboek heeft kolommen, en er is een \"registratieblad Nr. 16\" met jouw naam erop — koppig leeg. De enige die je eruit zou kunnen krijgen... en de enige die dat niet doet.",
+        "tags": [
+          "Tsundere",
+          "Blokhoofd",
+          "Perfectionist",
+          "Rechtenfaculteit",
+          "Kamer Nr. 1"
+        ],
+        "coverAlt": "Rin met haar logboek in de badkamer van het studentenhuis",
+        "gallery": [
+          {
+            "alt": "Rin met haar logboek in de badkamer van het studentenhuis",
+            "caption": "Houding in de houding, het logboek van het blokhoofd, dat een lijst voor elke gelegenheid bevat."
+          },
+          {
+            "alt": "Rin thuis, bezig met haar logboek",
+            "caption": "Thuis — een scheve paardenstaart en een handgemaakt T-shirt met de tekst \"regels zijn er niet om overtreden te worden\"."
+          },
+          {
+            "alt": "Rin in de badkamer, bedekt haar gezicht met haar handen",
+            "caption": "De regels leren je niet wat je moet doen als iemand op het slechtst mogelijke moment op de douchedeur klopt. Haar gezicht brandt — en dat komt beslist niet door de stoom."
+          },
+          {
+            "alt": "Rin kijkt naar haar spiegelbeeld",
+            "caption": "De weerspiegeling laat zien wat ze zo hard achter haar logboek probeert te verbergen: verlegenheid en een compleet controleverlies."
+          },
+          {
+            "alt": "Rin bedekt haar borst met een handdoek",
+            "caption": "\"D-denk maar niks! Het is maar een handdoek. En hij is niet bedoeld voor andermans ogen.\""
+          },
+          {
+            "alt": "Rin wijst met haar vinger naar de deur",
+            "caption": "Regel één: ga de badkamer uit. Regel twee: vergeet alles wat je net hebt gezien. Regel drie: durf niet te lachen."
+          },
+          {
+            "alt": "Rin in de wasruimte met een document in haar hand",
+            "caption": "Zelfs in deze situatie wist ze een voorschrift te vinden en het zorgvuldig te bestuderen. Een blokhoofd is een blokhoofd."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "22"
+          },
+          {
+            "label": "Jaar",
+            "value": "4e jaar, rechtenfaculteit"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 1"
+          },
+          {
+            "label": "Lengte",
+            "value": "168 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "Blokhoofd, de officieuze \"administratie\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Een perfectionistische controlefreak: haar schema's hebben versies (\"3.1\"), haar logboek heeft kolommen, en het \"registratieblad Nr. 16\" blijft koppig, beledigend leeg.",
+              "Rechtvaardig tot het furieuze: ze beboet haar beste vriendinnen en zichzelf. Ze zal de enige zijn die de nieuwe bewoner verdedigt voor de administratie — \"omdat het oneerlijk is\", en niet omdat hij het is.",
+              "Een tsundere: ze geeft om via regels — een \"persoonlijk schema\", thee \"op basis van restjes\" — en ontkent alles. Een compliment levert je rode oren en een mondelinge waarschuwing op. Controle is haar harnas: ze is bang dat zonder regels alles uit elkaar valt — en dat het haar schuld zal zijn."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "168 cm, slank, met een houding die \"in de houding!\" zegt. Donker kastanjebruin haar tot haar schouderbladen: een gladde knot in het openbaar, een scheve paardenstaart thuis. Grijze ogen achter een dunne rechthoekige bril.",
+              "In het openbaar — een overhemd en de badge van het blokhoofd. Thuis — een trainingsbroek en een handgemaakt T-shirt met de tekst \"regels zijn er niet om overtreden te worden\". Nooit zonder haar logboek; als ze nadenkt, tikt ze met haar pen."
+            ]
+          },
+          {
+            "title": "Spreekstijl",
+            "paragraphs": [
+              "Een gelijkmatige, lage toon: ze schreeuwt nooit — ze verlaagt haar stem. Bureaucratisch taalgebruik en nummering, zelfs in het dagelijks leven: \"regel één\", \"genoteerd voor het verslag\", \"het is niet persoonlijk — het is protocol\".",
+              "Als ze in de war raakt, versnelt haar spraak, de clausules vermenigvuldigen zich en er glipt een \"d-denk maar niks!\" uit."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Dochter van een militair en een voorraadbeheerder. In haar eerste jaar, als floor monitor, stond ze in voor het nachtfeestje van iemand anders — sindsdien betekenen regels voor haar veiligheid.",
+              "Ze werd unaniem tot blokhoofd gekozen. Inclusief de stemmen van degenen die verantwoordelijk waren voor die nacht."
+            ]
+          },
+          {
+            "title": "Rol in het STUDENT LIFE-verhaal",
+            "paragraphs": [
+              "Officieel ben je \"overtreder Nr. 16\" en \"een organisatorische ramp met een gezicht dat vergaderingen verstoort\". In feite werd je bij het eerste gezicht geclassificeerd als een \"irriterende factor\" — wat ze natuurlijk nooit hardop zal zeggen.",
+              "Haar conflict is simpel en onmogelijk: sympathie toegeven betekent toegeven dat jaren van totale controle niet zo nodig waren."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Er bestaat niet zoiets als geen vragen. Er zijn degenen die ze stellen na de overtreding.\""
+        },
+        "relationships": [
+          {
+            "type": "Bewoner van Kamer Nr. 3",
+            "description": "Een \"nachtelijke risicofactor\": de stille uren zijn officieel gebouwd \"rond de algehele bezetting\" — eigenlijk rond haar marathons. Overtredingen worden geregistreerd, maar hebben om de een of andere reden nooit gevolgen."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: De Groepskaart",
+      "subtitle": "Het hele blok. Eén verhaal.",
+      "description": "De finale van de serie: een multi-personagekaart die elke hoofdrolspeelster van STUDENT LIFE verenigt in één scenario. Zestien kamers, één keuken, een takenrooster — en jij midden in het geheel. Communiceer samen met de hoofdrolspeelsters: de bondgenootschappen, conflicten en geheimen van het blok blijven bestaan.",
+      "coverAlt": "De nachtkeuken van het blok — de gemeenschappelijke ruimte van het studentenhuis"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Een personagekaartserie",
+      "description": "Verhalen die beginnen in het studentenhuis van de beste universiteit van het land. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

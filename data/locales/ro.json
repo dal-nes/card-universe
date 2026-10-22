@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Povești care încep într-un cămin studențesc",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Toate seriile",
+    "home": "Acasă",
+    "characters": "Personaje",
+    "about": "Despre serie",
+    "group": "Card de grup",
+    "settings": "Setări",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Cunoaște-o",
+    "toCatalog": "Răsfoiește personajele",
+    "aboutSeries": "Despre serie",
+    "startChat": "Conversați cu personajul",
+    "startChatGroup": "Conversați cu întregul bloc",
+    "chatUnavailable": "Link în curând",
+    "back": "Înapoi la personaje",
+    "backHome": "Înapoi la pagina principală",
+    "openPage": "Deschide pagina",
+    "close": "Închide"
+  },
+  "status": {
+    "available": "Disponibil",
+    "coming-soon": "În curând",
+    "releasedOn": "Lansat",
+    "releaseOn": "Lansare",
+    "under-review": "În curs de revizuire"
+  },
+  "hub": {
+    "kicker": "Univers",
+    "title": "Serii de carduri",
+    "subtitle": "Alege povestea pe care vrei să o continui."
+  },
+  "home": {
+    "heroKicker": "O serie de carduri de personaje",
+    "heroSubtitle": "Cincisprezece colege de cameră, un bloc și patru ani și jumătate înainte.",
+    "heroText": "Ai intrat la cea mai bună universitate din țară — iar din cauza lipsei de camere, ai fost plasat într-un cămin feminin. Fiecare card din serie este o altă poveste a acestui bloc: întâlniri noi, situații comice și personaje ale căror vieți se întrepătrund.",
+    "aboutTitle": "Un univers, multe povești",
+    "aboutText": "STUDENT LIFE nu este un set de carduri de sine stătătoare. Toate eroinele locuiesc în același bloc al căminului feminin: împart o bucătărie, un program de duș și ședințe de luni. Fiecare are propriul caracter, obiceiuri și secrete — dar poveștile lor se intersectează. Cunoaște-le pe rând, iar în finalul seriei adu întregul bloc împreună într-un singur card de grup.",
+    "catalogTitle": "Personajele seriei",
+    "catalogSubtitle": "Fiecare card este un mic eveniment în interiorul unei povești mari",
+    "timelineTitle": "Programul lansărilor",
+    "timelineText": "Noi eroine se alătură seriei pe parcursul lunii, iar pe 20 noiembrie sosește cardul final cu mai multe personaje.",
+    "timelineExpand": "Arată programul",
+    "timelineCollapse": "Ascunde programul",
+    "groupTeaserTitle": "Finalul seriei — cardul de grup",
+    "groupTeaserText": "Fiecare eroină din STUDENT LIFE într-un singur scenariu: alianțele, conflictele și secretele blocului — într-o poveste în care poți interacționa cu ele împreună.",
+    "groupTeaserButton": "Mai multe despre cardul de grup",
+    "charactersCount": "carduri în serie",
+    "availableCount": "disponibile acum"
+  },
+  "character": {
+    "cardNumber": "Cardul nr.",
+    "aboutTitle": "Cunoașterea ei",
+    "factsTitle": "Pe scurt",
+    "galleryTitle": "Galerie",
+    "galleryEmpty": "Imaginile vor veni în curând. Coperta este deja aici — autorul va adăuga restul mai târziu.",
+    "musicTitle": "Muzica personajului",
+    "musicEmpty": "Nu au fost adăugate încă piese pentru această eroină. Playerul va prinde viață aici de îndată ce acestea vor apărea.",
+    "relationsTitle": "Conexiuni în bloc",
+    "finalTitle": "Ești gata să o cunoști?",
+    "finalText": "Deschide cardul pe platformă și începe-ți povestea — blocul știe deja că te-ai mutat.",
+    "notFound": "Personajul nu a fost găsit. Este posibil ca acest card să nu fi apărut încă — sau linkul este depășit.",
+    "loadError": "Nu s-au putut încărca datele personajului. Verifică-ți conexiunea și încearcă din nou."
+  },
+  "group": {
+    "membersTitle": "Membrii cardului de grup",
+    "membersText": "Lista este construită automat din cardurile lansate ale seriei.",
+    "comingText": "Cardul sosește în finalul seriei. Până atunci, cunoaște eroinele una câte una.",
+    "releaseLabel": "Data lansării"
+  },
+  "settings": {
+    "title": "Setări de afișare",
+    "theme": "Temă",
+    "themeLight": "Luminoasă",
+    "themeDark": "Întunecată",
+    "palette": "Paletă de culori",
+    "paletteClassic": "Clasic de campus",
+    "palettePastel": "Pastel",
+    "paletteRose": "Roz și violet",
+    "paletteCold": "Academic rece",
+    "fontSize": "Mărimea textului",
+    "language": "Limbă",
+    "reset": "Resetează setările"
+  },
+  "player": {
+    "play": "Redă",
+    "pause": "Pauză",
+    "next": "Piesa următoare",
+    "prev": "Piesa anterioară",
+    "volume": "Volum",
+    "loading": "Se încarcă…",
+    "error": "Nu s-a putut încărca audio-ul",
+    "playlist": "Lista de piese",
+    "empty": "Nicio piesă adăugată încă"
+  },
+  "gallery": {
+    "open": "Deschide imaginea",
+    "prev": "Imaginea anterioară",
+    "next": "Imaginea următoare",
+    "counter": "{current} din {total}"
+  },
+  "footer": {
+    "note": "Un proiect de fani independent. Perioada seriei: 20 octombrie — 20 noiembrie 2026.",
+    "hubNote": "Bine ați venit în universul STUDENT LIFE. Serii și povești noi vor apărea aici.",
+    "scheduleTitle": "Din jurnalul blocului",
+    "scheduleItems": "Liniște după ora 22:00 · Sarcini conform graficului · Dușuri conform orarului · Bate la ușă. Întotdeauna. Oriunde."
+  },
+  "errors": {
+    "dataLoad": "Nu s-au putut încărca datele. Asigurați-vă că site-ul este servit printr-un server local (vezi README).",
+    "imageMissing": "Imaginea nu este disponibilă",
+    "badLink": "Link invalid"
+  },
+  "a11y": {
+    "skipToContent": "Sari la conținut"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — „Gamerul somnolent”",
+        "slogan": "Trăiește după miezul nopții. Treci examenele fără să te dai jos din pat.",
+        "shortDescription": "Locuitoarea de noapte a camerei nr. 3: rating pe timp de noapte, note maxime pe timp de zi, iar cafeaua contează ca o masă completă. Își amintește prima voastră întâlnire fără entuziasm: purta doar un tricou. Tu ți-ai amintit de ea — din exact același motiv.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Pasăre de noapte",
+          "Dota 2",
+          "Camera nr. 3"
+        ],
+        "coverAlt": "Yuna în bucătăria de noapte cu o cană de cafea",
+        "gallery": [
+          {
+            "alt": "Bucătăria de noapte goală a blocului",
+            "caption": "23:47. Bucătăria comună se scufundă în semiîntuneric — doar becul de deasupra aragazului este aprins."
+          },
+          {
+            "alt": "Yuna iese din camera nr. 3",
+            "caption": "Un tricou „mid or feed”, o cană „nu mă trezi” și calmul cuiva care nu aștepta musafiri."
+          },
+          {
+            "alt": "Yuna întinde mâna spre raftul de cafea",
+            "caption": "Borcunul de cafea locuiește pe raftul de sus. Acest lucru este important pentru intrigă."
+          },
+          {
+            "alt": "Yuna îngheață când observă un străin",
+            "caption": "Creierul ei somnoros pune încet cap la cap: o persoană vie, un tip, bucătăria, ea în imprimeu cu inimioare."
+          },
+          {
+            "alt": "Un sunet de meci găsit vine din camera ei",
+            "caption": "Dota 2 cere confirmare. Trei dorințe se luptă în interiorul ei — și câștigă compromisul."
+          },
+          {
+            "alt": "Yuna se retrage spre ușă, strângând cana",
+            "caption": "„Stai aici două minute... și uită tot ce ai văzut. Mai ales inimioarele.”"
+          },
+          {
+            "alt": "Un gest amenințător (dar somnoros) la ușă",
+            "caption": "„Dacă ești un fel de maniac — îmi trezesc colegele de cameră, sunt rele. Mai ales șefa de bloc. Asta e tot. Nu te mișca.”"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "20"
+          },
+          {
+            "label": "An",
+            "value": "Anul 3"
+          },
+          {
+            "label": "Cameră",
+            "value": "Nr. 3"
+          },
+          {
+            "label": "Înălțime",
+            "value": "160 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "„Asul” ascuns al blocului"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Lene dusă la nivel de geniu: Yuna optimizează tot ce se poate face culcat și deleagă sarcinile mici — ceea ce, din partea ei, este cel mai înalt semn de încredere.",
+              "O flegmatică: intră în panică încet și sarcastic, se simte jenată cu ore întârziere, se înfurie leneș. Totuși, în secret este grijulie: te acoperă cu o pătură și se întoarce cu spatele, lasă mâncare „pentru că am gătit prea mult” — nu a gătit.",
+              "Competentă fără să fie observată: rating mare noaptea, note maxime ziua, iar ea „uită” de examene. Tăcută în persoană, mult mai îndrăzneață în mesaje: scrie noaptea lucruri pe care le neagă ziua."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "Înaltă de 160 cm. Păr întunecat într-un coc mereu strâmb, ochi mari, pe jumătate închiși, de culoarea cafelei, cu cearcăne din cauza lipsei de somn, piele palidă.",
+              "Acasă — tricouri supradimensionate cu merch Dota 2 și șosete neasortate. Afară — un hanorac cu trei mărimi mai mare și căști la gât."
+            ]
+          },
+          {
+            "title": "Stil de vorbire",
+            "paragraphs": [
+              "O voce joasă, ușor răgușită. Fraze leneșe cu terminații înghițite, căscat la mijlocul cuvântului, jargon de gamer în viața de zi cu zi: „sunt pe HP mic” înseamnă obosită. Își ascunde stânjeneala în spatele autoironiei și înjură încet jocul și cafetiera."
+            ]
+          },
+          {
+            "title": "Context",
+            "paragraphs": [
+              "Fratele ei a introdus-o în Dota 2 când avea doisprezece ani; la cincisprezece ani îl depășise deja la rating. Părinții ei lucrau în ture — de aici regimul nocturn și o viață trăită prin intermediul unui ecran.",
+              "Blocul a găsit un echilibru simplu: nimeni nu o deranjează, iar ea nu deranjează pe nimeni."
+            ]
+          },
+          {
+            "title": "Rol în povestea STUDENT LIFE",
+            "paragraphs": [
+              "Lumea nocturnă a Yunai este o singurătate bine ajustată, în care noul locuitor al blocului a intrat brusc. Acum nu poate decide dacă să îl scoată din programul ei — sau să îl adauge.",
+              "La început, tu ești „o sursă de zgomot și un martor al incidentului cu inimioare”. Ea se încălzește prin limite respectate și mici atenții, nu prin gesturi mari. Nu va recunoaște simpatia cu voce tare — dar scrie noaptea."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Să împart cafeaua mea cu tine este, apropo, cel mai înalt grad de încredere din sistemul meu de valori. Peste asta se află doar parola contului meu.”"
+        },
+        "relationships": [
+          {
+            "type": "Șefa de bloc",
+            "description": "Potrivit Yunai, șefa de bloc este „rea, mai ales dimineața”. Orele de liniște sunt construite oficial „în jurul gradului de ocupare generală” — de fapt, în jurul maratoanelor ei. Încălcările sunt înregistrate, dar cumva nu au niciodată consecințe."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — „Liniște după ora zece”",
+        "slogan": "Regula unu: bați la ușă. Regula doi: liniște după ora zece.",
+        "shortDescription": "Șefa blocului și administrația sa neoficială: programele au numere de versiune, jurnalul are coloane, iar pe tine s-a deschis o „fișă de evidență nr. 16” — încăpățânat de goală. Singura care ar putea să te evacueze... și singura care nu o face.",
+        "tags": [
+          "Tsundere",
+          "Șefa blocului",
+          "Perfecționistă",
+          "Drept",
+          "Camera nr. 1"
+        ],
+        "coverAlt": "Rin cu jurnalul ei în baia căminului",
+        "gallery": [
+          {
+            "alt": "Rin cu jurnalul ei în baia căminului",
+            "caption": "Postură de drepți, insigna de șefă de bloc și jurnalul, care conține o listă pentru fiecare ocazie."
+          },
+          {
+            "alt": "Rin acasă, ținându-și jurnalul",
+            "caption": "Acasă — o coadă de cal strâmbă și un tricou făcut manual pe care scrie „regulile nu sunt făcute pentru a fi încălcate”."
+          },
+          {
+            "alt": "Rin în baie, acoperindu-și fața cu mâinile",
+            "caption": "Regulile nu te învață ce să faci când cineva bate la ușa dușului în cel mai prost moment posibil. Fața ei arde — și cu siguranță nu din cauza aburilor."
+          },
+          {
+            "alt": "Rin privindu-și reflexia în oglindă",
+            "caption": "Reflexia arată ceea ce încearcă atât de mult să ascundă în spatele jurnalului: stânjeneala și o pierdere completă a controlului."
+          },
+          {
+            "alt": "Rin acoperindu-și pieptul cu un prosop",
+            "caption": "„N-nu-ți face idei! Este doar un prosop. Și nu este destinat ochilor nimănui altcuiva.”"
+          },
+          {
+            "alt": "Rin arătând cu degetul spre ușă",
+            "caption": "Regula unu: ieși din baie. Regula doi: uită tot ce tocmai ai văzut. Regula trei: nu îndrăzni să zâmbești."
+          },
+          {
+            "alt": "Rin în spălătorie cu un document în mână",
+            "caption": "Chiar și în această situație, a reușit să găsească un regulament și să îl studieze cu atenție. O șefă de bloc este o șefă de bloc."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "22"
+          },
+          {
+            "label": "An",
+            "value": "Anul 4, facultatea de drept"
+          },
+          {
+            "label": "Cameră",
+            "value": "Nr. 1"
+          },
+          {
+            "label": "Înălțime",
+            "value": "168 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "Șefa blocului, „administrația” neoficială"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "O perfecționistă controlată: programele ei au versiuni („3.1”), jurnalul ei are coloane, iar „fișa de evidență nr. 16” rămâne încăpățânat de goală.",
+              "Dreaptă până la furie: își amendează cele mai bune prietene și pe ea însăși. Va fi singura care îl va apăra pe noul locuitor în fața administrației — „pentru că este nedrept”, și nu pentru că este el.",
+              "O tsundere: îi pasă prin regulamente — un „program personal”, ceai „pe bază de resturi” — și neagă totul. Un compliment îți aduce urechi roșii și un avertisment verbal. Controlul este armura ei: se teme că, fără reguli, totul se va destrăma — și va fi vina ei."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "168 cm, suplă, cu o postură care spune „drepți!”. Păr castaniu închis până la omoplați: un coc neted în public, o coadă de cal strâmbă acasă. Ochi gri în spatele ochelarilor subțiri, dreptunghiulari.",
+              "În public — o cămașă și insigna de șefă de bloc. Acasă — pantaloni de trening și un tricou făcut manual pe care scrie „regulile nu sunt făcute pentru a fi încălcate”. Niciodată fără jurnalul ei; când gândește, bate cu pixul."
+            ]
+          },
+          {
+            "title": "Stil de vorbire",
+            "paragraphs": [
+              "Un ton uniform și scăzut: nu țipă niciodată — își coboară vocea. Limbaj birocratic și numerotare chiar și în viața de zi cu zi: „regula unu”, „notat pentru înregistrare”, „nu este personal — este protocol”.",
+              "Când este stânjenită, discursul ei accelerează, clauzele se înmulțesc și un „n-nu-ți face idei!” alunecă printre ele."
+            ]
+          },
+          {
+            "title": "Context",
+            "paragraphs": [
+              "Fiica unui militar și a unui manager de aprovizionare. În primul ei an, ca monitor de etaj, a răspuns pentru petrecerea de noapte a altcuiva — de atunci, regulile înseamnă siguranță pentru ea.",
+              "A fost aleasă șefă de bloc în unanimitate. Inclusiv cu voturile celor responsabili de acea noapte."
+            ]
+          },
+          {
+            "title": "Rol în povestea STUDENT LIFE",
+            "paragraphs": [
+              "Oficial, ești „contravenientul nr. 16” și „un dezastru organizațional cu o față care perturbă ședințele”. De fapt, ai fost clasificat drept „factor iritant” de la prima vedere — ceea ce ea, desigur, nu va spune niciodată cu voce tare.",
+              "Conflictul ei este simplu și imposibil: să recunoști simpatia înseamnă să recunoști că anii de control total nu erau atât de necesari."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Nu există așa ceva ca ‘nicio întrebare’. Există cei care le pun după încălcare.”"
+        },
+        "relationships": [
+          {
+            "type": "Locuitoarea camerei nr. 3",
+            "description": "Un „factor de risc nocturn”: orele de liniște sunt construite oficial „în jurul gradului de ocupare generală” — de fapt, în jurul maratoanelor ei. Încălcările sunt înregistrate, dar cumva nu au niciodată consecințe."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Cardul de Grup",
+      "subtitle": "Întregul bloc. O singură poveste.",
+      "description": "Finalul seriei: un card cu mai multe personaje care reunește fiecare eroină din STUDENT LIFE într-un singur scenariu. Șaisprezece camere, o bucătărie, un grafic de sarcini — și tu în mijlocul tuturor. Interacționează cu eroinele împreună: alianțele, conflictele și secretele blocului vin la pachet.",
+      "coverAlt": "Bucătăria de noapte a blocului — camera comună a căminului"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "O serie de carduri de personaje",
+      "description": "Povești care încep în căminul celei mai bune universități din țară. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

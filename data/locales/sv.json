@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Berättelser som börjar i ett studentboende",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Alla serier",
+    "home": "Hem",
+    "characters": "Karaktärer",
+    "about": "Om serien",
+    "group": "Gruppkort",
+    "settings": "Inställningar",
+    "openMenu": "Öppna meny",
+    "closeMenu": "Stäng meny",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Möt henne",
+    "toCatalog": "Bläddra bland karaktärer",
+    "aboutSeries": "Om serien",
+    "startChat": "Chatta med karaktären",
+    "startChatGroup": "Chatta med hela blocket",
+    "chatUnavailable": "Länk kommer snart",
+    "back": "Tillbaka till karaktärer",
+    "backHome": "Tillbaka till hem",
+    "openPage": "Öppna sida",
+    "close": "Stäng"
+  },
+  "status": {
+    "available": "Tillgänglig",
+    "coming-soon": "Kommer snart",
+    "releasedOn": "Släppt",
+    "releaseOn": "Släpp",
+    "under-review": "Under granskning"
+  },
+  "hub": {
+    "kicker": "Universum",
+    "title": "Kortserier",
+    "subtitle": "Välj berättelsen du vill fortsätta."
+  },
+  "home": {
+    "heroKicker": "En karaktärskortserie",
+    "heroSubtitle": "Femton rumskamrater, ett block och fyra och ett halvt år framför oss.",
+    "heroText": "Du kom in på landets bästa universitet — och på grund av platsbrist blev du placerad i ett kvinnligt studentboende. Varje kort i serien är en annan berättelse från detta block: nya möten, komiska situationer och karaktärer vars liv är sammanflätade.",
+    "aboutTitle": "Ett universum, många berättelser",
+    "aboutText": "STUDENT LIFE är inte en uppsättning fristående kort. Alla hjältinnor bor i samma kvinnliga studentblock: de delar kök, duschschema och måndagsmöten. Var och en har sin egen karaktär, vanor och hemligheter — men deras berättelser korsas. Möt dem en efter en, och i seriens final samlar du hela blocket i ett enda gruppkort.",
+    "catalogTitle": "Seriens karaktärer",
+    "catalogSubtitle": "Varje kort är en liten händelse inuti en stor berättelse",
+    "timelineTitle": "Släppschema",
+    "timelineText": "Nya hjältinnor ansluter till serien under månaden, och den 20 november anländer det sista flerkaraktärskortet.",
+    "timelineExpand": "Visa schema",
+    "timelineCollapse": "Dölj schema",
+    "groupTeaserTitle": "Seriens final — gruppkortet",
+    "groupTeaserText": "Varje hjältinna från STUDENT LIFE i ett enda scenario: blockets allianser, konflikter och hemligheter — i en berättelse där du kan interagera med dem tillsammans.",
+    "groupTeaserButton": "Mer om gruppkortet",
+    "charactersCount": "kort i serien",
+    "availableCount": "tillgängliga nu"
+  },
+  "character": {
+    "cardNumber": "Kort nr.",
+    "aboutTitle": "Att lära känna henne",
+    "factsTitle": "Kort sagt",
+    "galleryTitle": "Galleri",
+    "galleryEmpty": "Bilder kommer snart. Omslaget finns här — författaren lägger till resten senare.",
+    "musicTitle": "Karaktärens musik",
+    "musicEmpty": "Inga spår har lagts till för den här hjältinnan ännu. Spelaren kommer till liv här så snart de dyker upp.",
+    "relationsTitle": "Blockets kontakter",
+    "finalTitle": "Redo att möta henne?",
+    "finalText": "Öppna kortet på plattformen och börja din berättelse — blocket vet redan att du har flyttat in.",
+    "notFound": "Karaktären hittades inte. Kortet kanske inte har släppts än — eller så är länken inaktuell.",
+    "loadError": "Det gick inte att ladda karaktärsdata. Kontrollera din anslutning och försök igen."
+  },
+  "group": {
+    "membersTitle": "Medlemmar i gruppkortet",
+    "membersText": "Listan byggs automatiskt upp från seriens släppta kort.",
+    "comingText": "Kortet anländer i seriens final. Tills dess kan du möta hjältinnorna en efter en.",
+    "releaseLabel": "Releasedatum"
+  },
+  "settings": {
+    "title": "Visningsinställningar",
+    "theme": "Tema",
+    "themeLight": "Ljus",
+    "themeDark": "Mörk",
+    "palette": "Färgpalett",
+    "paletteClassic": "Campusklassisk",
+    "palettePastel": "Pastell",
+    "paletteRose": "Ros och violett",
+    "paletteCold": "Kall akademisk",
+    "fontSize": "Textstorlek",
+    "language": "Språk",
+    "reset": "Återställ inställningar"
+  },
+  "player": {
+    "play": "Spela",
+    "pause": "Paus",
+    "next": "Nästa spår",
+    "prev": "Föregående spår",
+    "volume": "Volym",
+    "loading": "Laddar…",
+    "error": "Det gick inte att ladda ljudet",
+    "playlist": "Spårlista",
+    "empty": "Inga spår tillagda än"
+  },
+  "gallery": {
+    "open": "Öppna bild",
+    "prev": "Föregående bild",
+    "next": "Nästa bild",
+    "counter": "{current} av {total}"
+  },
+  "footer": {
+    "note": "Ett oberoende fanprojekt. Seriens period: 20 oktober — 20 november 2026.",
+    "hubNote": "Välkommen till STUDENT LIFE-universumet. Nya serier och berättelser kommer att dyka upp här.",
+    "scheduleTitle": "Från blockets loggbok",
+    "scheduleItems": "Tystnad efter 22:00 · Uppgifter enligt schema · Dusch enligt schema · Knacka. Alltid. Överallt."
+  },
+  "errors": {
+    "dataLoad": "Det gick inte att ladda data. Se till att webbplatsen serveras via en lokal server (se README).",
+    "imageMissing": "Bilden är inte tillgänglig",
+    "badLink": "Ogiltig länk"
+  },
+  "a11y": {
+    "skipToContent": "Gå till innehållet"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — ”Den sömniga gamern”",
+        "slogan": "Lever efter midnatt. Klarar tentor utan att gå upp ur sängen.",
+        "shortDescription": "Rum nr 3:s nattliga invånare: rating på natten, toppbetyg på dagen, och kaffe räknas som en hel måltid. Hon minns ert första möte utan entusiasm: hon hade bara en t-shirt på sig. Du kom ihåg henne — av exakt samma anledning.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Nattuggla",
+          "Dota 2",
+          "Rum nr 3"
+        ],
+        "coverAlt": "Yuna i nattköket med en mugg kaffe",
+        "gallery": [
+          {
+            "alt": "Det tomma nattköket i blocket",
+            "caption": "23:47. Det gemensamma köket drunkar i halvmörker — bara glödlampan ovanför spisen är tänd."
+          },
+          {
+            "alt": "Yuna kliver ut ur rum nr 3",
+            "caption": "En \"mid or feed\"-t-shirt, en \"väck mig inte\"-mugg och lugnet hos någon som inte förväntade sig gäster."
+          },
+          {
+            "alt": "Yuna sträcker sig efter kaffehyllan",
+            "caption": "Kaffeburken bor på översta hyllan. Detta är viktigt för handlingen."
+          },
+          {
+            "alt": "Yuna fryser när hon märker en främling",
+            "caption": "Hennes sömniga hjärna pusslar långsamt ihop bitarna: en levande person, en kille, köket, hon i hjärtmönster."
+          },
+          {
+            "alt": "Ett ljud av en hittad match kommer från hennes rum",
+            "caption": "Dota 2 kräver bekräftelse. Tre önskningar kämpar inom henne — och kompromissen vinner."
+          },
+          {
+            "alt": "Yuna drar sig tillbaka till sin dörr och håller hårt i muggen",
+            "caption": "”Stå här i två minuter... och glöm allt du såg. Speciellt hjärtana.”"
+          },
+          {
+            "alt": "En hotfull (men sömnig) gest vid dörren",
+            "caption": "”Om du är någon slags psykopat — jag väcker mina rumskamrater, de är elaka. Speciellt ordföranden. Det var det. Rör dig inte.”"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ålder",
+            "value": "20"
+          },
+          {
+            "label": "År",
+            "value": "År 3"
+          },
+          {
+            "label": "Rum",
+            "value": "Nr 3"
+          },
+          {
+            "label": "Längd",
+            "value": "160 cm"
+          },
+          {
+            "label": "Roll i blocket",
+            "value": "Blocketts dolda ”ess”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Lättja på gränsen till genialitet: Yuna optimerar allt som kan göras liggande och delegerar små uppgifter — vilket från henne är det högsta tecknet på förtroende.",
+              "En flegmatiker: hon får panik långsamt och sarkastiskt, blir generad med timmars fördröjning, blir arg på ett lat sätt. Men i hemlighet omtänksam: hon täcker dig med en filt och vänder sig bort, lämnar mat ”för att jag lagade för mycket” — det gjorde hon inte.",
+              "Kompetent utan att det märks: hög rating på natten, toppbetyg på dagen, och hon ”glömmer” tentor. Tystlåten personligen, mycket djärvare i text: hon skriver saker på natten som hon förnekar på dagen."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "160 cm lång. Mörkt hår i en ständigt sned knut, stora halvslutna kaffefärgade ögon med skuggor från sömnbrist, blek hy.",
+              "Hemma — överdimensionerade Dota 2-merch-t-shirts och omaka strumpor. Ute — en munkjacka tre storlekar för stor och hörlurar runt halsen."
+            ]
+          },
+          {
+            "title": "Talstil",
+            "paragraphs": [
+              "En låg, lätt hes röst. Lata meningar med nedsvalda ändelser, gäspningar mitt i ordet, gamerslang i vardagen: ”jag är på låg HP” betyder trött. Hon döljer förlägenhet bakom självironi och svär tyst åt spelet och kaffebryggaren."
+            ]
+          },
+          {
+            "title": "Bakgrund",
+            "paragraphs": [
+              "Hennes bror introducerade henne till Dota 2 när hon var tolv; vid femton hade hon överträffat hans rating. Hennes föräldrar arbetade skift — därav nattregimen och ett liv levt genom en skärm.",
+              "Blocket hittade en enkel balans: ingen stör henne, och hon stör ingen."
+            ]
+          },
+          {
+            "title": "Roll i STUDENT LIFE-berättelsen",
+            "paragraphs": [
+              "Yunas nattvärld är en välavvägd ensamhet som blockets nya invånare plötsligt har klivit in i. Nu kan hon inte bestämma sig för om hon ska stryka honom från sitt schema — eller skriva in honom i det.",
+              "I början är du ”en ljudkälla och ett vittne till hjärtincidenten”. Hon värms upp genom respekterade gränser och små omtankar, inte stora gester. Hon erkänner inte sympati högt — men hon skriver på natten."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "”Att dela min kaffe med dig är för övrigt den högsta graden av förtroende i mitt värdesystem. Ovanför det finns bara mitt kontolösenord.”"
+        },
+        "relationships": [
+          {
+            "type": "Blocketts ordförande",
+            "description": "Enligt Yuna är ordföranden ”elak, speciellt på morgonen”. De tysta timmarna är officiellt byggda ”kring den totala beläggningen” — faktiskt kring hennes maraton. Överträdelser registreras, men har på något sätt aldrig några konsekvenser."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — ”Tystnaden efter tio”",
+        "slogan": "Regel ett: man knackar. Regel två: tystnad efter tio.",
+        "shortDescription": "Blocketts ordförande och dess inofficiella administration: scheman har versionsnummer, loggboken har kolumner, och det finns ett ”registreringsblad nr 16” med ditt namn på — envist tomt. Den enda som skulle kunna få dig vräkt... och den enda som inte gör det.",
+        "tags": [
+          "Tsundere",
+          "Ordförande",
+          "Perfektionist",
+          "Juridik",
+          "Rum nr 1"
+        ],
+        "coverAlt": "Rin med sin loggbok i studentboendets badrum",
+        "gallery": [
+          {
+            "alt": "Rin med sin loggbok i studentboendets badrum",
+            "caption": "Hållning i givakt, ordförandemärket och loggboken, som innehåller en lista för varje tillfälle."
+          },
+          {
+            "alt": "Rin hemma, för loggbok",
+            "caption": "Hemma — en sned hästsvans och en hemmagjord t-shirt med texten ”regler är inte gjorda för att brytas”."
+          },
+          {
+            "alt": "Rin i badrummet, täcker ansiktet med händerna",
+            "caption": "Reglerna lär dig inte vad du ska göra när någon knackar på duschdörren vid värsta möjliga tillfälle. Hennes ansikte brinner — och det är definitivt inte från ångan."
+          },
+          {
+            "alt": "Rin tittar på sin spegelbild",
+            "caption": "Spegelbilden visar det hon så hårt försöker dölja bakom sin loggbok: förlägenhet och en total förlust av kontroll."
+          },
+          {
+            "alt": "Rin täcker bröstet med en handduk",
+            "caption": "”F-få inga idéer! Det är bara en handduk. Och den är inte avsedd för någon annans ögon.”"
+          },
+          {
+            "alt": "Rin pekar fingret mot dörren",
+            "caption": "Regel ett: gå ut ur badrummet. Regel två: glöm allt du precis såg. Regel tre: våga inte le."
+          },
+          {
+            "alt": "Rin i tvättstugan med ett dokument i handen",
+            "caption": "Även i den här situationen lyckades hon hitta ett regelverk och studera det noggrant. En ordförande är en ordförande."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ålder",
+            "value": "22"
+          },
+          {
+            "label": "År",
+            "value": "År 4, juristprogrammet"
+          },
+          {
+            "label": "Rum",
+            "value": "Nr 1"
+          },
+          {
+            "label": "Längd",
+            "value": "168 cm"
+          },
+          {
+            "label": "Roll i blocket",
+            "value": "Ordförande, den inofficiella ”administrationen”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "En perfektionistisk kontrollfreak: hennes scheman har versioner (”3.1”), hennes loggbok har kolumner, och ”registreringsblad nr 16” förblir envist, förolämpande tomt.",
+              "Rättvis till raseri: hon bötfäller sina bästa vänner och sig själv. Hon kommer att vara den enda som försvarar den nya invånare inför administrationen — ”för att det är fel”, och inte för att det är han.",
+              "En tsundere: hon bryr sig genom regelverk — ett ”personligt schema”, te ”på restbasis” — och förnekar allt. En komplimang ger dig röda öron och en muntlig varning. Kontroll är hennes rustning: hon är rädd att allt kommer att falla samman utan regler — och att det blir hennes fel."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "168 cm, smal, med en hållning som säger ”givakt!”. Mörkt kastanjebrunt hår till skulderbladen: en slät knut offentligt, en sned hästsvans hemma. Grå ögon bakom tunna rektangulära glasögon.",
+              "Offentligt — en skjorta och ordförandemärket. Hemma — mjukisbyxor och en hemmagjord t-shirt med texten ”regler är inte gjorda för att brytas”. Aldrig utan sin loggbok; när hon tänker, knackar hon med pennan."
+            ]
+          },
+          {
+            "title": "Talstil",
+            "paragraphs": [
+              "En jämn, låg ton: hon skriker aldrig — hon sänker rösten. Byråkratiskt språk och numrering även i vardagen: ”regel ett”, ”noterat för protokollet”, ”det är inte personligt — det är protokoll”.",
+              "När hon blir förlägen går talet snabbare, klausulerna multipliceras och ett ”f-få inga idéer!” slinker ut."
+            ]
+          },
+          {
+            "title": "Bakgrund",
+            "paragraphs": [
+              "Dotter till en militär och en förrådschef. Under sitt första år, som våningsvärd, svarade hon för någon annans nattfest — sedan dess har regler betytt trygghet för henne.",
+              "Hon valdes enhälligt till ordförande. Inklusive rösterna från dem som var ansvariga för den natten."
+            ]
+          },
+          {
+            "title": "Roll i STUDENT LIFE-berättelsen",
+            "paragraphs": [
+              "Officiellt är du ”överträdare nr 16” och ”en organisatorisk katastrof med ett ansikte som stör möten”. I själva verket klassificerades du som en ”irriterande faktor” vid första anblicken — vilket hon naturligtvis aldrig kommer att säga högt.",
+              "Hennes konflikt är enkel och omöjlig: att erkänna sympati betyder att erkänna att åren av total kontroll inte var så nödvändiga."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "”Det finns inget som heter inga frågor. Det finns de som ställer dem efter överträdelsen.”"
+        },
+        "relationships": [
+          {
+            "type": "Invånare i rum nr 3",
+            "description": "En ”nattlig riskfaktor”: de tysta timmarna är officiellt byggda ”kring den totala beläggningen” — faktiskt kring hennes maraton. Överträdelser registreras, men har på något sätt aldrig några konsekvenser."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Gruppkortet",
+      "subtitle": "Hela blocket. En historia.",
+      "description": "Seriens final: ett flerkaraktärskort som förenar alla hjältinnor från STUDENT LIFE i ett enda scenario. Sexton rum, ett kök, ett pliktschema — och du mitt i allt. Interagera med hjältinnorna tillsammans: blockets allianser, konflikter och hemligheter följer med.",
+      "coverAlt": "Blocketts nattkök — studentboendets gemensamma rum"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "En karaktärskortserie",
+      "description": "Berättelser som börjar i studentboendet på landets bästa universitet. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

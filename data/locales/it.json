@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Storie che iniziano in un dormitorio",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Tutte le serie",
+    "home": "Home",
+    "characters": "Personaggi",
+    "about": "Informazioni sulla serie",
+    "group": "Carta di gruppo",
+    "settings": "Impostazioni",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Incontrala",
+    "toCatalog": "Sfoglia i personaggi",
+    "aboutSeries": "Informazioni sulla serie",
+    "startChat": "Chatta con il personaggio",
+    "startChatGroup": "Chatta con l'intero blocco",
+    "chatUnavailable": "Link in arrivo",
+    "back": "Torna ai personaggi",
+    "backHome": "Torna alla home",
+    "openPage": "Apri pagina",
+    "close": "Chiudi"
+  },
+  "status": {
+    "available": "Disponibile",
+    "coming-soon": "In arrivo",
+    "releasedOn": "Rilasciato",
+    "releaseOn": "Rilascio",
+    "under-review": "In revisione"
+  },
+  "hub": {
+    "kicker": "Universo",
+    "title": "Serie di carte",
+    "subtitle": "Scegli la storia che vuoi continuare."
+  },
+  "home": {
+    "heroKicker": "Una serie di carte dei personaggi",
+    "heroSubtitle": "Quindici coinquiline, un blocco e quattro anni e mezzo davanti.",
+    "heroText": "Sei entrato nella migliore università del paese — e per mancanza di stanze, sei stato sistemato in un dormitorio femminile. Ogni carta della serie è un'altra storia di questo blocco: nuovi incontri, situazioni comiche e personaggi le cui vite sono intrecciate.",
+    "aboutTitle": "Un universo, molte storie",
+    "aboutText": "STUDENT LIFE non è un set di carte autonome. Tutte le eroine vivono nello stesso blocco del dormitorio femminile: condividono una cucina, un orario per la doccia e le riunioni del lunedì. Ognuna ha il proprio carattere, abitudini e segreti — ma le loro storie si intersecano. Conoscile una per una e, nel finale della serie, riunisci l'intero blocco in un'unica carta di gruppo.",
+    "catalogTitle": "Personaggi della serie",
+    "catalogSubtitle": "Ogni carta è un piccolo evento all'interno di una grande storia",
+    "timelineTitle": "Calendario di uscita",
+    "timelineText": "Nuove eroine si uniscono alla serie nel corso del mese e il 20 novembre arriva la carta finale multi-personaggio.",
+    "timelineExpand": "Mostra calendario",
+    "timelineCollapse": "Nascondi calendario",
+    "groupTeaserTitle": "Il finale della serie — la carta di gruppo",
+    "groupTeaserText": "Ogni eroina di STUDENT LIFE in un unico scenario: le alleanze, i conflitti e i segreti del blocco — in una storia in cui puoi interagire con loro insieme.",
+    "groupTeaserButton": "Scopri di più sulla carta di gruppo",
+    "charactersCount": "carte nella serie",
+    "availableCount": "disponibili ora"
+  },
+  "character": {
+    "cardNumber": "Carta n.",
+    "aboutTitle": "Conoscerla",
+    "factsTitle": "In breve",
+    "galleryTitle": "Galleria",
+    "galleryEmpty": "Le immagini arriveranno presto. La copertina è qui — l'autore aggiungerà il resto in seguito.",
+    "musicTitle": "Musica del personaggio",
+    "musicEmpty": "Nessuna traccia è stata ancora aggiunta per questa eroina. Il lettore prenderà vita qui non appena appariranno.",
+    "relationsTitle": "Connessioni nel blocco",
+    "finalTitle": "Pronto a conoscerla?",
+    "finalText": "Apri la carta sulla piattaforma e inizia la tua storia — il blocco sa già che ti sei trasferito.",
+    "notFound": "Personaggio non trovato. La carta potrebbe non essere ancora uscita — o il link è obsoleto.",
+    "loadError": "Impossibile caricare i dati del personaggio. Controlla la connessione e riprova."
+  },
+  "group": {
+    "membersTitle": "Membri della carta di gruppo",
+    "membersText": "L'elenco è generato automaticamente dalle carte pubblicate della serie.",
+    "comingText": "La carta arriva nel finale della serie. Fino ad allora, incontra le eroine una per una.",
+    "releaseLabel": "Data di uscita"
+  },
+  "settings": {
+    "title": "Impostazioni di visualizzazione",
+    "theme": "Tema",
+    "themeLight": "Chiaro",
+    "themeDark": "Scuro",
+    "palette": "Tavolozza dei colori",
+    "paletteClassic": "Classico del campus",
+    "palettePastel": "Pastello",
+    "paletteRose": "Rosa e viola",
+    "paletteCold": "Accademico freddo",
+    "fontSize": "Dimensione del testo",
+    "language": "Lingua",
+    "reset": "Ripristina impostazioni"
+  },
+  "player": {
+    "play": "Riproduci",
+    "pause": "Pausa",
+    "next": "Traccia successiva",
+    "prev": "Traccia precedente",
+    "volume": "Volume",
+    "loading": "Caricamento…",
+    "error": "Impossibile caricare l'audio",
+    "playlist": "Elenco tracce",
+    "empty": "Nessuna traccia aggiunta"
+  },
+  "gallery": {
+    "open": "Apri immagine",
+    "prev": "Immagine precedente",
+    "next": "Immagine successiva",
+    "counter": "{current} di {total}"
+  },
+  "footer": {
+    "note": "Un progetto fan indipendente. Periodo della serie: 20 ottobre — 20 novembre 2026.",
+    "hubNote": "Benvenuto nell'universo di STUDENT LIFE. Nuove serie e storie appariranno qui.",
+    "scheduleTitle": "Dal diario di bordo del blocco",
+    "scheduleItems": "Silenzio dopo le 22:00 · Turni di pulizia · Docce secondo l'orario · Bussare. Sempre. Ovunque."
+  },
+  "errors": {
+    "dataLoad": "Impossibile caricare i dati. Assicurati che il sito sia servito tramite un server locale (vedi README).",
+    "imageMissing": "Immagine non disponibile",
+    "badLink": "Link non valido"
+  },
+  "a11y": {
+    "skipToContent": "Vai al contenuto"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — «La gamer assonnata»",
+        "slogan": "Vive dopo mezzanotte. Supera gli esami senza alzarsi dal letto.",
+        "shortDescription": "L'abitante notturna della stanza n. 3: rating di notte, voti alti di giorno, e il caffè conta come un pasto completo. Ricorda il vostro primo incontro senza entusiasmo: indossava solo una maglietta. Tu l'hai ricordata — per lo stesso identico motivo.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Nottambula",
+          "Dota 2",
+          "Stanza n. 3"
+        ],
+        "coverAlt": "Yuna nella cucina notturna con una tazza di caffè",
+        "gallery": [
+          {
+            "alt": "La cucina notturna vuota del blocco",
+            "caption": "23:47. La cucina comune affoga nella penombra — solo la lampadina sopra il fornello è accesa."
+          },
+          {
+            "alt": "Yuna esce dalla stanza n. 3",
+            "caption": "Una maglietta \"mid or feed\", una tazza \"non svegliarmi\" e la calma di qualcuno che non si aspettava ospiti."
+          },
+          {
+            "alt": "Yuna allunga la mano verso lo scaffale del caffè",
+            "caption": "Il barattolo del caffè vive sullo scaffale più alto. Questo è importante per la trama."
+          },
+          {
+            "alt": "Yuna si blocca notando uno sconosciuto",
+            "caption": "Il suo cervello assonnato mette lentamente insieme i pezzi: una persona viva, un ragazzo, la cucina, lei con la fantasia di cuori."
+          },
+          {
+            "alt": "Un suono di partita trovata proviene dalla sua stanza",
+            "caption": "Dota 2 richiede una conferma. Tre desideri combattono dentro di lei — e vince il compromesso."
+          },
+          {
+            "alt": "Yuna si ritira verso la sua porta, stringendo la tazza",
+            "caption": "«Resta qui per due minuti... e dimentica tutto quello che hai visto. Soprattutto i cuori»."
+          },
+          {
+            "alt": "Un gesto minaccioso (ma assonnato) alla porta",
+            "caption": "«Se sei una specie di maniaco — sveglierò le mie coinquiline, sono cattive. Soprattutto la capoblocco. Questo è tutto. Non muoverti»."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Età",
+            "value": "20"
+          },
+          {
+            "label": "Anno",
+            "value": "3° anno"
+          },
+          {
+            "label": "Stanza",
+            "value": "N. 3"
+          },
+          {
+            "label": "Altezza",
+            "value": "160 cm"
+          },
+          {
+            "label": "Ruolo nel blocco",
+            "value": "L'\"asso\" nascosto del blocco"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalità",
+            "paragraphs": [
+              "Pigrizia ai livelli del genio: Yuna ottimizza tutto ciò che può essere fatto sdraiata e delega i piccoli compiti — il che, da parte sua, è il massimo segno di fiducia.",
+              "Una flemmatica: va nel panico lentamente e in modo sarcastico, si imbarazza con ore di ritardo, si arrabbia pigramente. Eppure segretamente premurosa: ti coprirà con una coperta e si girerà dall'altra parte, lascerà del cibo \"perché ho cucinato troppo\" — non ha cucinato.",
+              "Competente inosservata: rating alto di notte, ottimi voti di giorno, e \"dimentica\" gli esami. Silenziosa di persona, molto più audace nei messaggi: scrive di notte cose che di giorno nega."
+            ]
+          },
+          {
+            "title": "Aspetto",
+            "paragraphs": [
+              "Alta 160 cm. Capelli scuri in uno chignon perennemente storto, grandi occhi color caffè socchiusi con ombre da mancanza di sonno, pelle pallida.",
+              "A casa — magliette di merchandising di Dota 2 oversize e calzini spaiati. Fuori — una felpa con cappuccio di tre taglie più grande e le cuffie intorno al collo."
+            ]
+          },
+          {
+            "title": "Stile di comunicazione",
+            "paragraphs": [
+              "Una voce bassa, leggermente roca. Frasi pigre con finali inghiottiti, sbadigli a metà parola, slang da gamer nella vita di tutti i giorni: \"sono a low HP\" significa stanca. Nasconde l'imbarazzo dietro l'autoironia e impreca piano contro il gioco e la macchina del caffè."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Suo fratello l'ha introdotta a Dota 2 quando aveva dodici anni; a quindici aveva già superato il suo rating. I suoi genitori lavoravano a turni — da qui il regime notturno e una vita vissuta attraverso uno schermo.",
+              "Il blocco ha trovato un equilibrio semplice: nessuno la disturba e lei non disturba nessuno."
+            ]
+          },
+          {
+            "title": "Ruolo nella storia di STUDENT LIFE",
+            "paragraphs": [
+              "Il mondo notturno di Yuna è una solitudine ben collaudata in cui il nuovo residente del blocco è improvvisamente entrato. Ora non riesce a decidere se depennarlo dal suo programma — o scriverlo dentro.",
+              "All'inizio sei \"una fonte di rumore e un testimone dell'incidente dei cuori\". Si scioglie attraverso i confini rispettati e le piccole attenzioni, non i grandi gesti. Non ammetterà la simpatia ad alta voce — ma scrive di notte."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Condividere il mio caffè con te è, tra l'altro, il più alto grado di fiducia nel mio sistema di valori. Al di sopra c'è solo la mia password dell'account»."
+        },
+        "relationships": [
+          {
+            "type": "La capoblocco",
+            "description": "Secondo Yuna, la capoblocco è \"cattiva, specialmente al mattino\". Le ore di silenzio sono costruite ufficialmente \"intorno all'occupazione complessiva\" — in realtà, intorno alle sue maratone. Le violazioni vengono registrate, ma in qualche modo non hanno mai conseguenze."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — «Il silenzio dopo le dieci»",
+        "slogan": "Regola uno: si bussa. Regola due: silenzio dopo le dieci.",
+        "shortDescription": "La capoblocco e la sua amministrazione non ufficiale: i programmi hanno numeri di versione, il registro ha colonne, e c'è un \"foglio di registrazione n. 16\" con il tuo nome sopra — ostinatamente vuoto. L'unica che potrebbe farti sfrattare... e l'unica che non lo fa.",
+        "tags": [
+          "Tsundere",
+          "Capoblocco",
+          "Perfezionista",
+          "Giurisprudenza",
+          "Stanza n. 1"
+        ],
+        "coverAlt": "Rin con il suo registro nel bagno del dormitorio",
+        "gallery": [
+          {
+            "alt": "Rin con il suo registro nel bagno del dormitorio",
+            "caption": "Postura sull'attenti, il registro della capoblocco, che contiene un elenco per ogni occasione."
+          },
+          {
+            "alt": "Rin a casa, tiene il suo registro",
+            "caption": "A casa — una coda di cavallo sbilenca e una maglietta fatta a mano con la scritta \"le regole non sono fatte per essere infrante\"."
+          },
+          {
+            "alt": "Rin in bagno, si copre il viso con le mani",
+            "caption": "Le regole non ti insegnano cosa fare quando qualcuno bussa alla porta della doccia nel momento peggiore possibile. Il suo viso brucia — e sicuramente non è per il vapore."
+          },
+          {
+            "alt": "Rin guarda il suo riflesso nello specchio",
+            "caption": "Il riflesso mostra ciò che cerca così tanto di nascondere dietro il suo registro: l'imbarazzo e una completa perdita di controllo."
+          },
+          {
+            "alt": "Rin si copre il petto con un asciugamano",
+            "caption": "«N-non farti strane idee! È solo un asciugamano. E non è destinato agli occhi di nessun altro»."
+          },
+          {
+            "alt": "Rin punta il dito verso la porta",
+            "caption": "Regola uno: esci dal bagno. Regola due: dimentica tutto quello che hai appena visto. Regola tre: non osare sorridere."
+          },
+          {
+            "alt": "Rin in lavanderia con un documento in mano",
+            "caption": "Anche in questa situazione, è riuscita a trovare un regolamento e a studiarlo attentamente. Una capoblocco è una capoblocco."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Età",
+            "value": "22"
+          },
+          {
+            "label": "Anno",
+            "value": "4° anno, facoltà di giurisprudenza"
+          },
+          {
+            "label": "Stanza",
+            "value": "N. 1"
+          },
+          {
+            "label": "Altezza",
+            "value": "168 cm"
+          },
+          {
+            "label": "Ruolo nel blocco",
+            "value": "Capoblocco, l'\"amministrazione\" non ufficiale"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalità",
+            "paragraphs": [
+              "Una perfezionista maniacale del controllo: i suoi programmi hanno versioni (\"3.1\"), il suo registro ha colonne, e il \"foglio di registrazione n. 16\" rimane ostinatamente, insultantemente vuoto.",
+              "Giusta fino alla furia: multa le sue migliori amiche e se stessa allo stesso modo. Sarà l'unica a difendere il nuovo residente davanti all'amministrazione — \"perché è sbagliato\", non perché è lui.",
+              "Una tsundere: si preoccupa attraverso i regolamenti — un \"programma personale\", tè \"su base avanzata\" — e nega tutto. Un complimento ti fa guadagnare orecchie rosse e un avvertimento verbale. Il controllo è la sua armatura: teme che senza regole tutto crollerà — e sarà colpa sua."
+            ]
+          },
+          {
+            "title": "Aspetto",
+            "paragraphs": [
+              "168 cm, snella, con una postura che dice \"attenti!\". Capelli castano scuro fino alle scapole: uno chignon liscio in pubblico, una coda di cavallo sbilenca a casa. Occhi grigi dietro sottili occhiali rettangolari.",
+              "In pubblico — una camicia e il distintivo della capoblocco. A casa — pantaloni della tuta e una maglietta fatta a mano con la scritta \"le regole non sono fatte per essere infrante\". Mai senza il suo registro; quando pensa, tamburella con la penna."
+            ]
+          },
+          {
+            "title": "Stile di comunicazione",
+            "paragraphs": [
+              "Un tono uniforme e basso: non urla mai — abbassa la voce. Burocratese e numerazione anche nella vita quotidiana: \"regola uno\", \"annotato per il verbale\", \"non è personale — è protocollo\".",
+              "Quando si agita, il suo discorso accelera, le clausole si moltiplicano e le sfugge un \"n-non farti strane idee!\"."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Figlia di un militare e di una responsabile degli approvvigionamenti. Nel suo primo anno, come capopiano, ha risposto della festa notturna di qualcun altro — da allora, per lei le regole significano sicurezza.",
+              "È stata eletta capoblocco all'unanimità. Compresi i voti di coloro che erano responsabili di quella notte."
+            ]
+          },
+          {
+            "title": "Ruolo nella storia di STUDENT LIFE",
+            "paragraphs": [
+              "Ufficialmente, sei il \"trasgressore n. 16\" e \"un disastro organizzativo con una faccia che interrompe le riunioni\". In realtà, sei stato classificato come un \"fattore irritante\" a prima vista — cosa che lei, ovviamente, non dirà mai ad alta voce.",
+              "Il suo conflitto è semplice e impossibile: ammettere la simpatia significa ammettere che anni di controllo totale non erano poi così necessari."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Non esiste il concetto di nessuna domanda. Esistono coloro che le pongono dopo la violazione»."
+        },
+        "relationships": [
+          {
+            "type": "Abitante della stanza n. 3",
+            "description": "Un \"fattore di rischio notturno\": le ore di silenzio sono ufficialmente costruite \"intorno all'occupazione complessiva\" — in realtà, intorno alle sue maratone. Le violazioni vengono registrate, ma in qualche modo non hanno mai conseguenze."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: La Carta di Gruppo",
+      "subtitle": "L'intero blocco. Una storia.",
+      "description": "Il finale della serie: una carta multi-personaggio che unisce ogni eroina di STUDENT LIFE in un unico scenario. Sedici stanze, una cucina, un turno di pulizie — e tu nel mezzo di tutto questo. Interagisci con le eroine insieme: le alleanze, i conflitti e i segreti del blocco sono inclusi.",
+      "coverAlt": "La cucina notturna del blocco — la sala comune del dormitorio"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Una serie di carte dei personaggi",
+      "description": "Storie che iniziano nel dormitorio della migliore università del paese. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

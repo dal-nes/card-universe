@@ -1,0 +1,97 @@
+
+
+@media (max-width: 900px) {
+  .hero__grid {
+    grid-template-columns: 1fr;
+  }
+  .hero__visual {
+    min-height: 340px;
+    order: -1;
+  }
+  .about-block {
+    grid-template-columns: 1fr;
+  }
+  .group-teaser {
+    grid-template-columns: 1fr;
+  }
+  .char-hero__grid {
+    grid-template-columns: 1fr;
+  }
+  .char-hero__cover {
+    position: static;
+    max-width: 420px;
+  }
+  .site-footer__inner {
+    grid-template-columns: 1fr;
+  }
+  .footer-note-card {
+    justify-self: start;
+  }
+}
+
+@media (max-width: 760px) {
+  
+  .main-nav {
+    display: none;
+  }
+  .burger {
+    display: grid;
+  }
+  
+  .char-card__overlay {
+    position: static;
+    opacity: 1;
+    padding: 0 1.25rem 1.35rem;
+    background: none;
+  }
+  .char-card__overlay-text {
+    -webkit-line-clamp: 3;
+    color: var(--text-muted);
+  }
+  .char-card:hover {
+    transform: none;
+  }
+  .hero__sticker {
+    max-width: 140px;
+    font-size: 1.1rem;
+  }
+  .player__main {
+    flex-direction: row;
+  }
+  .lightbox__btn--prev {
+    left: 0.4rem;
+  }
+  .lightbox__btn--next {
+    right: 0.4rem;
+  }
+  .lightbox__btn {
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero__visual {
+    min-height: 300px;
+  }
+  .char-grid {
+    grid-template-columns: 1fr;
+  }
+  .hero__cta .btn,
+  .char-hero__cta .btn,
+  .char-final__actions .btn {
+    width: 100%;
+  }
+  .palette-list {
+    grid-template-columns: 1fr;
+  }
+  .char-hero__facts {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1500px) {
+  :root {
+    --container: 1280px;
+  }
+}

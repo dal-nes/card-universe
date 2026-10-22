@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Yurtlarda başlayan hikayeler",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Tüm Seriler",
+    "home": "Ana Sayfa",
+    "characters": "Karakterler",
+    "about": "Seri Hakkında",
+    "group": "Grup Kartı",
+    "settings": "Ayarlar",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Onunla tanış",
+    "toCatalog": "Karakterlere göz at",
+    "aboutSeries": "Seri hakkında",
+    "startChat": "Karakterle sohbet et",
+    "startChatGroup": "Tüm blokla sohbet et",
+    "chatUnavailable": "Bağlantı yakında",
+    "back": "Karakterlere dön",
+    "backHome": "Ana sayfaya dön",
+    "openPage": "Sayfayı aç",
+    "close": "Kapat"
+  },
+  "status": {
+    "available": "Mevcut",
+    "coming-soon": "Yakında",
+    "releasedOn": "Yayınlandı",
+    "releaseOn": "Çıkış",
+    "under-review": "İnceleniyor"
+  },
+  "hub": {
+    "kicker": "Evren",
+    "title": "Kart Serileri",
+    "subtitle": "Devam etmek istediğiniz hikayeyi seçin."
+  },
+  "home": {
+    "heroKicker": "Bir karakter kartı serisi",
+    "heroSubtitle": "On beş oda arkadaşı, bir blok ve önümüzde dört buçuk yıl.",
+    "heroText": "Ülkenin en iyi üniversitesine girdiniz — ve yer sıkıntısı nedeniyle bir kız yurduna yerleştirildiniz. Serideki her kart bu bloğun başka bir hikayesidir: yeni karşılaşmalar, komik durumlar ve hayatları iç içe geçmiş karakterler.",
+    "aboutTitle": "Tek bir evren, birçok hikaye",
+    "aboutText": "STUDENT LIFE bağımsız kartlardan oluşan bir set değildir. Tüm kadın kahramanlar aynı kız yurdu bloğunda yaşar: mutfağı, duş programını ve pazartesi toplantılarını paylaşırlar. Her birinin kendi karakteri, alışkanlıkları ve sırları vardır — ancak hikayeleri kesişir. Onlarla tek tek tanışın ve serinin finalinde tüm bloğu tek bir grup kartında bir araya getirin.",
+    "catalogTitle": "Seri Karakterleri",
+    "catalogSubtitle": "Her kart, büyük bir hikayenin içindeki küçük bir olaydır",
+    "timelineTitle": "Yayın Takvimi",
+    "timelineText": "Ay boyunca seriye yeni kahramanlar katılacak ve 20 Kasım'da son çok karakterli kart gelecek.",
+    "timelineExpand": "Takvimi göster",
+    "timelineCollapse": "Takvimi gizle",
+    "groupTeaserTitle": "Serinin finali — grup kartı",
+    "groupTeaserText": "Tüm STUDENT LIFE kahramanları tek bir senaryoda: bloğun ittifakları, çatışmaları ve sırları — onlarla birlikte etkileşime girebileceğiniz tek bir hikayede.",
+    "groupTeaserButton": "Grup kartı hakkında daha fazla bilgi",
+    "charactersCount": "serideki kartlar",
+    "availableCount": "şu anda mevcut"
+  },
+  "character": {
+    "cardNumber": "Kart No.",
+    "aboutTitle": "Onu tanımak",
+    "factsTitle": "Kısaca",
+    "galleryTitle": "Galeri",
+    "galleryEmpty": "Görseller yakında eklenecek. Kapak burada — yazar geri kalanını daha sonra ekleyecek.",
+    "musicTitle": "Karakter Müziği",
+    "musicEmpty": "Bu kahraman için henüz parça eklenmedi. Parçalar ortaya çıktığında oynatıcı burada canlanacak.",
+    "relationsTitle": "Blok Bağlantıları",
+    "finalTitle": "Onunla tanışmaya hazır mısın?",
+    "finalText": "Platformda kartı aç ve hikayene başla — blok taşındığını zaten biliyor.",
+    "notFound": "Karakter bulunamadı. Kart henüz yayınlanmamış olabilir — veya bağlantı güncelliğini yitirmiş olabilir.",
+    "loadError": "Karakter verileri yüklenemedi. Bağlantınızı kontrol edip tekrar deneyin."
+  },
+  "group": {
+    "membersTitle": "Grup Kartı Üyeleri",
+    "membersText": "Liste, serinin yayınlanan kartlarından otomatik olarak oluşturulur.",
+    "comingText": "Kart, serinin finalinde geliyor. O zamana kadar kahramanlarla tek tek tanışın.",
+    "releaseLabel": "Çıkış tarihi"
+  },
+  "settings": {
+    "title": "Görünüm Ayarları",
+    "theme": "Tema",
+    "themeLight": "Açık",
+    "themeDark": "Koyu",
+    "palette": "Renk Paleti",
+    "paletteClassic": "Kampüs Klasiği",
+    "palettePastel": "Pastel",
+    "paletteRose": "Gül ve Menekşe",
+    "paletteCold": "Soğuk Akademik",
+    "fontSize": "Metin Boyutu",
+    "language": "Dil",
+    "reset": "Ayarları sıfırla"
+  },
+  "player": {
+    "play": "Oynat",
+    "pause": "Duraklat",
+    "next": "Sonraki parça",
+    "prev": "Önceki parça",
+    "volume": "Ses düzeyi",
+    "loading": "Yükleniyor…",
+    "error": "Ses yüklenemedi",
+    "playlist": "Parça Listesi",
+    "empty": "Henüz parça eklenmedi"
+  },
+  "gallery": {
+    "open": "Resmi aç",
+    "prev": "Önceki resim",
+    "next": "Sonraki resim",
+    "counter": "{total} resimden {current}."
+  },
+  "footer": {
+    "note": "Bağımsız bir hayran projesi. Seri dönemi: 20 Ekim — 20 Kasım 2026.",
+    "hubNote": "STUDENT LIFE evrenine hoş geldiniz. Yeni seriler ve hikayeler burada görünecek.",
+    "scheduleTitle": "Bloğun günlüğünden",
+    "scheduleItems": "22:00'den sonra sessizlik · Nöbetle temizlik · Programa göre duş · Kapıyı çal. Her zaman. Her yerde."
+  },
+  "errors": {
+    "dataLoad": "Veriler yüklenemedi. Sitenin yerel bir sunucu üzerinden sunulduğundan emin olun (README'ye bakın).",
+    "imageMissing": "Görsel mevcut değil",
+    "badLink": "Geçersiz bağlantı"
+  },
+  "a11y": {
+    "skipToContent": "İçeriğe geç"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — «Uykulu Oyuncu»",
+        "slogan": "Gece yarısından sonra yaşar. Yataktan kalkmadan sınavları geçer.",
+        "shortDescription": "3 Numaralı Oda'nın gece sakini: geceleri reyting, gündüzleri en yüksek notlar ve kahve tam bir öğün sayılır. İlk karşılaşmanızı coşkuyla hatırlamıyor: sadece bir tişört giyiyordu. Sen de onu hatırladın — tam olarak aynı nedenden dolayı.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Oyuncu",
+          "Gece kuşu",
+          "Dota 2",
+          "3 Numaralı Oda"
+        ],
+        "coverAlt": "Yuna gece mutfağında bir fincan kahveyle",
+        "gallery": [
+          {
+            "alt": "Bloğun boş gece mutfağı",
+            "caption": "23:47. Ortak mutfak yarı karanlığa gömülmüş — sadece ocağın üzerindeki ampul yanıyor."
+          },
+          {
+            "alt": "Yuna 3 Numaralı Oda'dan çıkıyor",
+            "caption": "\"mid or feed\" tişörtü, \"beni uyandırma\" kupası ve misafir beklemeyen birinin sakinliği."
+          },
+          {
+            "alt": "Yuna kahve rafına uzanıyor",
+            "caption": "Kahve kavanozu en üst rafta yaşıyor. Bu, konu için önemli."
+          },
+          {
+            "alt": "Yuna bir yabancıyı fark edip donakalıyor",
+            "caption": "Uykulu beyni yavaşça parçaları birleştiriyor: canlı bir insan, bir adam, mutfak ve kalp desenli o."
+          },
+          {
+            "alt": "Odasından bulunan bir maç sesi geliyor",
+            "caption": "Dota 2 onay istiyor. İçinde üç arzu savaşıyor — ve uzlaşma kazanıyor."
+          },
+          {
+            "alt": "Yuna kupasını sıkıca tutarak kapıya geri çekiliyor",
+            "caption": "«İki dakika burada dur... ve gördüğün her şeyi unut. Özellikle kalpleri.»"
+          },
+          {
+            "alt": "Kapıda tehditkar (ama uykulu) bir jest",
+            "caption": "«Eğer bir tür manyaksan — oda arkadaşlarımı uyandırırım, onlar kötüdür. Özellikle blok başkanı. Bu kadar. Kıpırdama.»"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "20"
+          },
+          {
+            "label": "Sınıf",
+            "value": "3. sınıf"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 3"
+          },
+          {
+            "label": "Boy",
+            "value": "160 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Bloğun gizli «as»ı"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Dahilik boyutuna ulaşmış tembellik: Yuna yatarak yapılabilecek her şeyi optimize eder ve küçük görevleri devreder — bu, onun için en yüksek güven göstergesidir.",
+              "Bir flegmatik: yavaş ve alaycı bir şekilde paniğe kapılır, saatler gecikmeyle utanır, tembelce sinirlenir. Yine de gizlice şefkatlidir: üzerini bir battaniyeyle örter ve arkasını döner, «çok pişirdiğim için» yemek bırakır — aslında pişirmemiştir.",
+              "Fark edilmeden yetkin: geceleri yüksek reyting, gündüzleri en iyi notlar ve sınavları «unutur». Kişisel olarak sessiz, metinde çok daha cesur: geceleri gündüz inkar ettiği şeyleri yazar."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "160 cm boyunda. Koyu renkli saçlar her zaman eğri bir topuzda, büyük yarı kapalı kahve rengi gözler uykusuzluktan gölgeli, soluk ten.",
+              "Evde — büyük beden Dota 2 tişörtleri ve uyumsuz çoraplar. Dışarıda — üç beden büyük kapüşonlu bir sweatshirt ve boynunda kulaklık."
+            ]
+          },
+          {
+            "title": "Konuşma tarzı",
+            "paragraphs": [
+              "Sessiz, hafif boğuk bir ses. Sonları yutulan tembel cümleler, kelimenin ortasında esnemeler, günlük hayatta oyuncu argosu: «canım az kaldı» yorgun olduğu anlamına gelir. Utangaçlığını kendini ironiyle gizler ve oyuna ve kahve makinesine sessizce küfreder."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Ağabeyi onu on iki yaşındayken Dota 2 ile tanıştırdı; on beş yaşına geldiğinde onun reytingini geçmişti. Ailesi vardiyalı çalışıyordu — bu nedenle gece düzeni ve ekran üzerinden yaşanan bir hayat.",
+              "Blok basit bir denge buldu: kimse onu rahatsız etmiyor, o da kimseyi rahatsız etmiyor."
+            ]
+          },
+          {
+            "title": "STUDENT LIFE hikayesindeki rolü",
+            "paragraphs": [
+              "Yuna'nın gece dünyası, bloğun yeni sakininin aniden girdiği, iyi ayarlanmış bir yalnızlıktır. Şimdi onu programından çıkarıp çıkarmayacağına — ya da programına yazıp yazmayacağına karar veremiyor.",
+              "Başlangıçta sen «bir gürültü kaynağı ve kalp olayının tanığısın». Büyük jestlerle değil, saygı duyulan sınırlar ve küçük ilgiyle ısınır. Sempatisini yüksek sesle kabul etmez — ama geceleri yazar."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Kahvemi seninle paylaşmak, bu arada, benim değerler sistemimdeki en yüksek güven derecesidir. Bunun üstünde sadece hesap şifrem var.»"
+        },
+        "relationships": [
+          {
+            "type": "Blok başkanı",
+            "description": "Yuna'ya göre blok başkanı «özellikle sabahları kötücüldür». Sessiz saatler resmi olarak «genel doluluk oranına göre» ayarlanmıştır — aslında onun maratonlarına göre. İhlaller kaydedilir, ancak bir şekilde hiçbir zaman sonuçları olmaz."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — «Ondan Sonra Sessizlik»",
+        "slogan": "Birinci kural: kapıyı çalarsın. İkinci kural: ondan sonra sessizlik.",
+        "shortDescription": "Blok başkanı ve onun resmi olmayan yönetimi: programların sürüm numaraları vardır, günlüğün sütunları vardır ve adına açılmış bir «16 Numaralı Kayıt Sayfası» vardır — inatla boş. Seni tahliye ettirebilecek tek kişi... ve bunu yapmayan tek kişi.",
+        "tags": [
+          "Tsundere",
+          "Blok Başkanı",
+          "Mükemmeliyetçi",
+          "Hukuk Fakültesi",
+          "1 Numaralı Oda"
+        ],
+        "coverAlt": "Rin yurdun banyosunda günlüğüyle",
+        "gallery": [
+          {
+            "alt": "Rin yurdun banyosunda günlüğüyle",
+            "caption": "Hazırol duruşu, blok başkanı rozeti ve her durum için bir sütunu olan günlük."
+          },
+          {
+            "alt": "Rin evde günlüğünü tutarken",
+            "caption": "Evde — eğri bir at kuyruğu ve üzerinde «kurallar çiğnenmek için yapılmamıştır» yazan el yapımı bir tişört."
+          },
+          {
+            "alt": "Rin banyoda yüzünü elleriyle kapatmış",
+            "caption": "Kurallar, birinin en kötü anda duş kapısını çalması durumunda ne yapacağını öğretmez. Yüzü yanıyor — ve bu kesinlikle buhardan değil."
+          },
+          {
+            "alt": "Rin aynadaki yansımasına bakıyor",
+            "caption": "Yansıma, günlüğünün arkasında saklamaya çalıştığı şeyi gösteriyor: utanç ve tam bir kontrol kaybı."
+          },
+          {
+            "alt": "Rin göğsünü havluyla kapatıyor",
+            "caption": "«A-aklına bir şey gelmesin! Bu sadece bir havlu. Ve başkasının gözleri için değil.»"
+          },
+          {
+            "alt": "Rin parmağıyla kapıyı işaret ediyor",
+            "caption": "Birinci kural: banyodan çık. İkinci kural: az önce gördüğün her şeyi unut. Üçüncü kural: gülümsemeye cesaret etme."
+          },
+          {
+            "alt": "Rin çamaşırhanede elinde bir belgeyle",
+            "caption": "Bu durumda bile bir yönetmelik bulup dikkatle incelemeyi başardı. Blok başkanı blok başkanıdır."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "22"
+          },
+          {
+            "label": "Sınıf",
+            "value": "4. sınıf, hukuk fakültesi"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 1"
+          },
+          {
+            "label": "Boy",
+            "value": "168 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Blok başkanı, resmi olmayan «yönetim»"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Mükemmeliyetçi bir kontrol manyağı: programlarının sürümleri («3.1»), günlüğünün sütunları vardır ve «16 Numaralı Kayıt Sayfası» inatla, aşağılayıcı bir şekilde boş kalır.",
+              "Öfkeye varan adalet: en iyi arkadaşlarını ve kendini cezalandırır. Yeni sakini yönetimin önünde savunan tek kişi olacaktır — «çünkü bu yanlış», o olduğu için değil.",
+              "Bir tsundere: kurallar aracılığıyla önemser — «kişisel bir program», «artanlardan yapılmış» çay — ve her şeyi inkar eder. Bir iltifat sana kırmızı kulaklar ve sözlü bir uyarı kazandırır. Kontrol onun zırhıdır: kurallar olmadan her şeyin dağılacağından korkar — ve bu onun suçu olacaktır."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "168 cm, ince, «hazırol!» diyen bir duruşu var. Omuz bıçaklarına kadar koyu kestane rengi saçlar: toplum içinde düzgün bir topuz, evde eğri bir at kuyruğu. İnce dikdörtgen gözlüklerin arkasında gri gözler.",
+              "Toplum içinde — bir gömlek ve blok başkanı rozeti. Evde — eşofman ve üzerinde «kurallar çiğnenmek için yapılmamıştır» yazan el yapımı bir tişört. Asla günlüğü olmadan değil; düşünürken kalemiyle masaya vurur."
+            ]
+          },
+          {
+            "title": "Konuşma tarzı",
+            "paragraphs": [
+              "Eşit, alçak bir ton: asla bağırmaz — sesini alçaltır. Günlük hayatta bile bürokratik dil ve numaralandırma: «birinci kural», «kayda geçirildi», «bu kişisel değil — bu protokol».",
+              "Utandığında konuşması hızlanır, cümleler çoğalır ve ağzından bir «a-aklına bir şey gelmesin!» kaçar."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Bir asker ve bir tedarik yöneticisinin kızı. İlk yılında kat görevlisi olarak başkasının gece partisinden sorumlu tutuldu — o günden beri kurallar onun için güvenlik anlamına geliyor.",
+              "Oybirliğiyle blok başkanı seçildi. O gecenin sorumlularının oyları da dahil."
+            ]
+          },
+          {
+            "title": "STUDENT LIFE hikayesindeki rolü",
+            "paragraphs": [
+              "Resmi olarak sen «16 Numaralı İhlalci» ve «toplantıları bozan bir yüze sahip organizasyonel bir felaketsin». Aslında ilk bakışta «sinir bozucu bir faktör» olarak sınıflandırıldın — ki bunu elbette asla yüksek sesle söylemeyecek.",
+              "Onun çatışması basit ve imkansız: sempatiyi kabul etmek, yıllarca süren total kontrolün o kadar da gerekli olmadığını kabul etmek anlamına gelir."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Sorusuzluk diye bir şey yoktur. İhlalden sonra soranlar vardır.»"
+        },
+        "relationships": [
+          {
+            "type": "3 Numaralı Oda sakini",
+            "description": "«Gece risk faktörü»: sessiz saatler resmi olarak «genel doluluk oranına göre» ayarlanmıştır — aslında onun maratonlarına göre. İhlaller kaydedilir, ancak bir şekilde hiçbir zaman sonuçları olmaz."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Grup Kartı",
+      "subtitle": "Tüm blok. Tek bir hikaye.",
+      "description": "Serinin finali: Tüm STUDENT LIFE kahramanlarını tek bir senaryoda birleştiren çok karakterli bir kart. On altı oda, tek bir mutfak, bir görev çizelgesi — ve tüm bunların ortasında sen. Kahramanlarla birlikte etkileşime geç: bloğun ittifakları, çatışmaları ve sırları da yanında.",
+      "coverAlt": "Bloğun gece mutfağı — yurdun ortak yaşam alanı"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Bir karakter kartı serisi",
+      "description": "Ülkenin en iyi üniversitesinin yurdunda başlayan hikayeler. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

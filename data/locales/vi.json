@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Những câu chuyện bắt đầu từ ký túc xá",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Tất cả series",
+    "home": "Trang chủ",
+    "characters": "Nhân vật",
+    "about": "Về series",
+    "group": "Thẻ nhóm",
+    "settings": "Cài đặt",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Gặp gỡ cô ấy",
+    "toCatalog": "Xem các nhân vật",
+    "aboutSeries": "Về series",
+    "startChat": "Trò chuyện với nhân vật",
+    "startChatGroup": "Trò chuyện với cả khu",
+    "chatUnavailable": "Link sẽ sớm có",
+    "back": "Quay lại danh sách nhân vật",
+    "backHome": "Quay lại trang chủ",
+    "openPage": "Mở trang",
+    "close": "Đóng"
+  },
+  "status": {
+    "available": "Đã có sẵn",
+    "coming-soon": "Sắp ra mắt",
+    "releasedOn": "Đã phát hành",
+    "releaseOn": "Phát hành",
+    "under-review": "Đang xem xét"
+  },
+  "hub": {
+    "kicker": "Vũ trụ",
+    "title": "Các series thẻ",
+    "subtitle": "Chọn câu chuyện bạn muốn tiếp tục."
+  },
+  "home": {
+    "heroKicker": "Một series thẻ nhân vật",
+    "heroSubtitle": "Mười lăm người bạn cùng phòng, một khu ký túc xá và bốn năm rưỡi phía trước.",
+    "heroText": "Bạn đã đỗ vào trường đại học hàng đầu cả nước — và vì thiếu phòng, bạn được xếp vào ký túc xá nữ. Mỗi thẻ trong series là một câu chuyện khác của khu ký túc xá này: những cuộc gặp gỡ mới, những tình huống dở khóc dở cười và những nhân vật có cuộc sống đan xen vào nhau.",
+    "aboutTitle": "Một vũ trụ, nhiều câu chuyện",
+    "aboutText": "STUDENT LIFE không phải là một tập hợp các thẻ độc lập. Tất cả các nhân vật nữ đều sống trong cùng một khu ký túc xá nữ: họ dùng chung bếp, lịch tắm và các cuộc họp vào thứ Hai. Mỗi người có một tính cách, thói quen và bí mật riêng — nhưng câu chuyện của họ giao thoa với nhau. Hãy gặp gỡ từng người một, và trong đêm chung kết của series, hãy tập hợp cả khu lại trong một thẻ nhóm duy nhất.",
+    "catalogTitle": "Nhân vật trong series",
+    "catalogSubtitle": "Mỗi thẻ là một sự kiện nhỏ bên trong một câu chuyện lớn",
+    "timelineTitle": "Lịch phát hành",
+    "timelineText": "Những nhân vật nữ mới sẽ tham gia series trong suốt tháng và vào ngày 20 tháng 11, thẻ đa nhân vật cuối cùng sẽ xuất hiện.",
+    "timelineExpand": "Hiện lịch",
+    "timelineCollapse": "Ẩn lịch",
+    "groupTeaserTitle": "Đêm chung kết series — Thẻ nhóm",
+    "groupTeaserText": "Tất cả các nhân vật nữ của STUDENT LIFE trong cùng một bối cảnh: những liên minh, xung đột và bí mật của khu ký túc xá — trong một câu chuyện mà bạn có thể tương tác với họ cùng nhau.",
+    "groupTeaserButton": "Tìm hiểu thêm về thẻ nhóm",
+    "charactersCount": "thẻ trong series",
+    "availableCount": "đã có sẵn"
+  },
+  "character": {
+    "cardNumber": "Thẻ số",
+    "aboutTitle": "Làm quen",
+    "factsTitle": "Tóm tắt",
+    "galleryTitle": "Thư viện ảnh",
+    "galleryEmpty": "Hình ảnh sẽ sớm được cập nhật. Ảnh bìa đã có ở đây — tác giả sẽ thêm phần còn lại sau.",
+    "musicTitle": "Nhạc của nhân vật",
+    "musicEmpty": "Chưa có bản nhạc nào được thêm cho nhân vật nữ này. Trình phát sẽ hoạt động tại đây ngay khi chúng xuất hiện.",
+    "relationsTitle": "Mối quan hệ trong khu",
+    "finalTitle": "Sẵn sàng gặp gỡ cô ấy?",
+    "finalText": "Mở thẻ trên nền tảng và bắt đầu câu chuyện của bạn — khu ký túc xá đã biết bạn chuyển đến.",
+    "notFound": "Không tìm thấy nhân vật. Có thể thẻ chưa được phát hành — hoặc liên kết đã cũ.",
+    "loadError": "Không thể tải dữ liệu nhân vật. Vui lòng kiểm tra kết nối và thử lại."
+  },
+  "group": {
+    "membersTitle": "Thành viên thẻ nhóm",
+    "membersText": "Danh sách được tạo tự động từ các thẻ đã phát hành của series.",
+    "comingText": "Thẻ sẽ xuất hiện trong đêm chung kết của series. Cho đến lúc đó, hãy gặp gỡ từng nhân vật nữ.",
+    "releaseLabel": "Ngày phát hành"
+  },
+  "settings": {
+    "title": "Cài đặt hiển thị",
+    "theme": "Giao diện",
+    "themeLight": "Sáng",
+    "themeDark": "Tối",
+    "palette": "Bảng màu",
+    "paletteClassic": "Kinh điển học đường",
+    "palettePastel": "Pastel",
+    "paletteRose": "Hồng & Tím",
+    "paletteCold": "Học thuật lạnh",
+    "fontSize": "Kích thước chữ",
+    "language": "Ngôn ngữ",
+    "reset": "Khôi phục cài đặt mặc định"
+  },
+  "player": {
+    "play": "Phát",
+    "pause": "Tạm dừng",
+    "next": "Bài tiếp theo",
+    "prev": "Bài trước",
+    "volume": "Âm lượng",
+    "loading": "Đang tải…",
+    "error": "Không thể tải âm thanh",
+    "playlist": "Danh sách bài hát",
+    "empty": "Chưa có bài hát nào được thêm vào"
+  },
+  "gallery": {
+    "open": "Mở hình ảnh",
+    "prev": "Hình trước",
+    "next": "Hình tiếp theo",
+    "counter": "{current} / {total}"
+  },
+  "footer": {
+    "note": "Dự án fan hâm mộ độc lập. Thời gian của series: 20 tháng 10 — 20 tháng 11 năm 2026.",
+    "hubNote": "Chào mừng đến với vũ trụ STUDENT LIFE. Các series và câu chuyện mới sẽ xuất hiện tại đây.",
+    "scheduleTitle": "Từ nhật ký của khu",
+    "scheduleItems": "Yên tĩnh sau 22:00 · Nhiệm vụ theo lịch · Tắm theo lịch · Gõ cửa. Luôn luôn. Mọi lúc mọi nơi."
+  },
+  "errors": {
+    "dataLoad": "Không thể tải dữ liệu. Hãy đảm bảo trang web được chạy qua một máy chủ cục bộ (xem README).",
+    "imageMissing": "Hình ảnh không có sẵn",
+    "badLink": "Liên kết không hợp lệ"
+  },
+  "a11y": {
+    "skipToContent": "Chuyển đến nội dung"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — «Cô nàng game thủ buồn ngủ»",
+        "slogan": "Sống sau nửa đêm. Vượt qua kỳ thi mà không cần ra khỏi giường.",
+        "shortDescription": "Cư dân ban đêm của Phòng số 3: xếp hạng vào ban đêm, điểm cao vào ban ngày, và cà phê được coi là một bữa ăn đầy đủ. Cô ấy nhớ về lần gặp đầu tiên của hai người mà không mấy hào hứng: cô ấy chỉ mặc một chiếc áo phông. Bạn nhớ cô ấy — vì đúng lý do đó.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Game thủ",
+          "Cú đêm",
+          "Dota 2",
+          "Phòng số 3"
+        ],
+        "coverAlt": "Yuna trong bếp ban đêm với một cốc cà phê",
+        "gallery": [
+          {
+            "alt": "Căn bếp ban đêm trống vắng của khu",
+            "caption": "23:47. Căn bếp chung chìm trong bóng tối mờ ảo — chỉ có bóng đèn trên bếp là bật sáng."
+          },
+          {
+            "alt": "Yuna bước ra khỏi Phòng số 3",
+            "caption": "Chiếc áo phông \"mid or feed\", chiếc cốc \"đừng đánh thức tôi\" và vẻ bình thản của người không mong đợi khách."
+          },
+          {
+            "alt": "Yuna với lấy kệ cà phê",
+            "caption": "Hũ cà phê sống trên kệ trên cùng. Điều này rất quan trọng đối với cốt truyện."
+          },
+          {
+            "alt": "Yuna sững người khi nhận ra một người lạ",
+            "caption": "Bộ não buồn ngủ của cô ấy từ từ ghép các mảnh lại với nhau: một người sống, một chàng trai, căn bếp, cô ấy trong bộ đồ hình trái tim."
+          },
+          {
+            "alt": "Âm thanh của một trận đấu được tìm thấy phát ra từ phòng của cô ấy",
+            "caption": "Dota 2 yêu cầu xác nhận. Ba mong muốn đang đấu tranh bên trong cô ấy — và sự thỏa hiệp chiến thắng."
+          },
+          {
+            "alt": "Yuna lùi về phía cửa, nắm chặt chiếc cốc",
+            "caption": "«Đứng đây hai phút... và quên hết mọi thứ bạn đã thấy. Đặc biệt là những trái tim.»"
+          },
+          {
+            "alt": "Một cử chỉ đe dọa (nhưng buồn ngủ) ở cửa",
+            "caption": "«Nếu bạn là một kẻ điên nào đó — tôi sẽ đánh thức bạn cùng phòng của tôi, họ rất dữ. Đặc biệt là trưởng khu. Vậy đó. Đừng có động đậy.»"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "20"
+          },
+          {
+            "label": "Năm",
+            "value": "Năm thứ 3"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 3"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "160 cm"
+          },
+          {
+            "label": "Vai trò trong khu",
+            "value": "\"Át chủ bài\" ẩn giấu của khu"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Sự lười biếng đạt đến mức thiên tài: Yuna tối ưu hóa mọi thứ có thể làm khi nằm, và giao phó những công việc nhỏ — đối với cô ấy, đó là dấu hiệu cao nhất của sự tin tưởng.",
+              "Một người thờ ơ: cô ấy hoảng sợ một cách chậm rãi và mỉa mai, cảm thấy xấu hổ với độ trễ hàng giờ, tức giận một cách lười biếng. Tuy nhiên, cô ấy lại âm thầm quan tâm: cô ấy sẽ đắp chăn cho bạn và quay đi, để lại đồ ăn \"vì tôi nấu quá nhiều\" — cô ấy đã không nấu.",
+              "Có năng lực mà không bị chú ý: xếp hạng cao vào ban đêm, điểm cao vào ban ngày, và cô ấy \"quên\" các kỳ thi. Trầm tính khi gặp mặt, táo bạo hơn nhiều khi nhắn tin: cô ấy viết những điều vào ban đêm mà ban ngày cô ấy phủ nhận."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 160 cm. Tóc tối màu búi thành một búi luôn lệch, đôi mắt to màu cà phê khép hờ với quầng thâm do thiếu ngủ, làn da nhợt nhạt.",
+              "Ở nhà — áo phông quảng cáo Dota 2 quá khổ và tất không khớp. Ra ngoài — áo hoodie to hơn ba cỡ và tai nghe quàng quanh cổ."
+            ]
+          },
+          {
+            "title": "Phong cách nói chuyện",
+            "paragraphs": [
+              "Một giọng nói trầm, hơi khàn. Những câu nói lười biếng với âm cuối bị nuốt mất, ngáp giữa từ, tiếng lóng của game thủ trong cuộc sống hàng ngày: \"tôi đang ở mức HP thấp\" có nghĩa là mệt mỏi. Cô ấy che giấu sự bối rối đằng sau sự tự trào và lẩm bẩm chửi rủa trò chơi và máy pha cà phê."
+            ]
+          },
+          {
+            "title": "Lý lịch",
+            "paragraphs": [
+              "Anh trai cô ấy đã giới thiệu cô ấy với Dota 2 khi cô ấy mười hai tuổi; đến năm mười lăm tuổi, cô ấy đã vượt qua xếp hạng của anh ấy. Cha mẹ cô ấy làm việc theo ca — do đó có chế độ ban đêm và một cuộc sống sống qua màn hình.",
+              "Khu ký túc xá đã tìm thấy một sự cân bằng đơn giản: không ai làm phiền cô ấy, và cô ấy không làm phiền ai."
+            ]
+          },
+          {
+            "title": "Vai trò trong câu chuyện STUDENT LIFE",
+            "paragraphs": [
+              "Thế giới ban đêm của Yuna là một sự cô đơn được điều chỉnh tốt mà cư dân mới của khu đã đột ngột bước vào. Bây giờ cô ấy không thể quyết định xem nên gạch anh ta ra khỏi lịch trình của mình — hay viết anh ta vào đó.",
+              "Lúc đầu, bạn là \"một nguồn gây ồn ào và là nhân chứng của vụ việc trái tim\". Cô ấy ấm lên thông qua những ranh giới được tôn trọng và sự quan tâm nhỏ nhặt, không phải những cử chỉ lớn lao. Cô ấy sẽ không thừa nhận sự đồng cảm bằng lời nói — nhưng cô ấy viết vào ban đêm."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Chia sẻ cà phê của tôi với bạn, nhân tiện, là mức độ tin tưởng cao nhất trong hệ thống giá trị của tôi. Trên đó chỉ có mật khẩu tài khoản của tôi.»"
+        },
+        "relationships": [
+          {
+            "type": "Trưởng khu",
+            "description": "Theo Yuna, trưởng khu \"rất dữ, đặc biệt là vào buổi sáng\". Giờ yên tĩnh được xây dựng chính thức \"dựa trên tỷ lệ lấp đầy chung\" — thực tế là dựa trên các cuộc chạy marathon của cô ấy. Các vi phạm được ghi lại, nhưng bằng cách nào đó không bao giờ có hậu quả."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — «Sự im lặng sau mười giờ»",
+        "slogan": "Quy tắc một: phải gõ cửa. Quy tắc hai: im lặng sau mười giờ.",
+        "shortDescription": "Trưởng khu và ban quản lý không chính thức của khu: các lịch trình có số phiên bản, nhật ký có các cột, và có một \"tờ khai số 16\" có tên bạn trên đó — trống rỗng một cách cố chấp. Người duy nhất có thể khiến bạn bị đuổi khỏi ký túc xá... và là người duy nhất không làm vậy.",
+        "tags": [
+          "Tsundere",
+          "Trưởng khu",
+          "Người cầu toàn",
+          "Khoa Luật",
+          "Phòng số 1"
+        ],
+        "coverAlt": "Rin với cuốn nhật ký trong phòng tắm của ký túc xá",
+        "gallery": [
+          {
+            "alt": "Rin với cuốn nhật ký trong phòng tắm của ký túc xá",
+            "caption": "Tư thế nghiêm trang, huy hiệu trưởng khu và cuốn nhật ký, trong đó có một danh sách cho mọi dịp."
+          },
+          {
+            "alt": "Rin ở nhà, đang ghi chép nhật ký",
+            "caption": "Ở nhà — một cái đuôi ngựa lệch và một chiếc áo phông tự làm với dòng chữ \"các quy tắc không được tạo ra để bị phá vỡ\"."
+          },
+          {
+            "alt": "Rin trong phòng tắm, che mặt bằng tay",
+            "caption": "Các quy tắc không dạy bạn phải làm gì khi ai đó gõ cửa phòng tắm vào thời điểm tồi tệ nhất có thể. Mặt cô ấy nóng bừng — và chắc chắn đó không phải do hơi nước."
+          },
+          {
+            "alt": "Rin nhìn hình ảnh phản chiếu của mình trong gương",
+            "caption": "Hình ảnh phản chiếu cho thấy điều cô ấy rất cố gắng che giấu đằng sau cuốn nhật ký của mình: sự bối rối và mất kiểm soát hoàn toàn."
+          },
+          {
+            "alt": "Rin che ngực bằng khăn tắm",
+            "caption": "«Đ-đừng có nghĩ bậy! Nó chỉ là một chiếc khăn tắm. Và nó không dành cho mắt của bất kỳ ai khác.»"
+          },
+          {
+            "alt": "Rin chỉ tay về phía cửa",
+            "caption": "Quy tắc một: ra khỏi phòng tắm. Quy tắc hai: quên mọi thứ bạn vừa thấy. Quy tắc ba: đừng có dại mà cười."
+          },
+          {
+            "alt": "Rin trong phòng giặt là với một tài liệu trên tay",
+            "caption": "Ngay cả trong tình huống này, cô ấy vẫn tìm được một quy định và nghiên cứu nó một cách cẩn thận. Trưởng khu mãi là trưởng khu."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "22"
+          },
+          {
+            "label": "Năm",
+            "value": "Năm thứ 4, khoa luật"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 1"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "168 cm"
+          },
+          {
+            "label": "Vai trò trong khu",
+            "value": "Trưởng khu, \"ban quản lý\" không chính thức"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Một kẻ cuồng kiểm soát hoàn hảo: các lịch trình của cô ấy có phiên bản (\"3.1\"), nhật ký của cô ấy có các cột, và \"tờ khai số 16\" vẫn cố chấp, trống rỗng một cách xúc phạm.",
+              "Công bằng đến mức phát điên: cô ấy phạt những người bạn thân nhất của mình và cả chính mình. Cô ấy sẽ là người duy nhất bảo vệ cư dân mới trước ban quản lý — \"vì điều đó là sai\", chứ không phải vì anh ta.",
+              "Một tsundere: cô ấy quan tâm thông qua các quy định — một \"lịch trình cá nhân\", trà \"trên cơ sở thức ăn thừa\" — và phủ nhận mọi thứ. Một lời khen khiến bạn đỏ tai và nhận được một lời cảnh cáo bằng miệng. Kiểm soát là áo giáp của cô ấy: cô ấy sợ rằng không có quy tắc, mọi thứ sẽ sụp đổ — và đó sẽ là lỗi của cô ấy."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 168 cm, mảnh khảnh, với tư thế nói rằng \"nghiêm!\". Mái tóc màu hạt dẻ sẫm dài đến bả vai: một búi tóc mượt mà ở nơi công cộng, một cái đuôi ngựa lệch ở nhà. Đôi mắt màu xám đằng sau cặp kính hình chữ nhật mỏng.",
+              "Ở nơi công cộng — một chiếc áo sơ mi và huy hiệu trưởng khu. Ở nhà — quần nỉ và một chiếc áo phông tự làm với dòng chữ \"các quy tắc không được tạo ra để bị phá vỡ\". Không bao giờ rời xa cuốn nhật ký của mình; khi suy nghĩ, cô ấy gõ bút."
+            ]
+          },
+          {
+            "title": "Phong cách nói chuyện",
+            "paragraphs": [
+              "Một giọng điệu đều đều, trầm: cô ấy không bao giờ hét lên — cô ấy hạ giọng. Ngôn ngữ quan liêu và đánh số thứ tự ngay cả trong cuộc sống hàng ngày: \"quy tắc một\", \"đã ghi lại\", \"đây không phải là chuyện cá nhân — đây là giao thức\".",
+              "Khi bối rối, lời nói của cô ấy tăng tốc, các mệnh đề nhân lên và một câu \"đ-đừng có nghĩ bậy!\" tuột ra."
+            ]
+          },
+          {
+            "title": "Lý lịch",
+            "paragraphs": [
+              "Con gái của một quân nhân và một quản lý cung ứng. Trong năm đầu tiên, với tư cách là giám thị tầng, cô ấy đã phải chịu trách nhiệm về bữa tiệc đêm của người khác — kể từ đó, các quy tắc có nghĩa là sự an toàn đối với cô ấy.",
+              "Cô ấy được bầu làm trưởng khu một cách nhất trí. Bao gồm cả phiếu bầu của những người chịu trách nhiệm cho đêm đó."
+            ]
+          },
+          {
+            "title": "Vai trò trong câu chuyện STUDENT LIFE",
+            "paragraphs": [
+              "Về mặt chính thức, bạn là \"kẻ vi phạm số 16\" và \"một thảm họa tổ chức với khuôn mặt làm gián đoạn các cuộc họp\". Trên thực tế, bạn được phân loại là một \"yếu tố gây khó chịu\" ngay từ cái nhìn đầu tiên — điều mà tất nhiên cô ấy sẽ không bao giờ nói to.",
+              "Xung đột của cô ấy rất đơn giản và bất khả thi: thừa nhận sự đồng cảm có nghĩa là thừa nhận rằng những năm tháng kiểm soát hoàn toàn không thực sự cần thiết đến thế."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Không có thứ gọi là không có câu hỏi. Chỉ có những người đặt ra chúng sau khi vi phạm.»"
+        },
+        "relationships": [
+          {
+            "type": "Cư dân Phòng số 3",
+            "description": "Một \"yếu tố rủi ro ban đêm\": giờ yên tĩnh được xây dựng chính thức \"dựa trên tỷ lệ lấp đầy chung\" — thực tế là dựa trên các cuộc chạy marathon của cô ấy. Các vi phạm được ghi lại, nhưng bằng cách nào đó không bao giờ có hậu quả."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Thẻ Nhóm",
+      "subtitle": "Cả khu. Một câu chuyện.",
+      "description": "Đêm chung kết của series: một thẻ đa nhân vật kết nối tất cả các nhân vật nữ của STUDENT LIFE trong một bối cảnh duy nhất. Mười sáu phòng, một nhà bếp, một lịch trực nhật — và bạn ở giữa tất cả. Tương tác với các nhân vật nữ cùng nhau: các liên minh, xung đột và bí mật của khu cũng đi kèm.",
+      "coverAlt": "Bếp đêm của khu — phòng sinh hoạt chung của ký túc xá"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Một series thẻ nhân vật",
+      "description": "Những câu chuyện bắt đầu từ ký túc xá của trường đại học hàng đầu cả nước. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

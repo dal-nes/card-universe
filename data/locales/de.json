@@ -1,0 +1,384 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Geschichten, die im Studentenwohnheim beginnen",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Alle Serien",
+    "home": "Startseite",
+    "characters": "Charaktere",
+    "about": "Über die Serie",
+    "group": "Gruppenkarte",
+    "settings": "Einstellungen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Lerne sie kennen",
+    "toCatalog": "Charaktere ansehen",
+    "aboutSeries": "Über die Serie",
+    "startChat": "Chatte mit der Charakterin",
+    "startChatGroup": "Chatte mit dem ganzen Block",
+    "chatUnavailable": "Link folgt in Kürze",
+    "back": "Zurück zu den Charakteren",
+    "backHome": "Zurück zur Startseite",
+    "openPage": "Seite öffnen",
+    "close": "Schließen"
+  },
+  "status": {
+    "available": "Verfügbar",
+    "coming-soon": "Demnächst",
+    "releasedOn": "Veröffentlicht",
+    "releaseOn": "Veröffentlichung",
+    "under-review": "Wird geprüft"
+  },
+  "hub": {
+    "kicker": "Universum",
+    "title": "Kartenserien",
+    "subtitle": "Wähle die Geschichte, die du fortsetzen möchtest."
+  },
+  "home": {
+    "heroKicker": "Eine Charakterkartenserie",
+    "heroSubtitle": "Fünfzehn Mitbewohnerinnen, ein Wohnblock und viereinhalb Jahre vor uns.",
+    "heroText": "Du hast es an die beste Universität des Landes geschafft – und wegen Platzmangels wurdest du in einem Frauenwohnheim untergebracht. Jede Karte in der Serie ist eine weitere Geschichte dieses Wohnblocks: neue Begegnungen, komische Situationen und Charaktere, deren Leben miteinander verflochten sind.",
+    "aboutTitle": "Ein Universum, viele Geschichten",
+    "aboutText": "STUDENT LIFE ist keine Sammlung eigenständiger Karten. Alle Heldinnen leben im selben Frauenwohnheim: Sie teilen sich eine Küche, einen Duschplan und Montagsmeetings. Jede hat ihren eigenen Charakter, ihre Gewohnheiten und Geheimnisse – aber ihre Geschichten überschneiden sich. Lerne sie nacheinander kennen und bringe im Finale der Serie den gesamten Wohnblock in einer einzigen Gruppenkarte zusammen.",
+    "catalogTitle": "Charaktere der Serie",
+    "catalogSubtitle": "Jede Karte ist ein kleines Ereignis innerhalb einer großen Geschichte",
+    "timelineTitle": "Veröffentlichungsplan",
+    "timelineText": "Im Laufe des Monats stoßen neue Heldinnen zur Serie, und am 20. November erscheint die finale Multi-Charakter-Karte.",
+    "timelineExpand": "Zeitplan anzeigen",
+    "timelineCollapse": "Zeitplan ausblenden",
+    "groupTeaserTitle": "Das Finale der Serie – die Gruppenkarte",
+    "groupTeaserText": "Jede Heldin von STUDENT LIFE in einem einzigen Szenario: Allianzen, Konflikte und Geheimnisse des Wohnblocks – in einer Geschichte, in der du gemeinsam mit ihnen interagieren kannst.",
+    "groupTeaserButton": "Mehr über die Gruppenkarte",
+    "charactersCount": "Karten in der Serie",
+    "availableCount": "bereits verfügbar"
+  },
+  "character": {
+    "cardNumber": "Karte Nr.",
+    "aboutTitle": "Lerne sie kennen",
+    "factsTitle": "Kurz gesagt",
+    "galleryTitle": "Galerie",
+    "galleryEmpty": "Bilder folgen in Kürze. Das Cover ist bereits hier – der Autor wird den Rest später hinzufügen.",
+    "musicTitle": "Musik der Charakterin",
+    "musicEmpty": "Für diese Heldin wurden noch keine Tracks hinzugefügt. Der Player wird hier zum Leben erweckt, sobald sie erscheinen.",
+    "relationsTitle": "Verbindungen im Wohnblock",
+    "finalTitle": "Bereit, sie kennenzulernen?",
+    "finalText": "Öffne die Karte auf der Plattform und beginne deine Geschichte – der Wohnblock weiß bereits, dass du eingezogen bist.",
+    "notFound": "Charakter nicht gefunden. Die Karte ist möglicherweise noch nicht erschienen – oder der Link ist veraltet.",
+    "loadError": "Charakterdaten konnten nicht geladen werden. Überprüfe deine Verbindung und versuche es erneut."
+  },
+  "group": {
+    "membersTitle": "Mitglieder der Gruppenkarte",
+    "membersText": "Die Liste wird automatisch aus den veröffentlichten Karten der Serie erstellt.",
+    "comingText": "Die Karte erscheint im Finale der Serie. Bis dahin kannst du die Heldinnen einzeln kennenlernen.",
+    "releaseLabel": "Veröffentlichungsdatum"
+  },
+  "settings": {
+    "title": "Anzeigeeinstellungen",
+    "theme": "Design",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "palette": "Farbpalette",
+    "paletteClassic": "Campus-Klassiker",
+    "palettePastel": "Pastell",
+    "paletteRose": "Rosé & Violett",
+    "paletteCold": "Kaltes Akademisch",
+    "fontSize": "Textgröße",
+    "language": "Sprache",
+    "reset": "Einstellungen zurücksetzen"
+  },
+  "player": {
+    "play": "Abspielen",
+    "pause": "Pause",
+    "next": "Nächster Titel",
+    "prev": "Vorheriger Titel",
+    "volume": "Lautstärke",
+    "loading": "Wird geladen…",
+    "error": "Audio konnte nicht geladen werden",
+    "playlist": "Titelliste",
+    "empty": "Noch keine Titel hinzugefügt"
+  },
+  "gallery": {
+    "open": "Bild öffnen",
+    "prev": "Vorheriges Bild",
+    "next": "Nächstes Bild",
+    "counter": "{current} von {total}"
+  },
+  "footer": {
+    "note": "Ein unabhängiges Fanprojekt. Serienzeitraum: 20. Oktober — 20. November 2026.",
+    "hubNote": "Willkommen im STUDENT LIFE-Universum. Hier werden neue Serien und Geschichten erscheinen.",
+    "scheduleTitle": "Aus dem Logbuch des Wohnblocks",
+    "scheduleItems": "Ruhe nach 22 Uhr · Pflichten laut Dienstplan · Duschen nach Zeitplan · Anklopfen. Immer. Überall."
+  },
+  "errors": {
+    "dataLoad": "Daten konnten nicht geladen werden. Stelle sicher, dass die Website über einen lokalen Server bereitgestellt wird (siehe README).",
+    "imageMissing": "Bild nicht verfügbar",
+    "badLink": "Ungültiger Link"
+  },
+  "a11y": {
+    "skipToContent": "Zum Inhalt springen"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — „Schläfrige Gamerin“",
+        "slogan": "Lebt nach Mitternacht. Besteht Prüfungen, ohne das Bett zu verlassen.",
+        "shortDescription": "Der Nachtmensch aus Zimmer Nr. 3: Rating nachts, Bestnoten tagsüber und Kaffee gilt als vollwertige Mahlzeit. Eure erste Begegnung war für euch beide denkwürdig – sie trug nur ein T-Shirt. Für dich war sie aus genau demselben Grund denkwürdig.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamerin",
+          "Nachteule",
+          "Dota 2",
+          "Zimmer Nr. 3"
+        ],
+        "coverAlt": "Yuna in der Nachtküche mit einem Becher Kaffee",
+        "gallery": [
+          {
+            "alt": "Die leere Nachtküche des Wohnblocks",
+            "caption": "23:47 Uhr. Die Gemeinschaftsküche versinkt in Halbdunkel – nur die Glühbirne über dem Herd brennt."
+          },
+          {
+            "alt": "Yuna tritt aus Zimmer Nr. 3",
+            "caption": "Ein „mid or feed“-T-Shirt, ein „Weck mich nicht“-Becher und die Ruhe von jemandem, der keine Gäste erwartet hat."
+          },
+          {
+            "alt": "Yuna greift nach dem Kaffeeregal",
+            "caption": "Das Kaffeeglas wohnt im obersten Regal. Das ist wichtig für die Handlung."
+          },
+          {
+            "alt": "Yuna erstarrt, als sie einen Fremden bemerkt",
+            "caption": "Ihr schläfriges Gehirn setzt langsam eins und eins zusammen: ein lebender Mensch, ein Typ, die Küche, sie in Herzchenmuster."
+          },
+          {
+            "alt": "Ein Geräusch aus ihrem Zimmer deutet auf ein gefundenes Match hin",
+            "caption": "Dota 2 verlangt eine Bestätigung. Drei Wünsche kämpfen in ihr – und der Kompromiss gewinnt."
+          },
+          {
+            "alt": "Yuna zieht sich mit dem Becher an ihre Tür zurück",
+            "caption": "„Steh hier zwei Minuten… und vergiss alles, was du gesehen hast. Besonders die Herzen.“"
+          },
+          {
+            "alt": "Eine bedrohliche (aber schläfrige) Geste an der Tür",
+            "caption": "„Wenn du ein Verrückter bist, wecke ich meine Mitbewohnerinnen, die sind gemein. Besonders die Sprecherin. Das war's. Beweg dich nicht.“"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Alter",
+            "value": "20"
+          },
+          {
+            "label": "Studienjahr",
+            "value": "3. Jahr"
+          },
+          {
+            "label": "Zimmer",
+            "value": "Nr. 3"
+          },
+          {
+            "label": "Größe",
+            "value": "160 cm"
+          },
+          {
+            "label": "Rolle im Wohnblock",
+            "value": "Das versteckte „Ass“ des Wohnblocks"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persönlichkeit",
+            "paragraphs": [
+              "Faulheit, die an Genie grenzt: Yuna optimiert alles, was man im Liegen erledigen kann, und delegiert kleine Aufgaben – was bei ihr das höchste Zeichen von Vertrauen ist.",
+              "Ein Phlegmatiker: Sie gerät langsam und sarkastisch in Panik, wird mit Stunden Verspätung verlegen, wird faul wütend. Doch heimlich fürsorglich: Sie deckt dich mit einer Decke zu und dreht sich weg, lässt Essen da, „weil ich zu viel gekocht habe“ – hat sie aber nicht.",
+              "Unauffällig kompetent: hohes Rating nachts, Bestnoten tagsüber, und sie „vergisst“ Prüfungen. Persönlich leise, im Text weitaus mutiger: Sie schreibt nachts Dinge, die sie tagsüber abstreitet."
+            ]
+          },
+          {
+            "title": "Aussehen",
+            "paragraphs": [
+              "160 cm groß. Dunkles Haar in einem stets schiefen Dutt, große halb geschlossene kaffeefarbene Augen mit Schatten vom Schlafmangel, blasse Haut.",
+              "Zu Hause – übergroße T-Shirts mit Dota-2-Merch und ungleiche Socken. Draußen – ein Hoodie, drei Nummern zu groß, und Kopfhörer um den Hals."
+            ]
+          },
+          {
+            "title": "Sprechweise",
+            "paragraphs": [
+              "Eine leise, leicht heisere Stimme. Faule Sätze mit verschluckten Endungen, Gähnen mitten im Wort, Gamer-Slang im Alltag: „Ich bin auf Low HP“ bedeutet müde. Sie verbirgt Verlegenheit hinter Selbstironie und flucht leise auf das Spiel und die Kaffeemaschine."
+            ]
+          },
+          {
+            "title": "Hintergrund",
+            "paragraphs": [
+              "Ihr Bruder brachte ihr mit zwölf Dota 2 bei; mit fünfzehn hatte sie sein Rating übertroffen. Ihre Eltern arbeiteten in Schichten – daher das Nachtregime und ein Leben durch einen Bildschirm.",
+              "Der Wohnblock fand eine einfache Balance: Niemand stört sie, und sie stört niemanden."
+            ]
+          },
+          {
+            "title": "Rolle in der STUDENT LIFE-Geschichte",
+            "paragraphs": [
+              "Yunas nächtliche Welt ist eine eingespielte Einsamkeit, in die der neue Bewohner des Wohnblocks plötzlich hineingeplatzt ist. Jetzt kann sie sich nicht entscheiden, ob sie ihn aus ihrem Zeitplan streichen oder ihn in diesen aufnehmen soll.",
+              "Zunächst bist du für sie „eine Lärmquelle und ein Zeuge des Herzchen-Vorfalls“. Sie taut durch respektierte Grenzen und kleine Fürsorge auf, nicht durch große Gesten. Sie gibt Sympathie nicht laut zu – aber sie schreibt nachts."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Meinen Kaffee mit dir zu teilen ist übrigens der höchste Grad an Vertrauen in meinem Wertesystem. Darüber steht nur noch mein Account-Passwort.“"
+        },
+        "relationships": [
+          {
+            "type": "Sprecherin des Wohnblocks",
+            "description": "Laut Yuna ist die Sprecherin „gemein, besonders morgens“. Die Ruhezeiten richten sich nach ihren Marathons, und kleine Verstöße werden ihr verziehen – unbestätigten Berichten zufolge."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — „Ruhe nach zehn“",
+        "slogan": "Regel eins: Du klopfst an. Regel zwei: Ruhe nach zehn.",
+        "shortDescription": "Die Sprecherin des Wohnblocks und seine inoffizielle Verwaltung: Zeitpläne haben Versionsnummern, das Logbuch hat Spalten, und es gibt ein „Erfassungsblatt Nr. 16“ mit deinem Namen darauf – hartnäckig leer. Die Einzige, die deine Ausweisung erreichen könnte… und die Einzige, die es nicht tut.",
+        "tags": [
+          "Tsundere",
+          "Sprecherin",
+          "Perfektionistin",
+          "Jura",
+          "Zimmer Nr. 1"
+        ],
+        "coverAlt": "Rin mit dem Logbuch im Badezimmer des Wohnheims",
+        "gallery": [
+          {
+            "alt": "Rin mit dem Logbuch im Badezimmer des Wohnheims",
+            "caption": "Haltung „Stillgestanden“, das Logbuch der Sprecherin, das für jeden Anlass eine Spalte hat."
+          },
+          {
+            "alt": "Rin zu Hause beim Führen ihres Logbuchs",
+            "caption": "Zu Hause – ein schiefer Pferdeschwanz und ein selbstgemachtes T-Shirt mit der Aufschrift „Regeln sind nicht dazu da, gebrochen zu werden“."
+          },
+          {
+            "alt": "Rin im Badezimmer, bedeckt ihr Gesicht mit den Händen",
+            "caption": "Die Regeln lehren dich nicht, was du tun sollst, wenn jemand im ungünstigsten Moment an die Duschtür klopft. Ihr Gesicht brennt – und das liegt definitiv nicht am Dampf."
+          },
+          {
+            "alt": "Rin betrachtet ihr Spiegelbild",
+            "caption": "Das Spiegelbild zeigt, was sie so sehr hinter ihrem Logbuch zu verbergen versucht: Verlegenheit und einen völligen Kontrollverlust."
+          },
+          {
+            "alt": "Rin bedeckt ihre Brust mit einem Handtuch",
+            "caption": "„D-denk ja nicht an irgendwas! Das ist nur ein Handtuch. Und es ist nicht für fremde Augen bestimmt.“"
+          },
+          {
+            "alt": "Rin zeigt mit dem Finger auf die Tür",
+            "caption": "Regel eins: Verlasse das Badezimmer. Regel zwei: Vergiss alles, was du gerade gesehen hast. Regel drei: Wage es nicht zu lächeln."
+          },
+          {
+            "alt": "Rin im Waschraum mit einem Dokument in der Hand",
+            "caption": "Selbst in dieser Situation gelang es ihr, eine Vorschrift zu finden und sie sorgfältig zu studieren. Eine Sprecherin ist eine Sprecherin."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Alter",
+            "value": "22"
+          },
+          {
+            "label": "Studienjahr",
+            "value": "4. Jahr, Juristische Fakultät"
+          },
+          {
+            "label": "Zimmer",
+            "value": "Nr. 1"
+          },
+          {
+            "label": "Größe",
+            "value": "168 cm"
+          },
+          {
+            "label": "Rolle im Wohnblock",
+            "value": "Sprecherin des Wohnblocks, inoffizielle „Verwaltung“"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persönlichkeit",
+            "paragraphs": [
+              "Eine Perfektionistin und Kontrolleurin: Ihre Zeitpläne haben Versionsnummern („3.1“), ihr Logbuch hat Spalten, und das „Erfassungsblatt Nr. 16“ bleibt hartnäckig, ja fast schon beleidigend leer.",
+              "Gerecht bis zur Weißglut: Sie bestraft ihre besten Freundinnen und sich selbst. Sie wird die Einzige sein, die den neuen Bewohner vor der Verwaltung verteidigt – „weil es falsch ist“, und nicht, weil er es ist.",
+              "Eine Tsundere: Sie kümmert sich durch Vorschriften – einen „individuellen Zeitplan“, Tee „auf Restbasis“ – und streitet alles ab. Ein Kompliment beschert dir rote Ohren und eine mündliche Verwarnung. Kontrolle ist ihre Rüstung: Sie fürchtet, dass ohne Regeln alles zusammenbricht – und es ihre Schuld sein wird."
+            ]
+          },
+          {
+            "title": "Aussehen",
+            "paragraphs": [
+              "168 cm groß, schlank, mit einer Haltung, die „Stillgestanden!“ sagt. Dunkelkastanienbraunes Haar bis zu den Schulterblättern: in der Öffentlichkeit ein glatter Dutt, zu Hause ein schiefer Pferdeschwanz. Graue Augen hinter einer dünnen rechteckigen Brille.",
+              "In der Öffentlichkeit – ein Hemd und das Abzeichen der Sprecherin. Zu Hause – Jogginghose und ein selbstgemachtes T-Shirt mit der Aufschrift „Regeln sind nicht dazu da, gebrochen zu werden“. Nie ohne ihr Logbuch; wenn sie nachdenkt, tippt sie mit dem Stift."
+            ]
+          },
+          {
+            "title": "Sprechweise",
+            "paragraphs": [
+              "Ein gleichmäßiger, tiefer Ton: Sie schreit nie – sie senkt ihre Stimme. Beamtenjargon und Nummerierungen sogar im Alltag: „Punkt eins“, „notiert“, „das ist nicht persönlich – das ist die Vorschrift“.",
+              "Wenn sie verlegen ist, wird ihr Sprechen schneller, die Punkte vermehren sich und ein „D-denk ja nicht an irgendwas!“ rutscht heraus."
+            ]
+          },
+          {
+            "title": "Hintergrund",
+            "paragraphs": [
+              "Tochter eines Militärs und einer Verwalterin. Als sie im ersten Jahr Etagenaufsicht hatte, musste sie für die Nachtparty eines anderen geradestehen – seitdem bedeuten Regeln für sie Sicherheit.",
+              "Sie wurde einstimmig zur Sprecherin gewählt. Einschließlich der Stimmen derer, die für jene Nacht verantwortlich waren."
+            ]
+          },
+          {
+            "title": "Rolle in der STUDENT LIFE-Geschichte",
+            "paragraphs": [
+              "Offiziell bist du „Störer Nr. 16“ und „eine organisatorische Katastrophe mit einem Gesicht, das Besprechungen stört“. Tatsächlich wurdest du auf den ersten Blick als „irritierender Faktor“ eingestuft – was sie natürlich niemals laut sagen wird.",
+              "Ihr Konflikt ist einfach und unmöglich: Sympathie zuzugeben bedeutet zuzugeben, dass die jahrelange totale Kontrolle doch nicht so notwendig war."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Es gibt keine Fragen, die es nicht gibt. Es gibt die, die sie erst nach dem Verstoß stellen.“"
+        },
+        "relationships": [
+          {
+            "type": "Bewohnerin von Zimmer Nr. 3",
+            "description": "Ein „nächtlicher Risikofaktor“: Die Ruhezeiten richten sich offiziell nach der „allgemeinen Auslastung“ – tatsächlich aber nach ihren Marathons. Verstöße werden erfasst, haben aber seltsamerweise nie Konsequenzen."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "A Blank Page",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "Violation No. 16",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "After Ten",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "It's Not Personal",
+            "artist": "Kobayashi Rin"
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Die Gruppenkarte",
+      "subtitle": "Der ganze Wohnblock. Eine Geschichte.",
+      "description": "Das Finale der Serie: Eine Multi-Charakter-Karte, die alle Heldinnen von STUDENT LIFE in einem einzigen Szenario vereint. Sechzehn Zimmer, eine Küche, ein Dienstplan – und du mittendrin. Interagiere gemeinsam mit den Heldinnen: Die Allianzen, Konflikte und Geheimnisse des Wohnblocks bleiben bestehen.",
+      "coverAlt": "Die Nachtküche des Wohnblocks – der Gemeinschaftsraum des Wohnheims"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Eine Charakterkartenserie",
+      "description": "Geschichten, die im Wohnheim der besten Universität des Landes beginnen. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

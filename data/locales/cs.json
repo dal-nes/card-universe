@@ -1,0 +1,384 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Příběhy, které začínají na kolejích",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Všechny série",
+    "home": "Domů",
+    "characters": "Postavy",
+    "about": "O sérii",
+    "group": "Společná karta",
+    "settings": "Nastavení",
+    "openMenu": "Otevřít menu",
+    "closeMenu": "Zavřít menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Seznámit se",
+    "toCatalog": "Katalog postav",
+    "aboutSeries": "Zjistit o sérii",
+    "startChat": "Chatovat s postavou",
+    "startChatGroup": "Chatovat s celým blokem",
+    "chatUnavailable": "Odkaz se objeví později",
+    "back": "Zpět k postavám",
+    "backHome": "Zpět domů",
+    "openPage": "Otevřít stránku",
+    "close": "Zavřít"
+  },
+  "status": {
+    "available": "Dostupná",
+    "coming-soon": "Již brzy",
+    "releasedOn": "Vydána",
+    "releaseOn": "Vydání",
+    "under-review": "Ke schválení"
+  },
+  "hub": {
+    "kicker": "Vesmír",
+    "title": "Karetní série",
+    "subtitle": "Vyberte si příběh, který chcete pokračovat."
+  },
+  "home": {
+    "heroKicker": "Série karet postav",
+    "heroSubtitle": "Patnáct spolubydlících, jeden blok a čtyři a půl roku před námi.",
+    "heroText": "Dostal ses na nejlepší univerzitu v zemi — a kvůli nedostatku míst tě ubytovali na dívčí koleji. Každá karta v sérii je dalším příběhem tohoto bloku: nová setkání, komické situace a postavy, jejichž životy se prolínají.",
+    "aboutTitle": "Jeden vesmír, mnoho příběhů",
+    "aboutText": "STUDENT LIFE není jen soubor samostatných karet. Všechny hrdinky žijí ve stejném bloku dívčí koleje: sdílejí kuchyň, rozpis sprchování a pondělní schůzky. Každá má svou vlastní povahu, zvyky a tajemství — ale jejich příběhy se protínají. Seznamte se s nimi jeden po druhém a ve finále série spojte celý blok do jedné společné karty.",
+    "catalogTitle": "Postavy série",
+    "catalogSubtitle": "Každá karta je malá událost uvnitř jednoho velkého příběhu",
+    "timelineTitle": "Harmonogram vydání",
+    "timelineText": "Během měsíce se k sérii připojují nové hrdinky a 20. listopadu dorazí závěrečná multi-postavová karta.",
+    "timelineExpand": "Zobrazit harmonogram",
+    "timelineCollapse": "Skrýt harmonogram",
+    "groupTeaserTitle": "Finále série — společná karta",
+    "groupTeaserText": "Všechny hrdinky STUDENT LIFE v jediném scénáři: spojenectví, konflikty a tajemství bloku — v jednom příběhu, kde s nimi můžete interagovat společně.",
+    "groupTeaserButton": "Více o společné kartě",
+    "charactersCount": "karet v sérii",
+    "availableCount": "již k dispozici"
+  },
+  "character": {
+    "cardNumber": "Karta č.",
+    "aboutTitle": "Seznámení",
+    "factsTitle": "Stručně",
+    "galleryTitle": "Galerie",
+    "galleryEmpty": "Obrázky se brzy objeví. Obálka je zde — zbytek autor doplní později.",
+    "musicTitle": "Hudba postavy",
+    "musicEmpty": "Pro tuto hrdinku zatím nebyly přidány žádné skladby. Jakmile se objeví, přehrávač zde ožije.",
+    "relationsTitle": "Vazby v bloku",
+    "finalTitle": "Připraveni se setkat?",
+    "finalText": "Otevřete kartu na platformě a začněte svůj příběh — blok už ví, že jste se nastěhovali.",
+    "notFound": "Postava nenalezena. Karta možná ještě nebyla vydána — nebo je odkaz zastaralý.",
+    "loadError": "Nepodařilo se načíst data postavy. Zkontrolujte připojení a zkuste to znovu."
+  },
+  "group": {
+    "membersTitle": "Členky společné karty",
+    "membersText": "Seznam se sestavuje automaticky z vydaných karet série.",
+    "comingText": "Karta dorazí ve finále série. Do té doby se seznamte s hrdinkami jednotlivě.",
+    "releaseLabel": "Datum vydání"
+  },
+  "settings": {
+    "title": "Nastavení zobrazení",
+    "theme": "Téma",
+    "themeLight": "Světlé",
+    "themeDark": "Tmavé",
+    "palette": "Barevná paleta",
+    "paletteClassic": "Univerzitní klasika",
+    "palettePastel": "Pastelová",
+    "paletteRose": "Růžovo-fialová",
+    "paletteCold": "Chladná akademická",
+    "fontSize": "Velikost textu",
+    "language": "Jazyk",
+    "reset": "Obnovit výchozí nastavení"
+  },
+  "player": {
+    "play": "Přehrát",
+    "pause": "Pozastavit",
+    "next": "Další skladba",
+    "prev": "Předchozí skladba",
+    "volume": "Hlasitost",
+    "loading": "Načítání…",
+    "error": "Nepodařilo se načíst audio",
+    "playlist": "Seznam skladeb",
+    "empty": "Zatím nebyly přidány žádné skladby"
+  },
+  "gallery": {
+    "open": "Otevřít obrázek",
+    "prev": "Předchozí obrázek",
+    "next": "Další obrázek",
+    "counter": "{current} z {total}"
+  },
+  "footer": {
+    "note": "Nezávislý fanouškovský projekt. Období série: 20. října — 20. listopadu 2026.",
+    "hubNote": "Vítejte ve vesmíru STUDENT LIFE. Zde se objeví nové série a příběhy.",
+    "scheduleTitle": "Z deníku bloku",
+    "scheduleItems": "Ticho po 22:00 · Služby podle rozpisu · Sprchy podle harmonogramu · Klepat. Vždy. Všude."
+  },
+  "errors": {
+    "dataLoad": "Nepodařilo se načíst data. Ujistěte se, že je web spuštěn přes místní server (viz README).",
+    "imageMissing": "Obrázek není k dispozici",
+    "badLink": "Neplatný odkaz"
+  },
+  "a11y": {
+    "skipToContent": "Přeskočit na obsah"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — „Spící hráčka“",
+        "slogan": "Žije po půlnoci. Skládá zkoušky, aniž by vstala z postele.",
+        "shortDescription": "Noční obyvatel pokoje č. 3: hodnocení v noci, jedničky ve dne a káva jako plnohodnotné jídlo. Na vaše první setkání vzpomíná bez nadšení: byla jen v tričku. Zapamatoval sis ji — ze stejného důvodu.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Hráčka",
+          "Noční režim",
+          "Dota 2",
+          "Pokoj č. 3"
+        ],
+        "coverAlt": "Yuna v noční kuchyni s hrnkem kávy",
+        "gallery": [
+          {
+            "alt": "Prázdná noční kuchyně bloku",
+            "caption": "23:47. Společná kuchyně se topí v pološeru — jen žárovka nad sporákem."
+          },
+          {
+            "alt": "Yuna vychází z pokoje č. 3",
+            "caption": "Tričko „mid or feed“, hrnek „neprobuď mě“ a naprostý klid člověka, který nečekal hosty."
+          },
+          {
+            "alt": "Yuna se natahuje pro kávu do poličky",
+            "caption": "Sklenice s kávou žije na horní poličce. To je pro děj důležité."
+          },
+          {
+            "alt": "Yuna ztuhne, když si všimne cizince",
+            "caption": "Spící mozek pomalu skládá dvě a dvě: živý člověk, kluk, kuchyně, ona — v srdíčkách."
+          },
+          {
+            "alt": "Z pokoje se ozývá zvuk nalezené hry",
+            "caption": "Dota 2 vyžaduje potvrzení. Uvnitř Yuny bojují tři touhy — a vyhrává kompromis."
+          },
+          {
+            "alt": "Yuna ustupuje ke dveřím a tiskne si hrnek",
+            "caption": "„Stůj tady dvě minuty… a zapomeň na všechno, co jsi viděl. Hlavně na ta srdíčka.“"
+          },
+          {
+            "alt": "Hrozivé, ale ospalé gesto u dveří",
+            "caption": "„Pokud jsi maniak — vzbudím spolubydlící, jsou zlé. Hlavně předsedkyně. To je vše. Nehýbej se.“"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "20"
+          },
+          {
+            "label": "Ročník",
+            "value": "3. ročník"
+          },
+          {
+            "label": "Pokoj",
+            "value": "č. 3"
+          },
+          {
+            "label": "Výška",
+            "value": "160 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Skryté „eso“ bloku"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Povaha",
+            "paragraphs": [
+              "Lenost dovedená k genialitě: Yuna optimalizuje vše, co lze udělat vleže, a drobné úkoly deleguje — což je u ní znamením nejvyšší důvěry.",
+              "Flegmatik: panikaří pomalu a sarkasticky, stydí se s několikahodinovým zpožděním, zlobí se líně. Ale tajně se stará: přikryje tě dekou a odvrátí se, nechá jídlo „protože uvařila příliš mnoho“ — neuvařila.",
+              "Nenápadně kompetentní: vysoké hodnocení v noci, skvělé známky ve dne a na zkoušky „zapomíná“. Osobně tichá, v textu mnohem odvážnější: v noci píše to, co ve dne popírá."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Výška 160 cm. Tmavé vlasy stažené do věčně křivého drdolu, velké napůl zavřené oči barvy kávy — s podočálivými stíny, bledá pleť.",
+              "Doma — obrovská trička s merchem Dota 2 a různé ponožky. Venku — mikina o tři čísla větší a sluchátka na krku."
+            ]
+          },
+          {
+            "title": "Způsob řeči",
+            "paragraphs": [
+              "Tichý, mírně chraplavý hlas. Líné fráze s polykáním koncovek, zívání uprostřed slova, hráčský slang v každodenním životě: „mám málo HP“ znamená, že je unavená. Rozpaky skrývá za sebeironií, tiše nadává na hru a na kávovar."
+            ]
+          },
+          {
+            "title": "Historie",
+            "paragraphs": [
+              "Bratr ji posadil k Dota 2 ve dvanácti letech; v patnácti ho předčila v hodnocení. Rodiče pracovali na směny — odtud noční režim a zvyk žít přes obrazovku.",
+              "V bloku se vytvořila jednoduchá rovnováha: nikdo ji neobtěžuje — ona neobtěžuje nikoho."
+            ]
+          },
+          {
+            "title": "Role v příběhu STUDENT LIFE",
+            "paragraphs": [
+              "Noční svět Yuny je vyladěná samota, do které náhle vstoupil nový obyvatel bloku. Teď se nemůže rozhodnout, zda ho má ze svého rozvrhu vyškrtnout — nebo ho do něj zapsat.",
+              "Zpočátku jsi pro ni „zdroj hluku a svědek incidentu se srdíčky“. Otevírá se skrze respektované hranice a drobnou péči, ne skrze velká gesta. Nahlas sympatie nepřizná — ale v noci píše."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Dělit se s tebou o kávu je mimochodem nejvyšší stupeň důvěry v mém hodnotovém systému. Výš je už jen heslo k účtu.“"
+        },
+        "relationships": [
+          {
+            "type": "Předsedkyně bloku",
+            "description": "Podle Yuny je předsedkyně „zlá, obzvlášť ráno“. Tiché hodiny jsou přizpůsobeny jejím maratonům a malá porušení jsou jí odpuštěna — podle nepotvrzených zpráv."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — „Ticho po desáté“",
+        "slogan": "Pravidlo jedna: klepe se. Pravidlo dvě: ticho po desáté.",
+        "shortDescription": "Předsedkyně bloku a jeho neoficiální administrativa: rozpisy mají verze, deník má kolonky a na tebe je založen „záznamový list č. 16“, který je urážlivě prázdný. Jediná, kdo by mohl dosáhnout tvého vystěhování… a jediná, kdo to nedělá.",
+        "tags": [
+          "Tsundere",
+          "Předsedkyně",
+          "Perfekcionistka",
+          "Práva",
+          "Pokoj č. 1"
+        ],
+        "coverAlt": "Rin s deníkem v koupelně na koleji",
+        "gallery": [
+          {
+            "alt": "Rin s deníkem v koupelně na koleji",
+            "caption": "Vzpřímené držení těla „v pozoru“, odznak předsedkyně a deník, který má kolonku pro každou příležitost."
+          },
+          {
+            "alt": "Rin doma při vedení deníku",
+            "caption": "Doma — křivý culík a tričko s ručně psaným nápisem „pravidla nejsou stvořena k porušování“."
+          },
+          {
+            "alt": "Rin v koupelně, zakrývá si obličej rukama",
+            "caption": "Pravidla neučí, co dělat, když někdo zaklepe na dveře od sprchy v tu nejnevhodnější chvíli. Tváře jí hoří — a rozhodně to není párou."
+          },
+          {
+            "alt": "Rin se dívá na svůj odraz v zrcadle",
+            "caption": "Odraz ukazuje to, co se tak snaží schovat za deníkem: rozpaky a naprostou ztrátu kontroly."
+          },
+          {
+            "alt": "Rin si zakrývá hruď ručníkem",
+            "caption": "„N-nemysli si nic! Je to jen ručník. A není určen pro cizí oči.“"
+          },
+          {
+            "alt": "Rin ukazuje prstem na dveře",
+            "caption": "Pravidlo jedna: jdi z koupelny. Pravidlo dvě: zapomeň na všechno, co jsi právě viděl. Pravidlo tři: neopovažuj se usmívat."
+          },
+          {
+            "alt": "Rin v prádelně s dokumentem v ruce",
+            "caption": "I v takové situaci si dokázala najít předpisy a pozorně je studovat. Předsedkyně je předsedkyně."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "22"
+          },
+          {
+            "label": "Ročník",
+            "value": "4. ročník, právnická fakulta"
+          },
+          {
+            "label": "Pokoj",
+            "value": "č. 1"
+          },
+          {
+            "label": "Výška",
+            "value": "168 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Předsedkyně bloku, neoficiální „administrativa“"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Povaha",
+            "paragraphs": [
+              "Perfekcionistka-kontrolorka: její rozvrhy mají verze („3.1“), její deník má kolonky a „záznamový list č. 16“ zůstává tvrdošíjně, urážlivě prázdný.",
+              "Spravedlivá k vzteku: pokutuje své nejlepší přátele i sebe. Bude jediná, kdo se před administrativou zastane nového obyvatele — „protože je to špatně“, ne proto, že je to on.",
+              "Tsundere: stará se prostřednictvím předpisů — „individuální rozvrh“, čaj „na zbytkové bázi“ — a všechno popírá. Kompliment ti vynese rudé uši a slovní varování. Kontrola je její brnění: bojí se, že bez pravidel se všechno zhroutí — a bude to její vina."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Výška 168 cm, štíhlá, držení těla „v pozoru“. Tmavě kaštanové vlasy po lopatky: na veřejnosti hladký drdol, doma křivý culík. Šedé oči za tenkými obdélníkovými brýlemi.",
+              "Na veřejnosti — košile a odznak předsedkyně. Doma — tepláky a tričko s ručně psaným nápisem „pravidla nejsou stvořena k porušování“. Nikdy bez deníku; když přemýšlí, ťuká propiskou."
+            ]
+          },
+          {
+            "title": "Způsob řeči",
+            "paragraphs": [
+              "Vyrovnaný nízký tón: nikdy nekřičí — snižuje hlas. Byrokratický jazyk a číslování i v každodenním životě: „pravidlo jedna“, „poznamenejme si“, „není to osobní — je to protokol“.",
+              "Při rozpacích se její řeč zrychluje, paragrafy se množí a proklouzne „n-nemysli si nic!“."
+            ]
+          },
+          {
+            "title": "Historie",
+            "paragraphs": [
+              "Dcera vojáka a správce. V prvním ročníku jako dozorce na patře nesla odpovědnost za cizí noční párty — od té doby pro ni pravidla znamenají bezpečí.",
+              "Předsedkyní ji zvolili jednomyslně. Včetně hlasů těch, kdo tu noc způsobili."
+            ]
+          },
+          {
+            "title": "Role v příběhu STUDENT LIFE",
+            "paragraphs": [
+              "Oficiálně jsi „narušitel č. 16“ a „organizační katastrofa s tváří, která narušuje porady“. Ve skutečnosti jsi byl klasifikován jako „rušivý faktor“ na první pohled — což samozřejmě nikdy nahlas neřekne.",
+              "Její konflikt je prostý a nemožný: přiznat sympatie znamená přiznat, že roky totální kontroly nebyly tak docela nutné."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Neexistuje nic jako žádné otázky. Existují ti, kteří je položí až po porušení předpisů.“"
+        },
+        "relationships": [
+          {
+            "type": "Obyvatelka pokoje č. 3",
+            "description": "„Noční rizikový faktor“: tiché hodiny jsou oficiálně sestaveny „s ohledem na celkovou vytíženost“, ale ve skutečnosti kvůli jejím maratonům. Porušení se zaznamenávají, ale z nějakého důvodu nemají následky."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "A Blank Page",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "Violation No. 16",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "After Ten",
+            "artist": "Kobayashi Rin"
+          },
+          {
+            "title": "It's Not Personal",
+            "artist": "Kobayashi Rin"
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Společná karta",
+      "subtitle": "Celý blok. Jeden příběh.",
+      "description": "Finále série: multi-postavová karta spojující všechny hrdinky STUDENT LIFE v jediném scénáři. Šestnáct pokojů, jedna kuchyně, rozpis služeb — a vy uprostřed toho všeho. Interagujte s hrdinkami společně: spojenectví, konflikty a tajemství bloku nikam nezmizí.",
+      "coverAlt": "Noční kuchyně bloku — společenská místnost na koleji"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Série karet postav",
+      "description": "Příběhy, které začínají na koleji nejlepší univerzity v zemi. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

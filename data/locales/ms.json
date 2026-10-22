@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Kisah yang bermula di asrama",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Semua Siri",
+    "home": "Utama",
+    "characters": "Watak",
+    "about": "Tentang siri",
+    "group": "Kad Kumpulan",
+    "settings": "Tetapan",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Kenali dia",
+    "toCatalog": "Layari watak",
+    "aboutSeries": "Tentang siri",
+    "startChat": "Sembang dengan watak",
+    "startChatGroup": "Sembang dengan seluruh blok",
+    "chatUnavailable": "Pautan akan datang",
+    "back": "Kembali ke watak",
+    "backHome": "Kembali ke utama",
+    "openPage": "Buka halaman",
+    "close": "Tutup"
+  },
+  "status": {
+    "available": "Tersedia",
+    "coming-soon": "Akan datang",
+    "releasedOn": "Telah dikeluarkan",
+    "releaseOn": "Pelancaran",
+    "under-review": "Dalam Semakan"
+  },
+  "hub": {
+    "kicker": "Alam Semesta",
+    "title": "Siri Kad",
+    "subtitle": "Pilih kisah yang ingin anda teruskan."
+  },
+  "home": {
+    "heroKicker": "Siri kad watak",
+    "heroSubtitle": "Lima belas teman sebilik, satu blok, dan empat setengah tahun mendatang.",
+    "heroText": "Anda diterima masuk ke universiti terbaik di negara ini — dan kerana kekurangan bilik, anda ditempatkan di asrama wanita. Setiap kad dalam siri ini adalah kisah lain dari blok ini: pertemuan baru, situasi komik, dan watak-watak yang kehidupan mereka saling berkait.",
+    "aboutTitle": "Satu alam semesta, banyak kisah",
+    "aboutText": "STUDENT LIFE bukanlah satu set kad yang berdiri sendiri. Semua heroin tinggal di blok asrama wanita yang sama: mereka berkongsi dapur, jadual mandi, dan mesyuarat hari Isnin. Setiap seorang mempunyai perwatakan, tabiat, dan rahsia tersendiri — tetapi kisah mereka bersilang. Kenali mereka satu demi satu, dan pada final siri ini, satukan seluruh blok dalam satu kad kumpulan.",
+    "catalogTitle": "Watak Siri",
+    "catalogSubtitle": "Setiap kad adalah peristiwa kecil di dalam satu kisah besar",
+    "timelineTitle": "Jadual Pelancaran",
+    "timelineText": "Heroin baru menyertai siri ini sepanjang bulan, dan pada 20 November kad multi-watak terakhir akan tiba.",
+    "timelineExpand": "Tunjuk jadual",
+    "timelineCollapse": "Sembunyi jadual",
+    "groupTeaserTitle": "Final siri — kad kumpulan",
+    "groupTeaserText": "Setiap heroin STUDENT LIFE dalam satu senario: pakatan, konflik, dan rahsia blok — dalam satu kisah di mana anda boleh berinteraksi dengan mereka bersama-sama.",
+    "groupTeaserButton": "Lagi lanjut tentang kad kumpulan",
+    "charactersCount": "kad dalam siri",
+    "availableCount": "tersedia sekarang"
+  },
+  "character": {
+    "cardNumber": "Kad No.",
+    "aboutTitle": "Mengenali lebih dekat",
+    "factsTitle": "Ringkasan",
+    "galleryTitle": "Galeri",
+    "galleryEmpty": "Imej akan datang tidak lama lagi. Muka depannya sudah ada di sini — penulis akan menambah selebihnya kemudian.",
+    "musicTitle": "Muzik Watak",
+    "musicEmpty": "Belum ada lagu yang ditambah untuk heroin ini. Pemain akan berfungsi di sini sebaik sahaja ia muncul.",
+    "relationsTitle": "Hubungan di blok",
+    "finalTitle": "Bersedia untuk berjumpa dengannya?",
+    "finalText": "Buka kad di platform dan mulakan kisah anda — blok sudah tahu anda telah berpindah masuk.",
+    "notFound": "Watak tidak dijumpai. Kad mungkin belum dikeluarkan — atau pautan sudah lapuk.",
+    "loadError": "Gagal memuatkan data watak. Sila semak sambungan anda dan cuba lagi."
+  },
+  "group": {
+    "membersTitle": "Ahli Kad Kumpulan",
+    "membersText": "Senarai ini dibina secara automatik daripada kad siri yang telah dikeluarkan.",
+    "comingText": "Kad ini tiba pada final siri. Sehingga itu, kenali heroin-heroin ini satu demi satu.",
+    "releaseLabel": "Tarikh pelancaran"
+  },
+  "settings": {
+    "title": "Tetapan Paparan",
+    "theme": "Tema",
+    "themeLight": "Cerah",
+    "themeDark": "Gelap",
+    "palette": "Palet Warna",
+    "paletteClassic": "Klasik Kampus",
+    "palettePastel": "Pastel",
+    "paletteRose": "Ros & Violet",
+    "paletteCold": "Akademik Sejuk",
+    "fontSize": "Saiz Teks",
+    "language": "Bahasa",
+    "reset": "Tetapkan semula tetapan"
+  },
+  "player": {
+    "play": "Main",
+    "pause": "Jeda",
+    "next": "Lagu seterusnya",
+    "prev": "Lagu sebelumnya",
+    "volume": "Kelantangan",
+    "loading": "Memuatkan…",
+    "error": "Gagal memuatkan audio",
+    "playlist": "Senarai Lagu",
+    "empty": "Belum ada lagu ditambah"
+  },
+  "gallery": {
+    "open": "Buka imej",
+    "prev": "Imej sebelumnya",
+    "next": "Imej seterusnya",
+    "counter": "{current} daripada {total}"
+  },
+  "footer": {
+    "note": "Projek peminat bebas. Tempoh siri: 20 Oktober — 20 November 2026.",
+    "hubNote": "Selamat datang ke alam semesta STUDENT LIFE. Siri dan kisah baru akan muncul di sini.",
+    "scheduleTitle": "Dari buku log blok",
+    "scheduleItems": "Senyap selepas 10 malam · Tugas mengikut jadual · Mandi mengikut jadual · Ketuk pintu. Sentiasa. Di mana-mana."
+  },
+  "errors": {
+    "dataLoad": "Gagal memuatkan data. Pastikan laman web dihidangkan melalui pelayan tempatan (lihat README).",
+    "imageMissing": "Imej tidak tersedia",
+    "badLink": "Pautan tidak sah"
+  },
+  "a11y": {
+    "skipToContent": "Langkau ke kandungan"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — \"Gamer Mengantuk\"",
+        "slogan": "Hidup selepas tengah malam. Lulus peperiksaan tanpa bangun dari katil.",
+        "shortDescription": "Penghuni malam Bilik No. 3: rating pada waktu malam, gred tertinggi pada waktu siang, dan kopi dikira sebagai hidangan lengkap. Dia mengingati pertemuan pertama anda tanpa teruja: dia hanya memakai kemeja-T. Anda mengingatinya — atas sebab yang sama.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Nokturnal",
+          "Dota 2",
+          "Bilik No. 3"
+        ],
+        "coverAlt": "Yuna di dapur malam dengan secawan kopi",
+        "gallery": [
+          {
+            "alt": "Dapur malam blok yang kosong",
+            "caption": "23:47. Dapur kongsi tenggelam dalam kesuraman — hanya mentol di atas dapur yang menyala."
+          },
+          {
+            "alt": "Yuna keluar dari Bilik No. 3",
+            "caption": "Kemeja-T \"mid or feed\", cawan \"jangan kejutkan saya\", dan ketenangan seseorang yang tidak menjangka tetamu."
+          },
+          {
+            "alt": "Yuna mencapai rak kopi",
+            "caption": "Balang kopi tinggal di rak paling atas. Ini penting untuk plot."
+          },
+          {
+            "alt": "Yuna tercegat melihat orang asing",
+            "caption": "Otaknya yang mengantuk perlahan-lahan mencantumkan kepingan: orang hidup, seorang lelaki, dapur, dia dalam corak hati."
+          },
+          {
+            "alt": "Bunyi perlawanan yang ditemui datang dari biliknya",
+            "caption": "Dota 2 menuntut pengesahan. Tiga keinginan bertarung di dalam dirinya — dan kompromi menang."
+          },
+          {
+            "alt": "Yuna berundur ke pintunya sambil memegang cawan",
+            "caption": "\"Berdiri di sini selama dua minit... dan lupakan semua yang anda lihat. Terutamanya hati itu.\""
+          },
+          {
+            "alt": "Isyarat mengancam (tetapi mengantuk) di pintu",
+            "caption": "\"Jika anda seorang psikopat — saya akan kejutkan teman sebilik saya, mereka garang. Terutamanya ketua blok. Itu sahaja. Jangan bergerak.\""
+          }
+        ],
+        "facts": [
+          {
+            "label": "Umur",
+            "value": "20"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-3"
+          },
+          {
+            "label": "Bilik",
+            "value": "No. 3"
+          },
+          {
+            "label": "Tinggi",
+            "value": "160 cm"
+          },
+          {
+            "label": "Peranan dalam blok",
+            "value": "\"Ace\" tersembunyi blok"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Keperibadian",
+            "paragraphs": [
+              "Kemalasan sehingga ke tahap genius: Yuna mengoptimumkan segala-galanya yang boleh dilakukan sambil berbaring, dan mewakilkan tugasan kecil — yang, daripadanya, adalah tanda kepercayaan tertinggi.",
+              "Seorang flegmatik: dia panik dengan perlahan dan sarkastik, berasa malu dengan kelewatan berjam-jam, marah dengan malas. Namun secara rahsia penyayang: dia akan menyelimutkan anda dan berpaling, meninggalkan makanan \"kerana saya masak terlalu banyak\" — dia tidak memasak.",
+              "Kompeten tanpa disedari: rating tinggi pada waktu malam, gred terbaik pada waktu siang, dan dia \"lupa\" tentang peperiksaan. Pendiam secara peribadi, jauh lebih berani dalam teks: dia menulis perkara pada waktu malam yang dia nafikan pada waktu siang."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "Tinggi 160 cm. Rambut gelap dalam sanggul yang sentiasa senget, mata besar berwarna kopi separuh tertutup dengan bayang-bayang kerana kurang tidur, kulit pucat.",
+              "Di rumah — kemeja-T merchandise Dota 2 yang terlalu besar dan stoking tidak sepadan. Di luar — hoodie tiga saiz lebih besar dan fon kepala di lehernya."
+            ]
+          },
+          {
+            "title": "Gaya pertuturan",
+            "paragraphs": [
+              "Suara perlahan dan sedikit serak. Frasa malas dengan pengakhiran yang ditelan, menguap di tengah-tengah perkataan, slanga gamer dalam kehidupan seharian: \"saya di low HP\" bermaksud letih. Dia menyembunyikan rasa malu di sebalik ironi diri dan diam-diam memaki permainan dan pembuat kopi."
+            ]
+          },
+          {
+            "title": "Latar belakang",
+            "paragraphs": [
+              "Abangnya memperkenalkannya kepada Dota 2 ketika dia berusia dua belas tahun; pada usia lima belas tahun dia telah mengatasi rating abangnya. Ibu bapanya bekerja syif — oleh itu rejim malam dan kehidupan yang dilalui melalui skrin.",
+              "Blok itu menemui keseimbangan yang mudah: tiada siapa mengganggunya, dan dia tidak mengganggu sesiapa."
+            ]
+          },
+          {
+            "title": "Peranan dalam kisah STUDENT LIFE",
+            "paragraphs": [
+              "Dunia malam Yuna adalah kesunyian yang tersusun di mana penduduk baru blok itu tiba-tiba masuk. Sekarang dia tidak dapat memutuskan sama ada untuk memotongnya dari jadualnya — atau menulisnya ke dalamnya.",
+              "Pada mulanya anda adalah \"sumber bunyi dan saksi kejadian hati\". Dia melunak melalui sempadan yang dihormati dan penjagaan kecil, bukan gerak isyarat besar. Dia tidak akan mengakui simpati dengan lantang — tetapi dia menulis pada waktu malam."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Berkongsi kopi saya dengan anda adalah, sebenarnya, tahap kepercayaan tertinggi dalam sistem nilai saya. Di atas itu hanyalah kata laluan akaun saya.\""
+        },
+        "relationships": [
+          {
+            "type": "Ketua blok",
+            "description": "Menurut Yuna, ketua blok itu \"garang, terutamanya pada waktu pagi\". Waktu senyap dibina secara rasmi \"di sekitar penghunian keseluruhan\" — sebenarnya, di sekitar maratonnya. Pelanggaran direkodkan, namun entah bagaimana tidak pernah mempunyai akibat."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — \"Kesunyian Selepas Pukul Sepuluh\"",
+        "slogan": "Peraturan satu: anda mengetuk pintu. Peraturan dua: sunyi selepas pukul sepuluh.",
+        "shortDescription": "Ketua blok dan pentadbiran tidak rasminya: jadual mempunyai nombor versi, buku log mempunyai lajur, dan terdapat \"helaian rekod No. 16\" dengan nama anda di atasnya — degil kosong. Satu-satunya yang boleh menyebabkan anda diusir... dan satu-satunya yang tidak melakukannya.",
+        "tags": [
+          "Tsundere",
+          "Ketua blok",
+          "Perfeksionis",
+          "Fakulti Undang-undang",
+          "Bilik No. 1"
+        ],
+        "coverAlt": "Rin dengan buku lognya di bilik mandi asrama",
+        "gallery": [
+          {
+            "alt": "Rin dengan buku lognya di bilik mandi asrama",
+            "caption": "Postur \"sedia\", lencana ketua blok, dan buku log yang mengandungi senarai untuk setiap majlis."
+          },
+          {
+            "alt": "Rin di rumah, mengekalkan buku lognya",
+            "caption": "Di rumah — ekor kuda senget dan kemeja-T buatan sendiri bertulis \"peraturan tidak dibuat untuk dilanggar\"."
+          },
+          {
+            "alt": "Rin di bilik mandi, menutup wajahnya dengan tangan",
+            "caption": "Peraturan tidak mengajar anda apa yang perlu dilakukan apabila seseorang mengetuk pintu bilik mandi pada saat yang paling buruk. Wajahnya terbakar — dan ia pastinya bukan kerana wap."
+          },
+          {
+            "alt": "Rin melihat pantulannya di cermin",
+            "caption": "Pantulan itu menunjukkan apa yang dia cuba sembunyikan di sebalik buku lognya: rasa malu dan kehilangan kawalan sepenuhnya."
+          },
+          {
+            "alt": "Rin menutup dadanya dengan tuala",
+            "caption": "\"J-jangan fikir macam-macam! Ini hanya tuala. Dan ia bukan untuk mata orang lain.\""
+          },
+          {
+            "alt": "Rin menunding jarinya ke pintu",
+            "caption": "Peraturan satu: keluar dari bilik mandi. Peraturan dua: lupakan semua yang anda baru lihat. Peraturan tiga: jangan berani tersenyum."
+          },
+          {
+            "alt": "Rin di bilik dobi dengan dokumen di tangannya",
+            "caption": "Malah dalam keadaan ini, dia berjaya mencari peraturan dan mengkajinya dengan teliti. Ketua blok tetap ketua blok."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Umur",
+            "value": "22"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-4, fakulti undang-undang"
+          },
+          {
+            "label": "Bilik",
+            "value": "No. 1"
+          },
+          {
+            "label": "Tinggi",
+            "value": "168 cm"
+          },
+          {
+            "label": "Peranan dalam blok",
+            "value": "Ketua blok, \"pentadbiran\" tidak rasmi"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Keperibadian",
+            "paragraphs": [
+              "Seorang pengawal yang perfeksionis: jadualnya mempunyai versi (\"3.1\"), buku lognya mempunyai lajur, dan \"helaian rekod No. 16\" kekal degil, kosong secara menghina.",
+              "Adil sehingga ke tahap kemarahan: dia mendenda kawan baiknya dan dirinya sendiri. Dia akan menjadi satu-satunya yang membela penduduk baru di hadapan pentadbiran — \"kerana ia salah\", bukan kerana ia adalah dia.",
+              "Seorang tsundere: dia mengambil berat melalui peraturan — \"jadual peribadi\", teh \"atas dasar sisa\" — dan menafikan segala-galanya. Pujian membuatkan telinga anda merah dan amaran lisan. Kawalan adalah perisainya: dia takut tanpa peraturan semuanya akan runtuh — dan ia akan menjadi kesalahannya."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "168 cm, langsing, dengan postur yang mengatakan \"sedia!\". Rambut coklat kastanye gelap hingga ke tulang belikat: sanggul licin di khalayak ramai, ekor kuda senget di rumah. Mata kelabu di sebalik cermin mata segi empat tepat yang nipis.",
+              "Di khalayak ramai — kemeja dan lencana ketua blok. Di rumah — seluar track dan kemeja-T buatan sendiri bertulis \"peraturan tidak dibuat untuk dilanggar\". Tidak pernah tanpa buku lognya; apabila berfikir, dia mengetuk pennya."
+            ]
+          },
+          {
+            "title": "Gaya pertuturan",
+            "paragraphs": [
+              "Nada yang sekata dan rendah: dia tidak pernah menjerit — dia merendahkan suaranya. Bahasa birokrasi dan penomboran walaupun dalam kehidupan seharian: \"peraturan satu\", \"dicatat untuk rekod\", \"ini bukan peribadi — ini protokol\".",
+              "Apabila gelisah, pertuturannya menjadi cepat, klausa bertambah, dan \"j-jangan fikir macam-macam!\" terlepas keluar."
+            ]
+          },
+          {
+            "title": "Latar belakang",
+            "paragraphs": [
+              "Anak perempuan seorang tentera dan pengurus bekalan. Pada tahun pertamanya, sebagai pemantau tingkat, dia bertanggungjawab atas pesta malam orang lain — sejak itu, peraturan bermakna keselamatan baginya.",
+              "Dia dipilih sebagai ketua blok secara sebulat suara. Termasuk undi mereka yang bertanggungjawab pada malam itu."
+            ]
+          },
+          {
+            "title": "Peranan dalam kisah STUDENT LIFE",
+            "paragraphs": [
+              "Secara rasmi, anda adalah \"pelanggar No. 16\" dan \"bencana organisasi dengan wajah yang mengganggu mesyuarat\". Sebenarnya, anda diklasifikasikan sebagai \"faktor yang menjengkelkan\" pada pandangan pertama — yang sudah tentu tidak akan dia katakan dengan lantang.",
+              "Konfliknya mudah dan mustahil: mengakui simpati bermakna mengakui bahawa bertahun-tahun kawalan total tidak begitu diperlukan."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Tiada yang dipanggil 'tiada soalan'. Ada mereka yang bertanya selepas pelanggaran berlaku.\""
+        },
+        "relationships": [
+          {
+            "type": "Penghuni Bilik No. 3",
+            "description": "\"Faktor risiko malam\": waktu senyap dibina secara rasmi \"di sekitar penghunian keseluruhan\" — sebenarnya, di sekitar maratonnya. Pelanggaran direkodkan, namun entah bagaimana tidak pernah mempunyai akibat."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Kad Kumpulan",
+      "subtitle": "Seluruh blok. Satu kisah.",
+      "description": "Final siri: kad pelbagai watak yang menyatukan setiap heroin STUDENT LIFE dalam satu senario. Enam belas bilik, satu dapur, jadual tugas — dan anda di tengah-tengahnya. Berinteraksi dengan heroin-heroin ini bersama-sama: pakatan, konflik, dan rahsia blok turut serta.",
+      "coverAlt": "Dapur malam blok — ruang tamu asrama"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Siri kad watak",
+      "description": "Kisah yang bermula di asrama universiti terbaik di negara ini. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

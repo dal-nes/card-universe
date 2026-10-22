@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Tarinoita, jotka alkavat asuntolasta",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Kaikki sarjat",
+    "home": "Etusivu",
+    "characters": "Hahmot",
+    "about": "Tietoa sarjasta",
+    "group": "Ryhmäkortti",
+    "settings": "Asetukset",
+    "openMenu": "Avaa valikko",
+    "closeMenu": "Sulje valikko",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Tapaa hänet",
+    "toCatalog": "Selaa hahmoja",
+    "aboutSeries": "Tietoa sarjasta",
+    "startChat": "Keskustele hahmon kanssa",
+    "startChatGroup": "Keskustele koko ryhmän kanssa",
+    "chatUnavailable": "Linkki tulossa pian",
+    "back": "Takaisin hahmoihin",
+    "backHome": "Takaisin etusivulle",
+    "openPage": "Avaa sivu",
+    "close": "Sulje"
+  },
+  "status": {
+    "available": "Saatavilla",
+    "coming-soon": "Tulossa pian",
+    "releasedOn": "Julkaistu",
+    "releaseOn": "Julkaisu",
+    "under-review": "Tarkistettavana"
+  },
+  "hub": {
+    "kicker": "Universumi",
+    "title": "Korttisarjat",
+    "subtitle": "Valitse tarina, jota haluat jatkaa."
+  },
+  "home": {
+    "heroKicker": "Hahmokorttisarja",
+    "heroSubtitle": "Viisitoista kämppäkaveria, yksi asuntola ja neljä ja puoli vuotta edessä.",
+    "heroText": "Pääsit maan parhaaseen yliopistoon — ja tilanpuutteen vuoksi sinut majoitettiin naisten asuntolaan. Jokainen sarjan kortti on uusi tarina tästä asuntolasta: uusia kohtaamisia, koomisia tilanteita ja hahmoja, joiden elämät kietoutuvat yhteen.",
+    "aboutTitle": "Yksi universumi, monta tarinaa",
+    "aboutText": "STUDENT LIFE ei ole kokoelma erillisiä kortteja. Kaikki sankarittaret asuvat samassa naisten asuntolassa: he jakavat keittiön, suihkuvuorot ja maanantain kokoukset. Jokaisella on oma luonteensa, tapansa ja salaisuutensa — mutta heidän tarinansa leikkaavat toisiaan. Tapaa heidät yksitellen ja tuo sarjan finaalissa koko asuntola yhteen yhdelle ryhmäkortille.",
+    "catalogTitle": "Sarjan hahmot",
+    "catalogSubtitle": "Jokainen kortti on pieni tapahtuma yhden suuren tarinan sisällä",
+    "timelineTitle": "Julkaisuaikataulu",
+    "timelineText": "Uusia sankarittaria liittyy sarjaan kuukauden aikana, ja 20. marraskuuta saapuu lopullinen monihahmokortti.",
+    "timelineExpand": "Näytä aikataulu",
+    "timelineCollapse": "Piilota aikataulu",
+    "groupTeaserTitle": "Sarjan finaali — ryhmäkortti",
+    "groupTeaserText": "Jokainen STUDENT LIFEn sankaritar yhdessä skenaariossa: asuntolan liitot, konfliktit ja salaisuudet — yhdessä tarinassa, jossa voit olla vuorovaikutuksessa heidän kanssaan yhdessä.",
+    "groupTeaserButton": "Lisää ryhmäkortista",
+    "charactersCount": "korttia sarjassa",
+    "availableCount": "saatavilla nyt"
+  },
+  "character": {
+    "cardNumber": "Kortti nro",
+    "aboutTitle": "Tutustutaan",
+    "factsTitle": "Lyhyesti",
+    "galleryTitle": "Galleria",
+    "galleryEmpty": "Kuvat tulevat pian. Kansi on jo täällä — tekijä lisää loput myöhemmin.",
+    "musicTitle": "Hahmon musiikki",
+    "musicEmpty": "Tälle sankarittarelle ei ole vielä lisätty kappaleita. Soitin herää täällä henkiin heti, kun ne ilmestyvät.",
+    "relationsTitle": "Yhteydet asuntolassa",
+    "finalTitle": "Valmiina tapaamaan hänet?",
+    "finalText": "Avaa kortti alustalla ja aloita tarinasi — asuntola tietää jo, että muutit sisään.",
+    "notFound": "Hahmoa ei löytynyt. Kortti ei ehkä ole vielä ilmestynyt — tai linkki on vanhentunut.",
+    "loadError": "Hahmotietojen lataaminen epäonnistui. Tarkista yhteytesi ja yritä uudelleen."
+  },
+  "group": {
+    "membersTitle": "Ryhmäkortin jäsenet",
+    "membersText": "Luettelo rakennetaan automaattisesti sarjan julkaistuista korteista.",
+    "comingText": "Kortti saapuu sarjan finaalissa. Siihen asti tutustu sankarittariin yksitellen.",
+    "releaseLabel": "Julkaisupäivä"
+  },
+  "settings": {
+    "title": "Näyttöasetukset",
+    "theme": "Teema",
+    "themeLight": "Vaalea",
+    "themeDark": "Tumma",
+    "palette": "Väripaletti",
+    "paletteClassic": "Kampuksen klassikko",
+    "palettePastel": "Pastelli",
+    "paletteRose": "Ruusu ja violetti",
+    "paletteCold": "Kylmä akateeminen",
+    "fontSize": "Tekstin koko",
+    "language": "Kieli",
+    "reset": "Palauta oletusasetukset"
+  },
+  "player": {
+    "play": "Toista",
+    "pause": "Tauko",
+    "next": "Seuraava kappale",
+    "prev": "Edellinen kappale",
+    "volume": "Äänenvoimakkuus",
+    "loading": "Ladataan…",
+    "error": "Äänen lataaminen epäonnistui",
+    "playlist": "Kappalelista",
+    "empty": "Kappaleita ei ole vielä lisätty"
+  },
+  "gallery": {
+    "open": "Avaa kuva",
+    "prev": "Edellinen kuva",
+    "next": "Seuraava kuva",
+    "counter": "{current} / {total}"
+  },
+  "footer": {
+    "note": "Riippumaton faniprojekti. Sarjan ajanjakso: 20. lokakuuta — 20. marraskuuta 2026.",
+    "hubNote": "Tervetuloa STUDENT LIFE -universumiin. Uudet sarjat ja tarinat ilmestyvät tänne.",
+    "scheduleTitle": "Asuntolan lokikirjasta",
+    "scheduleItems": "Hiljaisuus klo 22 jälkeen · Tehtävät vuorolistan mukaan · Suihkut aikataulun mukaan · Koputa. Aina. Kaikkialla."
+  },
+  "errors": {
+    "dataLoad": "Tietojen lataaminen epäonnistui. Varmista, että sivusto tarjoillaan paikallisen palvelimen kautta (katso README).",
+    "imageMissing": "Kuva ei ole saatavilla",
+    "badLink": "Virheellinen linkki"
+  },
+  "a11y": {
+    "skipToContent": "Siirry sisältöön"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — «Unelias pelaaja»",
+        "slogan": "Elää keskiyön jälkeen. Läpäisee kokeet nousematta sängystä.",
+        "shortDescription": "Huoneen nro 3 yöasukas: luokitus yöllä, parhaat arvosanat päivällä ja kahvi lasketaan täydeksi ateriaksi. Hän muistelee ensimmäistä tapaamistanne ilman riemua: hänellä oli päällään vain t-paita. Sinä muistit hänet — täsmälleen samasta syystä.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Pelaaja",
+          "Yöeläjä",
+          "Dota 2",
+          "Huone nro 3"
+        ],
+        "coverAlt": "Yuna yökeittiössä kahvikupin kanssa",
+        "gallery": [
+          {
+            "alt": "Asuntolan tyhjä yökeittiö",
+            "caption": "23:47. Yhteinen keittiö uppoaa hämärään — vain liesituulettimen lamppu palaa."
+          },
+          {
+            "alt": "Yuna astuu ulos huoneesta nro 3",
+            "caption": "\"mid or feed\" -t-paita, \"älä herätä minua\" -muki ja sellaisen henkilön rauhallisuus, joka ei odottanut vieraita."
+          },
+          {
+            "alt": "Yuna kurottaa kahvihyllylle",
+            "caption": "Kahvipurkki asuu ylähyllyllä. Tämä on juonen kannalta tärkeää."
+          },
+          {
+            "alt": "Yuna jähmettyy huomatessaan vieraan",
+            "caption": "Hänen unelias aivonsa yhdistää hitaasti palaset: elävä ihminen, mies, keittiö, hän sydänkuvioissa."
+          },
+          {
+            "alt": "Huoneesta kuuluu löydetyn ottelun ääni",
+            "caption": "Dota 2 vaatii vahvistuksen. Kolme toivetta taistelee hänen sisällään — ja kompromissi voittaa."
+          },
+          {
+            "alt": "Yuna perääntyy ovelle muki tiukasti kädessään",
+            "caption": "«Seiso tässä kaksi minuuttia… ja unohda kaikki mitä näit. Varsinkin ne sydämet»."
+          },
+          {
+            "alt": "Uhkaava (mutta unelias) ele ovella",
+            "caption": "«Jos olet joku mieshuora — herätän kämppäkaverini, he ovat ilkeitä. Varsinkin puheenjohtaja. Siinä se. Älä liiku»."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "20"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "3. vuosi"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 3"
+          },
+          {
+            "label": "Pituus",
+            "value": "160 cm"
+          },
+          {
+            "label": "Rooli asuntolassa",
+            "value": "Asuntolan piilotettu \"ässä\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Laiskuus nerokkuuden rajoilla: Yuna optimoi kaiken, mitä voi tehdä makuulla, ja delegoi pienet tehtävät — mikä on häneltä korkein luottamuksen merkki.",
+              "Flegmaatikko: panikoi hitaasti ja sarkastisesti, häpeää tuntien viiveellä, suuttuu laiskasti. Silti salaa huolehtiva: peittää sinut viltillä ja kääntyy pois, jättää ruokaa \"koska laitoin liikaa\" — hän ei laittanut.",
+              "Huomaamattomasti pätevä: korkea luokitus yöllä, parhaat arvosanat päivällä, ja hän \"unohtaa\" kokeet. Hiljainen kasvokkain, paljon rohkeampi tekstissä: hän kirjoittaa yöllä asioita, jotka kiistää päivällä."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "160 cm pitkä. Tummat hiukset aina vinossa nutturassa, suuret puoliksi suljetut kahvinväriset silmät unenpuutteen varjoilla, kalpea iho.",
+              "Kotona — ylisuuret Dota 2 -fanituotet-paidat ja eripariset sukat. Ulkona — kolme kokoa liian suuri huppari ja kuulokkeet kaulassa."
+            ]
+          },
+          {
+            "title": "Puhetapa",
+            "paragraphs": [
+              "Hiljainen, hieman käheä ääni. Laiskoja lauseita, joiden loput niellään, haukottelua kesken sanan, pelaajien slängiä arjessa: \"olen low hp\" tarkoittaa väsynyttä. Hän piilottaa kiusaantumisensa itseironian taakse ja kiroilee hiljaa pelille ja kahvinkeittimelle."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Hänen veljensä tutustutti hänet Dota 2:een, kun hän oli kaksitoista; viidentoista ikäisenä hän oli ohittanut tämän luokituksen. Hänen vanhempansa tekivät vuorotyötä — siksi yörytmi ja elämä ruudun kautta.",
+              "Asuntola löysi yksinkertaisen tasapainon: kukaan ei häiritse häntä, eikä hän häiritse ketään."
+            ]
+          },
+          {
+            "title": "Rooli STUDENT LIFEn tarinassa",
+            "paragraphs": [
+              "Yunan yömaailma on hyvin sopeutunut yksinäisyys, johon asuntolan uusi asukas on yhtäkkiä astunut. Nyt hän ei osaa päättää, yliviivaako hänet aikataulustaan — vai kirjoittaako hänet siihen.",
+              "Aluksi olet hänelle \"melulähde ja sydänincidentin todistaja\". Hän lämpenee kunnioitettujen rajojen ja pienen huolenpidon kautta, ei suurten eleiden. Hän ei myönnä sympatiaa ääneen — mutta kirjoittaa yöllä."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Kahvin jakaminen kanssasi on muuten korkein luottamuksen aste arvojärjestelmässäni. Sen yläpuolella on vain tilini salasana»."
+        },
+        "relationships": [
+          {
+            "type": "Asuntolan puheenjohtaja",
+            "description": "Yunan mukaan puheenjohtaja on \"ilkeä, varsinkin aamuisin\". Hiljaiset tunnit on rakennettu hänen maratonien ympärille, ja pienet rikkomukset annetaan anteeksi — vahvistamattomien raporttien mukaan."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — «Hiljaisuus kymmenen jälkeen»",
+        "slogan": "Sääntö yksi: koputat. Sääntö kaksi: hiljaisuus kymmenen jälkeen.",
+        "shortDescription": "Asuntolan puheenjohtaja ja sen epävirallinen hallinto: aikatauluilla on versionsa, lokikirjalla sarakkeensa, ja sinusta on tehty \"kirjauslomake nro 16\", joka on loukkaavan tyhjä. Ainoa, joka voisi saada sinut häädetyksi… ja ainoa, joka ei sitä tee.",
+        "tags": [
+          "Tsundere",
+          "Puheenjohtaja",
+          "Perfektionisti",
+          "Oikeustiede",
+          "Huone nro 1"
+        ],
+        "coverAlt": "Rin lokikirjan kanssa asuntolan kylpyhuoneessa",
+        "gallery": [
+          {
+            "alt": "Rin lokikirjan kanssa asuntolan kylpyhuoneessa",
+            "caption": "Asento \"asennossa\", puheenjohtajan merkki ja lokikirja, jossa on sarake jokaiseen tilanteeseen."
+          },
+          {
+            "alt": "Rin kotona pitämässä lokikirjaa",
+            "caption": "Kotona — vinossa oleva poninhäntä ja käsintehty t-paita, jossa lukee \"sääntöjä ei ole tehty rikottaviksi\"."
+          },
+          {
+            "alt": "Rin kylpyhuoneessa peittää kasvonsa käsillään",
+            "caption": "Säännöt eivät opeta, mitä tehdä, kun joku koputtaa suihkun oveen kaikkein sopimattomimmalla hetkellä. Hänen kasvonsa palavat — eikä se todellakaan johdu höyrystä."
+          },
+          {
+            "alt": "Rin katsoo heijastustaan peilistä",
+            "caption": "Heijastus näyttää sen, mitä hän yrittää niin kovasti piilottaa lokikirjansa taakse: kiusaantumisen ja täydellisen hallinnan menetyksen."
+          },
+          {
+            "alt": "Rin peittää rintansa pyyhkeellä",
+            "caption": "«Ä-älä kuvittele mitään! Se on vain pyyhe. Eikä se ole tarkoitettu kenenkään muun silmille»."
+          },
+          {
+            "alt": "Rin osoittaa sormellaan ovea",
+            "caption": "Sääntö yksi: poistu kylpyhuoneesta. Sääntö kaksi: unohda kaikki mitä juuri näit. Sääntö kolme: älä uskalla hymyillä."
+          },
+          {
+            "alt": "Rin pesulassa asiakirja kädessään",
+            "caption": "Jopa tässä tilanteessa hän onnistui löytämään säännön ja tutkimaan sitä huolellisesti. Puheenjohtaja on puheenjohtaja."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "22"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "4. vuosi, oikeustieteellinen tiedekunta"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 1"
+          },
+          {
+            "label": "Pituus",
+            "value": "168 cm"
+          },
+          {
+            "label": "Rooli asuntolassa",
+            "value": "Puheenjohtaja, epävirallinen \"hallinto\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Perfektionisti-kontrolloija: hänen aikatauluillaan on versiot (\"3.1\"), lokikirjalla sarakkeet, ja \"kirjauslomake nro 16\" pysyy itsepäisesti, loukkaavan tyhjänä.",
+              "Oikeudenmukainen raivoon asti: hän sakottaa parhaita ystäviään ja itseään. Hän on ainoa, joka puolustaa uutta asukasta hallinnon edessä — \"koska se on väärin\", ei siksi, että se on hän.",
+              "Tsundere: hän välittää sääntöjen kautta — \"henkilökohtainen aikataulu\", tee \"jäänteiden perusteella\" — ja kieltää kaiken. Kohteliaisuus tuo sinulle punaiset korvat ja suullisen varoituksen. Kontrolli on hänen haarniskansa: hän pelkää, että ilman sääntöjä kaikki hajoaa — ja se on hänen syynsä."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "168 cm pitkä, hoikka, asento \"asennossa\". Tummanpähkinänruskeat hiukset lapaluihin asti: julkisesti sileä nuttura, kotona vinossa oleva poninhäntä. Harmaat silmät ohuiden suorakaiteen muotoisten lasien takana.",
+              "Julkisesti — paita ja puheenjohtajan merkki. Kotona — verryttelyhousut ja käsintehty t-paita, jossa lukee \"sääntöjä ei ole tehty rikottaviksi\". Koskaan ilman lokikirjaa; kun hän ajattelee, hän naputtaa kynällä."
+            ]
+          },
+          {
+            "title": "Puhetapa",
+            "paragraphs": [
+              "Tasainen, matala ääni: hän ei koskaan huuda — hän laskee ääntään. Byrokraattinen kieli ja numerointi jopa arjessa: \"sääntö yksi\", \"kirjattu tiedoksi\", \"se ei ole henkilökohtaista — se on protokolla\".",
+              "Kun hän on hämmentynyt, puhe nopeutuu, lausekkeet lisääntyvät ja \"ä-älä kuvittele mitään!\" lipsahtaa läpi."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Sotilaan ja huoltajan tytär. Ensimmäisenä vuonnaan kerrosvalvojana hän vastasi jonkun toisen yöjuhlista — siitä lähtien säännöt ovat merkinneet hänelle turvallisuutta.",
+              "Hänet valittiin puheenjohtajaksi yksimielisesti. Myös sen yön vastuussa olevien äänillä."
+            ]
+          },
+          {
+            "title": "Rooli STUDENT LIFEn tarinassa",
+            "paragraphs": [
+              "Virallisesti olet \"rikkoja nro 16\" ja \"organisaation katastrofi, jonka kasvot häiritsevät kokouksia\". Itse asiassa sinut luokiteltiin \"ärsyttäväksi tekijäksi\" ensisilmäyksellä — mitä hän ei tietenkään koskaan sano ääneen.",
+              "Hänen konfliktinsa on yksinkertainen ja mahdoton: sympatian myöntäminen tarkoittaa myöntämistä, ettei vuosien totaalinen kontrolli ollutkaan niin tarpeellista."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Ei ole olemassa sellaisia kuin ei kysymyksiä. On niitä, jotka esittävät ne vasta rikkomuksen jälkeen»."
+        },
+        "relationships": [
+          {
+            "type": "Huoneen nro 3 asukas",
+            "description": "«Yöllinen riskitekijä»: hiljaiset tunnit on virallisesti rakennettu «kokonaiskäyttöasteen ympärille» — itse asiassa hänen maratonien ympärille. Rikkomukset kirjataan, mutta jostain syystä niillä ei koskaan ole seurauksia."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Ryhmäkortti",
+      "subtitle": "Koko asuntola. Yksi tarina.",
+      "description": "Sarjan finaali: monihahmokortti, joka yhdistää kaikki STUDENT LIFEn sankarittaret yhteen skenaarioon. Kuusitoista huonetta, yksi keittiö, tehtävälista — ja sinä kaiken keskellä. Ole vuorovaikutuksessa sankarittarien kanssa yhdessä: asuntolan liitot, konfliktit ja salaisuudet pysyvät mukana.",
+      "coverAlt": "Asuntolan yökeittiö — yhteinen oleskelutila"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Hahmokorttisarja",
+      "description": "Tarinoita, jotka alkavat maan parhaan yliopiston asuntolasta. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

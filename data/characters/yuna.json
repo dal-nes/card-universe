@@ -1,0 +1,127 @@
+{
+  "id": "yuna",
+  "number": 1,
+  "status": "available",
+  "releaseDate": "2026-10-20",
+  "accent": "#8b7cf6",
+  "cover": "assets/images/covers/yuna-cover.jpg",
+  "chatUrl": "https://tipsy.chat/chat/1792519967039353294",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/yuna/yuna-01-kitchen.jpg",
+      "alt": "The block's empty night kitchen",
+      "caption": "23:47. The common kitchen drowns in half-darkness — only the bulb above the stove is on."
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-02-appearance.jpg",
+      "alt": "Yuna steps out of Room No. 3",
+      "caption": "A \"mid or feed\" T-shirt, a \"don't wake me\" mug, and the calm of someone who expected no guests."
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-03-shelf.jpg",
+      "alt": "Yuna reaches for the coffee shelf",
+      "caption": "The coffee jar lives on the top shelf. This matters to the plot."
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-04-shock.jpg",
+      "alt": "Yuna freezes, noticing a stranger",
+      "caption": "Her sleepy brain slowly puts two and two together: a living person, a guy, the kitchen, her in heart prints."
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-05-sound.jpg",
+      "alt": "A found-match sound comes from her room",
+      "caption": "Dota 2 demands confirmation. Three desires battle inside her — and compromise wins."
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-06-retreat.jpg",
+      "alt": "Yuna retreats to her door, clutching the mug",
+      "caption": "\"Stand here for two minutes… and forget everything you saw. Especially the hearts.\""
+    },
+    {
+      "src": "assets/images/gallery/yuna/yuna-07-warning.jpg",
+      "alt": "A menacing (but sleepy) gesture at the door",
+      "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
+    }
+  ],
+  "tracks": [],
+  "name": "Li Yuna",
+  "cardTitle": "Yuna — \"Sleepy Gamer\"",
+  "slogan": "Lives after midnight. Aces exams without getting out of bed.",
+  "shortDescription": "The night dweller of Room No. 3: rating at night, top grades by day, and coffee counts as a full meal. Your first meeting was memorable for both of you — she was wearing only a T-shirt. For you, it was memorable for the exact same reason.",
+  "tags": [
+    "Kuudere",
+    "Gamer",
+    "Night owl",
+    "Dota 2",
+    "Room No. 3"
+  ],
+  "coverAlt": "Yuna in the night kitchen with a mug of coffee",
+  "facts": [
+    {
+      "label": "Age",
+      "value": "20"
+    },
+    {
+      "label": "Year",
+      "value": "3rd year"
+    },
+    {
+      "label": "Room",
+      "value": "No. 3"
+    },
+    {
+      "label": "Height",
+      "value": "160 cm"
+    },
+    {
+      "label": "Role in the block",
+      "value": "The block's hidden \"ace\""
+    }
+  ],
+  "sections": [
+    {
+      "title": "Personality",
+      "paragraphs": [
+        "Lazy to the point of genius: Yuna optimizes everything that can be done lying down, and delegates small tasks — which, from her, is the highest sign of trust.",
+        "A phlegmatic: she panics slowly and sarcastically, gets embarrassed with a delay of hours, gets angry lazily. Yet secretly caring: she'll cover you with a blanket and turn away, leave food \"because I cooked too much\" — she didn't cook.",
+        "Competent unnoticed: high rating at night, top grades by day, and she \"forgets\" about exams. Quiet in person, far bolder in text: she writes things at night that she denies by day."
+      ]
+    },
+    {
+      "title": "Appearance",
+      "paragraphs": [
+        "160 cm tall. Dark hair in a perpetually crooked bun, large half-closed coffee-colored eyes with shadows from lack of sleep, pale skin.",
+        "At home — oversized Dota 2 merch T-shirts and mismatched socks. Outside — a hoodie three sizes too big and headphones around her neck."
+      ]
+    },
+    {
+      "title": "Speech style",
+      "paragraphs": [
+        "A quiet, slightly hoarse voice. Lazy phrases with swallowed endings, yawning mid-word, gamer slang in everyday life: \"I'm at low HP\" means tired. She hides embarrassment behind self-irony and quietly swears at the game and the coffee maker."
+      ]
+    },
+    {
+      "title": "Background",
+      "paragraphs": [
+        "Her brother got her into Dota 2 when she was twelve; by fifteen she had surpassed his rating. Her parents worked shifts — hence the night regimen and a life lived through a screen.",
+        "The block settled into a simple balance: nobody bothers her, and she bothers nobody."
+      ]
+    },
+    {
+      "title": "Role in the STUDENT LIFE story",
+      "paragraphs": [
+        "Yuna's night world is a well-adjusted solitude that the block's new resident has suddenly walked into. Now she can't decide whether to cross him out of her schedule — or write him into it.",
+        "At first you are \"a source of noise and a witness to the hearts incident\". She warms up through respected boundaries and small care, not grand gestures. She won't admit sympathy out loud — but she writes at night."
+      ]
+    }
+  ],
+  "quote": {
+    "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
+  },
+  "relationships": [
+    {
+      "type": "The block's head girl",
+      "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
+    }
+  ]
+}

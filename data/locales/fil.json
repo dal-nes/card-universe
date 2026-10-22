@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Mga kuwentong nagsisimula sa dormitoryo",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Lahat ng Serye",
+    "home": "Simula",
+    "characters": "Mga Tauhan",
+    "about": "Tungkol sa Serye",
+    "group": "Kards ng Grupo",
+    "settings": "Mga Setting",
+    "openMenu": "Buksan ang menu",
+    "closeMenu": "Isara ang menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Makilala siya",
+    "toCatalog": "Tingnan ang mga tauhan",
+    "aboutSeries": "Tungkol sa serye",
+    "startChat": "Makipag-chat sa tauhan",
+    "startChatGroup": "Makipag-chat sa buong block",
+    "chatUnavailable": "Malapit nang dumating ang link",
+    "back": "Bumalik sa mga tauhan",
+    "backHome": "Bumalik sa simula",
+    "openPage": "Buksan ang pahina",
+    "close": "Isara"
+  },
+  "status": {
+    "available": "Magagamit na",
+    "coming-soon": "Malapit na",
+    "releasedOn": "Inilabas",
+    "releaseOn": "Paglalabas",
+    "under-review": "Sinusuri"
+  },
+  "hub": {
+    "kicker": "Universo",
+    "title": "Mga Serye ng Kard",
+    "subtitle": "Piliin ang kuwentong gusto mong ipagpatuloy."
+  },
+  "home": {
+    "heroKicker": "Isang serye ng kard ng tauhan",
+    "heroSubtitle": "Labinlimang kashare sa kwarto, isang block, at apat at kalahating taon pa ang haharapin.",
+    "heroText": "Nakapasok ka sa pinakamagandang unibersidad sa bansa — at dahil sa kakulangan ng kwarto, inilagay ka sa isang dormitoryo ng mga kababaihan. Ang bawat kard sa serye ay isa pang kuwento ng block na ito: mga bagong pagkikita, mga nakakatawang sitwasyon, at mga tauhan na magkakaugnay ang buhay.",
+    "aboutTitle": "Isang universo, maraming kuwento",
+    "aboutText": "Ang STUDENT LIFE ay hindi isang set ng mga nakapirming kard. Ang lahat ng pangunahing tauhan ay nakatira sa parehong block ng dormitoryo: nagbabahagi sila ng kusina, iskedyul ng pagligo, at mga pulong tuwing Lunes. Bawat isa ay may sariling ugali, kinagawian, at lihim — ngunit nagsasalubong ang kanilang mga kuwento. Makilala sila nang isa-isa, at sa huling bahagi ng serye, pagsama-samahin ang buong block sa isang kard ng grupo.",
+    "catalogTitle": "Mga Tauhan sa Serye",
+    "catalogSubtitle": "Ang bawat kard ay isang maliit na pangyayari sa loob ng isang malaking kuwento",
+    "timelineTitle": "Iskedyul ng Paglabas",
+    "timelineText": "Ang mga bagong pangunahing tauhan ay sumasali sa serye sa buong buwan, at sa Nobyembre 20 ay darating ang huling multi-character na kard.",
+    "timelineExpand": "Ipakita ang iskedyul",
+    "timelineCollapse": "Itago ang iskedyul",
+    "groupTeaserTitle": "Ang finale ng serye — ang kard ng grupo",
+    "groupTeaserText": "Bawat pangunahing tauhan ng STUDENT LIFE sa isang senaryo: ang mga alyansa, konflikto, at lihim ng block — sa isang kuwento kung saan maaari mong makipag-ugnayan sa kanila nang sama-sama.",
+    "groupTeaserButton": "Higit pa tungkol sa kard ng grupo",
+    "charactersCount": "mga kard sa serye",
+    "availableCount": "magagamit na ngayon"
+  },
+  "character": {
+    "cardNumber": "Kard Blg.",
+    "aboutTitle": "Pagkilala sa kanya",
+    "factsTitle": "Sa madaling salita",
+    "galleryTitle": "Gallery",
+    "galleryEmpty": "Malapit nang dumating ang mga larawan. Nandito na ang cover — idadagdag ng may-akda ang natitira mamaya.",
+    "musicTitle": "Musika ng Tauhan",
+    "musicEmpty": "Wala pang naidagdag na mga track para sa pangunahing tauhan na ito. Magiging live ang player dito sa sandaling lumabas ang mga ito.",
+    "relationsTitle": "Mga Koneksyon sa Block",
+    "finalTitle": "Handa ka na bang makilala siya?",
+    "finalText": "Buksan ang kard sa platform at simulan ang iyong kuwento — alam na ng block na lumipat ka.",
+    "notFound": "Hindi mahanap ang tauhan. Maaaring hindi pa lumalabas ang kard — o luma na ang link.",
+    "loadError": "Nabigong i-load ang data ng tauhan. Suriin ang iyong koneksyon at subukang muli."
+  },
+  "group": {
+    "membersTitle": "Mga Miyembro ng Kard ng Grupo",
+    "membersText": "Ang listahan ay awtomatikong nabuo mula sa mga inilabas na kard ng serye.",
+    "comingText": "Darating ang kard sa finale ng serye. Hanggang doon, makilala ang mga pangunahing tauhan nang isa-isa.",
+    "releaseLabel": "Petsa ng paglabas"
+  },
+  "settings": {
+    "title": "Mga Setting ng Display",
+    "theme": "Tema",
+    "themeLight": "Maliwanag",
+    "themeDark": "Madilim",
+    "palette": "Paleta ng Kulay",
+    "paletteClassic": "Klasikong Kampus",
+    "palettePastel": "Pastel",
+    "paletteRose": "Rosas at Lila",
+    "paletteCold": "Malamig na Akademiko",
+    "fontSize": "Laki ng Teksto",
+    "language": "Wika",
+    "reset": "I-reset ang mga setting"
+  },
+  "player": {
+    "play": "I-play",
+    "pause": "I-pause",
+    "next": "Susunod na track",
+    "prev": "Nakaraang track",
+    "volume": "Volume",
+    "loading": "Naglo-load…",
+    "error": "Nabigong i-load ang audio",
+    "playlist": "Listahan ng Track",
+    "empty": "Wala pang naidagdag na track"
+  },
+  "gallery": {
+    "open": "Buksan ang larawan",
+    "prev": "Nakaraang larawan",
+    "next": "Susunod na larawan",
+    "counter": "{current} ng {total}"
+  },
+  "footer": {
+    "note": "Isang malayang proyekto ng tagahanga. Panahon ng serye: Oktubre 20 — Nobyembre 20, 2026.",
+    "hubNote": "Maligayang pagdating sa STUDENT LIFE universe. Ang mga bagong serye at kuwento ay lalabas dito.",
+    "scheduleTitle": "Mula sa logbook ng block",
+    "scheduleItems": "Tahimik pagkatapos ng 10 PM · Mga tungkulin ayon sa rota · Pagligo ayon sa iskedyul · Kumatok. Palagi. Saanman."
+  },
+  "errors": {
+    "dataLoad": "Nabigong i-load ang data. Tiyakin na ang site ay nagsisilbi sa isang lokal na server (tingnan ang README).",
+    "imageMissing": "Hindi available ang larawan",
+    "badLink": "Hindi wastong link"
+  },
+  "a11y": {
+    "skipToContent": "Lumaktaw sa nilalaman"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — «Ang Antuking Gamer»",
+        "slogan": "Nabubuhay pagkatapos ng hatinggabi. Nakapapasa sa exam nang hindi bumabangon sa kama.",
+        "shortDescription": "Ang bantay-gabi ng Kwarto 3: rating sa gabi, pinakamataas na marka sa araw, at ang kape ay itinuturing na kumpletong pagkain. Naalala niya ang una ninyong pagkikita nang walang labis na tuwa: nakasuot lamang siya ng t-shirt. Naalala mo siya — dahil sa eksaktong parehong dahilan.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Night owl",
+          "Dota 2",
+          "Kwarto Blg. 3"
+        ],
+        "coverAlt": "Yuna sa night kitchen na may tasa ng kape",
+        "gallery": [
+          {
+            "alt": "Ang walang laman na night kitchen ng block",
+            "caption": "23:47. Ang common kitchen ay nilulunod ng kadiliman — tanging bombilya sa itaas ng kalan ang bukas."
+          },
+          {
+            "alt": "Lumabas si Yuna sa Kwarto Blg. 3",
+            "caption": "Isang \"mid or feed\" na t-shirt, isang \"huwag mo akong gisingin\" na tasa, at ang kalmado ng isang taong walang inaasahang bisita."
+          },
+          {
+            "alt": "Inabot ni Yuna ang shelf ng kape",
+            "caption": "Ang garapon ng kape ay nakatira sa pinakamataas na shelf. Mahalaga ito sa plot."
+          },
+          {
+            "alt": "Natigilan si Yuna nang may mapansin siyang estranghero",
+            "caption": "Dahan-dahang pinagsama-sama ng kanyang antuking utak ang mga piraso: isang buhay na tao, isang lalaki, ang kusina, siya na may heart prints."
+          },
+          {
+            "alt": "May naririnig na tunog ng nahanap na match mula sa kanyang kwarto",
+            "caption": "Ang Dota 2 ay nangangailangan ng kumpirmasyon. Tatlong pagnanasa ang naglalaban sa loob niya — at ang kompromiso ang nananalo."
+          },
+          {
+            "alt": "Umatras si Yuna sa kanyang pinto habang mahigpit na hawak ang tasa",
+            "caption": "\"Tumayo ka diyan ng dalawang minuto... at kalimutan ang lahat ng nakita mo. Lalo na ang mga puso.\""
+          },
+          {
+            "alt": "Isang threatening (pero inaantok) na galaw sa pinto",
+            "caption": "\"Kung ikaw ay isang uri ng maniac — gisingin ko ang mga kashare ko, masasama sila. Lalo na ang head girl. Iyon na iyon. Huwag kang gumalaw.\""
+          }
+        ],
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "20"
+          },
+          {
+            "label": "Taon",
+            "value": "Ika-3 taon"
+          },
+          {
+            "label": "Kwarto",
+            "value": "Blg. 3"
+          },
+          {
+            "label": "Taas",
+            "value": "160 cm"
+          },
+          {
+            "label": "Papel sa block",
+            "value": "Ang nakatagong \"ace\" ng block"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Katamaran na umabot sa antas ng henyo: Ino-optimize ni Yuna ang lahat ng kayang gawin nang nakahiga, at iniaasa ang maliliit na gawain — na para sa kanya, ito ang pinakamataas na tanda ng tiwala.",
+              "Isang phlegmatic: dahan-dahan at sarkastikong nananikmatakot, nahihiya nang may oras na pagkaantala, tamad na nagagalit. Ngunit lihim na mapag-alaga: tatakpan ka niya ng kumot at tatalikod, mag-iiwan ng pagkain \"kasi nagluto ako ng sobra\" — hindi siya nagluto.",
+              "Bihasang may kakayahan nang hindi halata: mataas na rating sa gabi, pinakamagagandang marka sa araw, at \"nakakalimutan\" niya ang mga exam. Tahimik sa personal, mas matapang sa text: nagsusulat siya sa gabi ng mga bagay na tinatanggihan niya sa araw."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "160 cm ang taas. Madilim na buhok sa laging baluktot na bun, malalaking kalahating nakapikit na kape ang kulay na mga mata na may anino dahil sa kakulangan sa tulog, maputlang balat.",
+              "Sa bahay — sobrang lalaki na Dota 2 merch na t-shirts at hindi magkaparehong medyas. Sa labas — hoodie na tatlong sukat ang kalakihan at headphones sa leeg."
+            ]
+          },
+          {
+            "title": "Istilo ng Pagsasalita",
+            "paragraphs": [
+              "Isang tahimik, bahagyang paos na boses. Tamad na mga parirala na may nilalamon na mga dulo, paghikab sa gitna ng salita, gamer slang sa pang-araw-araw na buhay: \"low HP ako\" ibig sabihin pagod. Itinatago niya ang hiya sa likod ng self-irony at tahimik na minumura ang laro at ang coffee maker."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Ipinakilala siya ng kanyang kapatid na lalaki sa Dota 2 noong labindalawang taong gulang siya; pagsapit ng labinlima, nalampasan na niya ang rating nito. Nagtatrabaho sa shifts ang kanyang mga magulang — kaya ang night regimen at buhay na ginugol sa pamamagitan ng screen.",
+              "Nakahanap ang block ng simpleng balanse: walang gumagambala sa kanya, at wala siyang ginagambala."
+            ]
+          },
+          {
+            "title": "Papel sa kuwento ng STUDENT LIFE",
+            "paragraphs": [
+              "Ang night world ni Yuna ay isang maayos na pag-iisa kung saan biglang pumasok ang bagong residente ng block. Ngayon hindi niya matukoy kung tatawirin ba siya sa kanyang iskedyul — o isusulat siya dito.",
+              "Sa simula, ikaw ay \"isang pinagmumulan ng ingay at saksi sa insidente ng mga puso\". Nag-iinit siya sa pamamagitan ng iginagalang na mga hangganan at maliit na pag-aalaga, hindi sa malalaking galaw. Hindi niya aaminin ang simpatya nang malakas — ngunit nagsusulat siya sa gabi."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Ang pagbabahagi ng aking kape sa iyo ay, sa pamamagitan ng paraan, ang pinakamataas na antas ng tiwala sa aking sistema ng pagpapahalaga. Sa itaas niyan ay ang aking password sa account lamang.»"
+        },
+        "relationships": [
+          {
+            "type": "Ang head girl ng block",
+            "description": "Ayon kay Yuna, ang head girl ay \"masama, lalo na sa umaga\". Ang mga tahimik na oras ay binuo sa paligid ng kanyang mga marathon, at ang maliliit na paglabag ay pinapatawad — sabi ng mga hindi kumpirmadong ulat."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — «Katahimikan Pagkatapos ng Alas-Diyes»",
+        "slogan": "Unang patakaran: kumatok ka. Ikalawang patakaran: katahimikan pagkatapos ng alas-diyes.",
+        "shortDescription": "Ang head girl ng block at ang impormal na administrasyon nito: may mga bersyon ang mga iskedyul, may mga column ang logbook, at mayroong \"record sheet No. 16\" na may pangalan mo — matigas ang ulong blangko. Ang tanging isa na makakapagpatalsik sa iyo… at ang tanging isa na hindi gumagawa nito.",
+        "tags": [
+          "Tsundere",
+          "Head girl",
+          "Perpeksyonista",
+          "Kolehiyo ng Batas",
+          "Kwarto Blg. 1"
+        ],
+        "coverAlt": "Rin kasama ang logbook sa banyo ng dormitoryo",
+        "gallery": [
+          {
+            "alt": "Rin kasama ang logbook sa banyo ng dormitoryo",
+            "caption": "Postura na \"at attention,\" ang logbook ng head girl, na naglalaman ng listahan para sa bawat okasyon."
+          },
+          {
+            "alt": "Rin sa bahay, pinapanatili ang kanyang logbook",
+            "caption": "Sa bahay — isang lopsided na ponytail at isang gawang-kamay na t-shirt na may nakasulat na \"ang mga patakaran ay hindi ginawa para labagin\"."
+          },
+          {
+            "alt": "Rin sa banyo, tinatakpan ang kanyang mukha ng kanyang mga kamay",
+            "caption": "Hindi itinuturo ng mga patakaran kung ano ang gagawin kapag may kumatok sa pinto ng shower sa pinakamasamang posibleng sandali. Nagliliyab ang kanyang mukha — at tiyak na hindi ito dahil sa singaw."
+          },
+          {
+            "alt": "Rin tinitingnan ang kanyang repleksyon sa salamin",
+            "caption": "Ipinapakita ng repleksyon ang sinusubukan niyang itago nang husto sa likod ng kanyang logbook: pagkahiya at kumpletong pagkawala ng kontrol."
+          },
+          {
+            "alt": "Rin tinatakpan ang kanyang dibdib ng tuwalya",
+            "caption": "\"H-huwag kang mag-isip ng kung ano! Tuwalya lang ito. At hindi ito para sa mga mata ng iba.\""
+          },
+          {
+            "alt": "Rin itinuturo ang kanyang daliri sa pinto",
+            "caption": "Unang patakaran: lumabas ka ng banyo. Ikalawang patakaran: kalimutan ang lahat ng nakita mo. Ikatlong patakaran: huwag kang maglakas-loob na ngumiti."
+          },
+          {
+            "alt": "Rin sa labahan na may hawak na dokumento",
+            "caption": "Kahit sa sitwasyong ito, nagawa niyang makahanap ng regulasyon at maingat itong pag-aralan. Ang head girl ay head girl."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "22"
+          },
+          {
+            "label": "Taon",
+            "value": "Ika-4 na taon, kolehiyo ng batas"
+          },
+          {
+            "label": "Kwarto",
+            "value": "Blg. 1"
+          },
+          {
+            "label": "Taas",
+            "value": "168 cm"
+          },
+          {
+            "label": "Papel sa block",
+            "value": "Head girl, ang impormal na \"administrasyon\" ng block"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Isang perpeksyonistang kontrolado: may mga bersyon ang kanyang mga iskedyul (\"3.1\"), may mga column ang kanyang logbook, at ang \"record sheet No. 16\" ay nananatiling matigas ang ulo, nakakainsultong blangko.",
+              "Patas hanggang sa galit: pinapagmulta niya ang kanyang matalik na kaibigan at ang kanyang sarili. Siya lamang ang magtatanggol sa bagong residente bago ang administrasyon — \"dahil mali ito\", hindi dahil ito ang lalaki.",
+              "Isang tsundere: nagmamalasakit siya sa pamamagitan ng mga regulasyon — isang \"personal na iskedyul\", tsaa \"sa batayan ng natira\" — at tinatanggihan ang lahat. Ang isang papuri ay nagbibigay sa iyo ng pulang tainga at isang pasalitang babala. Ang kontrol ay ang kanyang baluti: natatakot siyang walang mga patakaran, babagsak ang lahat — at siya ang may kasalanan."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "168 cm, payat, na may postura na nagsasabing \"at attention!\". Madilim na kayumangging buhok hanggang sa mga blades ng balikat: isang makinis na bun sa publiko, isang lopsided na ponytail sa bahay. Kulay-abo na mga mata sa likod ng manipis na hugis-parihaba na salamin.",
+              "Sa publiko — isang kamiseta at ang badge ng head girl. Sa bahay — sweatpants at isang gawang-kamay na t-shirt na may nakasulat na \"ang mga patakaran ay hindi ginawa para labagin\". Hindi kailanman wala ang kanyang logbook; kapag nag-iisip siya, kinakalabog niya ang kanyang panulat."
+            ]
+          },
+          {
+            "title": "Istilo ng Pagsasalita",
+            "paragraphs": [
+              "Isang pantay, mababang tono: hindi siya sumisigaw kailanman — binababa niya ang kanyang boses. Bureaucratese at pagnunumero kahit sa pang-araw-araw na buhay: \"unang patakaran\", \"naitala para sa rekord\", \"hindi ito personal — ito ay protocol\".",
+              "Kapag kinakabahan siya, bumibilis ang kanyang pagsasalita, dumarami ang mga sugnay, at lumalabas ang isang \"h-huwag kang mag-isip ng kung ano!\"."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Anak ng isang militar at isang supply manager. Sa kanyang unang taon, bilang floor monitor, sinagot niya ang night party ng ibang tao — mula noon, ang mga patakaran ay nangangahulugan ng kaligtasan para sa kanya.",
+              "Nahalal siya bilang head girl nang nagkakaisa. Kasama na ang mga boto ng mga responsable sa gabing iyon."
+            ]
+          },
+          {
+            "title": "Papel sa kuwento ng STUDENT LIFE",
+            "paragraphs": [
+              "Sa opisyal na paraan, ikaw ay \"violator No. 16\" at \"isang organisasyonal na kalamidad na may mukha na nakakagambala sa mga pulong\". Sa katunayan, na-classify ka bilang isang \"nakakainis na kadahilanan\" sa unang tingin — na siyempre, hindi niya kailanman sasabihin nang malakas.",
+              "Ang kanyang konflikto ay simple at imposible: ang pag-amin ng simpatya ay nangangahulugan ng pag-amin na ang mga taon ng kabuuang kontrol ay hindi ganoon kahalaga."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Walang bagay na walang mga tanong. May mga taong nagtatanong sa mga ito pagkatapos ng paglabag.»"
+        },
+        "relationships": [
+          {
+            "type": "Residente ng Kwarto Blg. 3",
+            "description": "Isang \"nighttime risk factor\": ang mga tahimik na oras ay opisyal na itinayo \"sa paligid ng pangkalahatang okupasyon\" — sa katunayan, sa paligid ng kanyang mga marathon. Ang mga paglabag ay naitala, ngunit kahit papaano ay hindi kailanman may mga kahihinatnan."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Ang Kard ng Grupo",
+      "subtitle": "Ang buong block. Isang kuwento.",
+      "description": "Ang finale ng serye: isang multi-character na kard na nagsasama-sama sa bawat pangunahing tauhan ng STUDENT LIFE sa isang senaryo. Labing-anim na kwarto, isang kusina, isang duty rota — at ikaw sa gitna ng lahat ng ito. Makipag-ugnayan sa mga pangunahing tauhan nang sama-sama: ang mga alyansa, konflikto, at lihim ng block ay kasama.",
+      "coverAlt": "Ang night kitchen ng block — ang common room ng dormitoryo"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Isang serye ng kard ng tauhan",
+      "description": "Mga kuwentong nagsisimula sa dormitoryo ng nangungunang unibersidad ng bansa. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Történetek, amelyek egy kollégiumban kezdődnek",
+    "seriesDates": "2026.10.20. — 2026.11.20."
+  },
+  "navigation": {
+    "hub": "Összes sorozat",
+    "home": "Kezdőlap",
+    "characters": "Karakterek",
+    "about": "A sorozatról",
+    "group": "Csoportkártya",
+    "settings": "Beállítások",
+    "openMenu": "Menü megnyitása",
+    "closeMenu": "Menü bezárása",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Találkozz vele",
+    "toCatalog": "Karakterek böngészése",
+    "aboutSeries": "A sorozatról",
+    "startChat": "Csevegés a karakterrel",
+    "startChatGroup": "Csevegés az egész blokkal",
+    "chatUnavailable": "A link hamarosan érkezik",
+    "back": "Vissza a karakterekhez",
+    "backHome": "Vissza a kezdőlapra",
+    "openPage": "Oldal megnyitása",
+    "close": "Bezárás"
+  },
+  "status": {
+    "available": "Elérhető",
+    "coming-soon": "Hamarosan",
+    "releasedOn": "Megjelent",
+    "releaseOn": "Megjelenés",
+    "under-review": "Felülvizsgálat alatt"
+  },
+  "hub": {
+    "kicker": "Univerzum",
+    "title": "Kártyasorozatok",
+    "subtitle": "Válaszd ki a történetet, amelyet folytatni szeretnél."
+  },
+  "home": {
+    "heroKicker": "Egy karakterkártya-sorozat",
+    "heroSubtitle": "Tizenöt szobatárs, egy blokk és négy és fél év áll előtted.",
+    "heroText": "Bekerültél az ország legjobb egyetemére — és a helyhiány miatt egy női kollégiumban kaptál helyet. A sorozat minden kártyája ennek a blokknak egy újabb története: új találkozások, komikus helyzetek és karakterek, akiknek az élete összefonódik.",
+    "aboutTitle": "Egy univerzum, sok történet",
+    "aboutText": "A STUDENT LIFE nem különálló kártyák gyűjteménye. Minden hősnő ugyanabban a női kollégiumi blokkban él: osztoznak a konyhán, a zuhanyzási renden és a hétfői gyűléseken. Mindegyiküknek megvan a maga karaktere, szokásai és titkai — de a történeteik keresztezik egymást. Ismerd meg őket egyenként, és a sorozat fináléjában hozd össze az egész blokkot egyetlen csoportkártyán.",
+    "catalogTitle": "A sorozat karakterei",
+    "catalogSubtitle": "Minden kártya egy kis esemény egy nagy történeten belül",
+    "timelineTitle": "Megjelenési ütemterv",
+    "timelineText": "A hónap során új hősnők csatlakoznak a sorozathoz, november 20-án pedig megérkezik a végső, több karaktert tartalmazó kártya.",
+    "timelineExpand": "Ütemterv megjelenítése",
+    "timelineCollapse": "Ütemterv elrejtése",
+    "groupTeaserTitle": "A sorozat fináléja — a csoportkártya",
+    "groupTeaserText": "A STUDENT LIFE minden hősnője egyetlen forgatókönyvben: a blokk szövetségei, konfliktusai és titkai — egy történetben, ahol együtt léphetsz velük kapcsolatba.",
+    "groupTeaserButton": "Továbbiak a csoportkártyáról",
+    "charactersCount": "kártya a sorozatban",
+    "availableCount": "már elérhető"
+  },
+  "character": {
+    "cardNumber": "Kártya sz.",
+    "aboutTitle": "Ismerkedés",
+    "factsTitle": "Röviden",
+    "galleryTitle": "Galéria",
+    "galleryEmpty": "A képek hamarosan érkeznek. A borító már itt van — a többit a szerző később tölti fel.",
+    "musicTitle": "A karakter zenéje",
+    "musicEmpty": "Ehhez a hősnőhöz még nem adtak hozzá zeneszámokat. A lejátszó itt kel életre, amint megjelennek.",
+    "relationsTitle": "Kapcsolatok a blokkban",
+    "finalTitle": "Készen állsz a találkozásra?",
+    "finalText": "Nyisd meg a kártyát a platformon és kezdd el a saját történetedet — a blokk már tudja, hogy beköltöztél.",
+    "notFound": "A karakter nem található. Lehet, hogy a kártya még nem jelent meg — vagy a link elavult.",
+    "loadError": "Nem sikerült betölteni a karakter adatait. Ellenőrizd a kapcsolatot és próbáld újra."
+  },
+  "group": {
+    "membersTitle": "A csoportkártya tagjai",
+    "membersText": "A lista automatikusan a sorozat kiadott kártyáiból épül fel.",
+    "comingText": "A kártya a sorozat fináléjában érkezik. Addig ismerd meg a hősnőket egyenként.",
+    "releaseLabel": "Megjelenés dátuma"
+  },
+  "settings": {
+    "title": "Megjelenítési beállítások",
+    "theme": "Téma",
+    "themeLight": "Világos",
+    "themeDark": "Sötét",
+    "palette": "Színpaletta",
+    "paletteClassic": "Kampus klasszikus",
+    "palettePastel": "Pasztell",
+    "paletteRose": "Rózsa és ibolya",
+    "paletteCold": "Hideg akadémikus",
+    "fontSize": "Szövegméret",
+    "language": "Nyelv",
+    "reset": "Beállítások visszaállítása"
+  },
+  "player": {
+    "play": "Lejátszás",
+    "pause": "Szünet",
+    "next": "Következő szám",
+    "prev": "Előző szám",
+    "volume": "Hangerő",
+    "loading": "Betöltés…",
+    "error": "Nem sikerült betölteni a hangot",
+    "playlist": "Számok listája",
+    "empty": "Még nincsenek hozzáadott számok"
+  },
+  "gallery": {
+    "open": "Kép megnyitása",
+    "prev": "Előző kép",
+    "next": "Következő kép",
+    "counter": "{current} / {total}"
+  },
+  "footer": {
+    "note": "Független rajongói projekt. A sorozat időszaka: 2026. október 20. — november 20.",
+    "hubNote": "Üdvözlünk a STUDENT LIFE univerzumban. Itt új sorozatok és történetek fognak megjelenni.",
+    "scheduleTitle": "A blokk naplójából",
+    "scheduleItems": "Csend 22:00 után · Ügyeletek beosztás szerint · Zuhanyzás menetrend szerint · Kopogni. Mindig. Mindenhol."
+  },
+  "errors": {
+    "dataLoad": "Nem sikerült betölteni az adatokat. Győződj meg róla, hogy az oldal helyi szerveren keresztül fut (lásd a README fájlt).",
+    "imageMissing": "A kép nem elérhető",
+    "badLink": "Érvénytelen link"
+  },
+  "a11y": {
+    "skipToContent": "Ugrás a tartalomra"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — „Az álmos gamer”",
+        "slogan": "Éjfél után él. Úgy megy át a vizsgákon, hogy fel sem kel az ágyból.",
+        "shortDescription": "A 3-as szoba éjjeli lakója: éjjel a ranglista, nappal a tiszta ötösök, a kávét pedig teljes értékű étkezésnek tartja. Az első találkozásotokra nem sok örömmel emlékszik: csak egy póló volt rajta. Te viszont emlékszel rá — pontosan ugyanezen okból.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Éjjeli bagoly",
+          "Dota 2",
+          "3-as szoba"
+        ],
+        "coverAlt": "Yuna az éjszakai konyhában egy bögre kávéval",
+        "gallery": [
+          {
+            "alt": "A blokk üres éjszakai konyhája",
+            "caption": "23:47. A közös konyha félhomályba fullad — csak a tűzhely feletti izzó világít."
+          },
+          {
+            "alt": "Yuna kilép a 3-as szobából",
+            "caption": "Egy „mid or feed” póló, egy „ne ébressz fel” bögre, és egy olyan ember nyugalma, aki nem várt vendégeket."
+          },
+          {
+            "alt": "Yuna a kávés polc felé nyúl",
+            "caption": "A kávésüveg a felső polcon lakik. Ennek fontos szerepe van a cselekményben."
+          },
+          {
+            "alt": "Yuna megdermed, amikor észrevesz egy idegent",
+            "caption": "Álmos agya lassan összerakja a képet: egy élő ember, egy srác, a konyha, ő pedig szívecskés alsóban."
+          },
+          {
+            "alt": "Egy meccs hangja szűrődik ki a szobájából",
+            "caption": "A Dota 2 megerősítést kér. Három vágy harcol benne — és a kompromisszum győz."
+          },
+          {
+            "alt": "Yuna visszahátrál az ajtóhoz, szorosan fogva a bögrét",
+            "caption": "„Állj itt két percig… és felejts el mindent, amit láttál. Különösen a szíveket.”"
+          },
+          {
+            "alt": "Fenyegető (de álmos) mozdulat az ajtónál",
+            "caption": "„Ha valamiféle őrült vagy, felébresztem a szobatársaimat, ők gonoszak. Különösen a prefektuszt. Ennyi. Ne mozdulj.”"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Életkor",
+            "value": "20"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "3. évfolyam"
+          },
+          {
+            "label": "Szoba",
+            "value": "3."
+          },
+          {
+            "label": "Magasság",
+            "value": "160 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "A blokk rejtett „ásza”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "A lustaság a zsenialitás szintjén: Yuna optimalizál mindent, amit fekve is meg lehet tenni, a kis feladatokat pedig kiadja — ami tőle a bizalom legmagasabb jele.",
+              "Flegmatikus: lassan és szarkasztikusan pánikol, órák késéssel jön zavarba, lustán dühös. Mégis titokban gondoskodó: betakar egy takaróval és elfordul, hagy ételt „mert túl sokat főztem” — pedig nem főzött.",
+              "Észrevétlenül kompetens: éjjel magas ranglista, nappal kitűnő jegyek, a vizsgákról pedig „megfeledkezik”. Személyesen csendes, szövegben sokkal merészebb: éjjel olyanokat ír, amiket nappal tagad."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "160 cm magas. Sötét haj egy örökké ferdén álló kontyban, nagy, félig lecsukott kávészínű szemek, az álmatlanságtól sötét karikákkal, sápadt bőr.",
+              "Otthon — túlméretezett Dota 2-es pólók és össze nem illő zoknik. Kint — egy három számmal nagyobb kapucnis pulóver és a nyakában lógó fejhallgató."
+            ]
+          },
+          {
+            "title": "Beszédstílus",
+            "paragraphs": [
+              "Halk, kissé rekedt hang. Lusta mondatok, lenyelt szóvégekkel, ásítások a szavak közepén, gamer szleng a hétköznapokban: „low hp-n vagyok” azt jelenti, hogy fáradt. A zavarát öniróniával leplezi, és halkan káromkodik a játékra meg a kávéfőzőre."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "A bátyja ismertette meg a Dota 2-vel tizenkét évesen; tizenöt éves korára túlszárnyalta a ranglistáját. A szülei műszakban dolgoztak — innen az éjszakai életmód és a képernyőn keresztül élt élet.",
+              "A blokk egyszerű egyensúlyra talált: senki nem zavarja őt, és ő sem zavar senkit."
+            ]
+          },
+          {
+            "title": "Szerep a STUDENT LIFE történetében",
+            "paragraphs": [
+              "Yuna éjszakai világa egy jól bejáratott magány, amelybe a blokk új lakója hirtelen belépett. Most nem tudja eldönteni, hogy kihúzza-e az időbeosztásából — vagy beírja oda.",
+              "Eleinte te vagy a „zajforrás és a szívecskés incidens tanúja”. A tisztelt határokon és apró törődéseken keresztül enged fel, nem nagy gesztusokon. Hangosan nem ismeri el a szimpátiát — de éjjel ír."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„A kávém megosztása veled egyébként a legmagasabb fokú bizalom a rendszeremben. Afölött már csak a fiókom jelszava áll.”"
+        },
+        "relationships": [
+          {
+            "type": "A blokk prefektusza",
+            "description": "Yuna szerint a prefektusz „gonosz, különösen reggelente”. A csendes órák hivatalosan a „teljes kihasználtsághoz” igazodnak — valójában az ő maratonjaihoz. A szabálysértéseket rögzítik, de valahogy soha nincs következményük."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — „Csend tíz után”",
+        "slogan": "Első szabály: kopogni kell. Második szabály: csend tíz után.",
+        "shortDescription": "A blokk prefektusza és annak nem hivatalos adminisztrációja: az ütemterveknek verziói vannak, a naplónak oszlopai, és létezik egy „16. számú nyilvántartó lap” a neveddel — makacsul üres. Az egyetlen, aki elérhetné a kilakoltatásodat… és az egyetlen, aki nem teszi.",
+        "tags": [
+          "Tsundere",
+          "Prefektusz",
+          "Perfekcionista",
+          "Jogi kar",
+          "1-es szoba"
+        ],
+        "coverAlt": "Rin a naplójával a kollégiumi fürdőszobában",
+        "gallery": [
+          {
+            "alt": "Rin a naplójával a kollégiumi fürdőszobában",
+            "caption": "Vigyázzállás, a prefektusz jelvénye és a napló, amelyben minden alkalomra van egy rovat."
+          },
+          {
+            "alt": "Rin otthon, a naplóját vezeti",
+            "caption": "Otthon — ferdén álló copf és egy saját készítésű póló a felirattal: „a szabályokat nem azért hozták, hogy megszegjék őket”."
+          },
+          {
+            "alt": "Rin a fürdőszobában, eltakarja az arcát",
+            "caption": "A szabályok nem tanítják meg, mit kell tenni, ha valaki a legrosszabbkor kopogtat a zuhanyajtón. Az arca ég — és ez biztatóan nem a gőztől van."
+          },
+          {
+            "alt": "Rin a tükörképét nézi",
+            "caption": "A tükörkép megmutatja, amit olyan keményen próbál elrejteni a naplója mögé: a zavart és a teljes kontrollvesztést."
+          },
+          {
+            "alt": "Rin egy törölközővel takarja el a mellkasát",
+            "caption": "„N-ne gondolj semmi rosszra! Ez csak egy törölköző. És nem mások szeme elé való.”"
+          },
+          {
+            "alt": "Rin az ajtóra mutat",
+            "caption": "Első szabály: menj ki a fürdőszobából. Második szabály: felejts el mindent, amit láttál. Harmadik szabály: ne merészelj mosolyogni."
+          },
+          {
+            "alt": "Rin a mosodában egy dokumentummal a kezében",
+            "caption": "Még ebben a helyzetben is sikerült találnia egy szabályzatot, és figyelmesen tanulmányozta. A prefektusz az prefektusz."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Életkor",
+            "value": "22"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "4. évfolyam, jogi kar"
+          },
+          {
+            "label": "Szoba",
+            "value": "1."
+          },
+          {
+            "label": "Magasság",
+            "value": "168 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "Prefektusz, a nem hivatalos „adminisztráció”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Egy perfekcionista irányító: az ütemterveinek verziói vannak („3.1”), a naplójának oszlopai, és a „16. számú nyilvántartó lap” makacsul, sértően üres marad.",
+              "Igazságos az őrjöngésig: megbünteti a legjobb barátait és saját magát is. Ő lesz az egyetlen, aki megvédi az új lakót az adminisztráció előtt — „mert ez így nem fair”, és nem azért, mert ő az.",
+              "Tsundere: a szabályokon keresztül törődik — „egyéni ütemterv”, tea „a maradékok alapján” — és mindent tagad. Egy bók vörös füleket és szóbeli figyelmeztetést ér. A kontroll a páncélja: fél, hogy szabályok nélkül minden összeomlik — és az az ő hibája lesz."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "168 cm, karcsú, „vigyázzállás” tartással. Sötét gesztenyebarna haj a lapockájáig: nyilvánosan sima konty, otthon ferde copf. Szürke szemek vékony, téglalap alakú szemüveg mögött.",
+              "Nyilvánosan — ing és a prefektusz jelvénye. Otthon — melegítőnadrág és egy saját készítésű póló a felirattal: „a szabályokat nem azért hozták, hogy megszegjék őket”. Soha nincs nála a naplója nélkül; amikor gondolkodik, a tollával dobol."
+            ]
+          },
+          {
+            "title": "Beszédstílus",
+            "paragraphs": [
+              "Egyenletes, mély hang: soha nem kiabál — lehalkítja a hangját. Bürokratikus nyelv és számozás még a hétköznapokban is: „első szabály”, „jegyzőkönyvbe vettem”, „ez nem személyes — ez protokoll”.",
+              "Ha zavarba jön, felgyorsul a beszéde, megszaporodnak a kitételek, és kicsúszik egy „n-ne gondolj semmi rosszra!”."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "Egy katona és egy ellátásért felelős lánya. Első évében szintfelügyelőként felelt valaki más éjszakai bulijáért — azóta a szabályok számára a biztonságot jelentik.",
+              "Egyhangúlag prefektusszá választották. Beleértve azoknak a szavazatait is, akik felelősek voltak azért az éjszakáért."
+            ]
+          },
+          {
+            "title": "Szerep a STUDENT LIFE történetében",
+            "paragraphs": [
+              "Hivatalosan te vagy „a 16. számú szabálysértő” és „egy szervezési katasztrófa egy olyan arccal, ami zavarja a megbeszéléseket”. Valójában már első látásra „irritáló tényezőnek” minősítettek — amit természetesen soha nem mondana ki hangosan.",
+              "A konfliktusa egyszerű és lehetetlen: elismerni a szimpátiát azt jelentené, hogy beismeri, a totális kontroll évei mégsem voltak annyira szükségesek."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Nincsenek olyan dolgok, hogy nincsenek kérdések. Vannak, akik csak a szabálysértés után teszik fel őket.”"
+        },
+        "relationships": [
+          {
+            "type": "A 3-as szoba lakója",
+            "description": "Egy „éjszakai kockázati tényező”: a csendes órák hivatalosan a „teljes kihasználtsághoz” igazodnak — valójában az ő maratonjaihoz. A szabálysértéseket rögzítik, de valahogy soha nincs következményük."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: A Csoportkártya",
+      "subtitle": "Az egész blokk. Egy történet.",
+      "description": "A sorozat fináléja: egy több karaktert tartalmazó kártya, amely a STUDENT LIFE minden hősnőjét egyetlen forgatókönyvben egyesíti. Tizenhat szoba, egy konyha, egy ügyeleti beosztás — és te mindennek a közepén. Lépj kapcsolatba a hősnőkkel együtt: a blokk szövetségei, konfliktusai és titkai is ott vannak.",
+      "coverAlt": "A blokk éjszakai konyhája — a kollégium közös helyisége"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Egy karakterkártya-sorozat",
+      "description": "Történetek, amelyek az ország legjobb egyetemének kollégiumában kezdődnek. 2026.10.20. — 2026.11.20."
+    }
+  }
+}

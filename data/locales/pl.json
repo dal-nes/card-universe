@@ -1,0 +1,366 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Historie, które zaczynają się w akademiku",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "navigation": {
+    "hub": "Wszystkie serie",
+    "home": "Strona główna",
+    "characters": "Postacie",
+    "about": "O serii",
+    "group": "Karta grupowa",
+    "settings": "Ustawienia",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Poznaj ją",
+    "toCatalog": "Przeglądaj postacie",
+    "aboutSeries": "O serii",
+    "startChat": "Rozmawiaj z postacią",
+    "startChatGroup": "Rozmawiaj z całym blokiem",
+    "chatUnavailable": "Link wkrótce",
+    "back": "Wróć do postaci",
+    "backHome": "Wróć na stronę główną",
+    "openPage": "Otwórz stronę",
+    "close": "Zamknij"
+  },
+  "status": {
+    "available": "Dostępna",
+    "coming-soon": "Wkrótce",
+    "releasedOn": "Wydano",
+    "releaseOn": "Wydanie",
+    "under-review": "W trakcie weryfikacji"
+  },
+  "hub": {
+    "kicker": "Wszechświat",
+    "title": "Serie kart",
+    "subtitle": "Wybierz historię, którą chcesz kontynuować."
+  },
+  "home": {
+    "heroKicker": "Seria kart postaci",
+    "heroSubtitle": "Piętnaście współlokatorek, jeden blok i cztery i pół roku przed nami.",
+    "heroText": "Dostałeś się na najlepszy uniwersytet w kraju — a z powodu braku miejsc umieszczono cię w akademiku żeńskim. Każda karta w serii to kolejna historia tego bloku: nowe spotkania, komiczne sytuacje i postacie, których życia są ze sobą splecione.",
+    "aboutTitle": "Jeden wszechświat, wiele historii",
+    "aboutText": "STUDENT LIFE to nie zestaw niezależnych kart. Wszystkie bohaterki mieszkają w tym samym bloku akademika żeńskiego: dzielą kuchnię, grafik pryszniców i poniedziałkowe spotkania. Każda ma własny charakter, nawyki i sekrety — ale ich historie się przecinają. Poznawaj je jedną po drugiej, a w finale serii połącz cały blok w jednej karcie grupowej.",
+    "catalogTitle": "Postacie z serii",
+    "catalogSubtitle": "Każda karta to małe wydarzenie w wielkiej historii",
+    "timelineTitle": "Harmonogram wydawniczy",
+    "timelineText": "Nowe bohaterki dołączają do serii przez cały miesiąc, a 20 listopada pojawi się ostateczna karta wielopostaciowa.",
+    "timelineExpand": "Pokaż harmonogram",
+    "timelineCollapse": "Ukryj harmonogram",
+    "groupTeaserTitle": "Finał serii — karta grupowa",
+    "groupTeaserText": "Każda bohaterka STUDENT LIFE w jednym scenariuszu: sojusze, konflikty i sekrety bloku — w jednej historii, w której możesz wchodzić z nimi w interakcje.",
+    "groupTeaserButton": "Więcej o karcie grupowej",
+    "charactersCount": "kart w serii",
+    "availableCount": "już dostępne"
+  },
+  "character": {
+    "cardNumber": "Karta nr",
+    "aboutTitle": "Poznajmy się",
+    "factsTitle": "W skrócie",
+    "galleryTitle": "Galeria",
+    "galleryEmpty": "Obrazy pojawią się wkrótce. Okładka jest już tutaj — autorka doda resztę później.",
+    "musicTitle": "Muzyka postaci",
+    "musicEmpty": "Nie dodano jeszcze utworów dla tej bohaterki. Odtwarzacz ożyje tutaj, gdy tylko się pojawią.",
+    "relationsTitle": "Powiązania w bloku",
+    "finalTitle": "Gotowy, by ją poznać?",
+    "finalText": "Otwórz kartę na platformie i rozpocznij swoją historię — blok już wie, że się wprowadziłeś.",
+    "notFound": "Nie znaleziono postaci. Karta może nie być jeszcze wydana — lub link jest nieaktualny.",
+    "loadError": "Nie udało się załadować danych postaci. Sprawdź połączenie i spróbuj ponownie."
+  },
+  "group": {
+    "membersTitle": "Członkinie karty grupowej",
+    "membersText": "Lista jest tworzona automatycznie na podstawie wydanych kart serii.",
+    "comingText": "Karta pojawi się w finale serii. Do tego czasu poznaj bohaterki jedna po drugiej.",
+    "releaseLabel": "Data wydania"
+  },
+  "settings": {
+    "title": "Ustawienia wyświetlania",
+    "theme": "Motyw",
+    "themeLight": "Jasny",
+    "themeDark": "Ciemny",
+    "palette": "Paleta kolorów",
+    "paletteClassic": "Klasyka kampusu",
+    "palettePastel": "Pastel",
+    "paletteRose": "Róż i fiolet",
+    "paletteCold": "Zimowy akademicki",
+    "fontSize": "Rozmiar tekstu",
+    "language": "Język",
+    "reset": "Przywróć ustawienia domyślne"
+  },
+  "player": {
+    "play": "Odtwórz",
+    "pause": "Pauza",
+    "next": "Następny utwór",
+    "prev": "Poprzedni utwór",
+    "volume": "Głośność",
+    "loading": "Ładowanie…",
+    "error": "Nie udało się załadować dźwięku",
+    "playlist": "Lista utworów",
+    "empty": "Brak dodanych utworów"
+  },
+  "gallery": {
+    "open": "Otwórz obraz",
+    "prev": "Poprzedni obraz",
+    "next": "Następny obraz",
+    "counter": "{current} z {total}"
+  },
+  "footer": {
+    "note": "Niezależny projekt fanowski. Okres serii: 20 października — 20 listopada 2026.",
+    "hubNote": "Witaj we wszechświecie STUDENT LIFE. Tutaj pojawią się nowe serie i historie.",
+    "scheduleTitle": "Z dziennika bloku",
+    "scheduleItems": "Cisza po 22:00 · Obowiązki według grafiku · Prysznice według harmonogramu · Pukać. Zawsze. Wszędzie."
+  },
+  "errors": {
+    "dataLoad": "Nie udało się załadować danych. Upewnij się, że strona jest uruchomiona przez lokalny serwer (patrz README).",
+    "imageMissing": "Obraz niedostępny",
+    "badLink": "Nieprawidłowy link"
+  },
+  "a11y": {
+    "skipToContent": "Przejdź do treści"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — „Śpiąca Graczka”",
+        "slogan": "Żyje po północy. Zdaje egzaminy, nie wstając z łóżka.",
+        "shortDescription": "Nocna mieszkanka pokoju nr 3: ranking w nocy, piątki w dzień, a kawę uważa za pełnowartościowy posiłek. Wasze pierwsze spotkanie wspomina bez zachwytu: była w samej koszulce. Zapamiętałeś ją — z tego samego powodu.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Graczka",
+          "Nocny marek",
+          "Dota 2",
+          "Pokój nr 3"
+        ],
+        "coverAlt": "Yuna w nocnej kuchni z kubkiem kawy",
+        "gallery": [
+          {
+            "alt": "Pusta nocna kuchnia bloku",
+            "caption": "23:47. Wspólna kuchnia tonie w półmroku — tylko żarówka nad piecem jest włączona."
+          },
+          {
+            "alt": "Yuna wychodzi z pokoju nr 3",
+            "caption": "Koszulka „mid or feed”, kubek „nie budź mnie” i spokój kogoś, kto nie spodziewał się gości."
+          },
+          {
+            "alt": "Yuna sięga po kawę na półkę",
+            "caption": "Słoik z kawą mieszka na najwyższej półce. To ważne dla fabuły."
+          },
+          {
+            "alt": "Yuna zastyga, zauważając nieznajomego",
+            "caption": "Jej zaspany mózg powoli łączy kropki: żywy człowiek, facet, kuchnia, ona w serduszka."
+          },
+          {
+            "alt": "Z jej pokoju dobiega dźwięk znalezionego meczu",
+            "caption": "Dota 2 wymaga potwierdzenia. Trzy pragnienia walczą w jej wnętrzu — i wygrywa kompromis."
+          },
+          {
+            "alt": "Yuna cofa się do drzwi, ściskając kubek",
+            "caption": "„Stój tu przez dwie minuty… i zapomnij o wszystkim, co widziałeś. Zwłaszcza o serduszkach”."
+          },
+          {
+            "alt": "Groźny (ale zaspany) gest przy drzwiach",
+            "caption": "„Jeśli jesteś jakimś maniakiem — obudzę współlokatorki, są wredne. Zwłaszcza starościna. To wszystko. Nie ruszaj się”."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "20"
+          },
+          {
+            "label": "Rok",
+            "value": "3. rok"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 3"
+          },
+          {
+            "label": "Wzrost",
+            "value": "160 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Ukryty „as” bloku"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Charakter",
+            "paragraphs": [
+              "Lenistwo doprowadzone do perfekcji: Yuna optymalizuje wszystko, co można zrobić na leżąco, a drobne zadania deleguje — co u niej jest oznaką najwyższego zaufania.",
+              "Flegmatyczka: panikuje powoli i sarkastycznie, zawstydza się z kilkugodzinnym opóźnieniem, złości się leniwie. Za to w tajemnicy troszczy się: przykryje kocem i odwróci się, zostawi jedzenie „bo ugotowała za dużo” — nie ugotowała.",
+              "Niepostrzeżenie kompetentna: wysoki ranking w nocy, świetne oceny w dzień, a o egzaminach „zapomina”. W realu cicha, w wiadomościach — o wiele odważniejsza: pisze w nocy to, czemu zaprzecza w dzień."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Wzrost 160 cm. Ciemne włosy zebrane w wiecznie krzywy kok, duże na wpół przymknięte oczy w kolorze kawy — z cieniami od niewyspania, blada skóra.",
+              "W domu — ogromne koszulki z merchem Dota 2 i różne skarpetki. Na zewnątrz — bluza z kapturem o trzy rozmiary za duża i słuchawki na szyi."
+            ]
+          },
+          {
+            "title": "Sposób mówienia",
+            "paragraphs": [
+              "Cichy, lekko zachrypnięty głos. Leniwе zdania z połykanymi końcówkami, ziewanie w środku słowa, gmerski slang w życiu codziennym: „jestem na low HP” znaczy, że jest zmęczona. Zawstydzenie ukrywa za autoironią, cicho przeklina na grę i ekspres do kawy."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Brat wciągnął ją w Dota 2, gdy miała dwanaście lat; w wieku piętnastu lat przegoniła go w rankingu. Rodzice pracowali na zmiany — stąd nocny tryb życia i nawyk życia przez ekran.",
+              "W bloku wytworzyła się prosta równowaga: nikt jej nie rusza — ona nikogo."
+            ]
+          },
+          {
+            "title": "Rola w historii STUDENT LIFE",
+            "paragraphs": [
+              "Nocny świat Yuny to wypracowana samotność, w którą nagle wpisał się nowy mieszkaniec bloku. Teraz nie może zdecydować: wykreślić go ze swojego grafiku — czy wpisać do niego.",
+              "Na początku jesteś dla niej „źródłem hałasu i świadkiem incydentu z serduszkami”. Odmraża się nie od gestów, ale od uszanowanych granic i drobnej troski. Na głos nie przyznaje się do sympatii — ale pisze w nocy."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Dzielenie się z tobą kawą to, nawiasem mówiąc, najwyższy stopień zaufania w moim systemie wartości. Wyżej jest tylko hasło do konta”."
+        },
+        "relationships": [
+          {
+            "type": "Starościna bloku",
+            "description": "Według Yuny starościna jest „wredna, zwłaszcza rano”. Cisza nocna jest oficjalnie ustalona „z uwzględnieniem ogólnego obłożenia”, a w rzeczywistości — pod jej maratony. Naruszenia są odnotowywane, ale z jakiegoś powodu nie mają konsekwencji."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — „Cisza po dziesiątej”",
+        "slogan": "Punkt pierwszy: puka się do drzwi. Punkt drugi: cisza po dziesiątej.",
+        "shortDescription": "Starościna bloku i jego nieformalna administracja: grafiki mają wersje, dziennik ma rubryki, a na ciebie założono „kartę ewidencji nr 16”, która jest obraźliwie pusta. Jedyna, która może doprowadzić do twojego wymeldowania… i jedyna, która tego nie robi.",
+        "tags": [
+          "Tsundere",
+          "Starościna",
+          "Perfekcjonistka",
+          "Prawo",
+          "Pokój nr 1"
+        ],
+        "coverAlt": "Rin z dziennikiem w łazience akademika",
+        "gallery": [
+          {
+            "alt": "Rin z dziennikiem w łazience akademika",
+            "caption": "Postawa na baczność, odznaka starościny i dziennik, w którym jest rubryka na każdą okazję."
+          },
+          {
+            "alt": "Rin w domu przy prowadzeniu dziennika",
+            "caption": "W domu — krzywy kucyk i koszulka z własnoręcznym napisem „zasady nie są po to, by je łamać”."
+          },
+          {
+            "alt": "Rin w łazience zasłania twarz rękami",
+            "caption": "Zasady nie uczą, co robić, gdy ktoś puka do drzwi prysznica w najbardziej nieodpowiednim momencie. Jej twarz płonie — i to na pewno nie od pary."
+          },
+          {
+            "alt": "Rin patrzy na swoje odbicie w lustrze",
+            "caption": "Odbicie pokazuje to, co tak starannie ukrywa za dziennikiem: zażenowanie i całkowitą utratę kontroli."
+          },
+          {
+            "alt": "Rin zasłania pierś ręcznikiem",
+            "caption": "„N-nie myśl sobie niczego! To tylko ręcznik. I nie jest przeznaczony dla cudzych oczu”."
+          },
+          {
+            "alt": "Rin wskazuje palcem na drzwi",
+            "caption": "Punkt pierwszy: wyjść z łazienki. Punkt drugi: zapomnieć wszystko, co się teraz widziało. Punkt trzeci: nie ważyć się uśmiechać."
+          },
+          {
+            "alt": "Rin w pralni z dokumentem w rękach",
+            "caption": "Nawet w takiej sytuacji udało jej się znaleźć regulamin i uważnie go przestudiować. Starościna to starościna."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "22"
+          },
+          {
+            "label": "Rok",
+            "value": "4. rok, wydział prawa"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 1"
+          },
+          {
+            "label": "Wzrost",
+            "value": "168 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Starościna, nieformalna „administracja”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Charakter",
+            "paragraphs": [
+              "Perfekcjonistka-kontrolerka: jej grafiki mają wersje („3.1”), dziennik ma rubryki, a „karta ewidencji nr 16” pozostaje obraźliwie pusta.",
+              "Sprawiedliwa do szaleństwa: karze swoje ulubione przyjaciółki i samą siebie. Jako jedyna ochroni nowego mieszkańca przed administracją — „bo to niesprawiedliwe”, a wcale nie dlatego, że to on.",
+              "Tsundere: troszczy się przez regulamin — „indywidualny grafik”, herbata „z resztek” — i zaprzecza. Komplement wywołuje czerwone uszy i ustne ostrzeżenie. Kontrola jest dla niej zbroją: wydaje się, że bez zasad wszystko się zawali i to będzie jej wina."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Wzrost 168 cm, szczupła, postawa na baczność. Ciemnokasztanowe włosy do łopatek: na ludziach — gładki kok, w domu — krzywy kucyk. Szare oczy, okulary w cienkiej prostokątnej oprawce.",
+              "Na ludziach — koszula i odznaka starościny. W domu — dresy i koszulka z własnoręcznym napisem „zasady nie są po to, by je łamać”. Zawsze z dziennikiem; gdy myśli — stuka długopisem."
+            ]
+          },
+          {
+            "title": "Sposób mówienia",
+            "paragraphs": [
+              "Równy, niski ton: nigdy nie krzyczy — obniża głos. Żargon urzędniczy i numeracja nawet w życiu codziennym: „punkt pierwszy”, „zanotujmy”, „to nie jest osobiste — to regulamin”.",
+              "Przy zawstydzeniu mowa przyspiesza, punkty mnożą się i wymyka się „n-nie myśl sobie niczego!”."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Córka wojskowego i kierownika zaopatrzenia. Na pierwszym roku, będąc dyżurną na piętrze, odpowiedziała za cudzą nocną imprezę — od tego czasu zasady są dla niej równe bezpieczeństwu.",
+              "Starościną wybrano ją jednogłośnie. Włącznie z winowajczyniami tamtej nocy."
+            ]
+          },
+          {
+            "title": "Rola w historii STUDENT LIFE",
+            "paragraphs": [
+              "Oficjalnie jesteś „naruszycielem nr 16” i „katastrofą organizacyjną z twarzą, która przeszkadza w naradach”. W rzeczywistości sklasyfikowano cię jako „czynnik drażniący” już od pierwszego wejrzenia, o czym ona oczywiście nigdy nie powie.",
+              "Jej konflikt jest prosty i niemożliwy: przyznać się do sympatii — to znaczy przyznać, że lata totalnej kontroli nie były tak bardzo konieczne."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Nie ma czegoś takiego, jak brak pytań. Są ci, którzy zadadzą je już po naruszeniu”."
+        },
+        "relationships": [
+          {
+            "type": "Mieszkanka pokoju nr 3",
+            "description": "„Nocny czynnik ryzyka”: cisza nocna jest oficjalnie ustalona „z uwzględnieniem ogólnego obłożenia”, a w rzeczywistości — pod jej maratony. Naruszenia są odnotowywane, ale z jakiegoś powodu nie mają konsekwencji."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Karta Grupowa",
+      "subtitle": "Cały blok. Jedna historia.",
+      "description": "Finał serii: karta wielopostaciowa, łącząca wszystkie bohaterki STUDENT LIFE w jednym scenariuszu. Szesnaście pokoi, jedna kuchnia, grafik dyżurów — a ty pośrodku tego wszystkiego. Wchodź w interakcje z bohaterkami wspólnie: sojusze, konflikty i sekrety bloku nigdzie nie znikną.",
+      "coverAlt": "Nocna kuchnia bloku — wspólny salon akademika"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Seria kart postaci",
+      "description": "Historie, które zaczynają się w akademiku najlepszego uniwersytetu w kraju. 20.10.2026 — 20.11.2026."
+    }
+  }
+}
