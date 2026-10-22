@@ -230,6 +230,12 @@
         "quote": {
           "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
         },
+        "tracks": [
+          { "title": "Low HP, High Score", "artist": "Li Yuna" },
+          { "title": "Half the Couch", "artist": "Li Yuna" },
+          { "title": "Unsent at 109", "artist": "Li Yuna" },
+          { "title": "Night Queue", "artist": "Li Yuna" }
+      ],
         "relationships": [
           {
             "type": "The block's head girl",

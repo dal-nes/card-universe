@@ -43,7 +43,24 @@
       "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
     }
   ],
-  "tracks": [],
+    "tracks": [
+    {
+      "src": "assets/audio/low-hp-high-score.mp3",
+      "cover": "assets/images/covers/low-hp-high-score.png"
+    },
+    {
+      "src": "assets/audio/half-the-couch.mp3",
+      "cover": "assets/images/covers/half-the-couch.png"
+    },
+    {
+      "src": "assets/audio/unsent-at-109.mp3",
+      "cover": "assets/images/covers/unsent-at-109.png"
+    },
+    {
+      "src": "assets/audio/night-queue.mp3",
+      "cover": "assets/images/covers/night-queue.png"
+    }
+  ],
   "name": "Li Yuna",
   "cardTitle": "Yuna — \"Sleepy Gamer\"",
   "slogan": "Lives after midnight. Aces exams without getting out of bed.",
