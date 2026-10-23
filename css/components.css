@@ -104,11 +104,16 @@
   background: currentColor;
 }
 .badge--available {
-  background: color-mix(in srgb, #3fa66a 18%, transparent);
-  color: color-mix(in srgb, #2f8f57 80%, var(--text));
+  background: color-mix(in srgb, #3fa66a 25%, var(--surface));
+  color: #2f8f57;
+  border: 1px solid color-mix(in srgb, #3fa66a 40%, transparent);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 [data-theme="dark"] .badge--available {
+  background: color-mix(in srgb, #3fa66a 30%, var(--surface));
   color: #7fd6a4;
+  border: 1px solid color-mix(in srgb, #7fd6a4 30%, transparent);
 }
 .badge--coming {
   background: var(--accent-soft);
@@ -160,14 +165,15 @@
 }
 .char-card__cover {
   position: relative;
-  aspect-ratio: 4 / 4.6;
+  aspect-ratio: 4 / 5;
   overflow: hidden;
   background: var(--surface-2);
 }
 .char-card__cover img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  display: block;
   transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .char-card:hover .char-card__cover img {
@@ -240,7 +246,9 @@
   color: var(--text);
   display: -webkit-box;
   -webkit-line-clamp: 5;
+  line-clamp: 5;
   -webkit-box-orient: vertical;
+  box-orient: vertical;
   overflow: hidden;
 }
 .char-card__overlay .btn {
