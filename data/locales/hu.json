@@ -441,7 +441,36 @@
         "quote": {
           "text": "Ne gondolkodj—csináld. Majd utána gondolkodunk."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Csendes reggel",
+            "caption": "Egy ritka béke pillanata a reggeli futás előtt."
+          },
+          {
+            "alt": "A nyújtórúdon",
+            "caption": "Megmutatja erejét a rúdon, amit ő maga szerelt fel."
+          },
+          {
+            "alt": "Leszállás",
+            "caption": "Tökéletes leszállás. A sok óra gyakorlás meghozza gyümölcsét."
+          },
+          {
+            "alt": "Kezeit törli",
+            "caption": "Letörli az izzadságot és a krétát a kezéről. Készen áll a következő sorozatra."
+          },
+          {
+            "alt": "Fogadás: függeszkedés",
+            "caption": "A fogadás fogadás. Marta nem hajlandó elengedni a rudat."
+          },
+          {
+            "alt": "Pihenés",
+            "caption": "Levegőhöz jut egy kemény edzés után."
+          },
+          {
+            "alt": "Edzés után",
+            "caption": "Edzés utáni ragyogás. Fáradt, de elégedett."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

@@ -15,7 +15,29 @@
     "assets/images/covers/marta-cover-6.jpg"
   ],
   "chatUrl": "",
-  "gallery": [],
+  "gallery": [
+    {
+      "src": "assets/images/gallery/marta/01-quiet-morning.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/02-on-pullup-bar.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/03-dez-lands.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/04-alive-wipes-hands.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/05-bet-hanging.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/06-gallery-1.png"
+    },
+    {
+      "src": "assets/images/gallery/marta/06-gallery-2.png"
+    }
+  ],
   "tracks": [],
   "relationships": []
 }

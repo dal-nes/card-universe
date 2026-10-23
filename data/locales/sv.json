@@ -441,7 +441,36 @@
         "quote": {
           "text": "Tänk inte—gör. Vi tänker efteråt."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Tyst morgon",
+            "caption": "En sällsynt stund av lugn före morgonrundan."
+          },
+          {
+            "alt": "På pull-up-stången",
+            "caption": "Visar upp sin styrka på stången hon installerade själv."
+          },
+          {
+            "alt": "Landning",
+            "caption": "En perfekt landning. Alla de där träningstimmarna lönar sig."
+          },
+          {
+            "alt": "Torkar händerna",
+            "caption": "Torkar svett och krita från händerna. Redo för nästa set."
+          },
+          {
+            "alt": "Vad: hängande",
+            "caption": "Ett vad är ett vad. Marta vägrar släppa stången."
+          },
+          {
+            "alt": "Vilar",
+            "caption": "Hämtar andan efter ett tufft träningspass."
+          },
+          {
+            "alt": "Efter träningen",
+            "caption": "Glöd efter träningen. Trött men nöjd."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

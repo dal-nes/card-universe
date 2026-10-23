@@ -477,7 +477,36 @@
         "quote": {
           "text": "Ne pense pas—agis. Nous réfléchirons après."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Matin calme",
+            "caption": "Un rare moment de paix avant la course matinale."
+          },
+          {
+            "alt": "À la barre de traction",
+            "caption": "Montrant sa force sur la barre qu'elle a elle-même installée."
+          },
+          {
+            "alt": "Atterrissage",
+            "caption": "Un atterrissage parfait. Toutes ces heures d'entraînement paient."
+          },
+          {
+            "alt": "S'essuie les mains",
+            "caption": "Essuyant la sueur et la craie de ses mains. Prête pour la série suivante."
+          },
+          {
+            "alt": "Pari : suspension",
+            "caption": "Un pari est un pari. Marta refuse de lâcher la barre."
+          },
+          {
+            "alt": "Repos",
+            "caption": "Reprenant son souffle après un entraînement difficile."
+          },
+          {
+            "alt": "Après l'entraînement",
+            "caption": "Éclat post-entraînement. Fatiguée mais satisfaite."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

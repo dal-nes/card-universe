@@ -441,7 +441,36 @@
         "quote": {
           "text": "Nie myśl—działaj. Pomyślimy później."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Cichy poranek",
+            "caption": "Rzadka chwila spokoju przed porannym biegiem."
+          },
+          {
+            "alt": "Na drążku",
+            "caption": "Pokazuje swoją siłę na drążku, który sama zamontowała."
+          },
+          {
+            "alt": "Lądowanie",
+            "caption": "Idealne lądowanie. Wszystkie te godziny treningu się opłacają."
+          },
+          {
+            "alt": "Wyciera ręce",
+            "caption": "Wyciera pot i kredę z rąk. Gotowa na kolejną serię."
+          },
+          {
+            "alt": "Zakład: zwis",
+            "caption": "Zakład to zakład. Marta odmawia puszczenia drążka."
+          },
+          {
+            "alt": "Odpoczynek",
+            "caption": "Łapie oddech po ciężkim treningu."
+          },
+          {
+            "alt": "Po treningu",
+            "caption": "Poświata po treningu. Zmęczona, ale spełniona."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

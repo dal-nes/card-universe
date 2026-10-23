@@ -477,7 +477,36 @@
         "quote": {
           "text": "Tænk ikke—gør. Vi tænker bagefter."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Stille morgen",
+            "caption": "Et sjældent øjebliks fred før morgenturen."
+          },
+          {
+            "alt": "På pull-up bar",
+            "caption": "Viser sin styrke på den bar, hun selv har installeret."
+          },
+          {
+            "alt": "Landing",
+            "caption": "En perfekt landing. Alle de mange timers træning betaler sig."
+          },
+          {
+            "alt": "Tørrer hænder",
+            "caption": "Tørrer sved og kridt af hænderne. Klar til næste sæt."
+          },
+          {
+            "alt": "Væddemål: hængende",
+            "caption": "Et væddemål er et væddemål. Marta nægter at slippe baren."
+          },
+          {
+            "alt": "Hviler",
+            "caption": "Får vejret igen efter en hård træning."
+          },
+          {
+            "alt": "Efter træning",
+            "caption": "Glød efter træning. Træt, men tilfreds."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

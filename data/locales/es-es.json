@@ -477,7 +477,36 @@
         "quote": {
           "text": "No pienses, haz. Pensaremos después."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Mañana tranquila",
+            "caption": "Un raro momento de paz antes de la carrera matutina."
+          },
+          {
+            "alt": "En la barra de dominadas",
+            "caption": "Demostrando su fuerza en la barra que ella misma instaló."
+          },
+          {
+            "alt": "Aterrizaje",
+            "caption": "Un aterrizaje perfecto. Todas esas horas de práctica valen la pena."
+          },
+          {
+            "alt": "Se seca las manos",
+            "caption": "Secándose el sudor y la tiza de las manos. Lista para la siguiente serie."
+          },
+          {
+            "alt": "Apuesta: colgando",
+            "caption": "Una apuesta es una apuesta. Marta se niega a soltar la barra."
+          },
+          {
+            "alt": "Descansando",
+            "caption": "Recuperando el aliento después de un duro entrenamiento."
+          },
+          {
+            "alt": "Post-entrenamiento",
+            "caption": "Brillo post-entrenamiento. Cansada pero satisfecha."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

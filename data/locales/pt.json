@@ -441,7 +441,36 @@
         "quote": {
           "text": "Não pense—faça. Nós pensamos depois."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Manhã tranquila",
+            "caption": "Um raro momento de paz antes da corrida matinal."
+          },
+          {
+            "alt": "Na barra fixa",
+            "caption": "A mostrar a sua força na barra que ela própria instalou."
+          },
+          {
+            "alt": "Aterragem",
+            "caption": "Uma aterragem perfeita. Todas aquelas horas de prática compensam."
+          },
+          {
+            "alt": "Limpa as mãos",
+            "caption": "A limpar o suor e o giz das mãos. Pronta para a próxima série."
+          },
+          {
+            "alt": "Aposta: pendurado",
+            "caption": "Uma aposta é uma aposta. A Marta recusa-se a largar a barra."
+          },
+          {
+            "alt": "A descansar",
+            "caption": "A recuperar o fôlego depois de um treino duro."
+          },
+          {
+            "alt": "Pós-treino",
+            "caption": "Brilho pós-treino. Cansada mas satisfeita."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

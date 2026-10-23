@@ -441,7 +441,36 @@
         "quote": {
           "text": "Non pensare—agisci. Penseremo dopo."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Mattina tranquilla",
+            "caption": "Un raro momento di pace prima della corsa mattutina."
+          },
+          {
+            "alt": "Alla sbarra",
+            "caption": "Mostra la sua forza sulla sbarra che ha installato da sola."
+          },
+          {
+            "alt": "Atterraggio",
+            "caption": "Un atterraggio perfetto. Tutte quelle ore di pratica ripagano."
+          },
+          {
+            "alt": "Si asciuga le mani",
+            "caption": "Asciugandosi sudore e gesso dalle mani. Pronta per la serie successiva."
+          },
+          {
+            "alt": "Scommessa: sospensione",
+            "caption": "Una scommessa è una scommessa. Marta si rifiuta di lasciare la sbarra."
+          },
+          {
+            "alt": "Riposo",
+            "caption": "Riprendendo fiato dopo un duro allenamento."
+          },
+          {
+            "alt": "Post-allenamento",
+            "caption": "Bagliore post-allenamento. Stanca ma soddisfatta."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

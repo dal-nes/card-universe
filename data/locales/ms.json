@@ -441,7 +441,36 @@
         "quote": {
           "text": "Jangan fikir—buat. Kita akan fikir kemudian."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Pagi yang tenang",
+            "caption": "Detik damai yang jarang berlaku sebelum larian pagi."
+          },
+          {
+            "alt": "Di palang tarik",
+            "caption": "Menunjukkan kekuatannya pada palang yang dia pasang sendiri."
+          },
+          {
+            "alt": "Pendaratan",
+            "caption": "Pendaratan yang sempurna. Semua jam latihan itu berbaloi."
+          },
+          {
+            "alt": "Mengelap tangan",
+            "caption": "Mengelap peluh dan kapur dari tangannya. Bersedia untuk seterusnya."
+          },
+          {
+            "alt": "Pertaruhan: bergantung",
+            "caption": "Pertaruhan adalah pertaruhan. Marta enggan melepaskan palang."
+          },
+          {
+            "alt": "Berehat",
+            "caption": "Mengambil nafas selepas senaman yang sukar."
+          },
+          {
+            "alt": "Selepas senaman",
+            "caption": "Cahaya selepas senaman. Letih tetapi berpuas hati."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

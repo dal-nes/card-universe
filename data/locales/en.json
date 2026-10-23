@@ -477,7 +477,36 @@
         "quote": {
           "text": "\"Don't think—do. We'll think after.\""
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Quiet Morning",
+            "caption": "A rare moment of peace before the morning run."
+          },
+          {
+            "alt": "On the Pull-up Bar",
+            "caption": "Showing off her strength on the bar she installed herself."
+          },
+          {
+            "alt": "Landing",
+            "caption": "A perfect landing. All those hours of practice pay off."
+          },
+          {
+            "alt": "Wipes Hands",
+            "caption": "Wiping sweat and chalk from her hands. Ready for the next set."
+          },
+          {
+            "alt": "Bet: Hanging",
+            "caption": "A bet is a bet. Marta refuses to let go of the bar."
+          },
+          {
+            "alt": "Resting",
+            "caption": "Catching her breath after a tough workout."
+          },
+          {
+            "alt": "Post-workout",
+            "caption": "Post-workout glow. Tired but satisfied."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

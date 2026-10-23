@@ -441,7 +441,36 @@
         "quote": {
           "text": "Niet denken—doen. We denken later wel."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Rustige ochtend",
+            "caption": "Een zeldzaam moment van rust voor de ochtendrun."
+          },
+          {
+            "alt": "Aan de optrekstang",
+            "caption": "Ze laat haar kracht zien aan de stang die ze zelf heeft geïnstalleerd."
+          },
+          {
+            "alt": "Landing",
+            "caption": "Een perfecte landing. Al die uren oefenen lonen zich."
+          },
+          {
+            "alt": "Handen afvegen",
+            "caption": "Zweet en krijt van haar handen vegen. Klaar voor de volgende set."
+          },
+          {
+            "alt": "Weddenschap: hangen",
+            "caption": "Een weddenschap is een weddenschap. Marta weigert de stang los te laten."
+          },
+          {
+            "alt": "Rusten",
+            "caption": "Op adem komen na een zware training."
+          },
+          {
+            "alt": "Na de training",
+            "caption": "Gloed na de training. Moe maar voldaan."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

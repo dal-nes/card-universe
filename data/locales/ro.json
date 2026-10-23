@@ -441,7 +441,36 @@
         "quote": {
           "text": "Nu te gândi—acționează. Ne vom gândi după."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Dimineață liniștită",
+            "caption": "Un rar moment de pace înainte de alergarea de dimineață."
+          },
+          {
+            "alt": "La bara de tracțiuni",
+            "caption": "Își arată puterea pe bara pe care a instalat-o singură."
+          },
+          {
+            "alt": "Aterizare",
+            "caption": "O aterizare perfectă. Toate acele ore de exersare merită."
+          },
+          {
+            "alt": "Își șterge mâinile",
+            "caption": "Șterge transpirația și creta de pe mâini. Pregătită pentru următorul set."
+          },
+          {
+            "alt": "Pariu: atârnat",
+            "caption": "Un pariu este un pariu. Marta refuză să dea drumul barei."
+          },
+          {
+            "alt": "Odihnă",
+            "caption": "Își recapătă suflul după un antrenament greu."
+          },
+          {
+            "alt": "După antrenament",
+            "caption": "Strălucire post-antrenament. Obosită, dar mulțumită."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

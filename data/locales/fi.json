@@ -477,7 +477,36 @@
         "quote": {
           "text": "Älä ajattele—tee. Ajattelemme myöhemmin."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Hiljainen aamu",
+            "caption": "Harvinainen rauhan hetki ennen aamulenkkiä."
+          },
+          {
+            "alt": "Leuanvetotangolla",
+            "caption": "Näyttää voimansa tangolla, jonka hän asensi itse."
+          },
+          {
+            "alt": "Laskeutuminen",
+            "caption": "Täydellinen laskeutuminen. Kaikki harjoitustunnit maksavat itsensä takaisin."
+          },
+          {
+            "alt": "Pyyhkii käsiään",
+            "caption": "Pyyhkii hien ja liidun käsistään. Valmiina seuraavaan sarjaan."
+          },
+          {
+            "alt": "Vetoa: roikkuu",
+            "caption": "Veto on veto. Marta kieltäytyy päästämästä irti tangosta."
+          },
+          {
+            "alt": "Lepää",
+            "caption": "Hengähtää raskaan treenin jälkeen."
+          },
+          {
+            "alt": "Treeningin jälkeen",
+            "caption": "Treenin jälkeinen hehku. Väsynyt mutta tyytyväinen."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

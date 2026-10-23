@@ -477,7 +477,36 @@
         "quote": {
           "text": "\"Huwag mag-isip—gawin. Mag-iisip tayo pagkatapos.\""
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Tahimik na umaga",
+            "caption": "Isang bihirang sandali ng kapayapaan bago ang pagtakbo sa umaga."
+          },
+          {
+            "alt": "Sa pull-up bar",
+            "caption": "Ipinapakita ang kanyang lakas sa bar na siya mismo ang nag-install."
+          },
+          {
+            "alt": "Landing",
+            "caption": "Isang perpektong landing. Sulit ang lahat ng oras ng pagsasanay."
+          },
+          {
+            "alt": "Pinupunasan ang kamay",
+            "caption": "Pinupunasan ang pawis at tisa sa kanyang mga kamay. Handa na sa susunod na set."
+          },
+          {
+            "alt": "Taya: nakabitin",
+            "caption": "Ang taya ay taya. Tumanggi si Marta na bitawan ang bar."
+          },
+          {
+            "alt": "Nagpapahinga",
+            "caption": "Humihingal pagkatapos ng matigas na pag-eehersisyo."
+          },
+          {
+            "alt": "Pagkatapos ng workout",
+            "caption": "Glow pagkatapos ng workout. Pagod ngunit nasiyahan."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

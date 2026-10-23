@@ -477,7 +477,36 @@
         "quote": {
           "text": "Nicht denken—machen. Wir denken danach."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Ruhiger Morgen",
+            "caption": "Ein seltener Moment der Ruhe vor dem Morgenlauf."
+          },
+          {
+            "alt": "An der Klimmzugstange",
+            "caption": "Sie zeigt ihre Stärke an der Stange, die sie selbst installiert hat."
+          },
+          {
+            "alt": "Landung",
+            "caption": "Eine perfekte Landung. All die Trainingsstunden zahlen sich aus."
+          },
+          {
+            "alt": "Hände abwischen",
+            "caption": "Schweiß und Kreide von den Händen wischen. Bereit für den nächsten Satz."
+          },
+          {
+            "alt": "Wette: Hängen",
+            "caption": "Eine Wette ist eine Wette. Marta weigert sich, die Stange loszulassen."
+          },
+          {
+            "alt": "Ausruhen",
+            "caption": "Nach einem harten Training wieder zu Atem kommen."
+          },
+          {
+            "alt": "Nach dem Training",
+            "caption": "Glühen nach dem Training. Müde, aber zufrieden."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

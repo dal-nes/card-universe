@@ -441,7 +441,36 @@
         "quote": {
           "text": "Đừng nghĩ—hãy làm. Chúng ta sẽ suy nghĩ sau."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Buổi sáng yên tĩnh",
+            "caption": "Một khoảnh khắc bình yên hiếm hoi trước buổi chạy sáng."
+          },
+          {
+            "alt": "Trên xà đơn",
+            "caption": "Thể hiện sức mạnh của mình trên thanh xà do chính cô ấy lắp đặt."
+          },
+          {
+            "alt": "Tiếp đất",
+            "caption": "Một cú tiếp đất hoàn hảo. Tất cả những giờ luyện tập đều được đền đáp."
+          },
+          {
+            "alt": "Lau tay",
+            "caption": "Lau mồ hôi và phấn trên tay. Sẵn sàng cho hiệp tiếp theo."
+          },
+          {
+            "alt": "Cá cược: treo người",
+            "caption": "Cá cược là cá cược. Marta từ chối buông thanh xà."
+          },
+          {
+            "alt": "Nghỉ ngơi",
+            "caption": "Lấy lại hơi thở sau một buổi tập luyện vất vả."
+          },
+          {
+            "alt": "Sau khi tập luyện",
+            "caption": "Rạng rỡ sau khi tập luyện. Mệt mỏi nhưng hài lòng."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

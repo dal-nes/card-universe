@@ -42,7 +42,7 @@
       "alt": "A menacing (but sleepy) gesture at the door",
       "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
     },
-        {
+    {
       "src": "assets/images/gallery/yuna/yuna-08.png",
       "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
       "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
@@ -78,7 +78,7 @@
       "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
     }
   ],
-    "tracks": [
+  "tracks": [
     {
       "src": "assets/audio/low-hp-high-score.mp3",
       "cover": "assets/images/covers/low-hp-high-score.png"
@@ -175,5 +175,12 @@
       "type": "The block's head girl",
       "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
     }
+  ],
+  "covers": [
+    "assets/images/covers/yuna-cover.jpg",
+    "assets/images/covers/yona-cover-2.png",
+    "assets/images/covers/yuna-01-look-from-bed.png",
+    "assets/images/covers/yuna-02-gamer-throne.png",
+    "assets/images/covers/yuna-03-sleepy-temptation.png"
   ]
 }

@@ -4,7 +4,7 @@
   "status": "available",
   "releaseDate": "2026-10-23",
   "accent": "#e0679a",
-  "cover": "assets/images/covers/rin-cover.jpg",
+  "cover": "assets/images/covers/rin-cover.png",
   "chatUrl": "https://tipsy.chat/chat/1792602234456441566",
   "gallery": [
     {
@@ -149,5 +149,13 @@
       "type": "Resident of Room No. 3",
       "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
     }
+  ],
+  "covers": [
+    "assets/images/covers/rin-cover.png",
+    "assets/images/covers/rin-01-challenge.png",
+    "assets/images/covers/rin-02-home-tsundere.png",
+    "assets/images/covers/rin-03-resident-16.png",
+    "assets/images/covers/rin-04-full-denial.png",
+    "assets/images/covers/rin-05-strict-look.png"
   ]
 }

@@ -441,7 +441,36 @@
         "quote": {
           "text": "Düşünme—yap. Sonra düşüneceğiz."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Sessiz Sabah",
+            "caption": "Sabah koşusundan önce nadir bir huzur anı."
+          },
+          {
+            "alt": "Barfiks çubuğunda",
+            "caption": "Kendi kurduğu barda gücünü gösteriyor."
+          },
+          {
+            "alt": "İniş",
+            "caption": "Mükemmel bir iniş. Tüm o pratik saatleri karşılığını veriyor."
+          },
+          {
+            "alt": "Ellerini siliyor",
+            "caption": "Ellerindeki teri ve tebeşiri siliyor. Bir sonraki sete hazır."
+          },
+          {
+            "alt": "Bahis: asılı",
+            "caption": "Bahis bahistir. Marta bardan bırakmayı reddediyor."
+          },
+          {
+            "alt": "Dinleniyor",
+            "caption": "Zorlu bir antrenmandan sonra nefesini topluyor."
+          },
+          {
+            "alt": "Antrenman sonrası",
+            "caption": "Antrenman sonrası parıltı. Yorgun ama tatmin olmuş."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

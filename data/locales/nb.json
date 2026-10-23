@@ -441,7 +441,36 @@
         "quote": {
           "text": "\"Ikke tenk—gjør. Vi tenker etter.\""
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Stille morgen",
+            "caption": "Et sjeldent øyeblikk av fred før morgenturen."
+          },
+          {
+            "alt": "På pull-up-stangen",
+            "caption": "Viser frem styrken sin på stangen hun installerte selv."
+          },
+          {
+            "alt": "Landing",
+            "caption": "En perfekt landing. Alle de timene med trening betaler seg."
+          },
+          {
+            "alt": "Tørker hender",
+            "caption": "Tørker svette og kritt av hendene. Klar for neste sett."
+          },
+          {
+            "alt": "Veddemål: hengende",
+            "caption": "Et veddemål er et veddemål. Marta nekter å slippe stangen."
+          },
+          {
+            "alt": "Hviler",
+            "caption": "Får igjen pusten etter en tøff treningsøkt."
+          },
+          {
+            "alt": "Etter trening",
+            "caption": "Glød etter trening. Sliten, men fornøyd."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

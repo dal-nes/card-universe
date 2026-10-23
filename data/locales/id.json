@@ -441,7 +441,36 @@
         "quote": {
           "text": "Jangan berpikir—lakukan. Kita akan berpikir nanti."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Pagi yang tenang",
+            "caption": "Momen damai yang langka sebelum lari pagi."
+          },
+          {
+            "alt": "Di palang pull-up",
+            "caption": "Menunjukkan kekuatannya di palang yang ia pasang sendiri."
+          },
+          {
+            "alt": "Pendaratan",
+            "caption": "Pendaratan yang sempurna. Semua jam latihan itu terbayar."
+          },
+          {
+            "alt": "Menyeka tangan",
+            "caption": "Menyeka keringat dan kapur dari tangannya. Siap untuk set berikutnya."
+          },
+          {
+            "alt": "Taruhan: bergantung",
+            "caption": "Taruhan adalah taruhan. Marta menolak melepaskan palang."
+          },
+          {
+            "alt": "Beristirahat",
+            "caption": "Mengatur napas setelah latihan yang berat."
+          },
+          {
+            "alt": "Setelah latihan",
+            "caption": "Cahaya setelah latihan. Lelah tapi puas."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {

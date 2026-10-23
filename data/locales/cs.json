@@ -477,7 +477,36 @@
         "quote": {
           "text": "Nepřemýšlej—jednej. Přemýšlet budeme potom."
         },
-        "gallery": [],
+        "gallery": [
+          {
+            "alt": "Tiché ráno",
+            "caption": "Vzácný okamžik klidu před ranním během."
+          },
+          {
+            "alt": "Na hrazdě",
+            "caption": "Předvádí svou sílu na hrazdě, kterou si sama nainstalovala."
+          },
+          {
+            "alt": "Přistání",
+            "caption": "Dokonalé přistání. Všechny ty hodiny tréninku se vyplácí."
+          },
+          {
+            "alt": "Utírá si ruce",
+            "caption": "Utírá pot a křídu z rukou. Připravena na další sérii."
+          },
+          {
+            "alt": "Sázka: vis",
+            "caption": "Sázka je sázka. Marta odmítá pustit hrazdu."
+          },
+          {
+            "alt": "Odpočinek",
+            "caption": "Chytá dech po náročném tréninku."
+          },
+          {
+            "alt": "Po tréninku",
+            "caption": "Záře po tréninku. Unavená, ale spokojená."
+          }
+        ],
         "tracks": [],
         "relationships": [
           {
