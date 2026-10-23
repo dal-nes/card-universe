@@ -1,8 +1,8 @@
 {
   "id": "rin",
   "number": 2,
-  "status": "under-review",
-  "releaseDate": "2026-10-...",
+  "status": "available",
+  "releaseDate": "2026-10-23",
   "accent": "#e0679a",
   "cover": "assets/images/covers/rin-cover.jpg",
   "chatUrl": "https://tipsy.chat/chat/1792602234456441566",
