@@ -180,7 +180,7 @@
   --radius-s: 10px;
   --radius-m: 16px;
   --radius-l: 24px;
-  --space-section: clamp(3.5rem, 8vw, 6.5rem);
+  --space-section: clamp(3.5rem, 8vw, 4.5rem);
   --container: 1180px;
 
   --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
@@ -345,4 +345,44 @@ h4 {
     opacity: 1;
     transform: none;
   }
+}
+
+
+/* --- Custom Cursor & Scrollbar --- */
+
+
+body, html {
+    
+    cursor: auto;
+}
+
+
+a, button, .char-card, .gallery-item, [role="button"], input[type="range"], .segmented button, .palette-option, .dropdown-toggle {
+    
+    cursor: pointer;
+}
+
+/* Минималистичный скроллбар (оставляем его) */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg); 
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--accent-soft); 
+    border-radius: 10px;
+    border: 2px solid var(--bg);
+    transition: background-color 0.3s ease;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent); 
+}
+
+/* Скроллбар для Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent-soft) var(--bg);
 }

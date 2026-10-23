@@ -333,25 +333,43 @@ window.SL = window.SL || {};
 
   
   function relationCard(relation, charactersById) {
-    const target = charactersById[relation.characterId];
-    if (!target) return null;
-    const href = "character.html?id=" + encodeURIComponent(target.id);
-
+    const targetId = relation.characterId;
+    const target = charactersById[targetId];
+    const isAvailable = target && target.status === "available";
+    
+    // Если персонажа еще нет в системе (заглушка на будущее)
+    const href = isAvailable ? "character.html?id=" + encodeURIComponent(target.id) : "#";
+    const name = target ? SL.i18n.t(`content.characters.${target.id}.name`) : (relation.name || "???");
+    const psychotype = relation.psychotype || "";
+    
     const avatar = el("span", { class: "relation-card__avatar" });
-    if (target.cover) {
+    if (target && target.cover) {
       const img = el("img", { attrs: { src: target.cover, alt: "", loading: "lazy" } });
       img.addEventListener("error", () => img.remove());
       avatar.append(img);
+    } else {
+      avatar.append(icon("users"));
+      avatar.style.display = "grid";
+      avatar.style.placeItems = "center";
+      avatar.style.background = "var(--surface-2)";
     }
-    const a = el("a", { class: "relation-card", attrs: { href } }, [
+
+    const card = el(isAvailable ? "a" : "article", { 
+      class: "relation-card" + (isAvailable ? "" : " relation-card--soon"),
+      attrs: isAvailable ? { href } : {}
+    }, [
       avatar,
-      el("span", {}, [
-        el("span", { class: "relation-card__type", text: relation.type }),
-        el("div", { class: "relation-card__name", text: SL.i18n.t(`content.characters.${target.id}.name`) }),
+      el("span", { class: "relation-card__body" }, [
+        el("div", { class: "relation-card__header" }, [
+          el("span", { class: "relation-card__type", text: relation.type }),
+          !isAvailable ? el("span", { class: "relation-card__badge", text: SL.i18n.t("status.coming-soon") }) : null
+        ]),
+        el("div", { class: "relation-card__name", text: name }),
+        psychotype ? el("div", { class: "relation-card__psychotype", text: psychotype }) : null,
         el("p", { class: "relation-card__desc", text: relation.description })
       ])
     ]);
-    return a;
+    return card;
   }
 
   

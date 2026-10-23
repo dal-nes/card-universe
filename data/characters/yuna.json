@@ -172,14 +172,21 @@
   },
   "relationships": [
     {
-      "type": "The block's head girl",
-      "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
+      "characterId": "rin"
+    },
+    {
+      "characterId": "marta"
+    },
+    {
+      "characterId": "gyaru"
+    },
+    {
+      "characterId": "loner"
     }
   ],
   "covers": [
     "assets/images/covers/yuna-cover.jpg",
     "assets/images/covers/yona-cover-2.png",
-    "assets/images/covers/yuna-01-look-from-bed.png",
     "assets/images/covers/yuna-02-gamer-throne.png",
     "assets/images/covers/yuna-03-sleepy-temptation.png"
   ]

@@ -243,11 +243,16 @@ SL.pages = SL.pages || {};
     ]);
     
     const enTracks = t("content.characters." + character.id + ".tracks") || [];
-    const tracks = (character.tracks || []).map((track, i) => ({
-      ...track,
-      title: enTracks[i]?.title || track.title,
-      artist: enTracks[i]?.artist || track.artist
-    }));
+    const tracks = (character.tracks || []).map((track, i) => {
+      const locTrack = (Array.isArray(enTracks) && enTracks[i]) ? enTracks[i] : {};
+      return {
+        ...track,
+        title: locTrack.title || track.title,
+        artist: locTrack.artist || track.artist,
+        lyrics: locTrack.lyrics || "",
+        description: locTrack.description || ""
+      };
+    });
 
     const player = SL.audioPlayer.createPlayer(tracks);
     section.append(
@@ -267,7 +272,9 @@ SL.pages = SL.pages || {};
         return SL.components.relationCard({
           characterId: baseRel.characterId,
           type: relation.type,
-          description: relation.description
+          description: relation.description,
+          name: relation.name,
+          psychotype: relation.psychotype
         }, charactersById);
       })
       .filter(Boolean);

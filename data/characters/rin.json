@@ -146,8 +146,16 @@
   },
   "relationships": [
     {
-      "type": "Resident of Room No. 3",
-      "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
+      "characterId": "yuna"
+    },
+    {
+      "characterId": "marta"
+    },
+    {
+      "characterId": "sister"
+    },
+    {
+      "characterId": "careerist"
     }
   ],
   "covers": [

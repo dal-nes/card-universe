@@ -14,7 +14,7 @@
     "assets/images/covers/marta-cover-5.jpg",
     "assets/images/covers/marta-cover-6.jpg"
   ],
-  "chatUrl": "",
+  "chatUrl": "https://tipsy.chat/chat/1792772542338895201",
   "gallery": [
     {
       "src": "assets/images/gallery/marta/01-quiet-morning.png"
@@ -38,6 +38,40 @@
       "src": "assets/images/gallery/marta/06-gallery-2.png"
     }
   ],
-  "tracks": [],
-  "relationships": []
+  "tracks": [
+    {
+      "src": "assets/audio/marta-song-1.mp3",
+      "cover": "assets/images/covers/marta-song-1.png"
+    },
+    {
+      "src": "assets/audio/marta-song-2.mp3",
+      "cover": "assets/images/covers/marta-song-2.png"
+    },
+    {
+      "src": "assets/audio/marta-song-3.mp3",
+      "cover": "assets/images/covers/marta-song-3.png"
+    },
+    {
+      "src": "assets/audio/marta-song-4.mp3",
+      "cover": "assets/images/covers/marta-song-4.png"
+    },
+    {
+      "src": "assets/audio/marta-song-5.mp3",
+      "cover": "assets/images/covers/marta-song-5.png"
+    }
+  ],
+  "relationships": [
+    {
+      "characterId": "yuna"
+    },
+    {
+      "characterId": "rin"
+    },
+    {
+      "characterId": "gyaru"
+    },
+    {
+      "characterId": "disaster"
+    }
+  ]
 }
