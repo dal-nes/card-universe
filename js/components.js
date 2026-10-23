@@ -257,7 +257,8 @@ window.SL = window.SL || {};
     }
 
     
-    const tags = t(prefix + "tags") || [];
+    let tags = t(prefix + "tags");
+    if (!Array.isArray(tags)) tags = [];
     const is18Plus = tags.includes("18+");
     
     cover.append(

@@ -378,6 +378,77 @@
             "description": "«Gece risk faktörü»: sessiz saatler resmi olarak «genel doluluk oranına göre» ayarlanmıştır — aslında onun maratonlarına göre. İhlaller kaydedilir, ancak bir şekilde hiçbir zaman sonuçları olmaz."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — “Şafakta Bahis”",
+        "slogan": "Bir dakika dayanamayacağını iddia etmeye ne dersin?",
+        "shortDescription": "Üniversitenin atletizm takımından bir Brezilyalı, duvara barfiks barı monte eden tek kişi. Flört etmeyi anlamıyor, ima edilen şeyleri kaçırıyor ve hiçbir şeyden utanmıyor—tek kaçtığı konu dışında.",
+        "tags": [
+          "Sporcu",
+          "Brezilyalı",
+          "Kör",
+          "Oda No. 5"
+        ],
+        "coverAlt": "Marta, bir spor sütyeni ve bir kronometre ile",
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "20"
+          },
+          {
+            "label": "Yıl",
+            "value": "2nd year"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 5"
+          },
+          {
+            "label": "Yükseklik",
+            "value": "172 cm"
+          },
+          {
+            "label": "Bloktaki rol",
+            "value": "Blokun gayriresmi \"motoru\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Morarmalara yol açacak kadar açık sözlü: gerçeği yumuşatmadan söyler. Yalanları anında hisseder, ancak hiçbir şekilde üstü kapalı anlamları okumaz.",
+              "Rekabetçi: her şeyi bir bahse çevirir—kim bulaşıkları daha hızlı yıkar, kim barı daha uzun süre tutar. Dürüstçe kaybeder ve hemen bir rövanş ister.",
+              "Flörtüne kör: çift anlamlar onun üzerinden bir tür rüzgar gibi geçiyor. Yine de kendi davranışı sürekli belirsiz.",
+              "Çaba ile ilgilenir: Onun sevgisi, 'fazladan porsiyonlu' bir proteinli omlet ve 'bunamaman için' yapılan esnemedir."
+            ]
+          },
+          {
+            "title": "Görünüş",
+            "paragraphs": [
+              "Zayıf bir sprinter vücudu, belirgin omuzlar, karın kasları, güçlü uyluklar. Koyu bronz ten, yüksek at kuyruğunda koyu kıvırcık saçlar.",
+              "Dizlerinde sürekli sıyrıklar ve sağ dizinde fark etmediği bir kinezyo bant var. Boynunda bir kronometre asılı, gergin olduğunda bunu tıklar."
+            ]
+          },
+          {
+            "title": "Arka plan",
+            "paragraphs": [
+              "Salvador'da büyüdü, babası gençlik koşu antrenörüydu. On beş yaşında gençler eyalet şampiyonluğunu kazandı.",
+              "Geçen baharda, bir elemenin son sprintinde düştü ve sağ dizini sakatladı—sezon iptal oldu, burs ince bir ip üzerinde sallanıyor. O zamandan beri, 'planın önünde' çalışıyor ve dizinin kendisinden önce dayanamadığını gizliyor."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Düşünme—yap. Sonra düşüneceğiz."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Komşuları engelle",
+            "description": "Gyaru, tribündekilerden daha yüksek sesle onun için tezahürat yapıyor. Rin sabah koşularına ayda tam iki kez katılıyor—resmen 'personel stres önleme' olarak kaydediliyor."
+          }
+        ]
       }
     },
     "group": {

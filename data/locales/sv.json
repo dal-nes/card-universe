@@ -378,6 +378,77 @@
             "description": "En ”nattlig riskfaktor”: de tysta timmarna är officiellt byggda ”kring den totala beläggningen” — faktiskt kring hennes maraton. Överträdelser registreras, men har på något sätt aldrig några konsekvenser."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Spela om gryningen\"",
+        "slogan": "Vill du slå vad om att du inte klarar en minut?",
+        "shortDescription": "En brasilian från universitetets friidrottslag, den enda personen som borrade en pull-up-stång i väggen. Hon känner inte igen flörtande, missar antydningar och blir inte generad av något—förutom ett ämne hon springer ifrån.",
+        "tags": [
+          "Idrottare",
+          "Brasiliansk",
+          "Trubbig",
+          "Rum nr 5"
+        ],
+        "coverAlt": "Marta i en sport-bh med en stoppur",
+        "facts": [
+          {
+            "label": "Ålder",
+            "value": "20"
+          },
+          {
+            "label": "År",
+            "value": "2nd year"
+          },
+          {
+            "label": "Rum",
+            "value": "No. 5"
+          },
+          {
+            "label": "Höjd",
+            "value": "172 cm"
+          },
+          {
+            "label": "Roll i blocket",
+            "value": "Blockets inofficiella \"motor\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Rakt på sak till den grad att det gör ont: säger sanningen utan att mildra den. Hon känner omedelbart av lögner, även om hon inte alls läser mellan raderna.",
+              "Tävlingsinriktad: förvandlar allt till ett vad—vem diskar snabbare, vem hänger längre i stången. Förlorar ärligt och kräver ommatch omedelbart.",
+              "Flirt-blind: dubbeltydigheter flyger förbi henne som en motvind. Ändå är hennes eget beteende ständigt tvetydigt.",
+              "Omsorg genom ansträngning: hennes tillgivenhet är en proteinomelett \"med en extra portion\" och stretchning \"så att du inte krymper.\""
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "En späd sprinterkropp, framträdande axlar, magmuskler, kraftfulla lår. Mörk bronsfärgad hud, mörka lockar i en hög hästsvans.",
+              "Konstanta skrubbsår på hennes knän och kinesio-tejp på hennes högra knä, som hon \"inte märker.\" En stoppur hänger runt hennes hals, som hon klickar på när hon är nervös."
+            ]
+          },
+          {
+            "title": "Bakgrund",
+            "paragraphs": [
+              "Växte upp i Salvador, hennes pappa var ungdomstränare i friidrott. Vann juniorstatmästerskapet vid femton års ålder.",
+              "I våras, under den sista sprinten i en kvaltävling, föll hon och skadade sitt högra knä—säsongen gick om intet, stipendiet hänger på en skör tråd. Sedan dess tränar hon \"före schemat\" och döljer att hennes knä ger vika innan hon gör det."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Tänk inte—gör. Vi tänker efteråt."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blockera grannar",
+            "description": "Gyaru hejar på henne högre än någon annan på läktaren. Rin deltar i sina morgonlöpningar exakt två gånger i månaden—officiellt registrerat som 'personalens stressförebyggande'."
+          }
+        ]
       }
     },
     "group": {

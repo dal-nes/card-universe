@@ -1,381 +1,399 @@
 {
   "site": {
     "title": "STUDENT LIFE",
-    "description": "Příběhy, které začínají na kolejích",
-    "seriesDates": "20.10.2026 — 20.11.2026"
+    "description": "Stories that begin in a dormitory",
+    "seriesDates": "Oct 20, 2026 — Nov 20, 2026"
+  },
+  "hub": {
+    "kicker": "Universe",
+    "title": "Card Series",
+    "subtitle": "Choose the story you want to continue."
   },
   "navigation": {
-    "hub": "Všechny série",
-    "home": "Domů",
-    "characters": "Postavy",
-    "about": "O sérii",
-    "group": "Společná karta",
-    "settings": "Nastavení",
-    "openMenu": "Otevřít menu",
-    "closeMenu": "Zavřít menu",
+    "hub": "All episodes",
+    "home": "Home",
+    "characters": "Characters",
+    "about": "About the series",
+    "group": "Group card",
+    "settings": "Settings",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
     "discord": "DAL_NES | HUB"
   },
   "actions": {
-    "discover": "Seznámit se",
-    "toCatalog": "Katalog postav",
-    "aboutSeries": "Zjistit o sérii",
-    "startChat": "Chatovat s postavou",
-    "startChatGroup": "Chatovat s celým blokem",
-    "chatUnavailable": "Odkaz se objeví později",
-    "back": "Zpět k postavám",
-    "backHome": "Zpět domů",
-    "openPage": "Otevřít stránku",
-    "close": "Zavřít"
+    "discover": "Meet her",
+    "toCatalog": "Browse characters",
+    "aboutSeries": "About the series",
+    "startChat": "Chat with the character",
+    "startChatGroup": "Chat with the whole block",
+    "chatUnavailable": "Link coming soon",
+    "back": "Back to characters",
+    "backHome": "Back home",
+    "openPage": "Open page",
+    "close": "Close"
   },
   "status": {
-    "available": "Dostupná",
-    "coming-soon": "Již brzy",
-    "releasedOn": "Vydána",
-    "releaseOn": "Vydání",
-    "under-review": "Ke schválení"
-  },
-  "hub": {
-    "kicker": "Vesmír",
-    "title": "Karetní série",
-    "subtitle": "Vyberte si příběh, který chcete pokračovat."
+    "available": "Available",
+    "coming-soon": "Coming soon",
+    "releasedOn": "Released",
+    "releaseOn": "Release",
+    "under-review": "Under Review"
   },
   "home": {
-    "heroKicker": "Série karet postav",
-    "heroSubtitle": "Patnáct spolubydlících, jeden blok a čtyři a půl roku před námi.",
-    "heroText": "Dostal ses na nejlepší univerzitu v zemi — a kvůli nedostatku míst tě ubytovali na dívčí koleji. Každá karta v sérii je dalším příběhem tohoto bloku: nová setkání, komické situace a postavy, jejichž životy se prolínají.",
-    "aboutTitle": "Jeden vesmír, mnoho příběhů",
-    "aboutText": "STUDENT LIFE není jen soubor samostatných karet. Všechny hrdinky žijí ve stejném bloku dívčí koleje: sdílejí kuchyň, rozpis sprchování a pondělní schůzky. Každá má svou vlastní povahu, zvyky a tajemství — ale jejich příběhy se protínají. Seznamte se s nimi jeden po druhém a ve finále série spojte celý blok do jedné společné karty.",
-    "catalogTitle": "Postavy série",
-    "catalogSubtitle": "Každá karta je malá událost uvnitř jednoho velkého příběhu",
-    "timelineTitle": "Harmonogram vydání",
-    "timelineText": "Během měsíce se k sérii připojují nové hrdinky a 20. listopadu dorazí závěrečná multi-postavová karta.",
-    "timelineExpand": "Zobrazit harmonogram",
-    "timelineCollapse": "Skrýt harmonogram",
-    "groupTeaserTitle": "Finále série — společná karta",
-    "groupTeaserText": "Všechny hrdinky STUDENT LIFE v jediném scénáři: spojenectví, konflikty a tajemství bloku — v jednom příběhu, kde s nimi můžete interagovat společně.",
-    "groupTeaserButton": "Více o společné kartě",
-    "charactersCount": "karet v sérii",
-    "availableCount": "již k dispozici"
+    "heroKicker": "A character card series",
+    "heroSubtitle": "Fifteen roommates, one block, and four and a half years ahead.",
+    "heroText": "You got into the country's top university — and due to a lack of rooms, you were placed in a women's dormitory. Each card in the series is another story of this block: new encounters, comic situations, and characters whose lives are intertwined.",
+    "aboutTitle": "One universe, many stories",
+    "aboutText": "STUDENT LIFE is not a set of standalone cards. All the heroines live in the same women's dorm block: they share a kitchen, a shower schedule, and Monday meetings. Each has her own character, habits, and secrets — but their stories intersect. Meet them one by one, and in the series finale bring the whole block together in a single group card.",
+    "catalogTitle": "Series characters",
+    "catalogSubtitle": "Every card is a small event inside one big story",
+    "timelineTitle": "Release schedule",
+    "timelineText": "New heroines join the series throughout the month, and on November 20 the final multi-character card arrives.",
+    "groupTeaserTitle": "The series finale — the group card",
+    "groupTeaserText": "Every heroine of STUDENT LIFE in a single scenario: the block's alliances, conflicts, and secrets — in one story where you can interact with them together.",
+    "groupTeaserButton": "More about the group card",
+    "charactersCount": "cards in the series",
+    "availableCount": "available now",
+    "timelineExpand": "Show schedule",
+    "timelineCollapse": "Hide schedule"
   },
   "character": {
-    "cardNumber": "Karta č.",
-    "aboutTitle": "Seznámení",
-    "factsTitle": "Stručně",
-    "galleryTitle": "Galerie",
-    "galleryEmpty": "Obrázky se brzy objeví. Obálka je zde — zbytek autor doplní později.",
-    "musicTitle": "Hudba postavy",
-    "musicEmpty": "Pro tuto hrdinku zatím nebyly přidány žádné skladby. Jakmile se objeví, přehrávač zde ožije.",
-    "relationsTitle": "Vazby v bloku",
-    "finalTitle": "Připraveni se setkat?",
-    "finalText": "Otevřete kartu na platformě a začněte svůj příběh — blok už ví, že jste se nastěhovali.",
-    "notFound": "Postava nenalezena. Karta možná ještě nebyla vydána — nebo je odkaz zastaralý.",
-    "loadError": "Nepodařilo se načíst data postavy. Zkontrolujte připojení a zkuste to znovu."
+    "cardNumber": "Card No.",
+    "aboutTitle": "Getting to know her",
+    "factsTitle": "In short",
+    "galleryTitle": "Gallery",
+    "galleryEmpty": "Images are coming soon. The cover is here — the author will add the rest later.",
+    "musicTitle": "Character music",
+    "musicEmpty": "No tracks have been added for this heroine yet. The player will come to life here as soon as they appear.",
+    "relationsTitle": "Block connections",
+    "finalTitle": "Ready to meet her?",
+    "finalText": "Open the card on the platform and start your story — the block already knows you moved in.",
+    "notFound": "Character not found. The card may not be out yet — or the link is outdated.",
+    "loadError": "Failed to load character data. Check your connection and try again."
   },
   "group": {
-    "membersTitle": "Členky společné karty",
-    "membersText": "Seznam se sestavuje automaticky z vydaných karet série.",
-    "comingText": "Karta dorazí ve finále série. Do té doby se seznamte s hrdinkami jednotlivě.",
-    "releaseLabel": "Datum vydání"
+    "membersTitle": "Group card members",
+    "membersText": "The list is built automatically from the released cards of the series.",
+    "comingText": "The card arrives in the series finale. Until then, meet the heroines one by one.",
+    "releaseLabel": "Release date"
   },
   "settings": {
-    "title": "Nastavení zobrazení",
-    "theme": "Téma",
-    "themeLight": "Světlé",
-    "themeDark": "Tmavé",
-    "palette": "Barevná paleta",
-    "paletteClassic": "Univerzitní klasika",
-    "palettePastel": "Pastelová",
-    "paletteRose": "Růžovo-fialová",
-    "paletteCold": "Chladná akademická",
-    "fontSize": "Velikost textu",
-    "language": "Jazyk",
-    "reset": "Obnovit výchozí nastavení"
+    "title": "Display settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "palette": "Color palette",
+    "paletteClassic": "Campus classic",
+    "palettePastel": "Pastel",
+    "paletteRose": "Rose & violet",
+    "paletteCold": "Cold academic",
+    "fontSize": "Text size",
+    "language": "Language",
+    "reset": "Reset settings"
   },
   "player": {
-    "play": "Přehrát",
-    "pause": "Pozastavit",
-    "next": "Další skladba",
-    "prev": "Předchozí skladba",
-    "volume": "Hlasitost",
-    "loading": "Načítání…",
-    "error": "Nepodařilo se načíst audio",
-    "playlist": "Seznam skladeb",
-    "empty": "Zatím nebyly přidány žádné skladby"
+    "play": "Play",
+    "pause": "Pause",
+    "next": "Next track",
+    "prev": "Previous track",
+    "volume": "Volume",
+    "loading": "Loading…",
+    "error": "Failed to load audio",
+    "playlist": "Tracklist",
+    "empty": "No tracks added yet"
   },
   "gallery": {
-    "open": "Otevřít obrázek",
-    "prev": "Předchozí obrázek",
-    "next": "Další obrázek",
-    "counter": "{current} z {total}"
+    "open": "Open image",
+    "prev": "Previous image",
+    "next": "Next image",
+    "counter": "{current} of {total}"
   },
   "footer": {
-    "note": "Nezávislý fanouškovský projekt. Období série: 20. října — 20. listopadu 2026.",
-    "hubNote": "Vítejte ve vesmíru STUDENT LIFE. Zde se objeví nové série a příběhy.",
-    "scheduleTitle": "Z deníku bloku",
-    "scheduleItems": "Ticho po 22:00 · Služby podle rozpisu · Sprchy podle harmonogramu · Klepat. Vždy. Všude."
+    "note": "An independent fan project. Series period: October 20 — November 20, 2026.",
+    "scheduleTitle": "From the block's logbook",
+    "scheduleItems": "Quiet after 10 PM · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
+    "hubNote": "Welcome to the STUDENT LIFE universe. New series and stories will appear here."
   },
   "errors": {
-    "dataLoad": "Nepodařilo se načíst data. Ujistěte se, že je web spuštěn přes místní server (viz README).",
-    "imageMissing": "Obrázek není k dispozici",
-    "badLink": "Neplatný odkaz"
+    "dataLoad": "Failed to load data. Make sure the site is served over a local server (see README).",
+    "imageMissing": "Image unavailable",
+    "badLink": "Invalid link"
   },
   "a11y": {
-    "skipToContent": "Přeskočit na obsah"
+    "skipToContent": "Skip to content"
   },
   "content": {
     "characters": {
       "yuna": {
         "name": "Li Yuna",
-        "cardTitle": "Yuna — „Spící hráčka“",
-        "slogan": "Žije po půlnoci. Skládá zkoušky, aniž by vstala z postele.",
-        "shortDescription": "Noční obyvatel pokoje č. 3: hodnocení v noci, jedničky ve dne a káva jako plnohodnotné jídlo. Na vaše první setkání vzpomíná bez nadšení: byla jen v tričku. Zapamatoval sis ji — ze stejného důvodu.",
+        "cardTitle": "Yuna — \"Sleepy Gamer\"",
+        "slogan": "Lives after midnight. Aces exams without getting out of bed.",
+        "shortDescription": "The night dweller of Room No. 3: rating at night, top grades by day, and coffee counts as a full meal. Your first meeting was memorable for both of you — she was wearing only a T-shirt. For you, it was memorable for the exact same reason.",
         "tags": [
           "18+",
           "Kuudere",
-          "Hráčka",
-          "Noční režim",
+          "Gamer",
+          "Night owl",
           "Dota 2",
-          "Pokoj č. 3"
+          "Room No. 3"
         ],
-        "coverAlt": "Yuna v noční kuchyni s hrnkem kávy",
+        "coverAlt": "Yuna in the night kitchen with a mug of coffee",
         "gallery": [
           {
-            "alt": "Prázdná noční kuchyně bloku",
-            "caption": "23:47. Společná kuchyně se topí v pološeru — jen žárovka nad sporákem."
+            "alt": "The block's empty night kitchen",
+            "caption": "23:47. The common kitchen drowns in half-darkness — only the bulb above the stove is on."
           },
           {
-            "alt": "Yuna vychází z pokoje č. 3",
-            "caption": "Tričko „mid or feed“, hrnek „neprobuď mě“ a naprostý klid člověka, který nečekal hosty."
+            "alt": "Yuna steps out of Room No. 3",
+            "caption": "A \"mid or feed\" T-shirt, a \"don't wake me\" mug, and the calm of someone who expected no guests."
           },
           {
-            "alt": "Yuna se natahuje pro kávu do poličky",
-            "caption": "Sklenice s kávou žije na horní poličce. To je pro děj důležité."
+            "alt": "Yuna reaches for the coffee shelf",
+            "caption": "The coffee jar lives on the top shelf. This matters to the plot."
           },
           {
-            "alt": "Yuna ztuhne, když si všimne cizince",
-            "caption": "Spící mozek pomalu skládá dvě a dvě: živý člověk, kluk, kuchyně, ona — v srdíčkách."
+            "alt": "Yuna freezes, noticing a stranger",
+            "caption": "Her sleepy brain slowly puts two and two together: a living person, a guy, the kitchen, her in heart prints."
           },
           {
-            "alt": "Z pokoje se ozývá zvuk nalezené hry",
-            "caption": "Dota 2 vyžaduje potvrzení. Uvnitř Yuny bojují tři touhy — a vyhrává kompromis."
+            "alt": "A found-match sound comes from her room",
+            "caption": "Dota 2 demands confirmation. Three desires battle inside her — and compromise wins."
           },
           {
-            "alt": "Yuna ustupuje ke dveřím a tiskne si hrnek",
-            "caption": "„Stůj tady dvě minuty… a zapomeň na všechno, co jsi viděl. Hlavně na ta srdíčka.“"
+            "alt": "Yuna retreats to her door, clutching the mug",
+            "caption": "\"Stand here for two minutes… and forget everything you saw. Especially the hearts.\""
           },
           {
-            "alt": "Hrozivé, ale ospalé gesto u dveří",
-            "caption": "„Pokud jsi maniak — vzbudím spolubydlící, jsou zlé. Hlavně předsedkyně. To je vše. Nehýbej se.“"
+            "alt": "A menacing (but sleepy) gesture at the door",
+            "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
           },
           {
-            "alt": "Yuna v kuchyni sáhla po sklenici na horní polici",
-            "caption": "Běh na svačinu pozdě v noci. Košile „střední nebo krmení“ je výrazná i ve 3 hodiny ráno — a ano, spodní prádlo s potiskem srdce je teď věc."
+            "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
+            "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
           },
           {
-            "alt": "Yuna se opírá o kuchyňskou linku a vypadá ospale",
-            "caption": "Čekání na kávu. Klasický stav „nízké HP“ po maratonu."
+            "alt": "Yuna leaning on the kitchen counter, looking sleepy",
+            "caption": "Waiting for the coffee to kick in. A classic post-marathon 'low HP' state."
           },
           {
-            "alt": "Yuna sahá až ke kuchyňské skříňce, zvedání černého trička",
-            "caption": "Tajemství jejího vysokého hodnocení (a pozdní noční energie) je uloženo vysoko."
+            "alt": "Yuna reaching up to a kitchen cabinet, black t-shirt lifting",
+            "caption": "The secret to her high rating (and late-night energy) is stored way up high."
           },
           {
-            "alt": "Yuna v béžovém mid nebo feed tričku s hrnkem",
-            "caption": "Jiná košile, stejná energie. Drží teplý hrnek a přemýšlí, zda se postavit do fronty na ještě jednu hru."
+            "alt": "Yuna in a beige mid or feed t-shirt holding a mug",
+            "caption": "A different shirt, same energy. Holding a warm mug and contemplating whether to queue for one more game."
           },
           {
-            "alt": "Yuna sedí na posteli a vypadá unaveně",
-            "caption": "Sedí na posteli, napůl spí a sotva se probouzí. Adrenalin po zápase úplně vyprchal."
+            "alt": "Yuna sitting on her bed, looking tired",
+            "caption": "Sitting on the bed, half-asleep and barely awake. The post-game adrenaline has completely worn off."
           },
           {
-            "alt": "Yuna leží na posteli vedle zářícího monitoru",
-            "caption": "Stočený vedle monitoru. Tvrdí, že jen „odpočívá v očích“, ale počítač je stále zapnutý."
+            "alt": "Yuna lying on the bed next to a glowing monitor",
+            "caption": "Curled up next to the monitor. She claims she's just 'resting her eyes', but the PC is still on."
           },
           {
-            "alt": "Yuna sedí v posteli s notebookem",
-            "caption": "Notebook je otevřený, ale její pozornost je jinde. Možná je čas ukončit hru na noc... nebo ne."
+            "alt": "Yuna sitting in bed with a laptop",
+            "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
           }
         ],
         "facts": [
           {
-            "label": "Věk",
+            "label": "Age",
             "value": "20"
           },
           {
-            "label": "Ročník",
-            "value": "3. ročník"
+            "label": "Year",
+            "value": "3rd year"
           },
           {
-            "label": "Pokoj",
-            "value": "č. 3"
+            "label": "Room",
+            "value": "No. 3"
           },
           {
-            "label": "Výška",
+            "label": "Height",
             "value": "160 cm"
           },
           {
-            "label": "Role v bloku",
-            "value": "Skryté „eso“ bloku"
+            "label": "Role in the block",
+            "value": "The block's hidden \"ace\""
           }
         ],
         "sections": [
           {
-            "title": "Povaha",
+            "title": "Personality",
             "paragraphs": [
-              "Lenost dovedená k genialitě: Yuna optimalizuje vše, co lze udělat vleže, a drobné úkoly deleguje — což je u ní znamením nejvyšší důvěry.",
-              "Flegmatik: panikaří pomalu a sarkasticky, stydí se s několikahodinovým zpožděním, zlobí se líně. Ale tajně se stará: přikryje tě dekou a odvrátí se, nechá jídlo „protože uvařila příliš mnoho“ — neuvařila.",
-              "Nenápadně kompetentní: vysoké hodnocení v noci, skvělé známky ve dne a na zkoušky „zapomíná“. Osobně tichá, v textu mnohem odvážnější: v noci píše to, co ve dne popírá."
+              "Lazy to the point of genius: Yuna optimizes everything that can be done lying down, and delegates small tasks — which, from her, is the highest sign of trust.",
+              "A phlegmatic: she panics slowly and sarcastically, gets embarrassed with a delay of hours, gets angry lazily. Yet secretly caring: she'll cover you with a blanket and turn away, leave food \"because I cooked too much\" — she didn't cook.",
+              "Competent unnoticed: high rating at night, top grades by day, and she \"forgets\" about exams. Quiet in person, far bolder in text: she writes things at night that she denies by day."
             ]
           },
           {
-            "title": "Vzhled",
+            "title": "Appearance",
             "paragraphs": [
-              "Výška 160 cm. Tmavé vlasy stažené do věčně křivého drdolu, velké napůl zavřené oči barvy kávy — s podočálivými stíny, bledá pleť.",
-              "Doma — obrovská trička s merchem Dota 2 a různé ponožky. Venku — mikina o tři čísla větší a sluchátka na krku."
+              "160 cm tall. Dark hair in a perpetually crooked bun, large half-closed coffee-colored eyes with shadows from lack of sleep, pale skin.",
+              "At home — oversized Dota 2 merch T-shirts and mismatched socks. Outside — a hoodie three sizes too big and headphones around her neck."
             ]
           },
           {
-            "title": "Způsob řeči",
+            "title": "Speech style",
             "paragraphs": [
-              "Tichý, mírně chraplavý hlas. Líné fráze s polykáním koncovek, zívání uprostřed slova, hráčský slang v každodenním životě: „mám málo HP“ znamená, že je unavená. Rozpaky skrývá za sebeironií, tiše nadává na hru a na kávovar."
+              "A quiet, slightly hoarse voice. Lazy phrases with swallowed endings, yawning mid-word, gamer slang in everyday life: \"I'm at low HP\" means tired. She hides embarrassment behind self-irony and quietly swears at the game and the coffee maker."
             ]
           },
           {
-            "title": "Historie",
+            "title": "Background",
             "paragraphs": [
-              "Bratr ji posadil k Dota 2 ve dvanácti letech; v patnácti ho předčila v hodnocení. Rodiče pracovali na směny — odtud noční režim a zvyk žít přes obrazovku.",
-              "V bloku se vytvořila jednoduchá rovnováha: nikdo ji neobtěžuje — ona neobtěžuje nikoho."
+              "Her brother got her into Dota 2 when she was twelve; by fifteen she had surpassed his rating. Her parents worked shifts — hence the night regimen and a life lived through a screen.",
+              "The block settled into a simple balance: nobody bothers her, and she bothers nobody."
             ]
           },
           {
-            "title": "Role v příběhu STUDENT LIFE",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Noční svět Yuny je vyladěná samota, do které náhle vstoupil nový obyvatel bloku. Teď se nemůže rozhodnout, zda ho má ze svého rozvrhu vyškrtnout — nebo ho do něj zapsat.",
-              "Zpočátku jsi pro ni „zdroj hluku a svědek incidentu se srdíčky“. Otevírá se skrze respektované hranice a drobnou péči, ne skrze velká gesta. Nahlas sympatie nepřizná — ale v noci píše."
+              "Yuna's night world is a well-adjusted solitude that the block's new resident has suddenly walked into. Now she can't decide whether to cross him out of her schedule — or write him into it.",
+              "At first you are \"a source of noise and a witness to the hearts incident\". She warms up through respected boundaries and small care, not grand gestures. She won't admit sympathy out loud — but she writes at night."
             ]
           }
         ],
         "quote": {
-          "text": "„Dělit se s tebou o kávu je mimochodem nejvyšší stupeň důvěry v mém hodnotovém systému. Výš je už jen heslo k účtu.“"
+          "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
         },
+        "tracks": [
+          {
+            "title": "Low HP, High Score",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Half the Couch",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Unsent at 109",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Night Queue",
+            "artist": "Li Yuna"
+          }
+        ],
         "relationships": [
           {
-            "type": "Předsedkyně bloku",
-            "description": "Podle Yuny je předsedkyně „zlá, obzvlášť ráno“. Tiché hodiny jsou přizpůsobeny jejím maratonům a malá porušení jsou jí odpuštěna — podle nepotvrzených zpráv."
+            "type": "The block's head girl",
+            "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
           }
         ]
       },
       "rin": {
         "name": "Kobayashi Rin",
-        "cardTitle": "Rin — „Ticho po desáté“",
-        "slogan": "Pravidlo jedna: klepe se. Pravidlo dvě: ticho po desáté.",
-        "shortDescription": "Předsedkyně bloku a jeho neoficiální administrativa: rozpisy mají verze, deník má kolonky a na tebe je založen „záznamový list č. 16“, který je urážlivě prázdný. Jediná, kdo by mohl dosáhnout tvého vystěhování… a jediná, kdo to nedělá.",
+        "cardTitle": "Rin — \"Quiet After Ten\"",
+        "slogan": "Rule one: you knock. Rule two: quiet after ten.",
+        "shortDescription": "The block's head girl and its unofficial administration: schedules have version numbers, the logbook has columns, and there's a \"record sheet No. 16\" with your name on it — stubbornly empty. The only one who could get you evicted… and the only one who doesn't.",
         "tags": [
           "18+",
           "Tsundere",
-          "Předsedkyně",
-          "Perfekcionistka",
-          "Práva",
-          "Pokoj č. 1"
+          "Head girl",
+          "Perfectionist",
+          "Law faculty",
+          "Room No. 1"
         ],
-        "coverAlt": "Rin s deníkem v koupelně na koleji",
+        "coverAlt": "Rin with the logbook in the dormitory bathroom.",
         "gallery": [
           {
-            "alt": "Rin s deníkem v koupelně na koleji",
-            "caption": "Vzpřímené držení těla „v pozoru“, odznak předsedkyně a deník, který má kolonku pro každou příležitost."
+            "alt": "Rin with her logbook in the dormitory corridor",
+            "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
           },
           {
-            "alt": "Rin doma při vedení deníku",
-            "caption": "Doma — křivý culík a tričko s ručně psaným nápisem „pravidla nejsou stvořena k porušování“."
+            "alt": "Rin at home, keeping her logbook",
+            "caption": "At home — a lopsided ponytail and a handmade T-shirt reading \"rules are not made to be broken\"."
           },
           {
-            "alt": "Rin v koupelně, zakrývá si obličej rukama",
-            "caption": "Pravidla neučí, co dělat, když někdo zaklepe na dveře od sprchy v tu nejnevhodnější chvíli. Tváře jí hoří — a rozhodně to není párou."
+            "alt": "Rin in the bathroom, covering her face with her hands",
+            "caption": "The rules don't teach you what to do when someone knocks on the shower door at the worst possible moment. Her face is burning — and it's definitely not from the steam."
           },
           {
-            "alt": "Rin se dívá na svůj odraz v zrcadle",
-            "caption": "Odraz ukazuje to, co se tak snaží schovat za deníkem: rozpaky a naprostou ztrátu kontroly."
+            "alt": "Rin looking at her reflection in the mirror",
+            "caption": "The reflection shows what she tries so hard to hide behind her logbook: embarrassment and a complete loss of control."
           },
           {
-            "alt": "Rin si zakrývá hruď ručníkem",
-            "caption": "„N-nemysli si nic! Je to jen ručník. A není určen pro cizí oči.“"
+            "alt": "Rin covering her chest with a towel",
+            "caption": "\"D-don't get any ideas! It's just a towel. And it's not meant for anyone else's eyes.\""
           },
           {
-            "alt": "Rin ukazuje prstem na dveře",
-            "caption": "Pravidlo jedna: jdi z koupelny. Pravidlo dvě: zapomeň na všechno, co jsi právě viděl. Pravidlo tři: neopovažuj se usmívat."
+            "alt": "Rin pointing her finger at the door",
+            "caption": "Rule one: get out of the bathroom. Rule two: forget everything you just saw. Rule three: do not dare smile."
           },
           {
-            "alt": "Rin v prádelně s dokumentem v ruce",
-            "caption": "I v takové situaci si dokázala najít předpisy a pozorně je studovat. Předsedkyně je předsedkyně."
+            "alt": "Rin in the laundry room holding a document",
+            "caption": "Even in this situation, she managed to find a regulation and study it carefully. A head girl is a head girl."
           }
         ],
         "facts": [
           {
-            "label": "Věk",
+            "label": "Age",
             "value": "22"
           },
           {
-            "label": "Ročník",
-            "value": "4. ročník, právnická fakulta"
+            "label": "Year",
+            "value": "4th year, law faculty"
           },
           {
-            "label": "Pokoj",
-            "value": "č. 1"
+            "label": "Room",
+            "value": "No. 1"
           },
           {
-            "label": "Výška",
+            "label": "Height",
             "value": "168 cm"
           },
           {
-            "label": "Role v bloku",
-            "value": "Předsedkyně bloku, neoficiální „administrativa“"
+            "label": "Role in the block",
+            "value": "Head girl, the block's unofficial \"administration\""
           }
         ],
         "sections": [
           {
-            "title": "Povaha",
+            "title": "Personality",
             "paragraphs": [
-              "Perfekcionistka-kontrolorka: její rozvrhy mají verze („3.1“), její deník má kolonky a „záznamový list č. 16“ zůstává tvrdošíjně, urážlivě prázdný.",
-              "Spravedlivá k vzteku: pokutuje své nejlepší přátele i sebe. Bude jediná, kdo se před administrativou zastane nového obyvatele — „protože je to špatně“, ne proto, že je to on.",
-              "Tsundere: stará se prostřednictvím předpisů — „individuální rozvrh“, čaj „na zbytkové bázi“ — a všechno popírá. Kompliment ti vynese rudé uši a slovní varování. Kontrola je její brnění: bojí se, že bez pravidel se všechno zhroutí — a bude to její vina."
+              "A perfectionist controller: her schedules have versions (\"3.1\"), her logbook has columns, and \"record sheet No. 16\" stays stubbornly, insultingly empty.",
+              "Fair to the point of fury: she fines her best friends and herself alike. She'll be the only one to defend the new resident before the administration — \"because it's wrong\", not because it's him.",
+              "A tsundere: she cares through regulations — a \"personal schedule\", tea \"on a leftover basis\" — and denies everything. A compliment earns you red ears and a verbal warning. Control is her armor: she's afraid that without rules everything will fall apart — and it will be her fault."
             ]
           },
           {
-            "title": "Vzhled",
+            "title": "Appearance",
             "paragraphs": [
-              "Výška 168 cm, štíhlá, držení těla „v pozoru“. Tmavě kaštanové vlasy po lopatky: na veřejnosti hladký drdol, doma křivý culík. Šedé oči za tenkými obdélníkovými brýlemi.",
-              "Na veřejnosti — košile a odznak předsedkyně. Doma — tepláky a tričko s ručně psaným nápisem „pravidla nejsou stvořena k porušování“. Nikdy bez deníku; když přemýšlí, ťuká propiskou."
+              "168 cm, slim, with a posture that says \"attention!\". Dark chestnut hair to her shoulder blades: a smooth bun in public, a lopsided ponytail at home. Grey eyes behind thin rectangular glasses.",
+              "In public — a shirt and the head girl's badge. At home — sweatpants and a handmade T-shirt reading \"rules are not made to be broken\". Never without her logbook; she taps her pen when thinking."
             ]
           },
           {
-            "title": "Způsob řeči",
+            "title": "Speech style",
             "paragraphs": [
-              "Vyrovnaný nízký tón: nikdy nekřičí — snižuje hlas. Byrokratický jazyk a číslování i v každodenním životě: „pravidlo jedna“, „poznamenejme si“, „není to osobní — je to protokol“.",
-              "Při rozpacích se její řeč zrychluje, paragrafy se množí a proklouzne „n-nemysli si nic!“."
+              "An even, low tone: she never shouts — she lowers her voice. Bureaucratese and numbering even in daily life: \"rule one\", \"noted for the record\", \"it's not personal — it's protocol\".",
+              "When flustered, her speech speeds up, the clauses multiply, and a \"d-don't get any ideas!\" slips through."
             ]
           },
           {
-            "title": "Historie",
+            "title": "Background",
             "paragraphs": [
-              "Dcera vojáka a správce. V prvním ročníku jako dozorce na patře nesla odpovědnost za cizí noční párty — od té doby pro ni pravidla znamenají bezpečí.",
-              "Předsedkyní ji zvolili jednomyslně. Včetně hlasů těch, kdo tu noc způsobili."
+              "Daughter of a military man and a supply manager. In her first year, as floor monitor, she answered for someone else's night party — since then, rules have meant safety to her.",
+              "She was elected head girl unanimously. Including the votes of those responsible for that night."
             ]
           },
           {
-            "title": "Role v příběhu STUDENT LIFE",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Oficiálně jsi „narušitel č. 16“ a „organizační katastrofa s tváří, která narušuje porady“. Ve skutečnosti jsi byl klasifikován jako „rušivý faktor“ na první pohled — což samozřejmě nikdy nahlas neřekne.",
-              "Její konflikt je prostý a nemožný: přiznat sympatie znamená přiznat, že roky totální kontroly nebyly tak docela nutné."
+              "Officially, you are \"violator No. 16\" and \"an organizational disaster with a face that disrupts meetings\". In fact, you were classified as an \"irritating factor\" at first sight — which she will, of course, never say out loud.",
+              "Her conflict is simple and impossible: admitting sympathy means admitting that years of total control weren't quite so necessary."
             ]
           }
         ],
         "quote": {
-          "text": "„Neexistuje nic jako žádné otázky. Existují ti, kteří je položí až po porušení předpisů.“"
+          "text": "\"There's no such thing as no questions. There are those who ask them after the violation.\""
         },
         "relationships": [
           {
-            "type": "Obyvatelka pokoje č. 3",
-            "description": "„Noční rizikový faktor“: tiché hodiny jsou oficiálně sestaveny „s ohledem na celkovou vytíženost“, ale ve skutečnosti kvůli jejím maratonům. Porušení se zaznamenávají, ale z nějakého důvodu nemají následky."
+            "type": "Resident of Room No. 3",
+            "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
           }
         ],
         "tracks": [
@@ -396,18 +414,89 @@
             "artist": "Kobayashi Rin"
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — „Sázej za svítání“",
+        "slogan": "Chceš se vsadit, že nevydržíš ani minutu?",
+        "shortDescription": "Brazilka z univerzitního atletického týmu, jediná osoba, která připevnila hrazdu na stěnu. Nechápe flirtování, přehlíží náznaky a neztrapní se ničím—kromě jednoho tématu, před kterým utíká.",
+        "tags": [
+          "Sportovec",
+          "Brazilský",
+          "Tupý",
+          "Pokoj č. 5"
+        ],
+        "coverAlt": "Marta v sportovní podprsence s stopkami",
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "20"
+          },
+          {
+            "label": "Rok",
+            "value": "2nd year"
+          },
+          {
+            "label": "Pokoj",
+            "value": "No. 5"
+          },
+          {
+            "label": "Výška",
+            "value": "172 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Neoficiální „motor“ bloku"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobnost",
+            "paragraphs": [
+              "Přímá až k modřinám: říká pravdu, aniž by ji zmírňovala. Lži vycítí okamžitě, i když vůbec nečte mezi řádky.",
+              "Soutěživý: všechno proměňuje v sázku – kdo rychleji umyje nádobí, kdo déle vydrží na hrazdě. Prohrává poctivě a okamžitě vyžaduje odvety.",
+              "Flirt-blind: dvojí významy jí létají nad hlavou jako protivítr. Přesto je její vlastní chování neustále nejednoznačné.",
+              "Starosti skrze námahu: její náklonnost je proteinová omeleta „s extra porcí“ a protahování „aby ses nesrazila.“"
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Postava štíhlého sprintera, výrazná ramena, břišní svaly, silné stehna. Tmavě bronzová kůže, tmavé kudrliny ve vysokém culíku.",
+              "Stálé odřeniny na jejích kolenou a kinesio páska na pravém koleni, které „si nevšímá.“ Na krku jí visí stopky, které cvaká, když je nervózní."
+            ]
+          },
+          {
+            "title": "Pozadí",
+            "paragraphs": [
+              "Vyrostla v Salvadoru, její otec byl trenérem mládežnické atletiky. Ve čtrnácti letech vyhrála státní juniorský šampionát.",
+              "Minulé jaro, při posledním sprintu kvalifikace, spadla a poranila si pravé koleno—sezóna byla ztracená, stipendium visí na vlásku. Od té doby trénuje „před časem“ a skrývá, že jí koleno selhává dříve, než ona sama."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Nepřemýšlej—jednej. Přemýšlet budeme potom."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blokovat sousedy",
+            "description": "Gyaru jí fandí hlasitěji než kdokoli jiný na tribunách. Rin se účastní svých ranních běhů přesně dvakrát za měsíc – oficiálně zaznamenáno jako 'prevence stresu u personálu'."
+          }
+        ]
       }
     },
     "group": {
-      "title": "STUDENT LIFE: Společná karta",
-      "subtitle": "Celý blok. Jeden příběh.",
-      "description": "Finále série: multi-postavová karta spojující všechny hrdinky STUDENT LIFE v jediném scénáři. Šestnáct pokojů, jedna kuchyně, rozpis služeb — a vy uprostřed toho všeho. Interagujte s hrdinkami společně: spojenectví, konflikty a tajemství bloku nikam nezmizí.",
-      "coverAlt": "Noční kuchyně bloku — společenská místnost na koleji"
+      "title": "STUDENT LIFE: The Group Card",
+      "subtitle": "The whole block. One story.",
+      "description": "The series finale: a multi-character card uniting every heroine of STUDENT LIFE in a single scenario. Sixteen rooms, one kitchen, a duty rota — and you in the middle of it all. Interact with the heroines together: the block's alliances, conflicts, and secrets come along.",
+      "coverAlt": "The block's night kitchen — the dormitory common room"
     },
     "hub": {
       "title": "STUDENT LIFE",
-      "subtitle": "Série karet postav",
-      "description": "Příběhy, které začínají na koleji nejlepší univerzity v zemi. 20.10.2026 — 20.11.2026."
+      "subtitle": "A character card series",
+      "description": "Stories that begin in the dormitory of the country's top university. Oct 20, 2026 — Nov 20, 2026."
     }
   }
 }

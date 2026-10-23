@@ -378,6 +378,77 @@
             "description": "Egy „éjszakai kockázati tényező”: a csendes órák hivatalosan a „teljes kihasználtsághoz” igazodnak — valójában az ő maratonjaihoz. A szabálysértéseket rögzítik, de valahogy soha nincs következményük."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — „Hajnalban fogadott”",
+        "slogan": "Fogadsz, hogy nem bírod ki egy percig?",
+        "shortDescription": "Egy brazil a egyetem atlétikai csapatából, az egyetlen személy, aki húzódzkodóbárt fúrt a falba. Nem ismeri fel a flörtölést, nem veszi észre a célzásokat, és semmi miatt nem szégyenlős—kivéve egy témát, amit megpróbál elkerülni.",
+        "tags": [
+          "Sportoló",
+          "brazil",
+          "Tompa",
+          "5-ös szoba"
+        ],
+        "coverAlt": "Marta sportmelltartóban egy stopperrel",
+        "facts": [
+          {
+            "label": "Kor",
+            "value": "20"
+          },
+          {
+            "label": "Év",
+            "value": "2nd year"
+          },
+          {
+            "label": "Szoba",
+            "value": "No. 5"
+          },
+          {
+            "label": "Magasság",
+            "value": "172 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "A blokk nem hivatalos „motorja”"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Tompa az ütésig: az igazat mondja anélkül, hogy enyhítene rajta. Azonnal érzi a hazugságot, bár egyáltalán nem olvassa a szövegből kiolvasható jelentést.",
+              "Versengő: mindent fogadássá változtat—ki mosogat gyorsabban, ki lóg tovább a rúdon. Őszintén veszít, és azonnal visszavágót követel.",
+              "Flört-vak: a kettős jelentések úgy repülnek el mellette, mint egy szembeszél. Mégis, a saját viselkedése állandóan kétértelmű.",
+              "Törődik az erőfeszítéssel: a szeretete egy fehérjeosztét 'extra adaggal' és nyújtással 'hogy ne zsugorodj össze.'"
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "Egy karcsú sprinter alkat, kifejezett vállak, hasizmok, erős combok. Sötét bronz bőr, sötét hullámos haj magas lófarokban.",
+              "Állandó horzsolások a térdén, és kinesio tapasz a jobb térdén, amit „nem vesz észre”. Egy stopperóra lóg a nyakában, amit megnyom, amikor ideges."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "Salvadorban nőtt fel, az édesapja ifjúsági atlétikaedző volt. Tizenöt évesen megnyerte az ifjúsági állambajnokságot.",
+              "Múlt tavasszal, egy selejtező utolsó sprintjén elesett és megsérítette a jobb térdét – a szezon semmisült meg, az ösztöndíj egy szálon lóg. Azóta „előre ütemezetten” edz, és elrejti, hogy a térde előbb adja fel, mint ő."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Ne gondolkodj—csináld. Majd utána gondolkodunk."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Tömb szomszédok",
+            "description": "A Gyaru hangosabban élteti őt, mint bárki a lelátón. Rin pontosan havonta kétszer vesz részt a reggeli futásain—hivatalosan 'a személyzet stresszmegelőzése'-ként van nyilvántartva."
+          }
+        ]
       }
     },
     "group": {

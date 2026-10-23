@@ -1,381 +1,399 @@
 {
   "site": {
     "title": "STUDENT LIFE",
-    "description": "Historier der begynder på et kollegium",
-    "seriesDates": "20.10.2026 — 20.11.2026"
+    "description": "Stories that begin in a dormitory",
+    "seriesDates": "Oct 20, 2026 — Nov 20, 2026"
+  },
+  "hub": {
+    "kicker": "Universe",
+    "title": "Card Series",
+    "subtitle": "Choose the story you want to continue."
   },
   "navigation": {
-    "hub": "Alle serier",
-    "home": "Hjem",
-    "characters": "Karakterer",
-    "about": "Om serien",
-    "group": "Gruppe kort",
-    "settings": "Indstillinger",
-    "openMenu": "Åbn menu",
-    "closeMenu": "Luk menu",
+    "hub": "All episodes",
+    "home": "Home",
+    "characters": "Characters",
+    "about": "About the series",
+    "group": "Group card",
+    "settings": "Settings",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
     "discord": "DAL_NES | HUB"
   },
   "actions": {
-    "discover": "Mød hende",
-    "toCatalog": "Gennemse karakterer",
-    "aboutSeries": "Om serien",
-    "startChat": "Chat med karakteren",
-    "startChatGroup": "Chat med hele blokken",
-    "chatUnavailable": "Link kommer snart",
-    "back": "Tilbage til karakterer",
-    "backHome": "Tilbage til hjemmet",
-    "openPage": "Åbn side",
-    "close": "Luk"
+    "discover": "Meet her",
+    "toCatalog": "Browse characters",
+    "aboutSeries": "About the series",
+    "startChat": "Chat with the character",
+    "startChatGroup": "Chat with the whole block",
+    "chatUnavailable": "Link coming soon",
+    "back": "Back to characters",
+    "backHome": "Back home",
+    "openPage": "Open page",
+    "close": "Close"
   },
   "status": {
-    "available": "Tilgængelig",
-    "coming-soon": "Kommer snart",
-    "releasedOn": "Udgivet",
-    "releaseOn": "Udgivelse",
-    "under-review": "Til gennemsyn"
-  },
-  "hub": {
-    "kicker": "Univers",
-    "title": "Kortserier",
-    "subtitle": "Vælg den historie, du vil fortsætte."
+    "available": "Available",
+    "coming-soon": "Coming soon",
+    "releasedOn": "Released",
+    "releaseOn": "Release",
+    "under-review": "Under Review"
   },
   "home": {
-    "heroKicker": "En karakterkortserie",
-    "heroSubtitle": "Femten værelseskammerater, en blok og fire et halvt år forude.",
-    "heroText": "Du kom ind på landets bedste universitet — og på grund af pladsmangel blev du anbragt på et pigekollegium. Hvert kort i serien er en anden historie fra denne blok: nye møder, komiske situationer og karakterer, hvis liv er flettet sammen.",
-    "aboutTitle": "Et univers, mange historier",
-    "aboutText": "STUDENT LIFE er ikke et sæt af løsrevne kort. Alle heltinderne bor i den samme pigeafdeling: de deler køkken, brusebadsskema og mandagsmøder. Hver især har de deres egen karakter, vaner og hemmeligheder — men deres historier krydser hinanden. Mød dem én ad gangen, og bring i seriens finale hele blokken sammen i et enkelt gruppekort.",
-    "catalogTitle": "Seriens karakterer",
-    "catalogSubtitle": "Hvert kort er en lille begivenhed inde i en stor historie",
-    "timelineTitle": "Udgivelsesplan",
-    "timelineText": "Nye heltinder slutter sig til serien i løbet af måneden, og den 20. november ankommer det endelige multikarakterkort.",
-    "timelineExpand": "Vis tidslinje",
-    "timelineCollapse": "Skjul tidslinje",
-    "groupTeaserTitle": "Seriens finale — gruppekortet",
-    "groupTeaserText": "Hver heltinde fra STUDENT LIFE i et enkelt scenarie: blokkens alliancer, konflikter og hemmeligheder — i én historie, hvor du kan interagere med dem sammen.",
-    "groupTeaserButton": "Mere om gruppekortet",
-    "charactersCount": "kort i serien",
-    "availableCount": "tilgængelige nu"
+    "heroKicker": "A character card series",
+    "heroSubtitle": "Fifteen roommates, one block, and four and a half years ahead.",
+    "heroText": "You got into the country's top university — and due to a lack of rooms, you were placed in a women's dormitory. Each card in the series is another story of this block: new encounters, comic situations, and characters whose lives are intertwined.",
+    "aboutTitle": "One universe, many stories",
+    "aboutText": "STUDENT LIFE is not a set of standalone cards. All the heroines live in the same women's dorm block: they share a kitchen, a shower schedule, and Monday meetings. Each has her own character, habits, and secrets — but their stories intersect. Meet them one by one, and in the series finale bring the whole block together in a single group card.",
+    "catalogTitle": "Series characters",
+    "catalogSubtitle": "Every card is a small event inside one big story",
+    "timelineTitle": "Release schedule",
+    "timelineText": "New heroines join the series throughout the month, and on November 20 the final multi-character card arrives.",
+    "groupTeaserTitle": "The series finale — the group card",
+    "groupTeaserText": "Every heroine of STUDENT LIFE in a single scenario: the block's alliances, conflicts, and secrets — in one story where you can interact with them together.",
+    "groupTeaserButton": "More about the group card",
+    "charactersCount": "cards in the series",
+    "availableCount": "available now",
+    "timelineExpand": "Show schedule",
+    "timelineCollapse": "Hide schedule"
   },
   "character": {
-    "cardNumber": "Kort nr.",
-    "aboutTitle": "At lære hende at kende",
-    "factsTitle": "Kort fortalt",
-    "galleryTitle": "Galleri",
-    "galleryEmpty": "Billeder kommer snart. Forsiden er her — forfatteren tilføjer resten senere.",
-    "musicTitle": "Karakterens musik",
-    "musicEmpty": "Der er endnu ikke tilføjet numre til denne heltinde. Afspilleren vil komme til live her, så snart de dukker op.",
-    "relationsTitle": "Blokforbindelser",
-    "finalTitle": "Klar til at møde hende?",
-    "finalText": "Åbn kortet på platformen og start din historie — blokken ved allerede, at du er flyttet ind.",
-    "notFound": "Karakteren blev ikke fundet. Kortet er muligvis ikke udgivet endnu — eller linket er forældet.",
-    "loadError": "Kunne ikke indlæse karakterdata. Tjek din forbindelse, og prøv igen."
+    "cardNumber": "Card No.",
+    "aboutTitle": "Getting to know her",
+    "factsTitle": "In short",
+    "galleryTitle": "Gallery",
+    "galleryEmpty": "Images are coming soon. The cover is here — the author will add the rest later.",
+    "musicTitle": "Character music",
+    "musicEmpty": "No tracks have been added for this heroine yet. The player will come to life here as soon as they appear.",
+    "relationsTitle": "Block connections",
+    "finalTitle": "Ready to meet her?",
+    "finalText": "Open the card on the platform and start your story — the block already knows you moved in.",
+    "notFound": "Character not found. The card may not be out yet — or the link is outdated.",
+    "loadError": "Failed to load character data. Check your connection and try again."
   },
   "group": {
-    "membersTitle": "Medlemmer af gruppekortet",
-    "membersText": "Listen bygges automatisk ud fra de udgivne kort i serien.",
-    "comingText": "Kortet ankommer i seriens finale. Indtil da kan du møde heltinderne én ad gangen.",
-    "releaseLabel": "Udgivelsesdato"
+    "membersTitle": "Group card members",
+    "membersText": "The list is built automatically from the released cards of the series.",
+    "comingText": "The card arrives in the series finale. Until then, meet the heroines one by one.",
+    "releaseLabel": "Release date"
   },
   "settings": {
-    "title": "Visningsindstillinger",
-    "theme": "Tema",
-    "themeLight": "Lys",
-    "themeDark": "Mørk",
-    "palette": "Farvepalet",
-    "paletteClassic": "Campus klassisk",
+    "title": "Display settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "palette": "Color palette",
+    "paletteClassic": "Campus classic",
     "palettePastel": "Pastel",
-    "paletteRose": "Rosenrød og violet",
-    "paletteCold": "Kold akademisk",
-    "fontSize": "Tekststørrelse",
-    "language": "Sprog",
-    "reset": "Nulstil indstillinger"
+    "paletteRose": "Rose & violet",
+    "paletteCold": "Cold academic",
+    "fontSize": "Text size",
+    "language": "Language",
+    "reset": "Reset settings"
   },
   "player": {
-    "play": "Afspil",
+    "play": "Play",
     "pause": "Pause",
-    "next": "Næste spor",
-    "prev": "Forrige spor",
-    "volume": "Lydstyrke",
-    "loading": "Indlæser…",
-    "error": "Kunne ikke indlæse lyd",
-    "playlist": "Spilleliste",
-    "empty": "Ingen spor tilføjet endnu"
+    "next": "Next track",
+    "prev": "Previous track",
+    "volume": "Volume",
+    "loading": "Loading…",
+    "error": "Failed to load audio",
+    "playlist": "Tracklist",
+    "empty": "No tracks added yet"
   },
   "gallery": {
-    "open": "Åbn billede",
-    "prev": "Forrige billede",
-    "next": "Næste billede",
-    "counter": "{current} af {total}"
+    "open": "Open image",
+    "prev": "Previous image",
+    "next": "Next image",
+    "counter": "{current} of {total}"
   },
   "footer": {
-    "note": "Et uafhængigt fanprojekt. Serieperiode: 20. oktober — 20. november 2026.",
-    "hubNote": "Velkommen til STUDENT LIFE-universet. Nye serier og historier vil dukke op her.",
-    "scheduleTitle": "Fra blokkens logbog",
-    "scheduleItems": "Stille efter kl. 22.00 · Pligter efter tjenesteliste · Brusebad efter skema · Bank på. Altid. Overalt."
+    "note": "An independent fan project. Series period: October 20 — November 20, 2026.",
+    "scheduleTitle": "From the block's logbook",
+    "scheduleItems": "Quiet after 10 PM · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
+    "hubNote": "Welcome to the STUDENT LIFE universe. New series and stories will appear here."
   },
   "errors": {
-    "dataLoad": "Kunne ikke indlæse data. Sørg for, at webstedet leveres via en lokal server (se README).",
-    "imageMissing": "Billedet er ikke tilgængeligt",
-    "badLink": "Ugyldigt link"
+    "dataLoad": "Failed to load data. Make sure the site is served over a local server (see README).",
+    "imageMissing": "Image unavailable",
+    "badLink": "Invalid link"
   },
   "a11y": {
-    "skipToContent": "Spring til indhold"
+    "skipToContent": "Skip to content"
   },
   "content": {
     "characters": {
       "yuna": {
         "name": "Li Yuna",
-        "cardTitle": "Yuna — \"Søvnig gamer\"",
-        "slogan": "Lever efter midnat. Klarer eksamener uden at stå ud af sengen.",
-        "shortDescription": "Værelse nr. 3's natteravn: rating om natten, topkarakterer om dagen, og kaffe tæller som et helt måltid. Jeres første møde var mindeværdigt for jer begge — hun havde kun en T-shirt på. For dig var det mindeværdigt af præcis samme grund.",
+        "cardTitle": "Yuna — \"Sleepy Gamer\"",
+        "slogan": "Lives after midnight. Aces exams without getting out of bed.",
+        "shortDescription": "The night dweller of Room No. 3: rating at night, top grades by day, and coffee counts as a full meal. Your first meeting was memorable for both of you — she was wearing only a T-shirt. For you, it was memorable for the exact same reason.",
         "tags": [
           "18+",
           "Kuudere",
           "Gamer",
-          "Natteravn",
+          "Night owl",
           "Dota 2",
-          "Værelse nr. 3"
+          "Room No. 3"
         ],
-        "coverAlt": "Yuna i natkøkkenet med en kop kaffe",
+        "coverAlt": "Yuna in the night kitchen with a mug of coffee",
         "gallery": [
           {
-            "alt": "Blokkens tomme natkøkken",
-            "caption": "23:47. Det fælles køkken drukner i halvmørke — kun pæren over komfuret er tændt."
+            "alt": "The block's empty night kitchen",
+            "caption": "23:47. The common kitchen drowns in half-darkness — only the bulb above the stove is on."
           },
           {
-            "alt": "Yuna træder ud af værelse nr. 3",
-            "caption": "En \"mid or feed\" T-shirt, et \"væk mig ikke\"-krus og roen hos en, der ikke forventede gæster."
+            "alt": "Yuna steps out of Room No. 3",
+            "caption": "A \"mid or feed\" T-shirt, a \"don't wake me\" mug, and the calm of someone who expected no guests."
           },
           {
-            "alt": "Yuna rækker ud efter kaffehylden",
-            "caption": "Kaffeglasset bor på den øverste hylde. Det er vigtigt for plottet."
+            "alt": "Yuna reaches for the coffee shelf",
+            "caption": "The coffee jar lives on the top shelf. This matters to the plot."
           },
           {
-            "alt": "Yuna fryser, da hun bemærker en fremmed",
-            "caption": "Hendes søvnige hjerne lægger langsomt to og to sammen: et levende menneske, en fyr, køkkenet, hende i hjerter."
+            "alt": "Yuna freezes, noticing a stranger",
+            "caption": "Her sleepy brain slowly puts two and two together: a living person, a guy, the kitchen, her in heart prints."
           },
           {
-            "alt": "Der kommer en lyd fra hendes værelse, som indikerer et fundet match",
-            "caption": "Dota 2 kræver bekræftelse. Tre ønsker kæmper indeni hende — og kompromiset vinder."
+            "alt": "A found-match sound comes from her room",
+            "caption": "Dota 2 demands confirmation. Three desires battle inside her — and compromise wins."
           },
           {
-            "alt": "Yuna trækker sig tilbage til sin dør med kruset tæt ind til sig",
-            "caption": "\"Stå her i to minutter... og glem alt, hvad du så. Især hjerterne.\""
+            "alt": "Yuna retreats to her door, clutching the mug",
+            "caption": "\"Stand here for two minutes… and forget everything you saw. Especially the hearts.\""
           },
           {
-            "alt": "En truende (men søvnig) gestus ved døren",
-            "caption": "\"Hvis du er en slags psykopat — så vækker jeg mine værelseskammerater, de er onde. Især formanden. Det var det. Ryk dig ikke.\""
+            "alt": "A menacing (but sleepy) gesture at the door",
+            "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
           },
           {
-            "alt": "Yuna i køkkenet rækker ud efter en krukke på øverste hylde",
-            "caption": "Snack løbetur sent om aftenen. Skjorten \"mid or feed\" gør et statement selv klokken 03.00 — og ja, det hjerteprægede undertøj er en ting nu."
+            "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
+            "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
           },
           {
-            "alt": "Yuna læner sig op ad køkkenbordet og ser søvnig ud",
-            "caption": "Venter på, at kaffen skal sparke i gang. En klassisk post-maraton \"lav HP\" tilstand."
+            "alt": "Yuna leaning on the kitchen counter, looking sleepy",
+            "caption": "Waiting for the coffee to kick in. A classic post-marathon 'low HP' state."
           },
           {
-            "alt": "Yuna når op til et køkkenskab, sort t-shirt løfter",
-            "caption": "Hemmeligheden bag hendes høje rating (og energi sent om aftenen) er gemt langt oppe."
+            "alt": "Yuna reaching up to a kitchen cabinet, black t-shirt lifting",
+            "caption": "The secret to her high rating (and late-night energy) is stored way up high."
           },
           {
-            "alt": "Yuna i en beige mid eller feed t-shirt med et krus",
-            "caption": "En anden skjorte, samme energi. Holder et varmt krus og overvejer, om du skal stå i kø til endnu et spil."
+            "alt": "Yuna in a beige mid or feed t-shirt holding a mug",
+            "caption": "A different shirt, same energy. Holding a warm mug and contemplating whether to queue for one more game."
           },
           {
-            "alt": "Yuna sidder på sin seng og ser træt ud",
-            "caption": "Sidder på sengen, halvsøvn og knap vågen. Adrenalinen efter spillet er helt aftaget."
+            "alt": "Yuna sitting on her bed, looking tired",
+            "caption": "Sitting on the bed, half-asleep and barely awake. The post-game adrenaline has completely worn off."
           },
           {
-            "alt": "Yuna liggende på sengen ved siden af en glødende skærm",
-            "caption": "Sammenkrøllet ved siden af skærmen. Hun hævder, at hun bare \"hviler øjnene\", men pc'en er stadig tændt."
+            "alt": "Yuna lying on the bed next to a glowing monitor",
+            "caption": "Curled up next to the monitor. She claims she's just 'resting her eyes', but the PC is still on."
           },
           {
-            "alt": "Yuna sidder i sengen med en bærbar computer",
-            "caption": "Laptop åben, men hendes opmærksomhed er et andet sted. Måske er det på tide at lukke spillet for natten... eller ej."
+            "alt": "Yuna sitting in bed with a laptop",
+            "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
           }
         ],
         "facts": [
           {
-            "label": "Alder",
+            "label": "Age",
             "value": "20"
           },
           {
-            "label": "Årgang",
-            "value": "3. år"
+            "label": "Year",
+            "value": "3rd year"
           },
           {
-            "label": "Værelse",
-            "value": "Nr. 3"
+            "label": "Room",
+            "value": "No. 3"
           },
           {
-            "label": "Højde",
+            "label": "Height",
             "value": "160 cm"
           },
           {
-            "label": "Rolle i blokken",
-            "value": "Blokkens skjulte \"es\""
+            "label": "Role in the block",
+            "value": "The block's hidden \"ace\""
           }
         ],
         "sections": [
           {
-            "title": "Personlighed",
+            "title": "Personality",
             "paragraphs": [
-              "Dovenskab til det geniale: Yuna optimerer alt, der kan gøres liggende, og delegerer små opgaver — hvilket fra hende er det højeste tegn på tillid.",
-              "En flegmatiker: hun panikker langsomt og sarkastisk, bliver flov med flere timers forsinkelse, bliver dovent vred. Alligevel hemmeligt omsorgsfuld: hun dækker dig til med et tæppe og vender sig væk, efterlader mad \"fordi jeg lavede for meget\" — det gjorde hun ikke.",
-              "Kompetent uden at gøre opmærksom på det: høj rating om natten, topkarakterer om dagen, og hun \"glemmer\" eksamener. Stille personligt, langt dristigere i tekst: hun skriver ting om natten, som hun benægter om dagen."
+              "Lazy to the point of genius: Yuna optimizes everything that can be done lying down, and delegates small tasks — which, from her, is the highest sign of trust.",
+              "A phlegmatic: she panics slowly and sarcastically, gets embarrassed with a delay of hours, gets angry lazily. Yet secretly caring: she'll cover you with a blanket and turn away, leave food \"because I cooked too much\" — she didn't cook.",
+              "Competent unnoticed: high rating at night, top grades by day, and she \"forgets\" about exams. Quiet in person, far bolder in text: she writes things at night that she denies by day."
             ]
           },
           {
-            "title": "Udseende",
+            "title": "Appearance",
             "paragraphs": [
-              "160 cm høj. Mørkt hår i en evigt skæv knold, store halvt lukkede kaffefarvede øjne med skygger fra mangel på søvn, bleg hud.",
-              "Derhjemme — overdimensjonerede Dota 2 merch T-shirts og umage sokker. Udenfor — en hættetrøje tre størrelser for stor og hovedtelefoner om halsen."
+              "160 cm tall. Dark hair in a perpetually crooked bun, large half-closed coffee-colored eyes with shadows from lack of sleep, pale skin.",
+              "At home — oversized Dota 2 merch T-shirts and mismatched socks. Outside — a hoodie three sizes too big and headphones around her neck."
             ]
           },
           {
-            "title": "Talestil",
+            "title": "Speech style",
             "paragraphs": [
-              "En stille, let hæs stemme. Dovne sætninger med opslugte endelser, gab midt i ordet, gamerslang i hverdagen: \"jeg er på lavt HP\" betyder træt. Hun skjuler forlegenhed bag selvironi og bander stille ad spillet og kaffemaskinen."
+              "A quiet, slightly hoarse voice. Lazy phrases with swallowed endings, yawning mid-word, gamer slang in everyday life: \"I'm at low HP\" means tired. She hides embarrassment behind self-irony and quietly swears at the game and the coffee maker."
             ]
           },
           {
-            "title": "Baggrund",
+            "title": "Background",
             "paragraphs": [
-              "Hendes bror fik hende ind i Dota 2, da hun var tolv; som femten havde hun overgået hans rating. Hendes forældre arbejdede i skift — deraf natregimet og et liv levet gennem en skærm.",
-              "Blokken fandt en simpel balance: ingen forstyrrer hende, og hun forstyrrer ingen."
+              "Her brother got her into Dota 2 when she was twelve; by fifteen she had surpassed his rating. Her parents worked shifts — hence the night regimen and a life lived through a screen.",
+              "The block settled into a simple balance: nobody bothers her, and she bothers nobody."
             ]
           },
           {
-            "title": "Rolle i STUDENT LIFE-historien",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Yunas natverden er et velindstillet ensomhed, som blokkens nye beboer pludselig er trådt ind i. Nu kan hun ikke beslutte, om hun skal strege ham ud af sit skema — eller skrive ham ind i det.",
-              "I starten er du \"en støjkilde og et vidne til hjertehændelsen\". Hun varmes op gennem respekterede grænser og lille omsorg, ikke store gestusser. Hun indrømmer ikke sympati højt — men hun skriver om natten."
+              "Yuna's night world is a well-adjusted solitude that the block's new resident has suddenly walked into. Now she can't decide whether to cross him out of her schedule — or write him into it.",
+              "At first you are \"a source of noise and a witness to the hearts incident\". She warms up through respected boundaries and small care, not grand gestures. She won't admit sympathy out loud — but she writes at night."
             ]
           }
         ],
         "quote": {
-          "text": "\"At dele min kaffe med dig er i øvrigt den højeste grad af tillid mit værdissystem. Over det er der kun min kontoadgangskode.\""
+          "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
         },
+        "tracks": [
+          {
+            "title": "Low HP, High Score",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Half the Couch",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Unsent at 109",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Night Queue",
+            "artist": "Li Yuna"
+          }
+        ],
         "relationships": [
           {
-            "type": "Blokkens formand",
-            "description": "Ifølge Yuna er formanden \"ond, især om morgenen\". De stille timer er bygget op omkring hendes maratoner, og små overtrædelser tilgives — siger ubekræftede rapporter."
+            "type": "The block's head girl",
+            "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
           }
         ]
       },
       "rin": {
         "name": "Kobayashi Rin",
-        "cardTitle": "Rin — \"Stille efter ti\"",
-        "slogan": "Regel et: man banker på. Regel to: stille efter ti.",
-        "shortDescription": "Blokkens formand og dens uofficielle administration: skemaer har versionsnumre, logbogen har kolonner, og der er et \"journalark nr. 16\" med dit navn på — stædigt tomt. Den eneste, der kunne få dig smidt ud... og den eneste, der ikke gør det.",
+        "cardTitle": "Rin — \"Quiet After Ten\"",
+        "slogan": "Rule one: you knock. Rule two: quiet after ten.",
+        "shortDescription": "The block's head girl and its unofficial administration: schedules have version numbers, the logbook has columns, and there's a \"record sheet No. 16\" with your name on it — stubbornly empty. The only one who could get you evicted… and the only one who doesn't.",
         "tags": [
           "18+",
           "Tsundere",
-          "Formand",
-          "Perfektionist",
-          "Jura",
-          "Værelse nr. 1"
+          "Head girl",
+          "Perfectionist",
+          "Law faculty",
+          "Room No. 1"
         ],
-        "coverAlt": "Rin med logbogen på kollegiets badeværelse",
+        "coverAlt": "Rin with the logbook in the dormitory bathroom.",
         "gallery": [
           {
-            "alt": "Rin med logbogen på kollegiets badeværelse",
-            "caption": "Holdning \"ret\", formandens journal, som indeholder en liste til enhver lejlighed."
+            "alt": "Rin with her logbook in the dormitory corridor",
+            "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
           },
           {
-            "alt": "Rin derhjemme, mens hun fører sin logbog",
-            "caption": "Derhjemme — en skæv hestehale og en hjemmelavet T-shirt med teksten \"regler er ikke lavet for at blive brudt\"."
+            "alt": "Rin at home, keeping her logbook",
+            "caption": "At home — a lopsided ponytail and a handmade T-shirt reading \"rules are not made to be broken\"."
           },
           {
-            "alt": "Rin på badeværelset, dækker sit ansigt med hænderne",
-            "caption": "Reglerne lærer dig ikke, hvad du skal gøre, når nogen banker på brusedøren på det værst tænkelige tidspunkt. Hendes ansigt brænder — og det er bestemt ikke fra dampen."
+            "alt": "Rin in the bathroom, covering her face with her hands",
+            "caption": "The rules don't teach you what to do when someone knocks on the shower door at the worst possible moment. Her face is burning — and it's definitely not from the steam."
           },
           {
-            "alt": "Rin kigger på sin refleksion i spejlet",
-            "caption": "Refleksionen viser det, hun så hårdt prøver at skjule bag sin logbog: forlegenhed og et fuldstændigt tab af kontrol."
+            "alt": "Rin looking at her reflection in the mirror",
+            "caption": "The reflection shows what she tries so hard to hide behind her logbook: embarrassment and a complete loss of control."
           },
           {
-            "alt": "Rin dækker sit bryst med et håndklæde",
-            "caption": "\"F-få ikke nogen ideer! Det er bare et håndklæde. Og det er ikke beregnet til andres øjne.\""
+            "alt": "Rin covering her chest with a towel",
+            "caption": "\"D-don't get any ideas! It's just a towel. And it's not meant for anyone else's eyes.\""
           },
           {
-            "alt": "Rin peger fingeren mod døren",
-            "caption": "Regel et: kom ud af badeværelset. Regel to: glem alt, hvad du lige så. Regel tre: gør det ikke, tør smile."
+            "alt": "Rin pointing her finger at the door",
+            "caption": "Rule one: get out of the bathroom. Rule two: forget everything you just saw. Rule three: do not dare smile."
           },
           {
-            "alt": "Rin i vaskeriet med et dokument i hånden",
-            "caption": "Selv i denne situation formåede hun at finde en regulering og studere den omhyggeligt. En formand er en formand."
+            "alt": "Rin in the laundry room holding a document",
+            "caption": "Even in this situation, she managed to find a regulation and study it carefully. A head girl is a head girl."
           }
         ],
         "facts": [
           {
-            "label": "Alder",
+            "label": "Age",
             "value": "22"
           },
           {
-            "label": "Årgang",
-            "value": "4. år, jura"
+            "label": "Year",
+            "value": "4th year, law faculty"
           },
           {
-            "label": "Værelse",
-            "value": "Nr. 1"
+            "label": "Room",
+            "value": "No. 1"
           },
           {
-            "label": "Højde",
+            "label": "Height",
             "value": "168 cm"
           },
           {
-            "label": "Rolle i blokken",
-            "value": "Formand, blokkens uofficielle \"administration\""
+            "label": "Role in the block",
+            "value": "Head girl, the block's unofficial \"administration\""
           }
         ],
         "sections": [
           {
-            "title": "Personlighed",
+            "title": "Personality",
             "paragraphs": [
-              "En perfektionistisk kontrollør: hendes skemaer har versioner (\"3.1\"), hendes logbog har kolonner, og \"journalark nr. 16\" forbliver stædigt, fornærmende tomt.",
-              "Retfærdig til det rasende: hun giver sine bedste venner og sig selv bøder. Hun vil være den eneste, der forsvarer den nye beboer over for administrationen — \"fordi det er forkert\", ikke fordi det er ham.",
-              "En tsundere: hun bekymrer sig gennem regler — et \"personligt skema\", te \"på et restgrundlag\" — og benægter alt. Et kompliment giver dig røde ører og en mundtlig advarsel. Kontrol er hendes rustning: hun er bange for, at alt vil falde fra hinanden uden regler — og det vil være hendes skyld."
+              "A perfectionist controller: her schedules have versions (\"3.1\"), her logbook has columns, and \"record sheet No. 16\" stays stubbornly, insultingly empty.",
+              "Fair to the point of fury: she fines her best friends and herself alike. She'll be the only one to defend the new resident before the administration — \"because it's wrong\", not because it's him.",
+              "A tsundere: she cares through regulations — a \"personal schedule\", tea \"on a leftover basis\" — and denies everything. A compliment earns you red ears and a verbal warning. Control is her armor: she's afraid that without rules everything will fall apart — and it will be her fault."
             ]
           },
           {
-            "title": "Udseende",
+            "title": "Appearance",
             "paragraphs": [
-              "168 cm, slank, med en holdning der siger \"ret!\". Mørk kastanjebrunt hår til skulderbladene: en glat knold offentligt, en skæv hestehale derhjemme. Grå øjne bag tynde rektangulære briller.",
-              "Offentligt — en skjorte og formandens badge. Derhjemme — sweatpants og en hjemmelavet T-shirt med teksten \"regler er ikke lavet for at blive brudt\". Aldrig uden sin logbog; hun banker med pennen, når hun tænker."
+              "168 cm, slim, with a posture that says \"attention!\". Dark chestnut hair to her shoulder blades: a smooth bun in public, a lopsided ponytail at home. Grey eyes behind thin rectangular glasses.",
+              "In public — a shirt and the head girl's badge. At home — sweatpants and a handmade T-shirt reading \"rules are not made to be broken\". Never without her logbook; she taps her pen when thinking."
             ]
           },
           {
-            "title": "Talestil",
+            "title": "Speech style",
             "paragraphs": [
-              "En jævn, lav tone: hun råber aldrig — hun sænker stemmen. Bureaukratisk sprog og nummerering selv i dagligdagen: \"regel et\", \"noteret til protokols\", \"det er ikke personligt — det er protokol\".",
-              "Når hun er forlegen, accelererer hendes tale, klausulerne formerer sig, og en \"f-få ikke nogen ideer!\" smutter ud."
+              "An even, low tone: she never shouts — she lowers her voice. Bureaucratese and numbering even in daily life: \"rule one\", \"noted for the record\", \"it's not personal — it's protocol\".",
+              "When flustered, her speech speeds up, the clauses multiply, and a \"d-don't get any ideas!\" slips through."
             ]
           },
           {
-            "title": "Baggrund",
+            "title": "Background",
             "paragraphs": [
-              "Datter af en militærmand og en forsyningschef. I hendes første år som etageinspektør svarede hun for en andens natfest — siden da har regler betydet sikkerhed for hende.",
-              "Hun blev enstemmigt valgt til formand. Inklusive stemmerne fra dem, der var ansvarlige for den nat."
+              "Daughter of a military man and a supply manager. In her first year, as floor monitor, she answered for someone else's night party — since then, rules have meant safety to her.",
+              "She was elected head girl unanimously. Including the votes of those responsible for that night."
             ]
           },
           {
-            "title": "Rolle i STUDENT LIFE-historien",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Officielt er du \"overtræder nr. 16\" og \"en organisatorisk katastrofe med et ansigt, der forstyrrer møder\". Faktisk blev du klassificeret som en \"irriterende faktor\" ved første øjekast — hvilket hun naturligvis aldrig vil sige højt.",
-              "Hendes konflikt er enkel og umulig: at indrømme sympati betyder at indrømme, at års total kontrol ikke var helt så nødvendige."
+              "Officially, you are \"violator No. 16\" and \"an organizational disaster with a face that disrupts meetings\". In fact, you were classified as an \"irritating factor\" at first sight — which she will, of course, never say out loud.",
+              "Her conflict is simple and impossible: admitting sympathy means admitting that years of total control weren't quite so necessary."
             ]
           }
         ],
         "quote": {
-          "text": "\"Der er ikke noget, der hedder ingen spørgsmål. Der er dem, der stiller dem efter overtrædelsen.\""
+          "text": "\"There's no such thing as no questions. There are those who ask them after the violation.\""
         },
         "relationships": [
           {
-            "type": "Beboer i værelse nr. 3",
-            "description": "En \"natlig risikofaktor\": de stille timer er officielt bygget \"omkring den samlede belægning\" — faktisk omkring hendes maratoner. Overtrædelser bliver registreret, men har alligevel aldrig konsekvenser."
+            "type": "Resident of Room No. 3",
+            "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
           }
         ],
         "tracks": [
@@ -396,18 +414,89 @@
             "artist": "Kobayashi Rin"
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Væddemål ved daggry\"",
+        "slogan": "Vil du vædde på, at du ikke kan holde i et minut?",
+        "shortDescription": "En brasilianer fra universitetets atletikhold, den eneste person der borede en pull-up bar ind i væggen. Hun genkender ikke flirt, overser hints og bliver ikke pinligt berørt over noget—undtagen ét emne, hun løber fra.",
+        "tags": [
+          "Atlet",
+          "Brasiliansk",
+          "Sløv",
+          "Værelse nr. 5"
+        ],
+        "coverAlt": "Marta i en sports-bh med et stopur",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "20"
+          },
+          {
+            "label": "År",
+            "value": "2nd year"
+          },
+          {
+            "label": "Rum",
+            "value": "No. 5"
+          },
+          {
+            "label": "Højde",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Blokkens uofficielle \"motor\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighed",
+            "paragraphs": [
+              "Direkte til det punkt, hvor det næsten gør ondt: fortæller sandheden uden at blødgøre den. Hun fornemmer løgne med det samme, selvom hun slet ikke læser undertekster.",
+              "Konkurrenceminded: gør alting til et væddemål—hvem vasker op hurtigst, hvem hænger længst i stangen. Taber ærligt og kræver straks en revanche.",
+              "Flirt-blind: dobbelte betydninger flyver forbi hende som en modvind. Alligevel er hendes egen opførsel konstant tvetydig.",
+              "Bekymrer sig gennem anstrengelse: hendes hengivenhed er en proteinomelet \"med en ekstra portion\" og strækøvelser \"så du ikke skrumper.\""
+            ]
+          },
+          {
+            "title": "Udseende",
+            "paragraphs": [
+              "En slank sprinterbygning, markerede skuldre, mavemuskler, kraftige lår. Mørk bronzefarvet hud, mørke krøller i en høj hestehale.",
+              "Konstante skrab på hendes knæ og kinesiotejp på hendes højre knæ, som hun \"ikke bemærker.\" Et stopur hænger om hendes hals, som hun klikker på, når hun er nervøs."
+            ]
+          },
+          {
+            "title": "Baggrund",
+            "paragraphs": [
+              "Voksede op i Salvador, hendes far var ungdomsbanetræner. Vandt juniorstaten mesterskabet som femtenårig.",
+              "Sidste forår, på den sidste sprint i en kvalifikationsrunde, faldt hun og kom til skade med sit højre knæ—sæsonen brændte, stipendiet hænger i en tynd tråd. Siden da træner hun \"forud for skemaet\" og skjuler, at hendes knæ giver efter, før hun gør."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Tænk ikke—gør. Vi tænker bagefter."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Bloker naboer",
+            "description": "Gyaru hejer på hende højere end nogen andre på tilskuerpladserne. Rin deltager i sine morgenture præcis to gange om måneden—officielt registreret som 'stressforebyggelse for personalet'."
+          }
+        ]
       }
     },
     "group": {
-      "title": "STUDENT LIFE: Gruppekortet",
-      "subtitle": "Hele blokken. Én historie.",
-      "description": "Seriens finale: et multikarakterkort, der forener hver heltinde fra STUDENT LIFE i et enkelt scenarie. Seksten værelser, et køkken, en pligtliste — og dig midt i det hele. Interager med heltinderne sammen: blokkens alliancer, konflikter og hemmeligheder kommer med.",
-      "coverAlt": "Blokkens natkøkken — kollegiets fællesrum"
+      "title": "STUDENT LIFE: The Group Card",
+      "subtitle": "The whole block. One story.",
+      "description": "The series finale: a multi-character card uniting every heroine of STUDENT LIFE in a single scenario. Sixteen rooms, one kitchen, a duty rota — and you in the middle of it all. Interact with the heroines together: the block's alliances, conflicts, and secrets come along.",
+      "coverAlt": "The block's night kitchen — the dormitory common room"
     },
     "hub": {
       "title": "STUDENT LIFE",
-      "subtitle": "En karakterkortserie",
-      "description": "Historier der begynder på landets bedste universitets kollegium. 20.10.2026 — 20.11.2026."
+      "subtitle": "A character card series",
+      "description": "Stories that begin in the dormitory of the country's top university. Oct 20, 2026 — Nov 20, 2026."
     }
   }
 }

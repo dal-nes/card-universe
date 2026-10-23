@@ -86,7 +86,7 @@
 }
 .hero-card {
   position: absolute;
-  width: min(58%, 280px);
+  width: min(65%, 300px);
   border-radius: var(--radius-l);
   overflow: hidden;
   border: 1px solid var(--border);
@@ -106,16 +106,22 @@
   color: var(--text-muted);
 }
 .hero-card--a {
-  top: 0;
-  left: 4%;
-  transform: rotate(-5deg);
+  top: 5%;
+  left: -5%;
+  transform: rotate(-12deg);
   z-index: 1;
 }
 .hero-card--b {
-  bottom: 0;
-  right: 2%;
-  transform: rotate(4deg);
+  bottom: 5%;
+  right: -5%;
+  transform: rotate(10deg);
   z-index: 2;
+}
+.hero-card--c {
+  top: 15%;
+  left: 20%;
+  transform: rotate(-2deg);
+  z-index: 3;
 }
 .hero-card:hover {
   transform: rotate(0deg) translateY(-6px) scale(1.03);
@@ -687,4 +693,57 @@
   color: var(--text-muted);
   font-size: 0.95rem;
   line-height: 1.5;
+}
+.char-hero__cover {
+  overflow: visible; 
+}
+.cover-carousel-wrapper {
+  position: relative;
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  box-shadow: 0 34px 70px -34px var(--shadow), 0 0 80px -30px var(--glow);
+}
+.cover-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.cover-carousel::-webkit-scrollbar {
+  display: none;
+}
+.cover-carousel img {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.cover-carousel-dots {
+  position: absolute;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.5rem;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 0.4rem 0.6rem;
+  border-radius: 999px;
+  backdrop-filter: blur(4px);
+}
+.cover-carousel-dots button {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.3s, transform 0.3s;
+}
+.cover-carousel-dots button.is-active {
+  background: #fff;
+  transform: scale(1.2);
 }

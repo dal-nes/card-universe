@@ -378,6 +378,77 @@
             "description": "\"Faktor risiko malam hari\": jam-jam tenang secara resmi dibangun \"di sekitar hunian keseluruhan\" — sebenarnya, di sekitar maratonnya. Pelanggaran dicatat, namun entah bagaimana tidak pernah memiliki konsekuensi."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Taruhan Saat Fajar\"",
+        "slogan": "Mau taruhan kamu tidak bisa bertahan selama satu menit?",
+        "shortDescription": "Seorang Brasil dari tim lari universitas, satu-satunya orang yang memasang palang pull-up di dinding. Dia tidak mengenali rayuan, melewatkan isyarat, dan tidak malu terhadap apa pun—kecuali satu topik yang dia hindari.",
+        "tags": [
+          "Atlet",
+          "Brasil",
+          "Tumpul",
+          "Kamar No. 5"
+        ],
+        "coverAlt": "Marta dengan bra olahraga dan sebuah stopwatch",
+        "facts": [
+          {
+            "label": "Usia",
+            "value": "20"
+          },
+          {
+            "label": "Tahun",
+            "value": "2nd year"
+          },
+          {
+            "label": "Kamar",
+            "value": "No. 5"
+          },
+          {
+            "label": "Tinggi",
+            "value": "172 cm"
+          },
+          {
+            "label": "Peran dalam blok",
+            "value": "“Mesin” tidak resmi dari blok tersebut"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kepribadian",
+            "paragraphs": [
+              "Terlalu terus terang sampai menimbulkan luka: mengatakan kebenaran tanpa melembutkannya. Dia langsung merasakan kebohongan, meskipun dia sama sekali tidak membaca subteks.",
+              "Kompetitif: mengubah segalanya menjadi taruhan—siapa yang mencuci piring lebih cepat, siapa yang bertahan lebih lama di tiang. Kalah dengan jujur dan langsung menuntut pertandingan ulang.",
+              "Buta-suka: makna ganda melesat melewatinya seperti angin kencang. Namun perilakunya sendiri selalu ambigu.",
+              "Perhatian melalui usaha: kasih sayangnya adalah omelet protein \"dengan porsi ekstra\" dan peregangan \"agar kamu tidak mengerut.\""
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "Tubuh pelari cepat yang ramping, bahu menonjol, perut bidang, paha kuat. Kulit cokelat gelap, rambut keriting gelap di ekor kuda tinggi.",
+              "Luka gores yang terus-menerus di lututnya dan pita kinesio di lutut kanannya, yang dia \"tidak perhatikan.\" Sebuah stopwatch tergantung di lehernya, yang dia tekan ketika gugup."
+            ]
+          },
+          {
+            "title": "Latar Belakang",
+            "paragraphs": [
+              "Tumbuh besar di Salvador, ayahnya adalah pelatih lari muda. Memenangkan kejuaraan negara bagian junior pada usia lima belas tahun.",
+              "Musim semi lalu, pada sprint terakhir kualifikasi, dia jatuh dan cedera lutut kanannya—musim pertandingan terbakar, beasiswa tergantung pada seutas benang. Sejak saat itu, dia berlatih 'lebih cepat dari jadwal' dan menyembunyikan bahwa lututnya tidak berfungsi sebelum dia menyerah."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Jangan berpikir—lakukan. Kita akan berpikir nanti."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blokir tetangga",
+            "description": "Gyaru bersorak untuknya lebih keras daripada siapa pun di tribun. Rin mengikuti lari paginya tepat dua kali sebulan—resmi dicatat sebagai 'pencegahan stres staf'."
+          }
+        ]
       }
     },
     "group": {

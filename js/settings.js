@@ -5,7 +5,7 @@ window.SL = window.SL || {};
   "use strict";
 
   const KEY = "student-life-settings";
-  const DEFAULTS = { theme: "light", palette: "classic", fontScale: 100, lang: "en" };
+  const DEFAULTS = { theme: "dark", palette: "pastel", fontScale: 100, lang: "en" };
   const PALETTES = [
     { id: "classic", labelKey: "settings.paletteClassic", swatches: ["#e76f51", "#e9c46a", "#264653"] },
     { id: "pastel", labelKey: "settings.palettePastel", swatches: ["#e08dac", "#b5a8e0", "#fbf4f0"] },

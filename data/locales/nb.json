@@ -378,6 +378,77 @@
             "description": "En «nattlig risikofaktor»: de stille timene er offisielt bygget «rundt den totale beleggningen» — faktisk rundt maratonene hennes. Overtredelser blir registrert, men har på en eller annen måte aldri konsekvenser."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Bet at Dawn\"",
+        "slogan": "Kan du vedde på at du ikke kan bli her et øyeblikk?",
+        "shortDescription": "En Brasilianer fra universitetets baneteam, den eneste personen som boret en trekkstang inn i veggen. Hun kjenner ikke igjen flørting, savner hint og er flau over ingenting-bortsett fra ett tema hun overgår.",
+        "tags": [
+          "Idrettsutøver",
+          "Brasiliansk",
+          "Sløv",
+          "Rom Nr. 5"
+        ],
+        "coverAlt": "Marta i en sports-bh med stoppeklokke",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "20"
+          },
+          {
+            "label": "År",
+            "value": "2nd year"
+          },
+          {
+            "label": "Rom",
+            "value": "No. 5"
+          },
+          {
+            "label": "Høyde",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Blokkens uoffisielle \"motor\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Stump til blåmerker: forteller sannheten uten å myke den. Hun føler løgner umiddelbart, selv om hun ikke leser undertekst i det hele tatt.",
+              "Konkurransedyktig: gjør alt til et spill-hvem vasker oppvasken raskere, hvem henger lenger i baren. Taper ærlig og krever omkamp umiddelbart.",
+              "Flørtblind: doble betydninger flyr forbi henne som motvind. Likevel er hennes egen oppførsel stadig tvetydig.",
+              "Bryr seg gjennom anstrengelse: hennes kjærlighet er en proteinomelett \"med en ekstra porsjon \"og strekker seg\" slik at du ikke skrumper sammen.\""
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "En mager sprinter bygger, uttalt skuldre, abs, kraftige lår. Mørk bronsehud, mørke krøller i en høy hestehale.",
+              "Konstant skraper på knærne og kinesio tape på høyre kne, som hun \" ikke legger merke til.\"En stoppeklokke henger rundt halsen hennes, som hun klikker når hun er nervøs."
+            ]
+          },
+          {
+            "title": "Bakgrunn",
+            "paragraphs": [
+              "Vokste opp I Salvador, faren hennes en ungdomssportrener. Vant junior state championship på femten.",
+              "I fjor vår, på sluttspurten til en kvalifiseringskamp, falt hun og skadet høyre kne-sesongen brant, stipendet henger i en tråd. Siden den gang trener hun \"foran planen\" og skjuler at kneet gir ut før hun gjør det."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ikke tenk—gjør. Vi tenker etter.\""
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blokker naboer",
+            "description": "Gyaru heier på henne høyere enn noen på tribunen. Rin deltar på morgenløpene sine nøyaktig to ganger i måneden-offisielt logget som 'staff stress prevention'."
+          }
+        ]
       }
     },
     "group": {

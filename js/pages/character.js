@@ -63,7 +63,49 @@ SL.pages = SL.pages || {};
     ]);
 
     const coverBox = el("div", { class: "char-hero__cover reveal" });
-    if (character.cover) {
+    
+    // --- ЛОГИКА КАРУСЕЛИ ОБЛОЖЕК ---
+    if (character.covers && character.covers.length > 0) {
+      const wrapper = el("div", { class: "cover-carousel-wrapper" });
+      const carousel = el("div", { class: "cover-carousel" });
+      
+      character.covers.forEach((src) => {
+        const img = el("img", { attrs: { src: src, alt: t(prefix + "coverAlt") } });
+        img.addEventListener("error", () => {
+           img.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='gray' stroke-width='2'%3E%3Crect x='3' y='3' width='18' height='18' rx='3'/%3E%3Cpath d='m21 15-5-5L5 21'/%3E%3C/svg%3E";
+        });
+        carousel.append(img);
+      });
+      wrapper.append(carousel);
+
+      // Добавляем точки-индикаторы, если обложек больше одной
+      if (character.covers.length > 1) {
+        const dotsContainer = el("div", { class: "cover-carousel-dots" });
+        const dots = character.covers.map((_, i) => {
+          const dot = el("button", { 
+            attrs: { type: "button", "aria-label": "Перейти к обложке " + (i + 1) },
+            class: i === 0 ? "is-active" : ""
+          });
+          dot.addEventListener("click", () => {
+            const scrollAmount = carousel.clientWidth * i;
+            carousel.scrollTo({ left: scrollAmount, behavior: "smooth" });
+          });
+          dotsContainer.append(dot);
+          return dot;
+        });
+
+        // Обновляем активную точку при скролле
+        carousel.addEventListener("scroll", () => {
+          const index = Math.round(carousel.scrollLeft / carousel.clientWidth);
+          dots.forEach((dot, i) => {
+            dot.classList.toggle("is-active", i === index);
+          });
+        });
+        wrapper.append(dotsContainer);
+      }
+      coverBox.append(wrapper);
+    } else if (character.cover) {
+      // Старый вариант для Юны и Рин (одна обложка)
       const img = el("img", { attrs: { src: character.cover, alt: t(prefix + "coverAlt") } });
       img.addEventListener("error", () => {
         coverBox.textContent = "";
@@ -74,7 +116,6 @@ SL.pages = SL.pages || {};
 
     const tags = t(prefix + "tags") || [];
     const is18Plus = tags.includes("18+");
-    
     
     const number = el("span", { class: "char-hero__number" }, [
       SL.components.statusBadge(character.status),
@@ -93,7 +134,6 @@ SL.pages = SL.pages || {};
       );
     });
 
-    
     const cleanTags = tags.filter(tag => tag !== "18+");
 
     const content = el("div", { class: "char-hero__content reveal" }, [
@@ -110,7 +150,6 @@ SL.pages = SL.pages || {};
       facts
     ]);
 
-    
     if (character.status === "under-review") {
       content.insertBefore(
         el("div", { 

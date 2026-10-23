@@ -378,6 +378,77 @@
             "description": "Un „factor de risc nocturn”: orele de liniște sunt construite oficial „în jurul gradului de ocupare generală” — de fapt, în jurul maratoanelor ei. Încălcările sunt înregistrate, dar cumva nu au niciodată consecințe."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — „Pariul la răsărit”",
+        "slogan": "Vrei să pariezi că nu poți rezista un minut?",
+        "shortDescription": "O braziliană din echipa de atletism a universității, singura persoană care a bătut o bară de tracțiuni în perete. Nu recunoaște flirtul, ratează indiciile și nu îi e rușine de nimic—cu excepția unui subiect pe care îl evită.",
+        "tags": [
+          "Atlet",
+          "Brazilian",
+          "Tocit",
+          "Camera nr. 5"
+        ],
+        "coverAlt": "Marta într-un sutien sport cu un cronometru",
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "20"
+          },
+          {
+            "label": "An",
+            "value": "2nd year"
+          },
+          {
+            "label": "Cameră",
+            "value": "No. 5"
+          },
+          {
+            "label": "Înălțime",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "„Motorul” neoficial al blocului"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Fără menajamente până la vânătăi: spune adevărul fără a-l îndulci. Simte minciunile instantaneu, deși nu citește deloc subînțelesurile.",
+              "Competitiv: transformă totul într-un pariu—cine spală vasele mai repede, cine stă mai mult la bară. Pierde cinstit și cere imediat o revanșă.",
+              "Flirt-orbitor: sensurile duble trec pe lângă ea ca un vânt din față. Totuși, propriul ei comportament este constant ambiguu.",
+              "Se îngrijește prin efort: afecțiunea ei este o omletă proteică „cu o porție în plus” și întindere „ca să nu te usuci.”"
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "Construcția unui sprinter suplu, umeri proeminenți, abdominali, coapse puternice. Piele bronz închis, bucle întunecate prinse într-o coadă înaltă.",
+              "Zgârieturi constante pe genunchi și bandă kinesiologică pe genunchiul drept, pe care „nu o observă”. Un cronometru atârnă pe gâtul ei, pe care îl apasă când este nervoasă."
+            ]
+          },
+          {
+            "title": "Fundal",
+            "paragraphs": [
+              "A crescut în Salvador, tatăl ei fiind antrenor de atletism pentru tineret. A câștigat campionatul de stat pentru juniori la cincisprezece ani.",
+              "Primăvara trecută, în sprintul final al unei calificări, a căzut și și-a rănit genunchiul drept — sezonul s-a pierdut, bursa atârnă de un fir de ață. De atunci, se antrenează „în avans față de program” și ascunde că genunchiul îi cedează înaintea ei."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Nu te gândi—acționează. Ne vom gândi după."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blochează vecinii",
+            "description": "Gyaru-ul o încurajează mai tare decât oricine altcineva din tribune. Rin participă la alergările ei de dimineață exact de două ori pe lună – oficial înregistrate ca „prevenirea stresului pentru personal”."
+          }
+        ]
       }
     },
     "group": {

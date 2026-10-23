@@ -378,6 +378,77 @@
             "description": "„Nocny czynnik ryzyka”: cisza nocna jest oficjalnie ustalona „z uwzględnieniem ogólnego obłożenia”, a w rzeczywistości — pod jej maratony. Naruszenia są odnotowywane, ale z jakiegoś powodu nie mają konsekwencji."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — „Zakład o świcie”",
+        "slogan": "Założę się, że nie wytrzymasz minuty?",
+        "shortDescription": "Brazylijka z uniwersyteckiej drużyny lekkoatletycznej, jedyna osoba, która wwierciła drążek do podciągania w ścianę. Nie rozpoznaje flirtu, przegapia aluzje i niczego się nie wstydzi — poza jednym tematem, przed którym ucieka.",
+        "tags": [
+          "Sportowiec",
+          "Brazylijski",
+          "Tępy",
+          "Pokój nr 5"
+        ],
+        "coverAlt": "Marta w sportowym biustonoszu z stoperem",
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "20"
+          },
+          {
+            "label": "Rok",
+            "value": "2nd year"
+          },
+          {
+            "label": "Pokój",
+            "value": "No. 5"
+          },
+          {
+            "label": "Wysokość",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Nieoficjalny „silnik” bloku"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobowość",
+            "paragraphs": [
+              "Ostry do bólu: mówi prawdę bez złagodzenia. Natychmiast wyczuwa kłamstwa, chociaż wcale nie odczytuje kontekstu.",
+              "Rywalizacyjny: zamienia wszystko w zakład — kto szybciej zmywa naczynia, kto dłużej utrzyma się na drążku. Przegrywa uczciwie i natychmiast domaga się rewanżu.",
+              "Ślepa na flirt: podwójne znaczenia przemijają obok niej jak wiatr w twarz. A jednak jej własne zachowanie jest ciągle niejednoznaczne.",
+              "Troszczy się przez wysiłek: jej uczucie to omlet białkowy „z dodatkową porcją” i rozciąganie „żebyś się nie skurczył.”"
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Szczupła budowa sprintera, wyraźne ramiona, mięśnie brzucha, silne uda. Ciemny brązowy odcień skóry, ciemne loki w wysokim kucyku.",
+              "Ciągłe otarcia na jej kolanach i taśma kinezjologiczna na prawym kolanie, której „nie zauważa”. Zegarek stoperowy wisi na jej szyi, który kliknęła, gdy jest zdenerwowana."
+            ]
+          },
+          {
+            "title": "Tło",
+            "paragraphs": [
+              "Dorastała w Salvadorze, jej ojciec był trenerem lekkoatletyki młodzieżowej. W wieku piętnastu lat wygrała mistrzostwa stanu juniorów.",
+              "W zeszłą wiosnę, podczas ostatniego sprintu eliminacji, upadła i zraniła prawe kolano — sezon przepadł, stypendium trzyma się na włosku. Od tego czasu trenuje „przed terminem” i ukrywa, że jej kolano odmawia posłuszeństwa zanim ona to robi."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Nie myśl—działaj. Pomyślimy później."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Sąsiedzi z bloku",
+            "description": "Gyaru kibicuje jej głośniej niż ktokolwiek na trybunach. Rin uczestniczy w swoich porannych biegach dokładnie dwa razy w miesiącu – oficjalnie zapisane jako 'zapobieganie stresowi personelu'."
+          }
+        ]
       }
     },
     "group": {

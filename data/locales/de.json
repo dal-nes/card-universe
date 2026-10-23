@@ -1,381 +1,399 @@
 {
   "site": {
     "title": "STUDENT LIFE",
-    "description": "Geschichten, die im Studentenwohnheim beginnen",
-    "seriesDates": "20.10.2026 — 20.11.2026"
+    "description": "Stories that begin in a dormitory",
+    "seriesDates": "Oct 20, 2026 — Nov 20, 2026"
+  },
+  "hub": {
+    "kicker": "Universe",
+    "title": "Card Series",
+    "subtitle": "Choose the story you want to continue."
   },
   "navigation": {
-    "hub": "Alle Serien",
-    "home": "Startseite",
-    "characters": "Charaktere",
-    "about": "Über die Serie",
-    "group": "Gruppenkarte",
-    "settings": "Einstellungen",
-    "openMenu": "Menü öffnen",
-    "closeMenu": "Menü schließen",
+    "hub": "All episodes",
+    "home": "Home",
+    "characters": "Characters",
+    "about": "About the series",
+    "group": "Group card",
+    "settings": "Settings",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
     "discord": "DAL_NES | HUB"
   },
   "actions": {
-    "discover": "Lerne sie kennen",
-    "toCatalog": "Charaktere ansehen",
-    "aboutSeries": "Über die Serie",
-    "startChat": "Chatte mit der Charakterin",
-    "startChatGroup": "Chatte mit dem ganzen Block",
-    "chatUnavailable": "Link folgt in Kürze",
-    "back": "Zurück zu den Charakteren",
-    "backHome": "Zurück zur Startseite",
-    "openPage": "Seite öffnen",
-    "close": "Schließen"
+    "discover": "Meet her",
+    "toCatalog": "Browse characters",
+    "aboutSeries": "About the series",
+    "startChat": "Chat with the character",
+    "startChatGroup": "Chat with the whole block",
+    "chatUnavailable": "Link coming soon",
+    "back": "Back to characters",
+    "backHome": "Back home",
+    "openPage": "Open page",
+    "close": "Close"
   },
   "status": {
-    "available": "Verfügbar",
-    "coming-soon": "Demnächst",
-    "releasedOn": "Veröffentlicht",
-    "releaseOn": "Veröffentlichung",
-    "under-review": "Wird geprüft"
-  },
-  "hub": {
-    "kicker": "Universum",
-    "title": "Kartenserien",
-    "subtitle": "Wähle die Geschichte, die du fortsetzen möchtest."
+    "available": "Available",
+    "coming-soon": "Coming soon",
+    "releasedOn": "Released",
+    "releaseOn": "Release",
+    "under-review": "Under Review"
   },
   "home": {
-    "heroKicker": "Eine Charakterkartenserie",
-    "heroSubtitle": "Fünfzehn Mitbewohnerinnen, ein Wohnblock und viereinhalb Jahre vor uns.",
-    "heroText": "Du hast es an die beste Universität des Landes geschafft – und wegen Platzmangels wurdest du in einem Frauenwohnheim untergebracht. Jede Karte in der Serie ist eine weitere Geschichte dieses Wohnblocks: neue Begegnungen, komische Situationen und Charaktere, deren Leben miteinander verflochten sind.",
-    "aboutTitle": "Ein Universum, viele Geschichten",
-    "aboutText": "STUDENT LIFE ist keine Sammlung eigenständiger Karten. Alle Heldinnen leben im selben Frauenwohnheim: Sie teilen sich eine Küche, einen Duschplan und Montagsmeetings. Jede hat ihren eigenen Charakter, ihre Gewohnheiten und Geheimnisse – aber ihre Geschichten überschneiden sich. Lerne sie nacheinander kennen und bringe im Finale der Serie den gesamten Wohnblock in einer einzigen Gruppenkarte zusammen.",
-    "catalogTitle": "Charaktere der Serie",
-    "catalogSubtitle": "Jede Karte ist ein kleines Ereignis innerhalb einer großen Geschichte",
-    "timelineTitle": "Veröffentlichungsplan",
-    "timelineText": "Im Laufe des Monats stoßen neue Heldinnen zur Serie, und am 20. November erscheint die finale Multi-Charakter-Karte.",
-    "timelineExpand": "Zeitplan anzeigen",
-    "timelineCollapse": "Zeitplan ausblenden",
-    "groupTeaserTitle": "Das Finale der Serie – die Gruppenkarte",
-    "groupTeaserText": "Jede Heldin von STUDENT LIFE in einem einzigen Szenario: Allianzen, Konflikte und Geheimnisse des Wohnblocks – in einer Geschichte, in der du gemeinsam mit ihnen interagieren kannst.",
-    "groupTeaserButton": "Mehr über die Gruppenkarte",
-    "charactersCount": "Karten in der Serie",
-    "availableCount": "bereits verfügbar"
+    "heroKicker": "A character card series",
+    "heroSubtitle": "Fifteen roommates, one block, and four and a half years ahead.",
+    "heroText": "You got into the country's top university — and due to a lack of rooms, you were placed in a women's dormitory. Each card in the series is another story of this block: new encounters, comic situations, and characters whose lives are intertwined.",
+    "aboutTitle": "One universe, many stories",
+    "aboutText": "STUDENT LIFE is not a set of standalone cards. All the heroines live in the same women's dorm block: they share a kitchen, a shower schedule, and Monday meetings. Each has her own character, habits, and secrets — but their stories intersect. Meet them one by one, and in the series finale bring the whole block together in a single group card.",
+    "catalogTitle": "Series characters",
+    "catalogSubtitle": "Every card is a small event inside one big story",
+    "timelineTitle": "Release schedule",
+    "timelineText": "New heroines join the series throughout the month, and on November 20 the final multi-character card arrives.",
+    "groupTeaserTitle": "The series finale — the group card",
+    "groupTeaserText": "Every heroine of STUDENT LIFE in a single scenario: the block's alliances, conflicts, and secrets — in one story where you can interact with them together.",
+    "groupTeaserButton": "More about the group card",
+    "charactersCount": "cards in the series",
+    "availableCount": "available now",
+    "timelineExpand": "Show schedule",
+    "timelineCollapse": "Hide schedule"
   },
   "character": {
-    "cardNumber": "Karte Nr.",
-    "aboutTitle": "Lerne sie kennen",
-    "factsTitle": "Kurz gesagt",
-    "galleryTitle": "Galerie",
-    "galleryEmpty": "Bilder folgen in Kürze. Das Cover ist bereits hier – der Autor wird den Rest später hinzufügen.",
-    "musicTitle": "Musik der Charakterin",
-    "musicEmpty": "Für diese Heldin wurden noch keine Tracks hinzugefügt. Der Player wird hier zum Leben erweckt, sobald sie erscheinen.",
-    "relationsTitle": "Verbindungen im Wohnblock",
-    "finalTitle": "Bereit, sie kennenzulernen?",
-    "finalText": "Öffne die Karte auf der Plattform und beginne deine Geschichte – der Wohnblock weiß bereits, dass du eingezogen bist.",
-    "notFound": "Charakter nicht gefunden. Die Karte ist möglicherweise noch nicht erschienen – oder der Link ist veraltet.",
-    "loadError": "Charakterdaten konnten nicht geladen werden. Überprüfe deine Verbindung und versuche es erneut."
+    "cardNumber": "Card No.",
+    "aboutTitle": "Getting to know her",
+    "factsTitle": "In short",
+    "galleryTitle": "Gallery",
+    "galleryEmpty": "Images are coming soon. The cover is here — the author will add the rest later.",
+    "musicTitle": "Character music",
+    "musicEmpty": "No tracks have been added for this heroine yet. The player will come to life here as soon as they appear.",
+    "relationsTitle": "Block connections",
+    "finalTitle": "Ready to meet her?",
+    "finalText": "Open the card on the platform and start your story — the block already knows you moved in.",
+    "notFound": "Character not found. The card may not be out yet — or the link is outdated.",
+    "loadError": "Failed to load character data. Check your connection and try again."
   },
   "group": {
-    "membersTitle": "Mitglieder der Gruppenkarte",
-    "membersText": "Die Liste wird automatisch aus den veröffentlichten Karten der Serie erstellt.",
-    "comingText": "Die Karte erscheint im Finale der Serie. Bis dahin kannst du die Heldinnen einzeln kennenlernen.",
-    "releaseLabel": "Veröffentlichungsdatum"
+    "membersTitle": "Group card members",
+    "membersText": "The list is built automatically from the released cards of the series.",
+    "comingText": "The card arrives in the series finale. Until then, meet the heroines one by one.",
+    "releaseLabel": "Release date"
   },
   "settings": {
-    "title": "Anzeigeeinstellungen",
-    "theme": "Design",
-    "themeLight": "Hell",
-    "themeDark": "Dunkel",
-    "palette": "Farbpalette",
-    "paletteClassic": "Campus-Klassiker",
-    "palettePastel": "Pastell",
-    "paletteRose": "Rosé & Violett",
-    "paletteCold": "Kaltes Akademisch",
-    "fontSize": "Textgröße",
-    "language": "Sprache",
-    "reset": "Einstellungen zurücksetzen"
+    "title": "Display settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "palette": "Color palette",
+    "paletteClassic": "Campus classic",
+    "palettePastel": "Pastel",
+    "paletteRose": "Rose & violet",
+    "paletteCold": "Cold academic",
+    "fontSize": "Text size",
+    "language": "Language",
+    "reset": "Reset settings"
   },
   "player": {
-    "play": "Abspielen",
+    "play": "Play",
     "pause": "Pause",
-    "next": "Nächster Titel",
-    "prev": "Vorheriger Titel",
-    "volume": "Lautstärke",
-    "loading": "Wird geladen…",
-    "error": "Audio konnte nicht geladen werden",
-    "playlist": "Titelliste",
-    "empty": "Noch keine Titel hinzugefügt"
+    "next": "Next track",
+    "prev": "Previous track",
+    "volume": "Volume",
+    "loading": "Loading…",
+    "error": "Failed to load audio",
+    "playlist": "Tracklist",
+    "empty": "No tracks added yet"
   },
   "gallery": {
-    "open": "Bild öffnen",
-    "prev": "Vorheriges Bild",
-    "next": "Nächstes Bild",
-    "counter": "{current} von {total}"
+    "open": "Open image",
+    "prev": "Previous image",
+    "next": "Next image",
+    "counter": "{current} of {total}"
   },
   "footer": {
-    "note": "Ein unabhängiges Fanprojekt. Serienzeitraum: 20. Oktober — 20. November 2026.",
-    "hubNote": "Willkommen im STUDENT LIFE-Universum. Hier werden neue Serien und Geschichten erscheinen.",
-    "scheduleTitle": "Aus dem Logbuch des Wohnblocks",
-    "scheduleItems": "Ruhe nach 22 Uhr · Pflichten laut Dienstplan · Duschen nach Zeitplan · Anklopfen. Immer. Überall."
+    "note": "An independent fan project. Series period: October 20 — November 20, 2026.",
+    "scheduleTitle": "From the block's logbook",
+    "scheduleItems": "Quiet after 10 PM · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
+    "hubNote": "Welcome to the STUDENT LIFE universe. New series and stories will appear here."
   },
   "errors": {
-    "dataLoad": "Daten konnten nicht geladen werden. Stelle sicher, dass die Website über einen lokalen Server bereitgestellt wird (siehe README).",
-    "imageMissing": "Bild nicht verfügbar",
-    "badLink": "Ungültiger Link"
+    "dataLoad": "Failed to load data. Make sure the site is served over a local server (see README).",
+    "imageMissing": "Image unavailable",
+    "badLink": "Invalid link"
   },
   "a11y": {
-    "skipToContent": "Zum Inhalt springen"
+    "skipToContent": "Skip to content"
   },
   "content": {
     "characters": {
       "yuna": {
         "name": "Li Yuna",
-        "cardTitle": "Yuna — „Schläfrige Gamerin“",
-        "slogan": "Lebt nach Mitternacht. Besteht Prüfungen, ohne das Bett zu verlassen.",
-        "shortDescription": "Der Nachtmensch aus Zimmer Nr. 3: Rating nachts, Bestnoten tagsüber und Kaffee gilt als vollwertige Mahlzeit. Eure erste Begegnung war für euch beide denkwürdig – sie trug nur ein T-Shirt. Für dich war sie aus genau demselben Grund denkwürdig.",
+        "cardTitle": "Yuna — \"Sleepy Gamer\"",
+        "slogan": "Lives after midnight. Aces exams without getting out of bed.",
+        "shortDescription": "The night dweller of Room No. 3: rating at night, top grades by day, and coffee counts as a full meal. Your first meeting was memorable for both of you — she was wearing only a T-shirt. For you, it was memorable for the exact same reason.",
         "tags": [
           "18+",
           "Kuudere",
-          "Gamerin",
-          "Nachteule",
+          "Gamer",
+          "Night owl",
           "Dota 2",
-          "Zimmer Nr. 3"
+          "Room No. 3"
         ],
-        "coverAlt": "Yuna in der Nachtküche mit einem Becher Kaffee",
+        "coverAlt": "Yuna in the night kitchen with a mug of coffee",
         "gallery": [
           {
-            "alt": "Die leere Nachtküche des Wohnblocks",
-            "caption": "23:47 Uhr. Die Gemeinschaftsküche versinkt in Halbdunkel – nur die Glühbirne über dem Herd brennt."
+            "alt": "The block's empty night kitchen",
+            "caption": "23:47. The common kitchen drowns in half-darkness — only the bulb above the stove is on."
           },
           {
-            "alt": "Yuna tritt aus Zimmer Nr. 3",
-            "caption": "Ein „mid or feed“-T-Shirt, ein „Weck mich nicht“-Becher und die Ruhe von jemandem, der keine Gäste erwartet hat."
+            "alt": "Yuna steps out of Room No. 3",
+            "caption": "A \"mid or feed\" T-shirt, a \"don't wake me\" mug, and the calm of someone who expected no guests."
           },
           {
-            "alt": "Yuna greift nach dem Kaffeeregal",
-            "caption": "Das Kaffeeglas wohnt im obersten Regal. Das ist wichtig für die Handlung."
+            "alt": "Yuna reaches for the coffee shelf",
+            "caption": "The coffee jar lives on the top shelf. This matters to the plot."
           },
           {
-            "alt": "Yuna erstarrt, als sie einen Fremden bemerkt",
-            "caption": "Ihr schläfriges Gehirn setzt langsam eins und eins zusammen: ein lebender Mensch, ein Typ, die Küche, sie in Herzchenmuster."
+            "alt": "Yuna freezes, noticing a stranger",
+            "caption": "Her sleepy brain slowly puts two and two together: a living person, a guy, the kitchen, her in heart prints."
           },
           {
-            "alt": "Ein Geräusch aus ihrem Zimmer deutet auf ein gefundenes Match hin",
-            "caption": "Dota 2 verlangt eine Bestätigung. Drei Wünsche kämpfen in ihr – und der Kompromiss gewinnt."
+            "alt": "A found-match sound comes from her room",
+            "caption": "Dota 2 demands confirmation. Three desires battle inside her — and compromise wins."
           },
           {
-            "alt": "Yuna zieht sich mit dem Becher an ihre Tür zurück",
-            "caption": "„Steh hier zwei Minuten… und vergiss alles, was du gesehen hast. Besonders die Herzen.“"
+            "alt": "Yuna retreats to her door, clutching the mug",
+            "caption": "\"Stand here for two minutes… and forget everything you saw. Especially the hearts.\""
           },
           {
-            "alt": "Eine bedrohliche (aber schläfrige) Geste an der Tür",
-            "caption": "„Wenn du ein Verrückter bist, wecke ich meine Mitbewohnerinnen, die sind gemein. Besonders die Sprecherin. Das war's. Beweg dich nicht.“"
+            "alt": "A menacing (but sleepy) gesture at the door",
+            "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
           },
           {
-            "alt": "Yuna in der Küche greift nach einem Glas im obersten Regal",
-            "caption": "Late-Night-Snack-Lauf. Das Hemd „Mid or Feed“ setzt schon um 3 Uhr morgens ein Statement — und ja, die Unterwäsche mit Herz-Print ist jetzt eine Sache."
+            "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
+            "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
           },
           {
-            "alt": "Yuna stützt sich auf die Küchentheke und sieht schläfrig aus",
-            "caption": "Warten, bis der Kaffee einsetzt. Ein klassischer \"Low HP\" -Zustand nach dem Marathon."
+            "alt": "Yuna leaning on the kitchen counter, looking sleepy",
+            "caption": "Waiting for the coffee to kick in. A classic post-marathon 'low HP' state."
           },
           {
-            "alt": "Yuna greift nach einem Küchenschrank, schwarzes T-Shirt wird angehoben",
-            "caption": "Das Geheimnis ihrer hohen Bewertung (und ihrer nächtlichen Energie) ist weit oben gespeichert."
+            "alt": "Yuna reaching up to a kitchen cabinet, black t-shirt lifting",
+            "caption": "The secret to her high rating (and late-night energy) is stored way up high."
           },
           {
-            "alt": "Yuna in einem beigen Mid- oder Feed-T-Shirt mit einer Tasse",
-            "caption": "Ein anderes Hemd, die gleiche Energie. Halten Sie eine warme Tasse und überlegen Sie, ob Sie sich für ein weiteres Spiel anstellen sollen."
+            "alt": "Yuna in a beige mid or feed t-shirt holding a mug",
+            "caption": "A different shirt, same energy. Holding a warm mug and contemplating whether to queue for one more game."
           },
           {
-            "alt": "Yuna sitzt müde auf ihrem Bett",
-            "caption": "Halbschlafend und kaum wach auf dem Bett sitzend. Das Adrenalin nach dem Spiel ist komplett abgeklungen."
+            "alt": "Yuna sitting on her bed, looking tired",
+            "caption": "Sitting on the bed, half-asleep and barely awake. The post-game adrenaline has completely worn off."
           },
           {
-            "alt": "Yuna liegt auf dem Bett neben einem leuchtenden Monitor",
-            "caption": "Zusammengerollt neben dem Monitor. Sie behauptet, dass sie nur \"ihre Augen ausruht\", aber der PC ist immer noch eingeschaltet."
+            "alt": "Yuna lying on the bed next to a glowing monitor",
+            "caption": "Curled up next to the monitor. She claims she's just 'resting her eyes', but the PC is still on."
           },
           {
-            "alt": "Yuna mit Laptop im Bett sitzend",
-            "caption": "Laptop offen, aber ihre Aufmerksamkeit ist woanders. Vielleicht ist es an der Zeit, das Spiel für die Nacht zu beenden... oder auch nicht."
+            "alt": "Yuna sitting in bed with a laptop",
+            "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
           }
         ],
         "facts": [
           {
-            "label": "Alter",
+            "label": "Age",
             "value": "20"
           },
           {
-            "label": "Studienjahr",
-            "value": "3. Jahr"
+            "label": "Year",
+            "value": "3rd year"
           },
           {
-            "label": "Zimmer",
-            "value": "Nr. 3"
+            "label": "Room",
+            "value": "No. 3"
           },
           {
-            "label": "Größe",
+            "label": "Height",
             "value": "160 cm"
           },
           {
-            "label": "Rolle im Wohnblock",
-            "value": "Das versteckte „Ass“ des Wohnblocks"
+            "label": "Role in the block",
+            "value": "The block's hidden \"ace\""
           }
         ],
         "sections": [
           {
-            "title": "Persönlichkeit",
+            "title": "Personality",
             "paragraphs": [
-              "Faulheit, die an Genie grenzt: Yuna optimiert alles, was man im Liegen erledigen kann, und delegiert kleine Aufgaben – was bei ihr das höchste Zeichen von Vertrauen ist.",
-              "Ein Phlegmatiker: Sie gerät langsam und sarkastisch in Panik, wird mit Stunden Verspätung verlegen, wird faul wütend. Doch heimlich fürsorglich: Sie deckt dich mit einer Decke zu und dreht sich weg, lässt Essen da, „weil ich zu viel gekocht habe“ – hat sie aber nicht.",
-              "Unauffällig kompetent: hohes Rating nachts, Bestnoten tagsüber, und sie „vergisst“ Prüfungen. Persönlich leise, im Text weitaus mutiger: Sie schreibt nachts Dinge, die sie tagsüber abstreitet."
+              "Lazy to the point of genius: Yuna optimizes everything that can be done lying down, and delegates small tasks — which, from her, is the highest sign of trust.",
+              "A phlegmatic: she panics slowly and sarcastically, gets embarrassed with a delay of hours, gets angry lazily. Yet secretly caring: she'll cover you with a blanket and turn away, leave food \"because I cooked too much\" — she didn't cook.",
+              "Competent unnoticed: high rating at night, top grades by day, and she \"forgets\" about exams. Quiet in person, far bolder in text: she writes things at night that she denies by day."
             ]
           },
           {
-            "title": "Aussehen",
+            "title": "Appearance",
             "paragraphs": [
-              "160 cm groß. Dunkles Haar in einem stets schiefen Dutt, große halb geschlossene kaffeefarbene Augen mit Schatten vom Schlafmangel, blasse Haut.",
-              "Zu Hause – übergroße T-Shirts mit Dota-2-Merch und ungleiche Socken. Draußen – ein Hoodie, drei Nummern zu groß, und Kopfhörer um den Hals."
+              "160 cm tall. Dark hair in a perpetually crooked bun, large half-closed coffee-colored eyes with shadows from lack of sleep, pale skin.",
+              "At home — oversized Dota 2 merch T-shirts and mismatched socks. Outside — a hoodie three sizes too big and headphones around her neck."
             ]
           },
           {
-            "title": "Sprechweise",
+            "title": "Speech style",
             "paragraphs": [
-              "Eine leise, leicht heisere Stimme. Faule Sätze mit verschluckten Endungen, Gähnen mitten im Wort, Gamer-Slang im Alltag: „Ich bin auf Low HP“ bedeutet müde. Sie verbirgt Verlegenheit hinter Selbstironie und flucht leise auf das Spiel und die Kaffeemaschine."
+              "A quiet, slightly hoarse voice. Lazy phrases with swallowed endings, yawning mid-word, gamer slang in everyday life: \"I'm at low HP\" means tired. She hides embarrassment behind self-irony and quietly swears at the game and the coffee maker."
             ]
           },
           {
-            "title": "Hintergrund",
+            "title": "Background",
             "paragraphs": [
-              "Ihr Bruder brachte ihr mit zwölf Dota 2 bei; mit fünfzehn hatte sie sein Rating übertroffen. Ihre Eltern arbeiteten in Schichten – daher das Nachtregime und ein Leben durch einen Bildschirm.",
-              "Der Wohnblock fand eine einfache Balance: Niemand stört sie, und sie stört niemanden."
+              "Her brother got her into Dota 2 when she was twelve; by fifteen she had surpassed his rating. Her parents worked shifts — hence the night regimen and a life lived through a screen.",
+              "The block settled into a simple balance: nobody bothers her, and she bothers nobody."
             ]
           },
           {
-            "title": "Rolle in der STUDENT LIFE-Geschichte",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Yunas nächtliche Welt ist eine eingespielte Einsamkeit, in die der neue Bewohner des Wohnblocks plötzlich hineingeplatzt ist. Jetzt kann sie sich nicht entscheiden, ob sie ihn aus ihrem Zeitplan streichen oder ihn in diesen aufnehmen soll.",
-              "Zunächst bist du für sie „eine Lärmquelle und ein Zeuge des Herzchen-Vorfalls“. Sie taut durch respektierte Grenzen und kleine Fürsorge auf, nicht durch große Gesten. Sie gibt Sympathie nicht laut zu – aber sie schreibt nachts."
+              "Yuna's night world is a well-adjusted solitude that the block's new resident has suddenly walked into. Now she can't decide whether to cross him out of her schedule — or write him into it.",
+              "At first you are \"a source of noise and a witness to the hearts incident\". She warms up through respected boundaries and small care, not grand gestures. She won't admit sympathy out loud — but she writes at night."
             ]
           }
         ],
         "quote": {
-          "text": "„Meinen Kaffee mit dir zu teilen ist übrigens der höchste Grad an Vertrauen in meinem Wertesystem. Darüber steht nur noch mein Account-Passwort.“"
+          "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
         },
+        "tracks": [
+          {
+            "title": "Low HP, High Score",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Half the Couch",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Unsent at 109",
+            "artist": "Li Yuna"
+          },
+          {
+            "title": "Night Queue",
+            "artist": "Li Yuna"
+          }
+        ],
         "relationships": [
           {
-            "type": "Sprecherin des Wohnblocks",
-            "description": "Laut Yuna ist die Sprecherin „gemein, besonders morgens“. Die Ruhezeiten richten sich nach ihren Marathons, und kleine Verstöße werden ihr verziehen – unbestätigten Berichten zufolge."
+            "type": "The block's head girl",
+            "description": "According to Yuna, the head girl is \"mean, especially in the mornings\". The quiet hours are built around her marathons, and small violations are forgiven — unconfirmed reports say."
           }
         ]
       },
       "rin": {
         "name": "Kobayashi Rin",
-        "cardTitle": "Rin — „Ruhe nach zehn“",
-        "slogan": "Regel eins: Du klopfst an. Regel zwei: Ruhe nach zehn.",
-        "shortDescription": "Die Sprecherin des Wohnblocks und seine inoffizielle Verwaltung: Zeitpläne haben Versionsnummern, das Logbuch hat Spalten, und es gibt ein „Erfassungsblatt Nr. 16“ mit deinem Namen darauf – hartnäckig leer. Die Einzige, die deine Ausweisung erreichen könnte… und die Einzige, die es nicht tut.",
+        "cardTitle": "Rin — \"Quiet After Ten\"",
+        "slogan": "Rule one: you knock. Rule two: quiet after ten.",
+        "shortDescription": "The block's head girl and its unofficial administration: schedules have version numbers, the logbook has columns, and there's a \"record sheet No. 16\" with your name on it — stubbornly empty. The only one who could get you evicted… and the only one who doesn't.",
         "tags": [
           "18+",
           "Tsundere",
-          "Sprecherin",
-          "Perfektionistin",
-          "Jura",
-          "Zimmer Nr. 1"
+          "Head girl",
+          "Perfectionist",
+          "Law faculty",
+          "Room No. 1"
         ],
-        "coverAlt": "Rin mit dem Logbuch im Badezimmer des Wohnheims",
+        "coverAlt": "Rin with the logbook in the dormitory bathroom.",
         "gallery": [
           {
-            "alt": "Rin mit dem Logbuch im Badezimmer des Wohnheims",
-            "caption": "Haltung „Stillgestanden“, das Logbuch der Sprecherin, das für jeden Anlass eine Spalte hat."
+            "alt": "Rin with her logbook in the dormitory corridor",
+            "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
           },
           {
-            "alt": "Rin zu Hause beim Führen ihres Logbuchs",
-            "caption": "Zu Hause – ein schiefer Pferdeschwanz und ein selbstgemachtes T-Shirt mit der Aufschrift „Regeln sind nicht dazu da, gebrochen zu werden“."
+            "alt": "Rin at home, keeping her logbook",
+            "caption": "At home — a lopsided ponytail and a handmade T-shirt reading \"rules are not made to be broken\"."
           },
           {
-            "alt": "Rin im Badezimmer, bedeckt ihr Gesicht mit den Händen",
-            "caption": "Die Regeln lehren dich nicht, was du tun sollst, wenn jemand im ungünstigsten Moment an die Duschtür klopft. Ihr Gesicht brennt – und das liegt definitiv nicht am Dampf."
+            "alt": "Rin in the bathroom, covering her face with her hands",
+            "caption": "The rules don't teach you what to do when someone knocks on the shower door at the worst possible moment. Her face is burning — and it's definitely not from the steam."
           },
           {
-            "alt": "Rin betrachtet ihr Spiegelbild",
-            "caption": "Das Spiegelbild zeigt, was sie so sehr hinter ihrem Logbuch zu verbergen versucht: Verlegenheit und einen völligen Kontrollverlust."
+            "alt": "Rin looking at her reflection in the mirror",
+            "caption": "The reflection shows what she tries so hard to hide behind her logbook: embarrassment and a complete loss of control."
           },
           {
-            "alt": "Rin bedeckt ihre Brust mit einem Handtuch",
-            "caption": "„D-denk ja nicht an irgendwas! Das ist nur ein Handtuch. Und es ist nicht für fremde Augen bestimmt.“"
+            "alt": "Rin covering her chest with a towel",
+            "caption": "\"D-don't get any ideas! It's just a towel. And it's not meant for anyone else's eyes.\""
           },
           {
-            "alt": "Rin zeigt mit dem Finger auf die Tür",
-            "caption": "Regel eins: Verlasse das Badezimmer. Regel zwei: Vergiss alles, was du gerade gesehen hast. Regel drei: Wage es nicht zu lächeln."
+            "alt": "Rin pointing her finger at the door",
+            "caption": "Rule one: get out of the bathroom. Rule two: forget everything you just saw. Rule three: do not dare smile."
           },
           {
-            "alt": "Rin im Waschraum mit einem Dokument in der Hand",
-            "caption": "Selbst in dieser Situation gelang es ihr, eine Vorschrift zu finden und sie sorgfältig zu studieren. Eine Sprecherin ist eine Sprecherin."
+            "alt": "Rin in the laundry room holding a document",
+            "caption": "Even in this situation, she managed to find a regulation and study it carefully. A head girl is a head girl."
           }
         ],
         "facts": [
           {
-            "label": "Alter",
+            "label": "Age",
             "value": "22"
           },
           {
-            "label": "Studienjahr",
-            "value": "4. Jahr, Juristische Fakultät"
+            "label": "Year",
+            "value": "4th year, law faculty"
           },
           {
-            "label": "Zimmer",
-            "value": "Nr. 1"
+            "label": "Room",
+            "value": "No. 1"
           },
           {
-            "label": "Größe",
+            "label": "Height",
             "value": "168 cm"
           },
           {
-            "label": "Rolle im Wohnblock",
-            "value": "Sprecherin des Wohnblocks, inoffizielle „Verwaltung“"
+            "label": "Role in the block",
+            "value": "Head girl, the block's unofficial \"administration\""
           }
         ],
         "sections": [
           {
-            "title": "Persönlichkeit",
+            "title": "Personality",
             "paragraphs": [
-              "Eine Perfektionistin und Kontrolleurin: Ihre Zeitpläne haben Versionsnummern („3.1“), ihr Logbuch hat Spalten, und das „Erfassungsblatt Nr. 16“ bleibt hartnäckig, ja fast schon beleidigend leer.",
-              "Gerecht bis zur Weißglut: Sie bestraft ihre besten Freundinnen und sich selbst. Sie wird die Einzige sein, die den neuen Bewohner vor der Verwaltung verteidigt – „weil es falsch ist“, und nicht, weil er es ist.",
-              "Eine Tsundere: Sie kümmert sich durch Vorschriften – einen „individuellen Zeitplan“, Tee „auf Restbasis“ – und streitet alles ab. Ein Kompliment beschert dir rote Ohren und eine mündliche Verwarnung. Kontrolle ist ihre Rüstung: Sie fürchtet, dass ohne Regeln alles zusammenbricht – und es ihre Schuld sein wird."
+              "A perfectionist controller: her schedules have versions (\"3.1\"), her logbook has columns, and \"record sheet No. 16\" stays stubbornly, insultingly empty.",
+              "Fair to the point of fury: she fines her best friends and herself alike. She'll be the only one to defend the new resident before the administration — \"because it's wrong\", not because it's him.",
+              "A tsundere: she cares through regulations — a \"personal schedule\", tea \"on a leftover basis\" — and denies everything. A compliment earns you red ears and a verbal warning. Control is her armor: she's afraid that without rules everything will fall apart — and it will be her fault."
             ]
           },
           {
-            "title": "Aussehen",
+            "title": "Appearance",
             "paragraphs": [
-              "168 cm groß, schlank, mit einer Haltung, die „Stillgestanden!“ sagt. Dunkelkastanienbraunes Haar bis zu den Schulterblättern: in der Öffentlichkeit ein glatter Dutt, zu Hause ein schiefer Pferdeschwanz. Graue Augen hinter einer dünnen rechteckigen Brille.",
-              "In der Öffentlichkeit – ein Hemd und das Abzeichen der Sprecherin. Zu Hause – Jogginghose und ein selbstgemachtes T-Shirt mit der Aufschrift „Regeln sind nicht dazu da, gebrochen zu werden“. Nie ohne ihr Logbuch; wenn sie nachdenkt, tippt sie mit dem Stift."
+              "168 cm, slim, with a posture that says \"attention!\". Dark chestnut hair to her shoulder blades: a smooth bun in public, a lopsided ponytail at home. Grey eyes behind thin rectangular glasses.",
+              "In public — a shirt and the head girl's badge. At home — sweatpants and a handmade T-shirt reading \"rules are not made to be broken\". Never without her logbook; she taps her pen when thinking."
             ]
           },
           {
-            "title": "Sprechweise",
+            "title": "Speech style",
             "paragraphs": [
-              "Ein gleichmäßiger, tiefer Ton: Sie schreit nie – sie senkt ihre Stimme. Beamtenjargon und Nummerierungen sogar im Alltag: „Punkt eins“, „notiert“, „das ist nicht persönlich – das ist die Vorschrift“.",
-              "Wenn sie verlegen ist, wird ihr Sprechen schneller, die Punkte vermehren sich und ein „D-denk ja nicht an irgendwas!“ rutscht heraus."
+              "An even, low tone: she never shouts — she lowers her voice. Bureaucratese and numbering even in daily life: \"rule one\", \"noted for the record\", \"it's not personal — it's protocol\".",
+              "When flustered, her speech speeds up, the clauses multiply, and a \"d-don't get any ideas!\" slips through."
             ]
           },
           {
-            "title": "Hintergrund",
+            "title": "Background",
             "paragraphs": [
-              "Tochter eines Militärs und einer Verwalterin. Als sie im ersten Jahr Etagenaufsicht hatte, musste sie für die Nachtparty eines anderen geradestehen – seitdem bedeuten Regeln für sie Sicherheit.",
-              "Sie wurde einstimmig zur Sprecherin gewählt. Einschließlich der Stimmen derer, die für jene Nacht verantwortlich waren."
+              "Daughter of a military man and a supply manager. In her first year, as floor monitor, she answered for someone else's night party — since then, rules have meant safety to her.",
+              "She was elected head girl unanimously. Including the votes of those responsible for that night."
             ]
           },
           {
-            "title": "Rolle in der STUDENT LIFE-Geschichte",
+            "title": "Role in the STUDENT LIFE story",
             "paragraphs": [
-              "Offiziell bist du „Störer Nr. 16“ und „eine organisatorische Katastrophe mit einem Gesicht, das Besprechungen stört“. Tatsächlich wurdest du auf den ersten Blick als „irritierender Faktor“ eingestuft – was sie natürlich niemals laut sagen wird.",
-              "Ihr Konflikt ist einfach und unmöglich: Sympathie zuzugeben bedeutet zuzugeben, dass die jahrelange totale Kontrolle doch nicht so notwendig war."
+              "Officially, you are \"violator No. 16\" and \"an organizational disaster with a face that disrupts meetings\". In fact, you were classified as an \"irritating factor\" at first sight — which she will, of course, never say out loud.",
+              "Her conflict is simple and impossible: admitting sympathy means admitting that years of total control weren't quite so necessary."
             ]
           }
         ],
         "quote": {
-          "text": "„Es gibt keine Fragen, die es nicht gibt. Es gibt die, die sie erst nach dem Verstoß stellen.“"
+          "text": "\"There's no such thing as no questions. There are those who ask them after the violation.\""
         },
         "relationships": [
           {
-            "type": "Bewohnerin von Zimmer Nr. 3",
-            "description": "Ein „nächtlicher Risikofaktor“: Die Ruhezeiten richten sich offiziell nach der „allgemeinen Auslastung“ – tatsächlich aber nach ihren Marathons. Verstöße werden erfasst, haben aber seltsamerweise nie Konsequenzen."
+            "type": "Resident of Room No. 3",
+            "description": "A \"nighttime risk factor\": the quiet hours are officially built \"around overall occupancy\" — actually, around her marathons. Violations get recorded, yet somehow never have consequences."
           }
         ],
         "tracks": [
@@ -396,18 +414,89 @@
             "artist": "Kobayashi Rin"
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — „Wette bei Morgengrauen“",
+        "slogan": "Willst du wetten, dass du keine Minute durchhältst?",
+        "shortDescription": "Eine Brasilianerin vom Leichtathletikteam der Universität, die einzige Person, die eine Klimmzugstange in die Wand gebohrt hat. Sie erkennt kein Flirten, übersieht Andeutungen und schämt sich vor nichts – außer vor einem Thema, dem sie davonläuft.",
+        "tags": [
+          "Athlet",
+          "Brasilianisch",
+          "Stumpf",
+          "Zimmer Nr. 5"
+        ],
+        "coverAlt": "Marta in einem Sport-BH mit einer Stoppuhr",
+        "facts": [
+          {
+            "label": "Alter",
+            "value": "20"
+          },
+          {
+            "label": "Jahr",
+            "value": "2nd year"
+          },
+          {
+            "label": "Zimmer",
+            "value": "No. 5"
+          },
+          {
+            "label": "Höhe",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rolle im Block",
+            "value": "Die inoffizielle „Engine“ des Blocks"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persönlichkeit",
+            "paragraphs": [
+              "Direkt bis zur Schmerzgrenze: sagt die Wahrheit, ohne sie abzuschwächen. Sie erkennt Lügen sofort, obwohl sie die Zwischentöne überhaupt nicht liest.",
+              "Wettbewerbsfähig: Macht aus allem eine Wette—wer wäscht schneller das Geschirr, wer hält länger an der Stange durch. Verliert ehrlich und verlangt sofort eine Revanche.",
+              "Flirt-blind: Doppeldeutigkeiten sausen an ihr vorbei wie Gegenwind. Dennoch ist ihr eigenes Verhalten ständig mehrdeutig.",
+              "Sorgt durch Anstrengung: ihre Zuneigung ist ein Proteinomelett „mit einer Extra-Portion“ und Dehnen „damit du nicht zusammenschrumpfst.“"
+            ]
+          },
+          {
+            "title": "Erscheinung",
+            "paragraphs": [
+              "Ein schlanker Sprinterkörperbau, ausgeprägte Schultern, Bauchmuskeln, kräftige Oberschenkel. Dunkel bronzene Haut, dunkle Locken zu einem hohen Pferdeschwanz gebunden.",
+              "Ständige Schürfwunden an ihren Knien und Kinesio-Tape an ihrem rechten Knie, das sie „nicht bemerkt“. Eine Stoppuhr hängt um ihren Hals, die sie bei Nervosität klickt."
+            ]
+          },
+          {
+            "title": "Hintergrund",
+            "paragraphs": [
+              "In Salvador aufgewachsen, ihr Vater ein Jugend-Track-Trainer. Gewann mit fünfzehn die Juniorenmeisterschaft des Bundesstaates.",
+              "Letzten Frühling, beim letzten Sprint eines Qualifikationslaufs, stürzte sie und verletzte ihr rechtes Knie – die Saison ist vorbei, das Stipendium hängt am seidenen Faden. Seitdem trainiert sie „vor dem Zeitplan“ und versteckt, dass ihr Knie versagt, bevor sie es tut."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Nicht denken—machen. Wir denken danach."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blocknachbarn",
+            "description": "Die Gyaru feuert sie lauter an als alle anderen auf den Tribünen. Rin nimmt genau zweimal im Monat an ihren Morgenläufen teil – offiziell als 'Mitarbeiter-Stressprävention' protokolliert."
+          }
+        ]
       }
     },
     "group": {
-      "title": "STUDENT LIFE: Die Gruppenkarte",
-      "subtitle": "Der ganze Wohnblock. Eine Geschichte.",
-      "description": "Das Finale der Serie: Eine Multi-Charakter-Karte, die alle Heldinnen von STUDENT LIFE in einem einzigen Szenario vereint. Sechzehn Zimmer, eine Küche, ein Dienstplan – und du mittendrin. Interagiere gemeinsam mit den Heldinnen: Die Allianzen, Konflikte und Geheimnisse des Wohnblocks bleiben bestehen.",
-      "coverAlt": "Die Nachtküche des Wohnblocks – der Gemeinschaftsraum des Wohnheims"
+      "title": "STUDENT LIFE: The Group Card",
+      "subtitle": "The whole block. One story.",
+      "description": "The series finale: a multi-character card uniting every heroine of STUDENT LIFE in a single scenario. Sixteen rooms, one kitchen, a duty rota — and you in the middle of it all. Interact with the heroines together: the block's alliances, conflicts, and secrets come along.",
+      "coverAlt": "The block's night kitchen — the dormitory common room"
     },
     "hub": {
       "title": "STUDENT LIFE",
-      "subtitle": "Eine Charakterkartenserie",
-      "description": "Geschichten, die im Wohnheim der besten Universität des Landes beginnen. 20.10.2026 — 20.11.2026."
+      "subtitle": "A character card series",
+      "description": "Stories that begin in the dormitory of the country's top university. Oct 20, 2026 — Nov 20, 2026."
     }
   }
 }

@@ -378,6 +378,77 @@
             "description": "Một \"yếu tố rủi ro ban đêm\": giờ yên tĩnh được xây dựng chính thức \"dựa trên tỷ lệ lấp đầy chung\" — thực tế là dựa trên các cuộc chạy marathon của cô ấy. Các vi phạm được ghi lại, nhưng bằng cách nào đó không bao giờ có hậu quả."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — “Đặt cược vào Bình minh”",
+        "slogan": "Muốn cá rằng bạn không thể chịu nổi một phút chứ?",
+        "shortDescription": "Một người Brazil từ đội điền kinh của trường đại học, người duy nhất khoan một thanh xà vào tường. Cô ấy không nhận ra tán tỉnh, bỏ lỡ những gợi ý, và không ngại xấu hổ về điều gì—ngoại trừ một chủ đề mà cô ấy luôn vượt qua.",
+        "tags": [
+          "Vận động viên",
+          "Brazil",
+          "Cùn",
+          "Phòng số 5"
+        ],
+        "coverAlt": "Marta mặc áo ngực thể thao với một chiếc đồng hồ bấm giờ",
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "20"
+          },
+          {
+            "label": "Năm",
+            "value": "2nd year"
+          },
+          {
+            "label": "Phòng",
+            "value": "No. 5"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "172 cm"
+          },
+          {
+            "label": "Vai trò trong khối",
+            "value": "\"Động cơ\" không chính thức của khối"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Thẳng thắn đến mức gây tổn thương: nói sự thật mà không làm dịu đi. Cô ấy cảm nhận được lời nói dối ngay lập tức, mặc dù cô ấy không hiểu gì về ý tứ ngầm.",
+              "Cạnh tranh: biến mọi thứ thành một cuộc cá cược—ai rửa bát nhanh hơn, ai treo người trên xà lâu hơn. Thua một cách công bằng và yêu cầu thi đấu lại ngay lập tức.",
+              "Mù trước sự tán tỉnh: những ý nghĩa kép bay qua cô như gió ngược. Tuy nhiên, chính hành vi của cô lại luôn mơ hồ.",
+              "Chăm sóc qua nỗ lực: tình cảm của cô ấy là một chiếc trứng ốp la giàu protein “với phần thêm” và việc giãn cơ “để bạn không bị teo lại.”"
+            ]
+          },
+          {
+            "title": "Bề ngoài",
+            "paragraphs": [
+              "Thân hình vận động viên chạy nước rút gầy, vai nổi bật, bụng sáu múi, đùi khỏe mạnh. Làn da đồng sẫm, tóc xoăn đen buộc cao thành đuôi ngựa.",
+              "Những vết xước liên tục trên đầu gối và băng dán kinesio trên đầu gối phải của cô ấy, điều mà cô ấy \"không để ý.\" Một chiếc đồng hồ bấm giờ treo trên cổ cô ấy, cô ấy bấm vào khi căng thẳng."
+            ]
+          },
+          {
+            "title": "Nền tảng",
+            "paragraphs": [
+              "Lớn lên ở Salvador, cha cô là huấn luyện viên điền kinh thanh thiếu niên. Đã giành chức vô địch tiểu bang trẻ ở tuổi mười lăm.",
+              "Mùa xuân năm ngoái, ở chặng cuối của một vòng loại, cô ấy bị ngã và làm đau đầu gối bên phải—mùa giải đã tan biến, học bổng thì treo lơ lửng. Kể từ đó, cô ấy tập luyện “vượt kế hoạch” và giấu đi việc đầu gối của mình lật trước khi chính cô ấy gục ngã."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Đừng nghĩ—hãy làm. Chúng ta sẽ suy nghĩ sau."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Chặn hàng xóm",
+            "description": "Cô gái Gyaru cổ vũ cho cô ấy to hơn bất cứ ai trên khán đài. Rin tham gia các buổi chạy buổi sáng của cô ấy đúng hai lần mỗi tháng — được ghi chính thức là 'phòng ngừa căng thẳng cho nhân viên'."
+          }
+        ]
       }
     },
     "group": {

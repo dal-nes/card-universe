@@ -378,6 +378,77 @@
             "description": "Un \"fattore di rischio notturno\": le ore di silenzio sono ufficialmente costruite \"intorno all'occupazione complessiva\" — in realtà, intorno alle sue maratone. Le violazioni vengono registrate, ma in qualche modo non hanno mai conseguenze."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — “Scommessa all’Alba”",
+        "slogan": "Vuoi scommettere che non ce la fai a resistere per un minuto?",
+        "shortDescription": "Una brasiliana del team di atletica dell'università, l'unica persona che abbia fissato una barra per trazioni al muro. Non riconosce il flirt, perde gli indizi ed è imbarazzata da nulla—tranne che da un argomento che evita.",
+        "tags": [
+          "Atleta",
+          "Brasiliano",
+          "Ottuso",
+          "Stanza n. 5"
+        ],
+        "coverAlt": "Marta con un reggiseno sportivo e un cronometro",
+        "facts": [
+          {
+            "label": "Età",
+            "value": "20"
+          },
+          {
+            "label": "Anno",
+            "value": "2nd year"
+          },
+          {
+            "label": "Stanza",
+            "value": "No. 5"
+          },
+          {
+            "label": "Altezza",
+            "value": "172 cm"
+          },
+          {
+            "label": "Ruolo nel blocco",
+            "value": "Il \"motore\" non ufficiale del blocco"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalità",
+            "paragraphs": [
+              "Diretta fino al punto di lasciare lividi: dice la verità senza addolcirla. Sente le bugie all'istante, anche se non legge affatto il sottotesto.",
+              "Competitivo: trasforma tutto in una sfida—chi lava i piatti più velocemente, chi si tiene alla sbarra più a lungo. Perde onestamente e chiede subito una rivincita.",
+              "Flirt-cieca: i doppi sensi le sfuggono come un vento contrario. Eppure il suo stesso comportamento è costantemente ambiguo.",
+              "Cura attraverso lo sforzo: il suo affetto è una frittata di proteine \"con una porzione extra\" e stretching \"così non ti restringi.\""
+            ]
+          },
+          {
+            "title": "Aspetto",
+            "paragraphs": [
+              "Fisico snello da sprinter, spalle pronunciate, addominali, cosce potenti. Pelle bronzo scuro, ricci scuri in una coda alta.",
+              "Continui graffi sulle ginocchia e nastro kinesiologico sul ginocchio destro, che lei \"non nota.\" Un cronometro pende dal suo collo, che lei clicca quando è nervosa."
+            ]
+          },
+          {
+            "title": "Sfondo",
+            "paragraphs": [
+              "Cresciuta a Salvador, suo padre allenatore di atletica giovanile. Ha vinto il campionato statale juniores a quindici anni.",
+              "La scorsa primavera, nell'ultimo sprint di una qualificazione, è caduta e si è ferita al ginocchio destro—la stagione è bruciata, la borsa di studio è appesa a un filo. Da allora, si allena “in anticipo sui tempi” e nasconde che il ginocchio cede prima di lei."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Non pensare—agisci. Penseremo dopo."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blocca vicini",
+            "description": "La Gyaru tifa per lei più forte di chiunque altro sugli spalti. Rin partecipa alle sue corse mattutine esattamente due volte al mese—ufficialmente registrate come 'prevenzione dello stress del personale'."
+          }
+        ]
       }
     },
     "group": {

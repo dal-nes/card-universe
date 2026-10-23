@@ -110,8 +110,8 @@
   },
   "footer": {
     "note": "An independent fan project. Series period: October 20 — November 20, 2026.",
-    "scheduleTitle": "From the block's logbook",
-    "scheduleItems": "Quiet after 10 PM · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
+    "scheduleTitle": "From the block's rulebook",
+    "scheduleItems": "Keep the peace · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
     "hubNote": "Welcome to the STUDENT LIFE universe. New series and stories will appear here."
   },
   "errors": {
@@ -412,6 +412,77 @@
           {
             "title": "It's Not Personal",
             "artist": "Kobayashi Rin"
+          }
+        ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Bet at Dawn\"",
+        "slogan": "Wanna bet you can't hang for a minute?",
+        "shortDescription": "A Brazilian from the university's track team, the only person who drilled a pull-up bar into the wall. She doesn't recognize flirting, misses hints, and is embarrassed by nothing—except one topic she outruns.",
+        "tags": [
+          "Athlete",
+          "Brazilian",
+          "Blunt",
+          "Room No. 5"
+        ],
+        "coverAlt": "Marta in a sports bra with a stopwatch",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "2nd year"
+          },
+          {
+            "label": "Room",
+            "value": "No. 5"
+          },
+          {
+            "label": "Height",
+            "value": "172 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "The block's unofficial \"engine\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Blunt to the point of bruises: tells the truth without softening it. She senses lies instantly, though she doesn't read subtext at all.",
+              "Competitive: turns everything into a bet—who washes dishes faster, who hangs on the bar longer. Loses honestly and demands a rematch immediately.",
+              "Flirt-blind: double meanings fly past her like a headwind. Yet her own behavior is constantly ambiguous.",
+              "Cares through exertion: her affection is a protein omelet \"with an extra portion\" and stretching \"so you don't shrivel up.\""
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "A lean sprinter's build, pronounced shoulders, abs, powerful thighs. Dark bronze skin, dark curls in a high ponytail.",
+              "Constant scrapes on her knees and kinesio tape on her right knee, which she \"doesn't notice.\" A stopwatch hangs around her neck, which she clicks when nervous."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Grew up in Salvador, her father a youth track coach. Won the junior state championship at fifteen.",
+              "Last spring, on the final sprint of a qualifier, she fell and injured her right knee—the season burned, the scholarship is hanging by a thread. Since then, she trains \"ahead of schedule\" and hides that her knee gives out before she does."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Don't think—do. We'll think after.\""
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Block neighbors",
+            "description": "The Gyaru cheers for her louder than anyone in the stands. Rin attends her morning runs exactly twice a month—officially logged as 'staff stress prevention'."
           }
         ]
       }

@@ -378,6 +378,77 @@
             "description": "Een \"nachtelijke risicofactor\": de stille uren zijn officieel gebouwd \"rond de algehele bezetting\" — eigenlijk rond haar marathons. Overtredingen worden geregistreerd, maar hebben om de een of andere reden nooit gevolgen."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Wedden bij zonsopgang\"",
+        "slogan": "Wil je wedden dat je geen minuut volhoudt?",
+        "shortDescription": "Een Braziliaan van het atletiekteam van de universiteit, de enige persoon die een optrekstang in de muur heeft geboord. Ze herkent flirten niet, mist hints en schaamt zich nergens voor—behalve voor één onderwerp dat ze ontloopt.",
+        "tags": [
+          "Atleet",
+          "Braziliaans",
+          "Bot",
+          "Kamer nr. 5"
+        ],
+        "coverAlt": "Marta in een sportbeha met een stopwatch",
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "20"
+          },
+          {
+            "label": "Jaar",
+            "value": "2nd year"
+          },
+          {
+            "label": "Kamer",
+            "value": "No. 5"
+          },
+          {
+            "label": "Hoogte",
+            "value": "172 cm"
+          },
+          {
+            "label": "Rol in de blok",
+            "value": "De niet-officiële 'motor' van het blok"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Bot tot op het punt van blauwe plekken: vertelt de waarheid zonder deze te verzachten. Ze merkt leugens meteen op, hoewel ze helemaal geen ondertoon leest.",
+              "Competitief: maakt van alles een weddenschap—wie de afwas sneller doet, wie langer aan de stang hangt. Verliest eerlijk en eist meteen een revanche.",
+              "Flirt-blind: dubbele betekenissen vliegen aan haar voorbij als een tegenwind. Toch is haar eigen gedrag voortdurend dubbelzinnig.",
+              "Zorgt door inspanning: haar genegenheid is een eiwitomelet \"met een extra portie\" en rekken \"zodat je niet verschrompelt.\""
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "Een slanke sprintbouw, uitgesproken schouders, buikspieren, krachtige dijen. Donker bronskleurige huid, donkere krullen in een hoge paardenstaart.",
+              "Constante schaafwonden op haar knieën en kinesiotape op haar rechterknie, die ze \"niet opmerkt.\" Een stopwatch hangt om haar nek, die ze aanklikt als ze nerveus is."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Opgegroeid in Salvador, haar vader was een jeugdloopbaantrainer. Won het junior staatskampioenschap op vijftienjarige leeftijd.",
+              "Afgelopen voorjaar, tijdens de laatste sprint van een kwalificatiewedstrijd, viel ze en blesseerde ze haar rechterknie—het seizoen ging in rook op, de studiebeurs hangt aan een zijden draadje. Sindsdien traint ze \"voor op schema\" en verbergt ze dat haar knie het begeeft voordat zij dat doet."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Niet denken—doen. We denken later wel."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Blokburen",
+            "description": "De Gyaru juicht harder voor haar dan wie dan ook op de tribune. Rin neemt precies twee keer per maand deel aan haar ochtendruns—officieel geregistreerd als 'personeelsstresspreventie'."
+          }
+        ]
       }
     },
     "group": {

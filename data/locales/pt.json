@@ -378,6 +378,77 @@
             "description": "Um \"fator de risco noturno\": as horas de silêncio são oficialmente construídas \"em torno da ocupação geral\" — na verdade, em torno das suas maratonas. As violações são registadas, mas de alguma forma nunca têm consequências."
           }
         ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Aposta ao Amanhecer\"",
+        "slogan": "Quer apostar que você não consegue aguentar por um minuto?",
+        "shortDescription": "Uma brasileira do time de atletismo da universidade, a única pessoa que fixou uma barra de puxar na parede. Ela não reconhece paquera, perde indiretas e não se envergonha de nada — exceto por um assunto do qual ela foge.",
+        "tags": [
+          "Atleta",
+          "Brasileiro",
+          "Cego",
+          "Quarto nº 5"
+        ],
+        "coverAlt": "Marta com um top esportivo e um cronômetro",
+        "facts": [
+          {
+            "label": "Idade",
+            "value": "20"
+          },
+          {
+            "label": "Ano",
+            "value": "2nd year"
+          },
+          {
+            "label": "Quarto",
+            "value": "No. 5"
+          },
+          {
+            "label": "Altura",
+            "value": "172 cm"
+          },
+          {
+            "label": "Função no bloco",
+            "value": "O \"motor\" não oficial do bloco"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidade",
+            "paragraphs": [
+              "Direta ao ponto de deixar marcas: diz a verdade sem suavizá-la. Ela sente mentiras instantaneamente, embora não leia subtexto de forma alguma.",
+              "Competitivo: transforma tudo em uma aposta—quem lava a louça mais rápido, quem segura na barra por mais tempo. Perde honestamente e exige uma revanche imediatamente.",
+              "Cega para flertes: duplos sentidos passam por ela como um vento contrário. Ainda assim, seu próprio comportamento é constantemente ambíguo.",
+              "Cuida através do esforço: seu carinho é uma omelete de proteínas \"com uma porção extra\" e alongamento \"para você não murchar.\""
+            ]
+          },
+          {
+            "title": "Aparência",
+            "paragraphs": [
+              "Físico de corredor magro, ombros pronunciados, abdômen, coxas poderosas. Pele bronzeada escura, cachos escuros em um rabo de cavalo alto.",
+              "Arranhões constantes nos joelhos e fita cinesiológica no joelho direito, que ela \"não percebe.\" Um cronômetro pendurado no pescoço, que ela clica quando está nervosa."
+            ]
+          },
+          {
+            "title": "Fundo",
+            "paragraphs": [
+              "Cresceu em Salvador, seu pai era treinador de atletismo juvenil. Ganhou o campeonato estadual júnior aos quinze anos.",
+              "Na primavera passada, no sprint final de uma eliminatória, ela caiu e machucou o joelho direito — a temporada se perdeu, a bolsa está por um fio. Desde então, ela treina \"adiantada\" e esconde que seu joelho falha antes dela."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "Não pense—faça. Nós pensamos depois."
+        },
+        "gallery": [],
+        "tracks": [],
+        "relationships": [
+          {
+            "type": "Bloquear vizinhos",
+            "description": "A Gyaru torce por ela mais alto do que qualquer um nas arquibancadas. Rin participa de suas corridas matinais exatamente duas vezes por mês — oficialmente registrado como 'prevenção do estresse da equipe'."
+          }
+        ]
       }
     },
     "group": {
