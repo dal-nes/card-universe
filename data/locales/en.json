@@ -289,26 +289,32 @@
           {
             "name": "Kobayashi Rin",
             "psychotype": "Head girl",
-            "type": "Strict neighbor",
+            "type": "Quiet after ten",
             "description": "Considers her a source of noise but respects her schedule. Rin often checks if Yuna is asleep."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Athlete",
             "type": "Block neighbor",
-            "description": "Sometimes tries to drag her out for a morning run, but always fails. They get along great in silence."
+            "description": "Tries to drag her out for a morning run, but always fails. They get along great in silence."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Noisy neighbor",
-            "description": "Too loud for Yuna's night schedule. Yuna usually just turns up her headphones."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Sleep protector",
+            "description": "Aika is loud during the day but guards Yuna's sleep in the morning. They understand each other without words."
           },
           {
-            "name": "Loner",
-            "psychotype": "Introvert",
-            "type": "Comfortable silence",
-            "description": "The only person with whom Yuna can stay in the same room for hours without saying a word."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Night meetings",
+            "description": "Two night dwellers. Lily respects her schedule, and Yuna doesn't mind when she drops by just to sit in silence."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Ghost",
+            "type": "Night shift",
+            "description": "They share the silence and the night kitchen. Ada cools drinks, Yuna games. A perfect wordless alliance."
           }
         ]
       },
@@ -429,20 +435,26 @@
           {
             "name": "Marta Santos",
             "psychotype": "Athlete",
-            "type": "Block neighbor",
+            "type": "Order and discipline",
             "description": "Reliable, though too loud. Rin appreciates her straightforwardness and that she doesn't cause discipline problems."
           },
           {
-            "name": "Big Sister",
-            "psychotype": "Caring",
-            "type": "Block Administration",
-            "description": "A reliable ally in maintaining order. They share the responsibilities of managing the block."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Bathroom war",
+            "description": "The main rule-breaker. Rin constantly fines her, but they stand back-to-back if the block is threatened."
           },
           {
-            "name": "Careerist",
-            "psychotype": "Cunning",
-            "type": "Source of trouble",
-            "description": "Rin distrusts her hidden motives and closely monitors her schemes."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Safety and rules",
+            "description": "Rin supplies her with forms and safety rules for the ball, and Lily learns to respect the established order."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Documents and etiquette",
+            "description": "Rin respects her reliability and clear boundaries. They cooperate on archive access and quiet hours."
           }
         ],
         "tracks": [
@@ -536,32 +548,64 @@
         },
         "gallery": [
           {
-            "alt": "Quiet Morning",
-            "caption": "A rare moment of peace before the morning run."
-          },
-          {
-            "alt": "On the Pull-up Bar",
+            "alt": "Marta on the pull-up bar",
             "caption": "Showing off her strength on the bar she installed herself."
           },
           {
-            "alt": "Landing",
-            "caption": "A perfect landing. All those hours of practice pay off."
+            "alt": "After the run",
+            "caption": "Catching her breath after a morning run."
           },
           {
-            "alt": "Wipes Hands",
-            "caption": "Wiping sweat and chalk from her hands. Ready for the next set."
+            "alt": "Stretching",
+            "caption": "Cooling down and stretching out."
           },
           {
-            "alt": "Bet: Hanging",
-            "caption": "A bet is a bet. Marta refuses to let go of the bar."
+            "alt": "In Room 5",
+            "caption": "Relaxing in her own space."
           },
           {
-            "alt": "Resting",
-            "caption": "Catching her breath after a tough workout."
+            "alt": "Morning hoodie",
+            "caption": "A cozy morning before the day begins."
           },
           {
-            "alt": "Post-workout",
-            "caption": "Post-workout glow. Tired but satisfied."
+            "alt": "Stadium warm-up",
+            "caption": "Preparing for a training session at the stadium."
+          },
+          {
+            "alt": "After the shower",
+            "caption": "Fresh and clean after a tough workout."
+          },
+          {
+            "alt": "Nap in Room 16",
+            "caption": "Taking a quick nap wherever she can."
+          },
+          {
+            "alt": "Cooking",
+            "caption": "Making sure there's enough protein for everyone."
+          },
+          {
+            "alt": "Close-up",
+            "caption": "A rare quiet look."
+          },
+          {
+            "alt": "On the stairs",
+            "caption": "Taking the stairs two at a time."
+          },
+          {
+            "alt": "Resting on the floor",
+            "caption": "Sometimes the floor is the best place to stretch."
+          },
+          {
+            "alt": "Mirror reflection",
+            "caption": "Checking her form."
+          },
+          {
+            "alt": "Rain on the track",
+            "caption": "Training doesn't stop for a little rain."
+          },
+          {
+            "alt": "Quiet moment",
+            "caption": "A rare moment of peace before the morning run."
           }
         ],
         "tracks": [
@@ -601,7 +645,7 @@
             "name": "Li Yuna",
             "psychotype": "Sleepy",
             "type": "Block neighbor",
-            "description": "Marta doesn't understand how one can sleep so much but respects her gaming skills."
+            "description": "Marta doesn't understand how one can sleep so much but respects her gaming skills and leaves her alone after night matches."
           },
           {
             "name": "Kobayashi Rin",
@@ -610,16 +654,336 @@
             "description": "Marta knows Rin is a bore, but when it comes to protecting the block, she is always on her side."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Loud duo",
-            "description": "The loudest pair in the block. Gyaru cheers for her louder than anyone at competitions."
+            "description": "The loudest pair in the block. Aika cheers for her at competitions, and Marta constantly drags her to workouts."
           },
           {
-            "name": "Disaster",
-            "psychotype": "Absent-minded",
-            "type": "Chaos therapy",
-            "description": "Marta constantly drags her on runs, believing that sports will fix her absent-mindedness."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Sports and magic",
+            "description": "Marta believes that discipline and sports will help Lily control her emotions and hunger."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Werewolf",
+            "type": "Quiet track",
+            "description": "The perfect running partner who doesn't complain about the morning cold and knows how to run in silence."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Five Minutes Without Witnesses\"",
+        "slogan": "Don't confuse my makeup with your diagnosis.",
+        "shortDescription": "You survived coffee with Yuna, Rin's briefing, and Marta's bet. Now Rin sends you to room 6 with another form, and there you meet a girl who calls rules 'decor' and you 'our boy'. Aika can make the whole block laugh, occupy the bathroom for an hour, and flirt so much you won't know where the joke ends. But don't repeat someone else's mistake: if you think there's nothing under the makeup and glitter, she'll prove you wrong.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Economist",
+          "Social center",
+          "Room No. 6"
+        ],
+        "coverAlt": "Aika in Room 6 with glitter",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "21"
+          },
+          {
+            "label": "Year",
+            "value": "4th year, Economics"
+          },
+          {
+            "label": "Room",
+            "value": "No. 6"
+          },
+          {
+            "label": "Height",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Social center, informal organizer"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Bold and loud: enters a room as if expected; teases first, gives everyone nicknames, and turns awkwardness into a game.",
+              "Observant: notices who hasn't eaten, who got hurt by a joke, and when the Shy Girl is afraid to say no.",
+              "Undercover straight-A student: solves complex problems on a kitchen napkin, uses a color-coded tab system, and never brags about her grades.",
+              "Flirts as a defense: likes to hold the initiative and knows how to stop if the other person is uncomfortable."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "166 cm tall; flexible, toned figure. Blonde hair with pink tips, usually in two high twin-tails or loose curls.",
+              "Brown eyes, bright makeup, long nails with tiny stars. Wears short jackets, tops, pleated skirts, and lots of silver rings.",
+              "A necklace with a small 'A' on her neck, and always a few hair ties on her wrist to snap when she's angry or nervous."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Her mother worked as a makeup artist, and her father left when Aika was twelve. She learned early to do makeup for friends and get attention for her looks.",
+              "In school, a teacher publicly suggested her high score was copied; Aika proved otherwise at the board but stopped bringing awards home.",
+              "She entered Economics with high marks and chose statistics and consumer behavior research."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "Aika is the organizer of informal parties and the block's loud defender. You meet her when Rin sends you to room 6 with a form, and Aika asks you to help with a stuck zipper.",
+              "Later, she appoints you her 'official male opinion' for outfits and an unofficial reviewer of her academic projects."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Relax, my boy. I only bite by appointment.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Bathroom war",
+            "description": "Constant arguments over schedules and the shower, but they stand back-to-back if the block is threatened."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Loud alliance",
+            "description": "Aika cheers for her with posters, Marta tries to drag her on morning runs."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Sleep protector",
+            "description": "Aika protects Yuna's sleep from morning noise and brings her coffee after night games."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pickup-line laboratory",
+            "description": "Aika is Lily's willing test audience for ridiculous pickup lines and a partner in party planning."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ribbon mistake",
+            "description": "Aika once reached for her ribbon, and Nefera sharply stopped her. After a sincere apology, Aika became her loud defender."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"No Charms After Midnight\"",
+        "slogan": "You said 'stop' — that means stop. It's not a continuation of the game.",
+        "shortDescription": "You thought meeting your roommates made you hard to embarrass. Lily is going to test that in five seconds—honestly warning you that she feeds on embarrassment and never uses charms without permission. She organizes the pumpkin ball, collects terrible pickup lines, and offers you a rehearsal partner.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organizer",
+          "Psychology",
+          "Guest Wing"
+        ],
+        "coverAlt": "Lily in the assembly hall with masks",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "21"
+          },
+          {
+            "label": "Year",
+            "value": "3rd year, Psychology"
+          },
+          {
+            "label": "Room",
+            "value": "No. 10 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "164 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Event Coordinator, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Charming and energetic: easily gathers people, remembers names, turns boring prep into a competition.",
+              "Honest about boundaries: explains what she feeds on, asks permission for charms, hugs, and public flirting. Steps back from 'no' without offense.",
+              "Bold in games, cautious in intimacy: when you answer sincerely, she hiccups, loses her charms, and starts talking too practically to hide her confusion.",
+              "Caring organizer: knows who is afraid of crowds and who needs water. Tries to be needed by the party because it's a clear way to earn a place among people."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "164 cm tall without platforms; flexible, with soft curves. Dark red hair to her shoulder blades, hazel-green eyes, small dark horns, and a tail with a heart at the tip.",
+              "Wing hairpins sometimes unfold into real shadows. Wears black and scarlet dresses, short jackets, patterned stockings, and high boots.",
+              "Keeps hair ties and pins on her horns; her tail wraps around the wrist of someone she likes and hides behind her leg when she's embarrassed."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Grew up in a family where emotions were currency and natural succubus hunger was an excuse for manipulation.",
+              "As a teenager, she accidentally took too much of someone's embarrassment and got scared. Since then, she's made her own rules of consent.",
+              "Entered Psychology to understand boundaries beyond instinct. Event organizing gave her a legitimate way to get laughter and joy from a crowd."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "You meet in the empty assembly hall the night before the ball. She knows about you from Yuna, Marta, and Aika and offers one voluntary dance rehearsal.",
+              "Her affection shows when her tail seeks your wrist on its own, and she starts reserving time for you without an audience."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Don't blush so early, I haven't even started.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night meetings",
+            "description": "Lily respects her schedule and sometimes shares night stories with her while Yuna games."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Rules and spontaneity",
+            "description": "Rin demands safety rules for the ball, Lily initially finds it boring but eventually agrees."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Sports and magic",
+            "description": "Marta tries to teach her discipline, and Lily in return teaches Marta to relax a bit."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Pickup lines",
+            "description": "Aika tests her jokes on her, and Lily helps with party organizing and props."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Pumpkin bar pact",
+            "description": "Lily handles music and guests, Mira handles drinks and smoke. Their pact: Lily won't charm Mira's friends."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Until Dawn\"",
+        "slogan": "Do not touch the ribbons. The rest can be discussed.",
+        "shortDescription": "You're used to your roommates being nocturnal, strict, or dangerously competitive. But the girl from the guest wing is the first to ask you to take scissors—warning you that a mistake will turn her to sand until dawn. Nefera restores antiquities, speaks in proverbs, and hates it when someone touches her ribbons without permission.",
+        "tags": [
+          "Ancient",
+          "Restorer",
+          "Mystery",
+          "Guest Wing"
+        ],
+        "coverAlt": "Nefera in the laundry room with gold thread",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "22 (appears)"
+          },
+          {
+            "label": "Year",
+            "value": "4th year, Museum Studies"
+          },
+          {
+            "label": "Room",
+            "value": "No. 11 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "170 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Restorer, ancient entity"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Precise and patient: arranges tools by length, checks air humidity, and can spend hours restoring a single fragment of painting.",
+              "Strictly guards boundaries: states immediately that ribbons are off-limits. Dislikes sudden hugs but chooses touches herself, gradually allowing help with jewelry.",
+              "Literal in jokes: parses metaphors literally first, then understands the game and replies with dry humor.",
+              "Tender through trust: remembers what tea you drink, places a dry towel nearby if you get wet. Doesn't make long confessions; instead of 'stay', she says 'there is still much time until dawn'."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "170 cm tall; slender, with straight posture and smooth movements. Bronze skin, golden eyes, black bob to her chin.",
+              "Linen ribbons wrap around her arms, neck, and part of her shoulders over modern clothes. For the ball, she adds a dark dress, shoulder cape, turquoise belt, and tall headdress.",
+              "Wears thin gold jewelry, never removes protective knots in public. Her bag contains silica gel, a soft brush, and an ancient coin."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Awoke in a closed museum storage next to her sarcophagus and a catalog card where her name was misspelled.",
+              "Restorer Hasan al-Sahra was the first to ask what she wished to be called and helped with documents. She took his surname and profession.",
+              "Came to the university on an exchange program and for archival references to her protective seal. Vasilisa is the only one who has seen her restoration from sand."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "You meet in the laundry room before the costume parade. You help free a trapped decorative thread while respecting the ban on white ribbons.",
+              "After this, Nefera trusts you with chests, props, and small clasps, gradually separating you from the crowd of curious guests."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"I gave you permission to hold the chest. Not me. Is the difference clear?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Documents and rules",
+            "description": "Rin respects her reliability and boundaries. Their cooperation is practical: access forms, quiet hours, and safety."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Chests and help",
+            "description": "Marta helps move heavy chests. Nefera appreciates the directness but asks her to be careful with fragile items."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Ribbon mistake",
+            "description": "Aika once reached for a ribbon, and Nefera sharply stopped her. After a sincere apology, Aika became her loud defender."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Ordinary company",
+            "description": "Lily's public games make Nefera wary, but clear consent rules create common ground. Lily doesn't pry."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampire",
+            "type": "Etiquette of the ancient",
+            "description": "The only one who has seen Nefera's restoration from sand and kept it a secret. They share old manners."
           }
         ]
       }

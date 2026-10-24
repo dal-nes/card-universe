@@ -1017,58 +1017,70 @@ input[type="range"]::-moz-range-thumb {
   color: var(--text);
 }
 
-/* --- Стили для контекстного окна (Tooltip) на карточках связей --- */
-.relations-grid {
-  padding-top: 90px; /* Оставляем место сверху, чтобы подсказка не обрезалась */
-  overflow: visible !important;
+
+
+
+
+
+
+
+
+/* --- Значок Хэллоуина на обложке --- */
+.char-card__cover img.char-card__halloween {
+  position: absolute !important;
+  top: 3.5rem !important;
+  right: 0.5rem !important;
+  width: 120px !important;
+  height: auto !important;
+  object-fit: contain !important;
+  z-index: 3 !important;
+  pointer-events: none;
+  
+  /* Полупрозрачный фон-подложка */
+  background: rgba(15, 15, 15, 0.65); 
+  padding: 8px; 
+  border-radius: 12px; 
+  
+  /* Эффект матового стекла (размытие фона под картинкой) */
+  backdrop-filter: blur(6px); 
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.15); 
+  
+  /* Аккуратная тень для объема */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease, background 0.3s ease;
 }
 
-.relation-card {
-  position: relative;
-  overflow: visible !important;
+.char-card:hover .char-card__cover img.char-card__halloween {
+  transform: scale(1.1) rotate(-5deg) !important;
+  background: rgba(15, 15, 15, 0.85); /* При наведении фон становится чуть темнее */
 }
 
-/* Само окно с описанием */
-.relation-card__desc {
-  position: absolute;
-  bottom: calc(100% + 12px); /* Позиционируем над карточкой */
-  left: 50%;
-  transform: translateX(-50%) translateY(10px);
+
+
+
+
+
+
+/* --- Глобальное окно с описанием связей --- */
+.global-relation-tooltip {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: max-content;
-  max-width: 280px;
+  max-width: 300px;
   background: var(--surface-2);
   color: var(--text);
   padding: 1rem 1.2rem;
   border-radius: var(--radius-m);
-  border: 1px solid var(--border);
-  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px color-mix(in srgb, var(--accent) 30%, transparent);
-  font-size: 0.85rem;
+  border: 1.5px solid var(--accent);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.75);
+  font-size: 0.88rem;
   line-height: 1.5;
   text-align: left;
   opacity: 0;
   visibility: hidden;
-  pointer-events: none; /* Чтобы окно не мешало кликать по карточке */
-  transition: opacity 0.25s ease, transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.25s;
-  z-index: 50;
-  margin: 0;
-}
-
-/* Маленькая стрелочка снизу, указывающая на карточку */
-.relation-card__desc::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  border-width: 7px;
-  border-style: solid;
-  border-color: var(--surface-2) transparent transparent transparent;
-}
-
-/* Появление при наведении */
-.relation-card:hover .relation-card__desc,
-.relation-card:focus-within .relation-card__desc {
-  opacity: 1;
-  visibility: visible;
-  transform: translateX(-50%) translateY(0);
+  pointer-events: none;
+  transition: opacity 0.15s ease, visibility 0.15s;
+  z-index: 9999;
 }

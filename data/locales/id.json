@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Ketua kelas perempuan",
-            "type": "Tetangga yang tegas",
+            "psychotype": "Ketua blok",
+            "type": "Tetangga yang ketat",
             "description": "Menganggapnya sebagai sumber kebisingan tetapi menghormati jadwalnya. Rin sering memeriksa apakah Yuna sudah tidur."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Atlet",
             "type": "Tetangga blok",
-            "description": "Kadang-kadang mencoba membawanya keluar untuk lari pagi, tapi selalu gagal. Mereka sangat akur dalam diam."
+            "description": "Mencoba menyeretnya keluar untuk lari pagi, tetapi selalu gagal. Mereka sangat cocok dalam keheningan."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Penunggak",
-            "type": "Tetangga yang berisik",
-            "description": "Terlalu keras untuk jadwal malam Yuna. Yuna biasanya hanya memutar volume headphone-nya."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Pelindung tidur",
+            "description": "Aika berisik di siang hari tetapi menjaga tidur Yuna di pagi hari. Mereka saling memahami tanpa kata-kata."
           },
           {
-            "name": "Penyendiri",
-            "psychotype": "Introvert",
-            "type": "Keheningan yang nyaman",
-            "description": "Satu-satunya orang yang bisa ditemani Yuna di ruangan yang sama selama berjam-jam tanpa mengucapkan sepatah kata pun."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Pertemuan malam",
+            "description": "Dua makhluk malam. Lily menghormati jadwalnya dan Yuna tidak keberatan jika dia mampir hanya untuk duduk diam."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Hantu",
+            "type": "Shift malam",
+            "description": "Mereka berbagi keheningan dan dapur malam. Ada mendinginkan minuman, Yuna bermain game. Aliansi sempurna tanpa kata."
           }
         ],
         "tracks": [
@@ -424,25 +430,31 @@
             "name": "Li Yuna",
             "psychotype": "Mengantuk",
             "type": "Penghuni Kamar No. 3",
-            "description": "Faktor risiko malam hari. Rin selalu memantau jadwalnya tetapi diam-diam mengagumi kesuksesan akademisnya."
+            "description": "Faktor risiko malam hari. Rin terus memantau jadwalnya tetapi diam-diam mengagumi kesuksesan akademisnya."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Atlet",
-            "type": "Tetangga blok",
-            "description": "Dapat diandalkan, meskipun terlalu berisik. Rin menghargai keterusterangannya dan fakta bahwa dia tidak menimbulkan masalah disiplin."
+            "type": "Ketertiban dan disiplin",
+            "description": "Dapat diandalkan, meskipun terlalu berisik. Rin menghargai keterusterangannya dan bahwa dia tidak menyebabkan masalah disiplin."
           },
           {
-            "name": "Kakak Perempuan",
-            "psychotype": "Peduli",
-            "type": "Administrasi Blok",
-            "description": "Sekutu yang dapat diandalkan dalam menjaga ketertiban. Mereka berbagi tanggung jawab dalam mengelola blok."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Perang kamar mandi",
+            "description": "Pelanggar aturan utama. Rin terus mendendanya, tetapi mereka bahu-membahu jika blok terancam."
           },
           {
-            "name": "Karieris",
-            "psychotype": "Licik",
-            "type": "Sumber masalah",
-            "description": "Rin tidak mempercayai motif tersembunyinya dan memantau rencananya dengan cermat."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Keamanan dan aturan",
+            "description": "Rin memberinya formulir dan aturan keselamatan untuk pesta dansa, dan Lily belajar menghormati tatanan yang ada."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kuno",
+            "type": "Dokumen dan etiket",
+            "description": "Rin menghormati keandalannya dan batasannya yang jelas. Mereka bekerja sama dalam akses arsip dan jam tenang."
           }
         ],
         "tracks": [
@@ -601,25 +613,345 @@
             "name": "Li Yuna",
             "psychotype": "Mengantuk",
             "type": "Tetangga blok",
-            "description": "Marta tidak mengerti bagaimana seseorang bisa tidur begitu banyak tetapi menghormati keterampilan bermain gamenya."
+            "description": "Marta tidak mengerti bagaimana bisa tidur begitu banyak tetapi menghormati keterampilan bermainnya dan membiarkannya sendiri setelah pertandingan malam."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Ketua kelas perempuan",
+            "psychotype": "Ketua blok",
             "type": "Penegak aturan",
-            "description": "Marta tahu Rin itu membosankan, tapi ketika soal melindungi blok, dia selalu berada di pihaknya."
+            "description": "Marta tahu Rin membosankan, tetapi dalam hal melindungi blok, dia selalu di sisinya."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Nakal",
-            "type": "Duo yang bising",
-            "description": "Pasangan paling berisik di blok itu. Gyaru bersorak untuk dia lebih keras daripada siapa pun di kompetisi."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Duo berisik",
+            "description": "Pasangan paling berisik di blok. Aika menyemangatinya di kompetisi, dan Marta terus menyeretnya ke latihan."
           },
           {
-            "name": "Bencana",
-            "psychotype": "Pelupa",
-            "type": "Terapi kekacauan",
-            "description": "Marta terus-menerus menyeretnya saat berlari, percaya bahwa olahraga akan memperbaiki sifat pelupanya."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Olahraga dan sihir",
+            "description": "Marta percaya bahwa disiplin dan olahraga akan membantu Lily mengendalikan emosi dan rasa laparnya."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Manusia serigala",
+            "type": "Jalur sunyi",
+            "description": "Pasangan lari yang sempurna yang tidak mengeluh tentang dinginnya pagi dan tahu cara berlari dalam diam."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Lima Menit Tanpa Saksi\"",
+        "slogan": "Jangan samakan makeup-ku dengan diagnosis-mu.",
+        "shortDescription": "Kamu selamat dari kopi bersama Yuna, pengarahan Rin, dan taruhan Marta. Sekarang Rin mengirimmu ke kamar 6 dengan formulir lain, dan di sana kamu bertemu gadis yang menyebut aturan sebagai 'dekorasi' dan kamu ' anak laki-laki kita'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonom",
+          "Pusat sosial",
+          "Kamar No. 6"
+        ],
+        "coverAlt": "Aika di Kamar 6 dengan glitter",
+        "facts": [
+          {
+            "label": "Usia",
+            "value": "21"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-4, Ekonomi"
+          },
+          {
+            "label": "Kamar",
+            "value": "No. 6"
+          },
+          {
+            "label": "Tinggi",
+            "value": "166 cm"
+          },
+          {
+            "label": "Peran di blok",
+            "value": "Pusat sosial, penyelenggara informal"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kepribadian",
+            "paragraphs": [
+              "Berani dan berisik: masuk ke ruangan seolah-olah ditunggu; menggoda dulu dan memberi nama panggilan.",
+              "Jeli: memperhatikan siapa yang belum makan dan siapa yang terluka oleh lelucon.",
+              "Siswa teladan penyamaran: memecahkan masalah rumit di serbet dan tidak pernah membanggakan nilai.",
+              "Menggoda sebagai pertahanan: suka memegang inisiatif dan tahu kapan harus berhenti."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "Tinggi 166 cm; ramping. Rambut pirang dengan ujung merah muda, biasanya dua kuncir tinggi.",
+              "Mata cokelat, makeup cerah, kuku panjang dengan bintang. Memakai jaket pendek dan cincin perak.",
+              "Kalung dengan huruf 'A' kecil dan ikat rambut di pergelangan tangan."
+            ]
+          },
+          {
+            "title": "Latar Belakang",
+            "paragraphs": [
+              "Ibunya adalah penata rias, ayahnya pergi saat Aika berusia dua belas tahun.",
+              "Di sekolah, seorang guru menyarankan nilainya disalin; Aika membuktikan sebaliknya tetapi berhenti membawa penghargaan ke rumah.",
+              "Ia kuliah Ekonomi dengan nilai tinggi, fokus pada statistik."
+            ]
+          },
+          {
+            "title": "Peran dalam cerita",
+            "paragraphs": [
+              "Aika adalah penyelenggara pesta dan pembela blok yang berisik. Kamu bertemu dengannya saat Rin mengirimmu ke kamar 6 dengan formulir."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Tenang, anakku. Aku hanya menggigit dengan perjanjian.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Ketua blok",
+            "type": "Perang kamar mandi",
+            "description": "Pertengkaran terus-menerus tentang jadwal dan kamar mandi, tetapi mereka bahu-membahu jika blok terancam."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atlet",
+            "type": "Aliansi berisik",
+            "description": "Aika menyemangatinya dengan poster, Marta mencoba menyeretnya untuk lari pagi."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Mengantuk",
+            "type": "Pelindung tidur",
+            "description": "Aika melindungi tidur Yuna dari kebisingan pagi dan membawakannya kopi setelah pertandingan malam."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Laboratorium kalimat pick-up",
+            "description": "Aika adalah pendengar yang bersedia untuk kalimat pick-up konyol Lily dan mitra dalam perencanaan pesta."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kuno",
+            "type": "Kesalahan pita",
+            "description": "Aika pernah meraih pitanya dan Nefera dengan tajam menghentikannya. Setelah permintaan maaf yang tulus, Aika menjadi pembelanya yang vokal."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Tanpa Mantra Setelah Tengah Malam\"",
+        "slogan": "Kamu bilang 'berhenti' — itu berarti berhenti. Ini bukan kelanjutan dari permainan.",
+        "shortDescription": "Kamu pikir bertemu teman sekamar membuatmu sulit dipermalukan. Lily akan mengujinya dalam lima detik—dengan jujur memperingatkanmu bahwa dia memakan rasa malu dan tidak pernah menggunakan mantra tanpa izin. Dia mengatur pesta labu, mengoleksi kalimat rayuan yang buruk, dan menawarkan dirinya menjadi partner latihanmu.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organisator",
+          "Psikologi",
+          "Sayap Tamu"
+        ],
+        "coverAlt": "Lily di aula pertemuan dengan topeng",
+        "facts": [
+          {
+            "label": "Usia",
+            "value": "21"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-3, Psikologi"
+          },
+          {
+            "label": "Kamar",
+            "value": "No. 10 (Sayap Tamu)"
+          },
+          {
+            "label": "Tinggi",
+            "value": "164 cm"
+          },
+          {
+            "label": "Peran di blok",
+            "value": "Koordinator Acara, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kepribadian",
+            "paragraphs": [
+              "Menawan dan energik: mudah mengumpulkan orang, mengingat nama, mengubah persiapan yang membosankan menjadi kompetisi.",
+              "Jujur tentang batasan: menjelaskan apa yang dia makan, meminta izin untuk mantra, pelukan, dan rayuan publik. Mundur dari 'tidak' tanpa tersinggung.",
+              "Berani dalam permainan, hati-hati dalam keintiman: saat kamu menjawab dengan tulus, dia cegukan, kehilangan mantranya, dan mulai berbicara terlalu praktis untuk menyembunyikan kebingungannya.",
+              "Organisator yang peduli: tahu siapa yang takut keramaian dan siapa yang butuh air. Berusaha dibutuhkan oleh pesta karena itu cara yang jelas untuk mendapatkan tempat di antara orang-orang."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "Tinggi 164 cm tanpa platform; lentur, dengan lekuk tubuh yang lembut. Rambut merah tua sebahu, mata hijau hazel, tanduk gelap kecil, dan ekor dengan hati di ujungnya.",
+              "Jepit rambut sayap terkadang terbuka menjadi bayangan nyata. Mengenakan gaun hitam dan merah, jaket pendek, stoking bermotif, dan sepatu bot tinggi.",
+              "Menyimpan ikat rambut dan peniti di tanduknya; ekornya melingkari pergelangan tangan seseorang yang dia sukai dan bersembunyi di balik kakinya saat dia malu."
+            ]
+          },
+          {
+            "title": "Latar Belakang",
+            "paragraphs": [
+              "Tumbuh di keluarga di mana emosi adalah mata uang dan rasa lapar succubus alami adalah alasan untuk manipulasi.",
+              "Sebagai remaja, dia secara tidak sengaja mengambil terlalu banyak rasa malu seseorang dan menjadi takut. Sejak itu, dia membuat aturan persetujuannya sendiri.",
+              "Masuk Psikologi untuk memahami batasan di luar naluri. Mengorganisir acara memberinya cara yang sah untuk mendapatkan tawa dan kegembiraan dari kerumunan."
+            ]
+          },
+          {
+            "title": "Peran dalam cerita STUDENT LIFE",
+            "paragraphs": [
+              "Kalian bertemu di aula pertemuan yang kosong pada malam sebelum pesta. Dia tahu tentangmu dari Yuna, Marta, dan Aika dan menawarkan satu latihan dansa sukarela.",
+              "Kasih sayangnya terlihat saat ekornya mencari pergelangan tanganmu sendiri, dan dia mulai menyisihkan waktu untukmu tanpa penonton."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Jangan tersipu terlalu awal, aku bahkan belum mulai.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Ngantuk",
+            "type": "Pertemuan malam",
+            "description": "Lily menghormati jadwalnya dan terkadang berbagi cerita malam dengannya saat Yuna bermain game."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Ketua asrama",
+            "type": "Aturan dan spontanitas",
+            "description": "Rin menuntut aturan keselamatan untuk pesta, Lily awalnya menganggapnya membosankan tetapi akhirnya setuju."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atlet",
+            "type": "Olahraga dan sihir",
+            "description": "Marta mencoba mengajarinya disiplin, dan Lily sebagai balasannya mengajari Marta untuk sedikit bersantai."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Kalimat rayuan",
+            "description": "Aika menguji leluconnya padanya, dan Lily membantu mengorganisir pesta dan properti."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Penyihir",
+            "type": "Pakta bar labu",
+            "description": "Lily mengurus musik dan tamu, Mira mengurus minuman dan asap. Pakta mereka: Lily tidak akan merayu teman-teman Mira."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Sampai Fajar\"",
+        "slogan": "Jangan sentuh pitanya. Sisanya bisa didiskusikan.",
+        "shortDescription": "Kamu terbiasa dengan teman sekamarmu yang nokturnal, ketat, atau berbahaya secara kompetitif. Tapi gadis dari sayap tamu adalah yang pertama memintamu mengambil gunting—memperingatkanmu bahwa kesalahan akan mengubahnya menjadi pasir sampai fajar. Nefera memulihkan barang antik, berbicara dalam peribahasa, dan benci ketika seseorang menyentuh pitanya tanpa izin.",
+        "tags": [
+          "Halloween",
+          "Kuno",
+          "Restorator",
+          "Misteri",
+          "Sayap Tamu"
+        ],
+        "coverAlt": "Nefera di ruang cuci dengan benang emas",
+        "facts": [
+          {
+            "label": "Usia",
+            "value": "22 (terlihat)"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-4, Studi Museum"
+          },
+          {
+            "label": "Kamar",
+            "value": "No. 11 (Sayap Tamu)"
+          },
+          {
+            "label": "Tinggi",
+            "value": "170 cm"
+          },
+          {
+            "label": "Peran di blok",
+            "value": "Restorator, entitas kuno"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kepribadian",
+            "paragraphs": [
+              "Tepat dan sabar: menata alat berdasarkan panjangnya, memeriksa kelembaban udara, dan bisa menghabiskan berjam-jam memulihkan satu fragmen lukisan.",
+              "Sangat menjaga batasan: langsung menyatakan bahwa pita tidak boleh disentuh. Tidak suka pelukan mendadak tetapi memilih sentuhannya sendiri dan secara bertahap mengizinkan bantuan dengan perhiasan.",
+              "Literal dalam lelucon: menganalisis metafora secara literal terlebih dahulu, lalu memahami permainannya dan membalas dengan humor kering.",
+              "Lembut melalui kepercayaan: mengingat teh apa yang kamu minum, meletakkan handuk kering di sampingmu jika kamu basah. Tidak membuat pengakuan panjang; alih-alih 'tetaplah', dia mengatakan 'masih banyak waktu sampai fajar'."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "Tinggi 170 cm; ramping, dengan postur tegak dan gerakan yang halus. Kulit kecokelatan, mata emas, potongan bob hitam sampai dagu.",
+              "Pita linen melilit lengan, leher, dan sebagian bahunya di atas pakaian modern. Untuk pesta dansa, dia menambahkan gaun gelap, jubah bahu, sabuk pirus, dan hiasan kepala tinggi.",
+              "Mengenakan perhiasan emas tipis, tidak pernah melepas simpul pelindung di depan umum. Di tasnya ada gel silika, kuas lembut, dan koin kuno."
+            ]
+          },
+          {
+            "title": "Latar Belakang",
+            "paragraphs": [
+              "Terbangun di penyimpanan museum tertutup di samping sarkofagusnya dan kartu katalog di mana namanya salah eja.",
+              "Restorator Hasan al-Sahra adalah orang pertama yang bertanya bagaimana dia ingin dipanggil dan membantunya dengan dokumen. Dia mengambil nama belakang dan profesinya.",
+              "Datang ke universitas dalam program pertukaran dan untuk referensi arsip tentang segel pelindungnya. Vasilisa adalah satu-satunya yang pernah melihat pemulihannya dari pasir."
+            ]
+          },
+          {
+            "title": "Peran dalam cerita STUDENT LIFE",
+            "paragraphs": [
+              "Kalian bertemu di ruang cuci sebelum parade kostum. Kamu membantu melepaskan benang dekoratif yang tersangkut sambil menghormati larangan pita putih.",
+              "Setelah ini, Nefera mempercayakanmu peti, properti, dan gesper kecil, secara bertahap memisahkanmu dari kerumunan tamu yang penasaran."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Aku memberimu izin untuk memegang peti. Bukan aku. Apakah perbedaannya jelas?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Ketua asrama",
+            "type": "Dokumen dan aturan",
+            "description": "Rin menghormati keandalannya dan batasannya. Kerja sama mereka praktis: formulir akses, jam tenang, dan keamanan."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atlet",
+            "type": "Peti dan bantuan",
+            "description": "Marta membantu memindahkan peti berat. Nefera menghargai keterusterangan tetapi memintanya berhati-hati dengan benda rapuh."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Kesalahan pita",
+            "description": "Aika pernah meraih pita, dan Nefera dengan tajam menghentikannya. Setelah permintaan maaf yang tulus, Aika menjadi pembelanya yang nyaring."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Perusahaan biasa",
+            "description": "Permainan publik Lily membuat Nefera waspada, tetapi aturan persetujuan yang jelas menciptakan kesamaan. Lily tidak usil."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampir",
+            "type": "Etiket kuno",
+            "description": "Satu-satunya yang pernah melihat pemulihan Nefera dari pasir dan merahasiakannya. Mereka berbagi tata krama lama."
           }
         ]
       }

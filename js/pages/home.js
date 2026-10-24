@@ -70,9 +70,9 @@ SL.pages = SL.pages || {};
     left.append(stats);
 
     const visual = el("div", { class: "hero__visual", attrs: { "aria-hidden": "true" } });
-    const featured = characters.filter((c) => c.cover).slice(0, 3);
+    const featured = characters.filter((c) => c.cover).slice(0, 4);
     featured.forEach((character, index) => {
-      const classIndex = index === 0 ? "a" : index === 1 ? "b" : "c";
+      const classIndex = index === 0 ? "a" : index === 1 ? "b" : index === 2 ? "c" : "d";
       const fig = el("figure", { class: "hero-card hero-card--" + classIndex });
       const img = el("img", { attrs: { src: character.cover, alt: "", loading: "eager" } });
       img.addEventListener("error", () => fig.remove());

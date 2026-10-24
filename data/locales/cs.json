@@ -288,27 +288,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hlava dívka",
-            "type": "Přísný soused",
-            "description": "Považuje ji za zdroj hluku, ale respektuje její rozvrh. Rin často kontroluje, zda Yuna spí."
+            "psychotype": "Předsedkyně",
+            "type": "Přísná sousedka",
+            "description": "Považuje ji za zdroj hluku, ale respektuje její rozvrh. Rin se často chodí ptát, jestli Yuna spí."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Sportovec",
-            "type": "Blok soused",
-            "description": "Někdy se ji snaží vytáhnout na ranní běh, ale vždy selže. V tichosti spolu vycházejí skvěle."
+            "psychotype": "Sportovkyně",
+            "type": "Sousedka v bloku",
+            "description": "Snaží se ji vytáhnout na ranní běh, ale vždycky to selže. Skvěle si rozumí v tichu."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delikvent",
-            "type": "Hlučný soused",
-            "description": "Příliš hlasitý na Yunin noční plán. Yuna obvykle jen otočí sluchátka."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Ochránkyně spánku",
+            "description": "Aika je přes den hlasitá, ale ráno chrání Yunin spánek. Rozumí si bez slov."
           },
           {
-            "name": "Samotář",
-            "psychotype": "Introvert",
-            "type": "Pohodlné ticho",
-            "description": "Jediná osoba, se kterou může Yuna zůstat ve stejné místnosti celé hodiny beze slova."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Noční setkání",
+            "description": "Dvě noční bytosti. Lily respektuje její rozvrh a Yuně nevadí, když se zastaví jen tak posedět v tichu."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Duch",
+            "type": "Noční směna",
+            "description": "Sdílejí ticho a noční kuchyni. Ada chladí nápoje, Yuna hraje. Dokonalá aliance beze slov."
           }
         ]
       },
@@ -422,27 +428,33 @@
         "relationships": [
           {
             "name": "Li Yuna",
-            "psychotype": "Ospalý",
-            "type": "Pokoj Č. 3 Rezident",
-            "description": "Noční rizikový faktor. Rin neustále sleduje svůj rozvrh, ale tajně obdivuje její akademický úspěch."
+            "psychotype": "Spavá",
+            "type": "Obyvatelka pokoje č. 3",
+            "description": "Noční rizikový faktor. Rin neustále sleduje její rozvrh, ale tajně obdivuje její studijní úspěchy."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Sportovec",
-            "type": "Blok soused",
-            "description": "Spolehlivý, i když příliš hlasitý. Rin oceňuje její přímočarost a to, že nezpůsobuje problémy s disciplínou."
+            "psychotype": "Sportovkyně",
+            "type": "Řád a disciplína",
+            "description": "Spolehlivá, i když příliš hlasitá. Rin oceňuje její přímočarost a to, že nedělá problémy s disciplínou."
           },
           {
-            "name": "Starší Sestra",
-            "psychotype": "Starostlivý",
-            "type": "Správa Bloků",
-            "description": "Spolehlivý spojenec při udržování pořádku. Sdílejí odpovědnost za správu bloku."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Válka o koupelnu",
+            "description": "Hlavní porušovatelka pravidel. Rin ji neustále pokutuje, ale v případě ohrožení bloku stojí zády k sobě."
           },
           {
-            "name": "Kariérista",
-            "psychotype": "Liška",
-            "type": "Zdroj potíží",
-            "description": "Rin nedůvěřuje svým skrytým motivům a pečlivě sleduje její schémata."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Bezpečnost a pravidla",
+            "description": "Rin jí dodává formuláře a bezpečnostní pravidla pro ples a Lily se učí respektovat zavedený řád."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Dávná",
+            "type": "Dokumenty a etiketa",
+            "description": "Rin respektuje její spolehlivost a jasné hranice. Spolupracují na přístupu do archivu a tichých hodinách."
           }
         ],
         "tracks": [
@@ -599,27 +611,348 @@
         "relationships": [
           {
             "name": "Li Yuna",
-            "psychotype": "Ospalý",
-            "type": "Blok soused",
-            "description": "Marta nechápe, jak se dá tolik spát, ale respektuje její herní schopnosti."
+            "psychotype": "Spavá",
+            "type": "Sousedka v bloku",
+            "description": "Marta nechápe, jak může někdo tolik spát, ale respektuje její herní dovednosti a nechává ji po nočních zápasech na pokoji."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hlava dívka",
-            "type": "Vymahač pravidel",
-            "description": "Marta ví, že Rin je nuda, ale pokud jde o ochranu bloku, je vždy na její straně."
+            "psychotype": "Předsedkyně",
+            "type": "Vynucování pravidel",
+            "description": "Marta ví, že Rin je nudná, ale když jde o ochranu bloku, vždy stojí na její straně."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delikvent",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Hlasité duo",
-            "description": "Nejhlasitější pár v bloku. Gyaru ji povzbuzuje hlasitěji než kdokoli jiný na soutěžích."
+            "description": "Nejhlasitější pár v bloku. Aika jí fandí na soutěžích a Marta ji neustále tahá na tréninky."
           },
           {
-            "name": "Katastrofa",
-            "psychotype": "Roztržitý",
-            "type": "Terapie chaosem",
-            "description": "Marta ji neustále táhne na běhy a věří, že sport napraví její roztržitost."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Sport a magie",
+            "description": "Marta věří, že disciplína a sport pomohou Lily ovládat emoce a hlad."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vlkodlak",
+            "type": "Tichá trať",
+            "description": "Dokonalá parťačka na běhání, která si nestěžuje na ranní chlad a umí běžet mlčky."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — „Pět minut bez svědků“",
+        "slogan": "Nezaměňuj můj make-up se svou diagnózou.",
+        "shortDescription": "Přežil jsi noční kávu s Yunou, Rininu instruktáž a ranní sázku s Martou. Teď tě Rin posílá do pokoje č. 6 s dalším formulářem a tam tě vítá dívka, která pravidlům říká „dekorace“ a tobě „náš chlapec“.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonomka",
+          "Společenské centrum",
+          "Pokoj č. 6"
+        ],
+        "coverAlt": "Aika v pokoji č. 6 s třpytkami",
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "21"
+          },
+          {
+            "label": "Ročník",
+            "value": "4. ročník, Ekonomie"
+          },
+          {
+            "label": "Pokoj",
+            "value": "č. 6"
+          },
+          {
+            "label": "Výška",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Společenské centrum, neformální organizátorka"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Povaha",
+            "paragraphs": [
+              "Drzá a hlasitá: vchází do místnosti, jako by ji očekávali; škádlí první, dává všem přezdívky a mění trapasy ve hru.",
+              "Všímavá: všimne si, kdo nejedl, koho ranil vtip a kdy se Stydlivka zase bojí odmítnout.",
+              "Tajná jedničkářka: řeší složité problémy na ubrousku, používá barevný systém záložek a nikdy se nechlubí známkami.",
+              "Flirtuje jako obranu: ráda drží iniciativu a umí přestat, pokud je druhému nepříjemně."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Výška 166 cm; štíhlá postava. Světlé vlasy s růžovými konečky, obvykle dva vysoké culíky.",
+              "Hnědé oči, výrazný make-up, dlouhé nehty s hvězdičkami. Nosí krátké bundy, topy a spoustu stříbrných prstenů.",
+              "Náhrdelník s písmenem A a gumičky na zápěstí, kterými cvaká, když je nervózní."
+            ]
+          },
+          {
+            "title": "Historie",
+            "paragraphs": [
+              "Matka pracovala jako vizážistka, otec odešel, když bylo Aice dvanáct.",
+              "Ve škole učitelka naznačila, že její známka je opsaná; Aika to dokázala, ale přestala nosit domů ocenění.",
+              "Na ekonomii šla s vysokým skóre, vybrala si statistiku."
+            ]
+          },
+          {
+            "title": "Role v příběhu",
+            "paragraphs": [
+              "Aika je organizátorka neformálních večírků a hlasitá ochránkyně bloku. Potkáte se, když vás Rin pošle do pokoje č. 6 s formulářem a Aika vás požádá o pomoc se zaseknutým zipem.",
+              "Později vás jmenuje svým „oficiálním mužským názorem“ na oblečení."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Relax, můj chlapče. Koušu jen na objednávku.“"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Předsedkyně",
+            "type": "Válka o koupelnu",
+            "description": "Neustálé hádky o rozvrhy a sprchu, ale v případě ohrožení bloku stojí zády k sobě."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportovkyně",
+            "type": "Hlasitá aliance",
+            "description": "Aika jí fandí s plakáty, Marta ji tahá na ranní běhy."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Spavá",
+            "type": "Ochránkyně spánku",
+            "description": "Aika chrání Yunin spánek před ranním hlukem a nosí jí kávu po nočních hrách."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Laboratoř seznamovacích frází",
+            "description": "Aika je Lilyino vděčné publikum pro absurdní fráze a partnerka při plánování večírků."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Dávná",
+            "type": "Chyba se stuhou",
+            "description": "Aika se jednou natáhla pro její stuhu a Nefera ji ostře zastavila. Po upřímné omluvě se Aika stala její hlasitou ochránkyní."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Žádná kouzla po půlnoci\"",
+        "slogan": "Řekl jsi 'stop' — to znamená stop. Není to pokračování hry.",
+        "shortDescription": "Myslel jsi, že poté, co jsi poznal své spolubydlící, tě už jen tak něco nevyvede z míry. Lily to otestuje za pět sekund — upřímně tě varuje, že se živí rozpaky a nikdy nepoužívá kouzla bez dovolení. Organizuje dýňový ples, sbírá hrozné seznamovací fráze a nabízí ti roli zkušebního partnera.",
+        "tags": [
+          "Halloween",
+          "Sukuba",
+          "Organizátorka",
+          "Psychologie",
+          "Hostující křídlo"
+        ],
+        "coverAlt": "Lily v aule s maskami",
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "21"
+          },
+          {
+            "label": "Ročník",
+            "value": "3. ročník, Psychologie"
+          },
+          {
+            "label": "Pokoj",
+            "value": "Č. 10 (Hostující křídlo)"
+          },
+          {
+            "label": "Výška",
+            "value": "164 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Koordinátorka akcí, Sukuba"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobnost",
+            "paragraphs": [
+              "Šarmantní a energická: snadno shromažďuje lidi, pamatuje si jména a nudné přípravy mění v soutěž.",
+              "Upřímná ohledně hranic: vysvětluje, čím se živí, a žádá o svolení ke kouzlům, objetím a veřejnému flirtování. Při 'ne' bez urážky ustoupí.",
+              "Odvážná ve hrách, opatrná v intimitě: když odpovíš upřímně, škytne, ztratí kouzla a začne mluvit příliš prakticky, aby skryla zmatek.",
+              "Pečující organizátorka: ví, kdo se bojí davů a kdo potřebuje vodu. Snaží se být pro večírek potřebná, protože je to jasný způsob, jak si mezi lidmi zasloužit místo."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Výška 164 cm bez podpatků; pružná, s jemnými křivkami. Tmavě rudé vlasy po lopatky, oříškově zelené oči, malé tmavé růžky a ocas se srdíčkem na konci.",
+              "Křídlové sponky do vlasů se někdy rozvinou do skutečných stínů. Nosí černo-šarlatové šaty, krátké bundy, vzorované punčochy a vysoké boty.",
+              "Na růžcích má gumičky a sponky; její ocas se omotá kolem zápěstí někoho, kdo se jí líbí, a když je v rozpacích, schová se jí za nohou."
+            ]
+          },
+          {
+            "title": "Pozadí",
+            "paragraphs": [
+              "Vyrůstala v rodině, kde emoce byly měnou a přirozený hlad sukuby byl výmluvou pro manipulaci.",
+              "Jako teenager jednou omylem vzala příliš mnoho něčího zmatku a dostala strach. Od té doby si vytvořila vlastní pravidla souhlasu.",
+              "Na psychologii šla, aby porozuměla hranicím nad rámec instinktu. Organizování akcí jí dalo legitimní způsob, jak od davu získat smích a radost."
+            ]
+          },
+          {
+            "title": "Role v příběhu STUDENT LIFE",
+            "paragraphs": [
+              "Setkáváte se v prázdné aule noc před plesem. Ví o tobě od Yuny, Marty a Aiky a nabídne ti jednu dobrovolnou taneční zkoušku.",
+              "Její náklonnost se projeví, když její ocas sám hledá tvoje zápěstí, a ona ti začne vyhrazovat čas bez publika."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Nečervenej se tak brzy, ještě jsem ani nezačala.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Ospalá",
+            "type": "Noční setkání",
+            "description": "Lily respektuje její rozvrh a občas si s ní během Yunina hraní povídá noční příběhy."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Předsedkyně",
+            "type": "Pravidla a spontánnost",
+            "description": "Rin vyžaduje bezpečnostní pravidla pro ples, Lily to nejprve považuje za nudné, ale nakonec souhlasí."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportovkyně",
+            "type": "Sport a magie",
+            "description": "Marta se ji snaží naučit disciplíně a Lily na oplátku učí Martu trochu se uvolnit."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Seznamovací fráze",
+            "description": "Aika na ní testuje své vtipy a Lily pomáhá s organizací večírků a rekvizitami."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Čarodějnice",
+            "type": "Pakt dýňového baru",
+            "description": "Lily má na starosti hudbu a hosty, Mira nápoje a kouř. Jejich pakt: Lily nebude okouzlovat Miriny přátele."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Do svítání\"",
+        "slogan": "Nedotýkej se stuh. O zbytku můžeme diskutovat.",
+        "shortDescription": "Jsi zvyklý, že tvé spolubydlící jsou noční, přísné nebo nebezpečně soutěživé. Ale dívka z hostujícího křídla tě jako první požádá, abys vzal nůžky — a varuje tě, že chyba ji do svítání promění v písek. Nefera restauruje starožitnosti, mluví v příslovích a nesnáší, když se někdo dotýká jejích stuh bez dovolení.",
+        "tags": [
+          "Halloween",
+          "Starověká",
+          "Restaurátorka",
+          "Mysteriózní",
+          "Hostující křídlo"
+        ],
+        "coverAlt": "Nefera v prádelně se zlatou nití",
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "22 (vypadá)"
+          },
+          {
+            "label": "Ročník",
+            "value": "4. ročník, Muzeologie"
+          },
+          {
+            "label": "Pokoj",
+            "value": "Č. 11 (Hostující křídlo)"
+          },
+          {
+            "label": "Výška",
+            "value": "170 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Restaurátorka, starověká entita"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobnost",
+            "paragraphs": [
+              "Přesná a trpělivá: rovná nástroje podle délky, kontroluje vlhkost vzduchu a dokáže hodiny restaurovat jediný fragment malby.",
+              "Přísně střeží hranice: okamžitě říká, že stuhy jsou zakázané. Nemá ráda náhlé objetí, ale doteky si vybírá sama a postupně dovoluje pomoc se šperky.",
+              "Doslova v vtipech: metafory nejprve analyzuje doslova, pak pochopí hru a odpovídá suchým humorem.",
+              "Něžná skrze důvěru: pamatuje si, jaký čaj piješ, a položí ti vedle suchý ručník, když zmokneš. Nepronáší dlouhá vyznání; místo 'zůstaň' říká 'do svítání je ještě dost času'."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "Výška 170 cm; štíhlá, s rovným držením těla a plynulými pohyby. Bronzová kůže, zlaté oči, černý mikádó k bradě.",
+              "Lněné stuhy se ovíjejí kolem paží, krku a části ramen přes moderní oblečení. Na ples přidává tmavé šaty, ramenní pelerínu, tyrkysový pás a vysokou čelenku.",
+              "Nosí tenké zlaté šperky, na veřejnosti nikdy nesundává ochranné uzly. V tašce má silikagel, měkký štětec a starověkou minci."
+            ]
+          },
+          {
+            "title": "Pozadí",
+            "paragraphs": [
+              "Probudila se v uzavřeném muzejním depozitáři vedle svého sarkofágu a katalogové karty, kde bylo její jméno napsáno špatně.",
+              "Restaurátor Hasan al-Sahra byl první, kdo se zeptal, jak si přeje být nazývána, a pomohl jí s dokumenty. Přijala jeho příjmení a profesi.",
+              "Na univerzitu přijela v rámci výměnného programu a kvůli archivním zmínkám o své ochranné pečeti. Vasilisa je jediná, kdo viděl její obnovu z písečné podoby."
+            ]
+          },
+          {
+            "title": "Role v příběhu STUDENT LIFE",
+            "paragraphs": [
+              "Poprvé se setkáváte v prádelně před přehlídkou kostýmů. Pomáháš uvolnit zachycenou ozdobnou nit a respektuješ zákaz bílých stuh.",
+              "Poté ti Nefera svěří truhly, rekvizity a malé spony a postupně tě odděluje od davu zvědavých hostů."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Dala jsem ti svolení držet truhlu. Ne mě. Je ten rozdíl jasný?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Předsedkyně",
+            "type": "Dokumenty a pravidla",
+            "description": "Rin respektuje její spolehlivost a hranice. Jejich spolupráce je praktická: přístupové formuláře, klidné hodiny a bezpečnost."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportovkyně",
+            "type": "Truhly a pomoc",
+            "description": "Marta pomáhá přemisťovat těžké truhly. Nefera oceňuje přímost, ale žádá ji, aby byla opatrná s křehkými předměty."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Chyba se stuhou",
+            "description": "Aika se jednou natáhla po stuze a Nefera ji ostře zastavila. Po upřímné omluvě se Aika stala její hlasitou ochránkyní."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Obyčejná společnost",
+            "description": "Lilyiny veřejné hry dělají Neferu ostražitou, ale jasná pravidla souhlasu vytvářejí společnou půdu. Lily se nevyptává."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Upírka",
+            "type": "Etiketa starověkých",
+            "description": "Jediná, kdo viděl Neferino zotavení z písku a udržel to v tajnosti. Sdílejí staré způsoby."
           }
         ]
       }

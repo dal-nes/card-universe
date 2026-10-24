@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Șefa elevelor",
-            "type": "Vecin strict",
-            "description": "O consideră o sursă de zgomot, dar respectă programul ei. Rin verifică adesea dacă Yuna doarme."
+            "psychotype": "Șefa blocului",
+            "type": "Vecină severă",
+            "description": "O consideră o sursă de zgomot, dar îi respectă programul. Rin verifică des dacă Yuna doarme."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Atlet",
-            "type": "Bloc vecin",
-            "description": "Uneori încearcă să o scoată la o alergare de dimineață, dar tot timpul eșuează. Se înțeleg grozav în tăcere."
+            "psychotype": "Atletă",
+            "type": "Vecină de bloc",
+            "description": "Încearcă să o scoată la o alergare de dimineață, dar eșuează mereu. Se înțeleg de minune în liniște."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delictuos",
-            "type": "Vecin gălăgios",
-            "description": "Prea tare pentru programul de noapte al Yunei. Yuna de obicei își dă pur și simplu mai tare căștile."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Protectoarea somnului",
+            "description": "Aika este gălăgioasă ziua, dar protejează somnul Yunei dimineața. Se înțeleg fără cuvinte."
           },
           {
-            "name": "Singuratic",
-            "psychotype": "Introvert",
-            "type": "Liniște confortabilă",
-            "description": "Singura persoană cu care Yuna poate sta în aceeași cameră ore întregi fără să spună un cuvânt."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sucub",
+            "type": "Întâlniri de noapte",
+            "description": "Două creaturi de noapte. Lily îi respectă programul, iar Yunei nu îi displace când trece doar ca să stea în liniște."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Fantasmă",
+            "type": "Tura de noapte",
+            "description": "Împart liniștea și bucătăria de noapte. Ada răcorește băuturi, Yuna se joacă. O alianță perfectă fără cuvinte."
           }
         ],
         "tracks": [
@@ -423,26 +429,32 @@
           {
             "name": "Li Yuna",
             "psychotype": "Somnoros",
-            "type": "Rezident camera nr. 3",
-            "description": "Factor de risc nocturn. Rin își urmărește constant programul, dar admiră în secret succesul ei academic."
+            "type": "Locuitoarea camerei nr. 3",
+            "description": "Factor de risc nocturn. Rin monitorizează constant programul ei, dar admiră în secret succesul ei academic."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Atlet",
-            "type": "Bloc vecin",
-            "description": "De încredere, deși prea zgomotoasă. Rin apreciază sinceritatea ei și faptul că nu provoacă probleme de disciplină."
+            "psychotype": "Atletă",
+            "type": "Ordine și disciplină",
+            "description": "De încredere, deși prea gălăgioasă. Rin apreciază franchețea ei și faptul că nu creează probleme de disciplină."
           },
           {
-            "name": "Sora mare",
-            "psychotype": "Îngrijitor",
-            "type": "Administrarea blocului",
-            "description": "Un aliat de încredere în menținerea ordinii. Ei împart responsabilitățile de gestionare a blocului."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Războiul băii",
+            "description": "Principala încălcare a regulilor. Rin o amendează constant, dar stau spate în spate dacă blocul este amenințat."
           },
           {
-            "name": "Carierist",
-            "psychotype": "Viclean",
-            "type": "Sursa problemelor",
-            "description": "Rin nu are încredere în motivele ei ascunse și îi supraveghează îndeaproape planurile."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sucub",
+            "type": "Siguranță și reguli",
+            "description": "Rin îi furnizează formulare și reguli de siguranță pentru bal, iar Lily învață să respecte ordinea stabilită."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Străveche",
+            "type": "Documente și etichetă",
+            "description": "Rin îi respectă fiabilitatea și limitele clare. Colaborează pentru accesul la arhivă și orele de liniște."
           }
         ],
         "tracks": [
@@ -600,26 +612,346 @@
           {
             "name": "Li Yuna",
             "psychotype": "Somnoros",
-            "type": "Bloc vecin",
-            "description": "Marta nu înțelege cum poate cineva să doarmă atât de mult, dar îi respectă abilitățile la jocuri."
+            "type": "Vecină de bloc",
+            "description": "Marta nu înțelege cum se poate dormi atât de mult, dar îi respectă abilitățile de joc și o lasă în pace după meciurile de noapte."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Șefa elevelor",
-            "type": "Aplicator de reguli",
-            "description": "Marta știe că Rin este plictisitor, dar când vine vorba de protejarea cartierului, ea îi este întotdeauna alături."
+            "psychotype": "Șefa blocului",
+            "type": "Aplicarea regulilor",
+            "description": "Marta știe că Rin este plictisitoare, dar când vine vorba de protejarea blocului, este mereu de partea ei."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delict",
-            "type": "Duo zgomotos",
-            "description": "Cel mai gălăgios cuplu din cartier. Gyaru o încurajează mai tare decât oricine la competiții."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Duo gălăgios",
+            "description": "Cel mai gălăgios cuplu din bloc. Aika o încurajează la competiții, iar Marta o târăște constant la antrenamente."
           },
           {
-            "name": "Dezastru",
-            "psychotype": "Distras",
-            "type": "Terapia haosului",
-            "description": "Marta o trage constant la alergări, crezând că sportul îi va vindeca neatenția."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sucub",
+            "type": "Sport și magie",
+            "description": "Marta crede că disciplina și sportul o vor ajuta pe Lily să-și controleze emoțiile și foamea."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vârcolac",
+            "type": "Pista liniștită",
+            "description": "Partenera perfectă de alergare care nu se plânge de frigul de dimineață și știe să alerge în liniște."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — „Cinci minute fără martori”",
+        "slogan": "Nu confunda machiajul meu cu diagnosticul tău.",
+        "shortDescription": "Ai supraviețuit cafelei cu Yuna, instructajului lui Rin și pariului Martei. Acum Rin te trimite în camera 6 cu un alt formular, iar acolo întâlnești o fată care numește regulile „decor” și pe tine „băiatul nostru”.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Economistă",
+          "Centru social",
+          "Camera nr. 6"
+        ],
+        "coverAlt": "Aika în camera 6 cu sclipici",
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "21"
+          },
+          {
+            "label": "An",
+            "value": "Anul 4, Economie"
+          },
+          {
+            "label": "Cameră",
+            "value": "Nr. 6"
+          },
+          {
+            "label": "Înălțime",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "Centru social, organizator informal"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Îndrăzneață și gălăgioasă: intră într-o cameră ca și cum ar fi așteptată; tachinează prima și dă porecle.",
+              "Observatoare: observă cine nu a mâncat și pe cine a rănit o glumă.",
+              "Elevă de 10 sub acoperire: rezolvă probleme complexe pe un șervețel și nu se laudă niciodată cu notele.",
+              "Flirtează ca apărare: îi place să dețină inițiativa și știe să se oprească dacă celălalt este inconfortabil."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "166 cm; siluetă suplă. Păr blond cu vârfuri roz, de obicei două cozi înalte.",
+              "Ochi căprui, machiaj strălucitor, unghii lungi cu steluțe. Poartă jachete scurte și inele de argint.",
+              "Colier cu un mic 'A' și elastice de păr la încheietura mâinii."
+            ]
+          },
+          {
+            "title": "Context",
+            "paragraphs": [
+              "Mama ei era machioasă, tatăl ei a plecat când Aika avea doisprezece ani.",
+              "La școală, o profesoară a sugerat că nota ei a fost copiată; Aika a dovedit contrariul, dar a încetat să mai aducă premii acasă.",
+              "Studiază Economia cu note mari, concentrându-se pe statistică."
+            ]
+          },
+          {
+            "title": "Rol în poveste",
+            "paragraphs": [
+              "Aika este organizatoarea petrecerilor și apărătoarea gălăgioasă a blocului. O întâlnești când Rin te trimite în camera 6 cu un formular."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Relax, băiatule. Mușc doar cu programare.”"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Șefa blocului",
+            "type": "Războiul băii",
+            "description": "Certuri constante despre programe și duș, dar stau spate în spate dacă blocul este amenințat."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atletă",
+            "type": "Alianță gălăgioasă",
+            "description": "Aika o încurajează cu afișe, Marta încearcă să o tragă la alergări de dimineață."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Somnoros",
+            "type": "Protectoarea somnului",
+            "description": "Aika protejează somnul Yunei de zgomotul de dimineață și îi aduce cafea după jocurile de noapte."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sucub",
+            "type": "Laboratorul de replici",
+            "description": "Aika este publicul dispus al lui Lily pentru replici absurde și partenera ei în organizarea petrecerilor."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Străveche",
+            "type": "Eroarea cu panglica",
+            "description": "Aika a întins o dată mâna spre panglica ei, iar Nefera a oprit-o brusc. După o scuză sinceră, Aika a devenit apărătoarea ei vocală."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Fără farmece după miezul nopții\"",
+        "slogan": "Ai spus 'stop' — asta înseamnă stop. Nu este o continuare a jocului.",
+        "shortDescription": "Ai crezut că întâlnirea colegelor de cameră te face greu de stânjenit. Lily va testa asta în cinci secunde — avertizându-te sincer că se hrănește cu stânjeneală și nu folosește niciodată farmece fără permisiune. Ea organizează balul dovleacului, colecționează replici de agățat groaznice și îți oferă rolul de partener de repetiție.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organizator",
+          "Psihologie",
+          "Aripa Oaspeților"
+        ],
+        "coverAlt": "Lily în sala de festivități cu măști",
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "21"
+          },
+          {
+            "label": "An",
+            "value": "Anul 3, Psihologie"
+          },
+          {
+            "label": "Cameră",
+            "value": "Nr. 10 (Aripa Oaspeților)"
+          },
+          {
+            "label": "Înălțime",
+            "value": "164 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "Coordonator de evenimente, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Încântătoare și energică: adună oamenii cu ușurință, ține minte numele, transformă pregătirile plictisitoare într-o competiție.",
+              "Sinceră în privința limitelor: explică cu ce se hrănește, cere permisiunea pentru farmece, îmbrățișări și flirt public. Se retrage dintr-un 'nu' fără a se simți ofensată.",
+              "Îndrăzneață în jocuri, precaută în intimitate: când răspunzi sincer, îi vine un sughiț, își pierde farmece și începe să vorbească prea practic pentru a-și ascunde confuzia.",
+              "Organizator grijuliu: știe cine se teme de mulțimi și cine are nevoie de apă. Încearcă să fie necesară pentru petrecere, deoarece este o modalitate clară de a-ți câștiga un loc printre oameni."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "164 cm înălțime fără platformă; flexibilă, cu curbe moi. Păr roșu închis până la omoplați, ochi verzi-alună, mici coarne întunecate și o coadă cu o inimă la vârf.",
+              "Acele de păr cu aripi se desfășoară uneori în umbre reale. Poartă rochii negre și stacojii, jachete scurte, ciorapi cu model și cizme înalte.",
+              "Ține elastice și ace pe coarne; coada ei se înfășoară în jurul încheieturii mâinii cuiva care îi place și se ascunde în spatele piciorului când este stânjenită."
+            ]
+          },
+          {
+            "title": "Context",
+            "paragraphs": [
+              "A crescut într-o familie în care emoțiile erau monedă și foamea naturală de succubus era o scuză pentru manipulare.",
+              "La adolescență, a luat accidental prea multă stânjeneală de la cineva și s-a speriat. De atunci, și-a făcut propriile reguli de consimțământ.",
+              "A intrat la Psihologie pentru a înțelege limitele dincolo de instinct. Organizarea evenimentelor i-a oferit o modalitate legitimă de a obține râs și bucurie de la o mulțime."
+            ]
+          },
+          {
+            "title": "Rol în povestea STUDENT LIFE",
+            "paragraphs": [
+              "Vă întâlniți în sala de festivități goală în noaptea dinaintea balului. Ea știe despre tine de la Yuna, Marta și Aika și îți oferă o repetiție de dans voluntară.",
+              "Afecțiunea ei se arată atunci când coada ei îți caută singură încheietura mâinii și începe să rezerve timp pentru tine fără public."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Nu roși atât de devreme, nici măcar nu am început.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Somnoroasă",
+            "type": "Întâlniri de noapte",
+            "description": "Lily îi respectă programul și uneori împărtășește povești de noapte cu ea în timp ce Yuna se joacă."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Șefa blocului",
+            "type": "Reguli și spontaneitate",
+            "description": "Rin cere reguli de siguranță pentru bal, Lily găsește inițial plictisitor, dar în cele din urmă este de acord."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atletă",
+            "type": "Sport și magie",
+            "description": "Marta încearcă să o învețe disciplină, iar Lily, în schimb, o învață pe Marta să se relaxeze puțin."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Replici de agățat",
+            "description": "Aika își testează glumele pe ea, iar Lily ajută cu organizarea petrecerilor și recuzita."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Vrăjitoare",
+            "type": "Pactul barului de dovleac",
+            "description": "Lily se ocupă de muzică și invitați, Mira de băuturi și fum. Pactul lor: Lily nu le va fermeca prietenii Mirei."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Până în zori\"",
+        "slogan": "Nu atinge panglicile. Restul poate fi discutat.",
+        "shortDescription": "Ești obișnuit ca colegele tale de cameră să fie nocturne, severe sau periculoase de competitive. Dar fata din Aripa Oaspeților este prima care îți cere să iei foarfeca — avertizându-te că o greșeală o va transforma în nisip până în zori. Nefera restaurează antichități, vorbește în proverbe și urăște când cineva îi atinge panglicile fără permisiune.",
+        "tags": [
+          "Halloween",
+          "Antică",
+          "Restaurator",
+          "Mister",
+          "Aripa Oaspeților"
+        ],
+        "coverAlt": "Nefera în spălătorie cu fir de aur",
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "22 (aparent)"
+          },
+          {
+            "label": "An",
+            "value": "Anul 4, Studii Muzeale"
+          },
+          {
+            "label": "Cameră",
+            "value": "Nr. 11 (Aripa Oaspeților)"
+          },
+          {
+            "label": "Înălțime",
+            "value": "170 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "Restaurator, entitate antică"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Precisă și răbdătoare: aranjează instrumentele după lungime, verifică umiditatea aerului și poate petrece ore întregi restaurând un singur fragment de pictură.",
+              "Protejează strict granițele: declară imediat că panglicile sunt interzise. Nu-i plac îmbrățișările bruște, dar alege singură atingerile și permite treptat ajutorul cu bijuteriile.",
+              "Literală în glume: analizează mai întâi metaforele la propriu, apoi înțelege jocul și răspunde cu umor sec.",
+              "Blândă prin încredere: își amintește ce ceai bei, pune un prosop uscat lângă tine dacă te uzi. Nu face confesiuni lungi; în loc de 'rămâi', spune 'mai este mult timp până în zori'."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "170 cm înălțime; zveltă, cu o postură dreaptă și mișcări fluide. Piele bronzată, ochi aurii, bob negru până la bărbie.",
+              "Panglici de in se înfășoară în jurul brațelor, gâtului și o parte a umerilor peste haine moderne. Pentru bal, adaugă o rochie închisă la culoare, o pelerină pe umeri, o curea turcoaz și o coafură înaltă.",
+              "Poartă bijuterii subțiri din aur, nu scoate niciodată nodurile de protecție în public. În geantă are gel de silice, o perie moale și o monedă antică."
+            ]
+          },
+          {
+            "title": "Context",
+            "paragraphs": [
+              "S-a trezit într-un depozit închis al muzeului lângă sarcofagul ei și un card de catalog unde numele ei era scris greșit.",
+              "Restauratorul Hasan al-Sahra a fost primul care a întrebat cum dorește să fie numită și a ajutat-o cu documentele. Ea i-a luat numele de familie și profesia.",
+              "A venit la universitate într-un program de schimb și pentru referințe de arhivă despre sigiliul ei protector. Vasilisa este singura care i-a văzut restaurarea din nisip."
+            ]
+          },
+          {
+            "title": "Rol în povestea STUDENT LIFE",
+            "paragraphs": [
+              "Vă întâlniți în spălătorie înainte de parada costumelor. Ajuți la eliberarea unui fir decorativ blocat respectând interdicția panglicilor albe.",
+              "După aceasta, Nefera îți încredințează cufere, recuzită și închizători mici, separându-te treptat de mulțimea oaspeților curioși."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ți-am dat permisiunea să ții cufărul. Nu pe mine. Este clară diferența?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Șefa blocului",
+            "type": "Documente și reguli",
+            "description": "Rin îi respectă fiabilitatea și granițele. Cooperarea lor este practică: formulare de acces, ore liniștite și siguranță."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atletă",
+            "type": "Cufere și ajutor",
+            "description": "Marta ajută la mutarea cufărelor grele. Nefera apreciază directețea, dar o roagă să fie atentă cu obiectele fragile."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Greșeala panglicii",
+            "description": "Aika a întins o dată mâna spre o panglică, iar Nefera a oprit-o brusc. După scuze sincere, Aika a devenit apărătoarea ei zgomotoasă."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Companie obișnuită",
+            "description": "Jocurile publice ale Lily o fac pe Nefera precaută, dar regulile clare de consimțământ creează un teren comun. Lily nu întreabă."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampiră",
+            "type": "Eticheta celor antici",
+            "description": "Singura care a văzut restaurarea Neferei din nisip și a ținut-o secretă. Împărtășesc maniere vechi."
           }
         ]
       }

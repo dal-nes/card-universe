@@ -261,28 +261,34 @@
         },
         "relationships": [
           {
-            "name": "Kobayashi Rin'i",
-            "psychotype": "Baş kız",
-            "type": "Sıkı komşu",
-            "description": "Onu bir gürültü kaynağı olarak görüyor ama programına saygı duyuyor. Rin, Yuna'nın uykuda olup olmadığını sık sık kontrol eder."
+            "name": "Kobayashi Rin",
+            "psychotype": "Blok başkanı",
+            "type": "Katı komşu",
+            "description": "Onu bir gürültü kaynağı olarak görüyor ama programına saygı duyuyor. Rin sık sık Yuna'nın uyuyup uyumadığını kontrol eder."
           },
           {
-            "name": "Marta Santos'un",
-            "psychotype": "Atlet",
-            "type": "Komşuyu engelle",
-            "description": "Bazen onu sabah koşusu için dışarı sürüklemeye çalışır, ancak her zaman başarısız olur. Sessizlik içinde harika geçinirler."
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Blok komşusu",
+            "description": "Onu sabah koşusuna çıkarmaya çalışır ama her zaman başarısız olur. Sessizlikte harika anlaşırlar."
           },
           {
-            "name": "Gyaru'nun",
-            "psychotype": "Suçlu",
-            "type": "Gürültülü komşu",
-            "description": "Yuna'nın gece programı için çok gürültülü. Yuna genellikle kulaklıklarını açar."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Uyku koruyucusu",
+            "description": "Aika gündüzleri gürültücüdür ama sabahları Yuna'nın uykusunu korur. Birbirlerini kelimeler olmadan anlarlar."
           },
           {
-            "name": "Yalnız",
-            "psychotype": "İçe dönük",
-            "type": "Rahat sessizlik",
-            "description": "Yuna'nın tek kelime etmeden saatlerce aynı odada kalabileceği tek kişi."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Gece buluşmaları",
+            "description": "İki gece yaratığı. Lily onun programına saygı duyar ve Yuna onun sadece sessizce oturmak için uğramasından rahatsız olmaz."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Hayalet",
+            "type": "Gece vardiyası",
+            "description": "Sessizliği ve gece mutfağını paylaşırlar. Ada içecekleri soğutur, Yuna oyun oynar. Mükemmel bir kelimesiz ittifak."
           }
         ],
         "tracks": [
@@ -421,28 +427,34 @@
         },
         "relationships": [
           {
-            "name": "Li Yuna'nın",
+            "name": "Li Yuna",
             "psychotype": "Uykulu",
-            "type": "3 Numaralı Oda Sakini",
-            "description": "Gece risk faktörü. Rin programını sürekli izler, ancak akademik başarısına gizlice hayran kalır."
+            "type": "3 Numaralı Oda sakini",
+            "description": "Gece risk faktörü. Rin sürekli onun programını izler ama gizlice akademik başarısına hayranlık duyar."
           },
           {
-            "name": "Marta Santos'un",
-            "psychotype": "Atlet",
-            "type": "Komşuyu engelle",
-            "description": "Güvenilir, ama çok gürültülü. Rin, dürüstlüğünü ve disiplin sorunlarına neden olmadığını takdir ediyor."
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Düzen ve disiplin",
+            "description": "Güvenilir, ancak çok gürültülü. Rin onun açık sözlülüğünü ve disiplin sorunlarına neden olmamasını takdir eder."
           },
           {
-            "name": "Abla",
-            "psychotype": "Önemseme",
-            "type": "Blok Yönetimi",
-            "description": "Düzeni sağlamada güvenilir bir müttefik. Bloğu yönetme sorumluluklarını paylaşırlar."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Banyo savaşı",
+            "description": "Ana kural ihlalcisi. Rin onu sürekli cezalandırır ama blok tehdit edilirse sırt sırta verirler."
           },
           {
-            "name": "Kariyerist",
-            "psychotype": "Sinsi",
-            "type": "Sorun kaynağı",
-            "description": "Rin, gizli amaçlarına güvenmez ve planlarını yakından izler."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Güvenlik ve kurallar",
+            "description": "Rin ona balo için formlar ve güvenlik kuralları sağlar ve Lily yerleşik düzene saygı duymayı öğrenir."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kadim",
+            "type": "Belgeler ve görgü",
+            "description": "Rin onun güvenilirliğine ve net sınırlarına saygı duyar. Arşiv erişimi ve sessiz saatler konusunda işbirliği yaparlar."
           }
         ],
         "tracks": [
@@ -598,28 +610,348 @@
         ],
         "relationships": [
           {
-            "name": "Li Yuna'nın",
+            "name": "Li Yuna",
             "psychotype": "Uykulu",
-            "type": "Komşuyu engelle",
-            "description": "Marta insanın nasıl bu kadar uyuyabildiğini anlamıyor ama oyun becerilerine saygı duyuyor."
+            "type": "Blok komşusu",
+            "description": "Marta bu kadar çok nasıl uyunabileceğini anlamıyor ama oyun becerilerine saygı duyuyor ve gece maçlarından sonra onu rahat bırakıyor."
           },
           {
-            "name": "Kobayashi Rin'i",
-            "psychotype": "Baş kız",
+            "name": "Kobayashi Rin",
+            "psychotype": "Blok başkanı",
             "type": "Kural uygulayıcı",
-            "description": "Marta, Rin'in sıkıcı olduğunu biliyor ama konu bloğu korumaya geldiğinde her zaman onun yanında."
+            "description": "Marta Rin'in sıkıcı olduğunu bilir ama bloğu korumak söz konusu olduğunda her zaman onun tarafındadır."
           },
           {
-            "name": "Gyaru'nun",
-            "psychotype": "Suçlu",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Gürültülü ikili",
-            "description": "Bloktaki en gürültülü çift. Gyaru, yarışmalardaki herkesten daha yüksek sesle onun için tezahürat yapıyor."
+            "description": "Bloktaki en gürültülü çift. Aika yarışmalarda onu destekler ve Marta sürekli onu antrenmanlara sürükler."
           },
           {
-            "name": "Felaket",
-            "psychotype": "Dalgın",
-            "type": "Kaos terapisi",
-            "description": "Marta, sporun dikkatsizliğini düzelteceğine inanarak onu sürekli koşuya sürükler."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Spor ve sihir",
+            "description": "Marta disiplin ve sporun Lily'nin duygularını ve açlığını kontrol etmesine yardımcı olacağına inanıyor."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Kurt adam",
+            "type": "Sessiz pist",
+            "description": "Sabah soğuğundan şikayet etmeyen ve sessizce koşmayı bilen mükemmel koşu partneri."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Tanıksız Beş Dakika\"",
+        "slogan": "Makyajımı teşhisinle karıştırma.",
+        "shortDescription": "Yuna ile kahveyi, Rin'in brifingini ve Marta'nın bahsini atlattın. Şimdi Rin seni başka bir formla 6. odaya gönderiyor ve orada kurallara 'dekorasyon', sana ise 'bizim oğlan' diyen bir kızla tanışıyorsun.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonomist",
+          "Sosyal merkez",
+          "Oda No. 6"
+        ],
+        "coverAlt": "Aika 6. odada simlerle",
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "21"
+          },
+          {
+            "label": "Sınıf",
+            "value": "4. sınıf, Ekonomi"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 6"
+          },
+          {
+            "label": "Boy",
+            "value": "166 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Sosyal merkez, gayriresmi organizatör"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Cüretkar ve gürültülü: bekleniyormuş gibi odaya girer; önce takılır ve herkese takma ad takar.",
+              "Gözlemci: kimin yemek yemediğini ve kimin bir şakadan yaralandığını fark eder.",
+              "Gizli onur öğrencisi: karmaşık problemleri peçete üzerinde çözer ve notlarıyla asla övünmez.",
+              "Savunma olarak flört eder: inisiyatifi elinde tutmayı sever ve diğeri rahatsız olursa durmayı bilir."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "166 cm boyunda; ince. Pembe uçlu sarı saçlar, genellikle iki yüksek at kuyruğu.",
+              "Kahverengi gözler, parlak makyaj, yıldızlı uzun tırnaklar. Kısa ceketler ve gümüş yüzükler takar.",
+              "Boynunda küçük 'A' kolye ve bileğinde saç tokaları."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Annesi makyaj sanatçısıydı, babası Aika on iki yaşındayken gitti.",
+              "Okulda bir öğretmen notunun kopyalandığını ima etti; Aika aksini kanıtladı ama eve ödül getirmeyi bıraktı.",
+              "Ekonomi bölümüne yüksek puanla girdi ve istatistiğe odaklandı."
+            ]
+          },
+          {
+            "title": "Hikayedeki rolü",
+            "paragraphs": [
+              "Aika partilerin organizatörü ve bloğun gürültülü savunucusudur. Rin seni bir formla 6. odaya gönderdiğinde onunla tanışırsın."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Rahatla, oğlum. Sadece randevuyla ısırırım.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Blok başkanı",
+            "type": "Banyo savaşı",
+            "description": "Programlar ve duş hakkında sürekli tartışmalar, ancak blok tehdit edilirse sırt sırta verirler."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Gürültülü ittifak",
+            "description": "Aika posterlerle onu destekler, Marta onu sabah koşularına sürüklemeye çalışır."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Uykulu",
+            "type": "Uyku koruyucusu",
+            "description": "Aika, Yuna'nın uykusunu sabah gürültüsünden korur ve gece oyunlarından sonra ona kahve getirir."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Tavlama repliği laboratuvarı",
+            "description": "Aika, Lily'nin saçma tavlama replikleri için istekli test izleyicisi ve parti planlamasında ortağıdır."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kadim",
+            "type": "Kurdele hatası",
+            "description": "Aika bir kez kurdeleye uzandı ve Nefera onu keskin bir şekilde durdurdu. Samimi bir özürden sonra Aika onun gürültülü savunucusu oldu."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Gece Yarısından Sonra Büyü Yok\"",
+        "slogan": "'Dur' dedin — bu dur demek. Oyunun devamı değil.",
+        "shortDescription": "Oda arkadaşlarınla tanışmanın seni utandırılmaz yaptığını sanıyordun. Lily bunu beş saniye içinde test edecek — seni dürüstçe utangaçlıkla beslendiği ve asla izinsiz büyü kullanmadığı konusunda uyararak. Balkabağı balosunu o düzenliyor, berbat tavlama replikleri topluyor ve sana prova partneri olmayı teklif ediyor.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organizatör",
+          "Psikoloji",
+          "Misafir Kanadı"
+        ],
+        "coverAlt": "Lily maskelerle toplantı salonunda",
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "21"
+          },
+          {
+            "label": "Sınıf",
+            "value": "3. sınıf, Psikoloji"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 10 (Misafir Kanadı)"
+          },
+          {
+            "label": "Boy",
+            "value": "164 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Etkinlik Koordinatörü, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Çekici ve enerjik: insanları kolayca bir araya toplar, isimleri hatırlar, sıkıcı hazırlıkları yarışmaya dönüştürür.",
+              "Sınırlar konusunda dürüst: neyle beslendiğini açıklar, büyüler, sarılmalar ve toplum içinde flört etmek için izin ister. 'Hayır' cevabına gücenmeden geri çekilir.",
+              "Oyunlarda cesur, mahremiyette temkinli: dürüstçe cevap verdiğinde hıçkırır, büyüsünü kaybeder ve kafa karışıklığını gizlemek için fazla pratik konuşmaya başlar.",
+              "Şefkatli organizatör: kalabalıktan kimin korktuğunu ve kimin suya ihtiyacı olduğunu bilir. Parti için gerekli olmaya çalışır çünkü bu, insanlar arasında bir yer kazanmanın açık bir yoludur."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "Platformsuz 164 cm boyunda; esnek, yumuşak hatlı. Kürek kemiklerine kadar koyu kızıl saçlar, ela yeşili gözler, küçük koyu boynuzlar ve ucunda kalp olan bir kuyruk.",
+              "Kanatlı saç tokaları bazen gerçek gölgelere dönüşür. Siyah ve kızıl elbiseler, kısa ceketler, desenli çoraplar ve yüksek çizmeler giyer.",
+              "Boynuzlarında saç tokaları ve iğneler taşır; kuyruğu hoşlandığı birinin bileğine dolanır ve utandığında bacağının arkasına saklanır."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Duyguların para birimi olduğu ve doğal succubus açlığının manipülasyon için bir bahane olduğu bir ailede büyüdü.",
+              "Gençken yanlışlıkla birinin utangaçlığından çok fazla aldı ve korktu. O zamandan beri kendi rıza kurallarını oluşturdu.",
+              "Sınırları içgüdünün ötesinde anlamak için Psikolojiye girdi. Etkinlik düzenlemek ona bir kalabalıktan kahkaha ve neşe almanın meşru bir yolunu verdi."
+            ]
+          },
+          {
+            "title": "STUDENT LIFE hikayesindeki rolü",
+            "paragraphs": [
+              "Balo gecesinden önceki gece boş toplantı salonunda tanışırsınız. Yuna, Marta ve Aika'dan senin hakkında bilgi sahibidir ve gönüllü bir dans provası teklif eder.",
+              "Sevgisi, kuyruğu kendi kendine bileğini aradığında ve seyirci olmadan senin için zaman ayırmaya başladığında ortaya çıkar."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Bu kadar erken kızarma, ben daha başlamadım bile.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Uykulu",
+            "type": "Gece buluşmaları",
+            "description": "Lily onun programına saygı duyar ve Yuna oyun oynarken bazen onunla gece hikayeleri paylaşır."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Baş asistan",
+            "type": "Kurallar ve doğallık",
+            "description": "Rin balo için güvenlik kuralları talep eder, Lily başta sıkıcı bulur ama sonunda kabul eder."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Spor ve sihir",
+            "description": "Marta ona disiplin öğretmeye çalışır ve Lily karşılığında Marta'ya biraz rahatlamayı öğretir."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Tavlama replikleri",
+            "description": "Aika şakalarını onun üzerinde test eder ve Lily parti organizasyonu ve aksesuarlar konusunda yardımcı olur."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Cadı",
+            "type": "Balkabağı barı anlaşması",
+            "description": "Lily müzik ve misafirlerle ilgilenir, Mira içecekler ve dumanla ilgilenir. Anlaşmaları: Lily, Mira'nın arkadaşlarını büyülemeyecek."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Şafağa Kadar\"",
+        "slogan": "Kurdelelere dokunma. Gerisi tartışılabilir.",
+        "shortDescription": "Oda arkadaşlarının gececi, katı veya tehlikeli derecede rekabetçi olmasına alışkınsın. Ama misafir kanadındaki kız senden ilk kez makas almanı istiyor — bir hata onu şafağa kadar kuma dönüştüreceği konusunda seni dürüstçe uyararak. Nefera antikaları restore eder, atasözleriyle konuşur ve birinin kurdelelerine izinsiz dokunmasından nefret eder.",
+        "tags": [
+          "Halloween",
+          "Kadim",
+          "Restoratör",
+          "Gizem",
+          "Misafir Kanadı"
+        ],
+        "coverAlt": "Nefera çamaşırhanede altın iplikle",
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "22 (görünen)"
+          },
+          {
+            "label": "Sınıf",
+            "value": "4. sınıf, Müzecilik"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 11 (Misafir Kanadı)"
+          },
+          {
+            "label": "Boy",
+            "value": "170 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Restoratör, kadim varlık"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Kesin ve sabırlı: aletleri boylarına göre dizer, hava nemini kontrol eder ve bir tablonun tek bir parçasını restore etmek için saatler harcayabilir.",
+              "Sınırlarını sıkıca korur: kurdelelerin yasak olduğunu hemen söyler. Ani sarılmalardan hoşlanmaz ama dokunuşları kendisi seçer ve yavaş yavaş mücevherlerle yardıma izin verir.",
+              "Şakalarda gerçekçi: metaforları önce kelimesi kelimesine analiz eder, sonra oyunu anlar ve kuru bir mizahla cevap verir.",
+              "Güven yoluyla şefkatli: hangi çayı içtiğini hatırlar, ıslanırsan yanına kuru bir havlu koyar. Uzun itiraflarda bulunmaz; 'kal' yerine 'şafağa daha çok zaman var' der."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "Platformsuz 170 cm boyunda; ince, dik duruşlu ve akıcı hareketli. Bronz ten, altın gözler, çeneye kadar siyah bob saç.",
+              "Keten kurdeleler modern kıyafetlerin üzerinden kollarını, boynunu ve omuzlarının bir kısmını sarar. Balo için koyu bir elbise, omuz pelerini, turkuaz kemer ve yüksek bir başlık ekler.",
+              "İnce altın takılar takar, koruyucu düğümleri asla toplum içinde çıkarmaz. Çantasında silika jel, yumuşak bir fırça ve antik bir madeni para vardır."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Kapalı bir müze deposunda, kendi lahdi ve adının yanlış yazıldığı bir katalog kartının yanında uyandı.",
+              "Restoratör Hasan al-Sahra, ona ne isimle anılmak istediğini soran ilk kişiydi ve belgelerde yardımcı oldu. Onun soyadını ve mesleğini aldı.",
+              "Üniversiteye değişim programıyla ve koruyucu mührüyle ilgili arşiv referansları için geldi. Vasilisa, onun kumdan restorasyonunu gören tek kişi."
+            ]
+          },
+          {
+            "title": "STUDENT LIFE hikayesindeki rolü",
+            "paragraphs": [
+              "Kostüm geçit töreninden önceki gece çamaşırhanede tanışırsınız. Beyaz kurdele yasağına uyarak sıkışmış dekoratif bir ipliği kurtarmaya yardım edersin.",
+              "Bundan sonra Nefera sana sandıkları, sahne eşyalarını ve küçük tokaları emanet eder, seni yavaş yavaş meraklı misafir kalabalığından ayırır."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Sandığı tutman için sana izin verdim. Beni değil. Fark net mi?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Baş asistan",
+            "type": "Belgeler ve kurallar",
+            "description": "Rin onun güvenilirliğine ve sınırlarına saygı duyar. İşbirlikleri pratiktir: erişim formları, sessiz saatler ve güvenlik."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Sandıklar ve yardım",
+            "description": "Marta ağır sandıkları taşımaya yardım eder. Nefera dürüstlüğe değer verir ama kırılgan eşyalara dikkat etmesini ister."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Kurdele hatası",
+            "description": "Aika bir kez kurdeleye uzandı ve Nefera onu sertçe durdurdu. Samimi bir özürden sonra Aika onun gürültülü savunucusu oldu."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Sıradan arkadaşlık",
+            "description": "Lily'nin halka açık oyunları Nefera'yı temkinli yapar, ancak net rıza kuralları ortak zemin yaratır. Lily sorgulamaz."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampir",
+            "type": "Kadimlerin görgü kuralları",
+            "description": "Nefera'nın kumdan restorasyonunu gören ve bunu sır olarak saklayan tek kişi. Eski görgü kurallarını paylaşırlar."
           }
         ]
       }

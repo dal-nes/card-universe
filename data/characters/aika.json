@@ -1,0 +1,78 @@
+{
+  "id": "aika",
+  "number": 4,
+  "status": "available1",
+  "releaseDate": "2026-10-25",
+  "accent": "#e0a96d",
+  "cover": "assets/images/covers/aika-cover-1.png",
+  "covers": [
+    "assets/images/covers/aika-cover-1.png",
+    "assets/images/covers/aika-cover-2.png",
+    "assets/images/covers/aika-cover-3.png",
+    "assets/images/covers/aika-cover-4.png",
+    "assets/images/covers/aika-cover-5.png"
+  ],
+  "chatUrl": "",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/aika/aika-gallery-1.png"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-gallery-2.png"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-gallery-3.png"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-gallery-4.png"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-01-hoodie.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-02-zipper.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-03-shirt.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-04-shower.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-05-windowsill.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-06-bed.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-07-mirror.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-08-dance.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-09-kitchen.jpg"
+    },
+    {
+      "src": "assets/images/gallery/aika/aika-10-closeup.jpg"
+    }
+  ],
+  "tracks": [],
+  "relationships": [
+    {
+      "characterId": "rin"
+    },
+    {
+      "characterId": "marta"
+    },
+    {
+      "characterId": "yuna"
+    },
+    {
+      "characterId": "lily"
+    },
+    {
+      "characterId": "nefera"
+    }
+  ]
+}

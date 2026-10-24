@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Trưởng lớp nữ",
+            "psychotype": "Trưởng khu",
             "type": "Hàng xóm nghiêm khắc",
-            "description": "Xem cô ấy là nguồn gây ồn nhưng tôn trọng lịch trình của cô ấy. Rin thường kiểm tra xem Yuna có đang ngủ không."
+            "description": "Coi cô ấy là nguồn gây ồn nhưng tôn trọng lịch trình của cô ấy. Rin thường kiểm tra xem Yuna đã ngủ chưa."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Vận động viên",
-            "type": "Chặn hàng xóm",
-            "description": "Thỉnh thoảng cố kéo cô ấy đi chạy buổi sáng, nhưng luôn thất bại. Họ rất hòa hợp trong im lặng."
+            "type": "Hàng xóm trong khu",
+            "description": "Cố gắng lôi kéo cô ấy đi chạy buổi sáng, nhưng luôn thất bại. Họ rất hợp nhau trong im lặng."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Phạm pháp",
-            "type": "Hàng xóm ồn ào",
-            "description": "Quá ồn đối với lịch đêm của Yuna. Yuna thường chỉ bật to tai nghe của cô ấy lên."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Người bảo vệ giấc ngủ",
+            "description": "Aika ồn ào vào ban ngày nhưng bảo vệ giấc ngủ của Yuna vào buổi sáng. Họ hiểu nhau mà không cần lời nói."
           },
           {
-            "name": "Người cô độc",
-            "psychotype": "Người hướng nội",
-            "type": "Sự im lặng dễ chịu",
-            "description": "Người duy nhất mà Yuna có thể ở cùng trong cùng một phòng hàng giờ mà không nói một lời nào."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Gặp gỡ ban đêm",
+            "description": "Hai sinh vật của màn đêm. Lily tôn trọng lịch trình của cô ấy và Yuna không phiền khi cô ấy ghé qua chỉ để ngồi trong im lặng."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Ma",
+            "type": "Ca đêm",
+            "description": "Họ chia sẻ sự im lặng và căn bếp ban đêm. Ada làm lạnh đồ uống, Yuna chơi game. Một liên minh hoàn hảo không lời."
           }
         ],
         "tracks": [
@@ -421,28 +427,34 @@
         },
         "relationships": [
           {
-            "name": "Lý Du Na",
+            "name": "Li Yuna",
             "psychotype": "Buồn ngủ",
-            "type": "Cư dân Phòng số 3",
-            "description": "Yếu tố rủi ro ban đêm. Rin liên tục theo dõi lịch trình của mình nhưng thầm ngưỡng mộ thành tích học tập của cô ấy."
+            "type": "Cư dân phòng số 3",
+            "description": "Yếu tố rủi ro ban đêm. Rin liên tục theo dõi lịch trình của cô ấy nhưng thầm ngưỡng mộ thành tích học tập của cô ấy."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Vận động viên",
-            "type": "Chặn hàng xóm",
-            "description": "Đáng tin cậy, dù hơi ồn ào. Rin đánh giá cao sự thẳng thắn của cô ấy và việc cô ấy không gây ra vấn đề kỷ luật."
+            "type": "Trật tự và kỷ luật",
+            "description": "Đáng tin cậy, mặc dù quá ồn ào. Rin đánh giá cao sự thẳng thắn của cô ấy và việc cô ấy không gây ra vấn đề kỷ luật."
           },
           {
-            "name": "Chị gái",
-            "psychotype": "Quan tâm",
-            "type": "Quản lý Khối",
-            "description": "Một đồng minh đáng tin cậy trong việc duy trì trật tự. Họ chia sẻ trách nhiệm quản lý khu phố."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Chiến tranh phòng tắm",
+            "description": "Kẻ vi phạm quy tắc chính. Rin liên tục phạt cô ấy, nhưng họ sát cánh bên nhau nếu khu bị đe dọa."
           },
           {
-            "name": "Người theo đuổi sự nghiệp",
-            "psychotype": "Xảo quyệt",
-            "type": "Nguồn gốc rắc rối",
-            "description": "Rin không tin vào động cơ ẩn giấu của cô ấy và theo dõi chặt chẽ các mưu đồ của cô ấy."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "An toàn và quy tắc",
+            "description": "Rin cung cấp cho cô ấy các biểu mẫu và quy tắc an toàn cho buổi khiêu vũ, và Lily học cách tôn trọng trật tự đã thiết lập."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Cổ đại",
+            "type": "Tài liệu và nghi thức",
+            "description": "Rin tôn trọng sự đáng tin cậy và ranh giới rõ ràng của cô ấy. Họ hợp tác trong việc truy cập kho lưu trữ và giờ yên tĩnh."
           }
         ],
         "tracks": [
@@ -598,28 +610,348 @@
         ],
         "relationships": [
           {
-            "name": "Lý Du Na",
+            "name": "Li Yuna",
             "psychotype": "Buồn ngủ",
-            "type": "Chặn hàng xóm",
-            "description": "Marta không hiểu làm sao có người có thể ngủ nhiều như vậy nhưng lại tôn trọng kỹ năng chơi game của cô ấy."
+            "type": "Hàng xóm trong khu",
+            "description": "Marta không hiểu làm thế nào một người có thể ngủ nhiều như vậy nhưng tôn trọng kỹ năng chơi game của cô ấy và để cô ấy yên sau các trận đấu đêm."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Trưởng lớp nữ",
-            "type": "Người thực thi quy tắc",
-            "description": "Marta biết Rin thật chán, nhưng khi nói đến việc bảo vệ khu phố, cô ấy luôn đứng về phía cô ấy."
+            "psychotype": "Trưởng khu",
+            "type": "Thực thi quy tắc",
+            "description": "Marta biết Rin thật nhàm chán, nhưng khi nói đến việc bảo vệ khu, cô ấy luôn đứng về phía cô ấy."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Phạm pháp",
-            "type": "Cặp đôi ồn ào",
-            "description": "Cặp đôi ồn ào nhất trong khu phố. Gyaru cổ vũ cô ấy to hơn bất kì ai tại các cuộc thi."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Bộ đôi ồn ào",
+            "description": "Cặp đôi ồn ào nhất trong khu. Aika cổ vũ cô ấy trong các cuộc thi, và Marta liên tục lôi kéo cô ấy đi tập luyện."
           },
           {
-            "name": "Thảm họa",
-            "psychotype": "Lơ đãng",
-            "type": "Liệu pháp hỗn loạn",
-            "description": "Marta liên tục kéo cô ấy đi chạy, tin rằng thể thao sẽ sửa chữa sự đãng trí của cô ấy."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Thể thao và phép thuật",
+            "description": "Marta tin rằng kỷ luật và thể thao sẽ giúp Lily kiểm soát cảm xúc và cơn đói của mình."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Người sói",
+            "type": "Đường đua yên tĩnh",
+            "description": "Người bạn chạy hoàn hảo, người không phàn nàn về cái lạnh buổi sáng và biết cách chạy trong im lặng."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Năm Phút Không Có Nhân Chứng\"",
+        "slogan": "Đừng nhầm lẫn lớp trang điểm của tôi với chẩn đoán của bạn.",
+        "shortDescription": "Bạn đã sống sót qua bữa cà phê với Yuna, buổi hướng dẫn của Rin và vụ cá cược của Marta. Bây giờ Rin gửi bạn đến phòng 6 với một tờ đơn khác, và ở đó bạn gặp một cô gái gọi nội quy là 'đồ trang trí' và gọi bạn là 'cậu bé của chúng ta'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Nhà kinh tế",
+          "Trung tâm xã hội",
+          "Phòng số 6"
+        ],
+        "coverAlt": "Aika trong phòng 6 với kim tuyến",
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "21"
+          },
+          {
+            "label": "Năm",
+            "value": "Năm thứ 4, Kinh tế"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 6"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "166 cm"
+          },
+          {
+            "label": "Vai trò trong khu",
+            "value": "Trung tâm xã hội, người tổ chức không chính thức"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Táo bạo và ồn ào: bước vào phòng như thể được mong đợi; trêu chọc trước và đặt biệt danh cho mọi người.",
+              "Tinh ý: nhận ra ai chưa ăn và ai bị tổn thương bởi một trò đùa.",
+              "Học sinh giỏi giấu mặt: giải quyết các vấn đề phức tạp trên khăn ăn và không bao giờ khoe điểm.",
+              "Tán tỉnh như một cách phòng thủ: thích nắm thế chủ động và biết dừng lại nếu người kia thấy khó chịu."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 166 cm; thân hình mảnh mai. Tóc vàng với đuôi hồng, thường buộc hai bím cao.",
+              "Mắt nâu, trang điểm nổi bật, móng tay dài với những ngôi sao nhỏ. Mặc áo khoác ngắn và đeo nhẫn bạc.",
+              "Dây chuyền có chữ 'A' nhỏ và dây buộc tóc trên cổ tay."
+            ]
+          },
+          {
+            "title": "Lý lịch",
+            "paragraphs": [
+              "Mẹ cô là chuyên viên trang điểm, bố cô rời đi khi Aika mười hai tuổi.",
+              "Ở trường, một giáo viên cho rằng điểm cao của cô là do chép bài; Aika đã chứng minh ngược lại nhưng không mang bằng khen về nhà nữa.",
+              "Cô học Kinh tế với điểm cao, tập trung vào thống kê."
+            ]
+          },
+          {
+            "title": "Vai trò trong câu chuyện",
+            "paragraphs": [
+              "Aika là người tổ chức các bữa tiệc và là người bảo vệ ồn ào của khu. Bạn gặp cô ấy khi Rin gửi bạn đến phòng 6 với một tờ đơn."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Thư giãn đi, cậu bé. Tôi chỉ cắn khi có hẹn trước.»"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Trưởng khu",
+            "type": "Chiến tranh phòng tắm",
+            "description": "Những cuộc cãi vã liên tục về lịch trình và phòng tắm, nhưng họ sát cánh bên nhau nếu khu bị đe dọa."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Vận động viên",
+            "type": "Liên minh ồn ào",
+            "description": "Aika cổ vũ cô ấy bằng áp phích, Marta cố gắng lôi kéo cô ấy đi chạy buổi sáng."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Buồn ngủ",
+            "type": "Người bảo vệ giấc ngủ",
+            "description": "Aika bảo vệ giấc ngủ của Yuna khỏi tiếng ồn buổi sáng và mang cà phê cho cô ấy sau những trò chơi đêm."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Phòng thí nghiệm câu tán tỉnh",
+            "description": "Aika là khán giả sẵn lòng của Lily cho những câu tán tỉnh ngớ ngẩn và là đối tác trong việc lên kế hoạch tiệc."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Cổ đại",
+            "type": "Lỗi ruy băng",
+            "description": "Aika đã từng với tay lấy dải ruy băng của cô ấy và Nefera đã mạnh mẽ ngăn cô ấy lại. Sau một lời xin lỗi chân thành, Aika trở thành người bảo vệ ồn ào của cô ấy."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Không dùng bùa mê sau nửa đêm\"",
+        "slogan": "Bạn nói 'dừng lại' — nghĩa là dừng lại. Đó không phải là sự tiếp tục của trò chơi.",
+        "shortDescription": "Bạn nghĩ rằng việc gặp gỡ các bạn cùng phòng khiến bạn khó bị làm cho xấu hổ. Lily sẽ kiểm tra điều đó trong năm giây — thành thật cảnh báo bạn rằng cô ấy ăn nỗi xấu hổ và không bao giờ sử dụng bùa mê mà không có sự cho phép. Cô ấy tổ chức vũ hội bí ngô, sưu tầm những câu thả thính tệ hại và đề nghị làm bạn tập nhảy của bạn.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Người tổ chức",
+          "Tâm lý học",
+          "Khu nhà khách"
+        ],
+        "coverAlt": "Lily trong hội trường với mặt nạ",
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "21"
+          },
+          {
+            "label": "Năm học",
+            "value": "Năm thứ 3, Tâm lý học"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 10 (Khu nhà khách)"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "164 cm"
+          },
+          {
+            "label": "Vai trò trong khu",
+            "value": "Điều phối viên sự kiện, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Quyến rũ và tràn đầy năng lượng: dễ dàng tập hợp mọi người, nhớ tên, biến những khâu chuẩn bị nhàm chán thành một cuộc thi.",
+              "Trung thực về ranh giới: giải thích những gì cô ấy ăn, xin phép cho bùa mê, ôm và tán tỉnh nơi công cộng. Lùi lại khi bị từ chối mà không hề xúc phạm.",
+              "Táo bạo trong trò chơi, thận trọng trong sự thân mật: khi bạn trả lời một cách chân thành, cô ấy nấc lên, mất đi sự quyến rũ và bắt đầu nói quá thực tế để che giấu sự bối rối của mình.",
+              "Người tổ chức chu đáo: biết ai sợ đám đông và ai cần nước. Cố gắng trở nên cần thiết cho bữa tiệc vì đó là một cách rõ ràng để giành được một vị trí giữa mọi người."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 164 cm nếu không đi giày đế xuồng; dẻo dai, với những đường cong mềm mại. Tóc đỏ sẫm dài đến xương bả vai, đôi mắt màu xanh lá phỉ, cặp sừng nhỏ màu tối và một cái đuôi có hình trái tim ở đầu.",
+              "Những chiếc kẹp tóc hình cánh đôi khi mở ra thành những cái bóng thật. Cô ấy mặc những chiếc váy màu đen và đỏ tươi, áo khoác ngắn, quần bó có hoa văn và bốt cao cổ.",
+              "Giữ dây buộc tóc và ghim trên sừng; đuôi của cô ấy quấn quanh cổ tay của người cô ấy thích và trốn sau chân cô ấy khi cô ấy xấu hổ."
+            ]
+          },
+          {
+            "title": "Quá khứ",
+            "paragraphs": [
+              "Lớn lên trong một gia đình nơi cảm xúc là tiền tệ và cơn đói succubus tự nhiên là một cái cớ để thao túng.",
+              "Khi còn là một thiếu niên, cô ấy vô tình lấy quá nhiều nỗi xấu hổ của ai đó và trở nên sợ hãi. Kể từ đó, cô ấy đã tạo ra các quy tắc đồng thuận của riêng mình.",
+              "Vào ngành Tâm lý học để hiểu ranh giới vượt ra ngoài bản năng. Việc tổ chức sự kiện đã cho cô ấy một cách hợp pháp để nhận được tiếng cười và niềm vui từ một đám đông."
+            ]
+          },
+          {
+            "title": "Vai trò trong câu chuyện STUDENT LIFE",
+            "paragraphs": [
+              "Bạn gặp nhau trong hội trường trống vào đêm trước vũ hội. Cô ấy biết về bạn từ Yuna, Marta và Aika và đề nghị một buổi tập nhảy tự nguyện.",
+              "Tình cảm của cô ấy thể hiện khi chiếc đuôi của cô ấy tự tìm đến cổ tay của bạn, và cô ấy bắt đầu dành thời gian cho bạn mà không có khán giả."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Đừng đỏ mặt sớm thế, tôi còn chưa bắt đầu mà.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Buồn ngủ",
+            "type": "Gặp gỡ ban đêm",
+            "description": "Lily tôn trọng lịch trình của cô ấy và đôi khi chia sẻ những câu chuyện đêm với cô ấy trong khi Yuna chơi game."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Trưởng khu",
+            "type": "Quy tắc và sự tự phát",
+            "description": "Rin yêu cầu các quy tắc an toàn cho vũ hội, Lily ban đầu thấy nhàm chán nhưng cuối cùng đồng ý."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Vận động viên",
+            "type": "Thể thao và phép thuật",
+            "description": "Marta cố gắng dạy cô ấy tính kỷ luật, và Lily đáp lại bằng cách dạy Marta thư giãn một chút."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Câu thả thính",
+            "description": "Aika thử những câu chuyện cười của mình với cô ấy, và Lily giúp tổ chức tiệc và đạo cụ."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Phù thủy",
+            "type": "Hiệp ước quán bar bí ngô",
+            "description": "Lily phụ trách âm nhạc và khách mời, Mira phụ trách đồ uống và khói. Hiệp ước của họ: Lily sẽ không dùng bùa mê với bạn bè của Mira."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Cho đến bình minh\"",
+        "slogan": "Đừng chạm vào dải ruy băng. Phần còn lại có thể thảo luận.",
+        "shortDescription": "Bạn đã quen với việc bạn cùng phòng của mình là những người sống về đêm, nghiêm khắc hoặc cạnh tranh một cách nguy hiểm. Nhưng cô gái từ khu nhà khách là người đầu tiên yêu cầu bạn lấy kéo — cảnh báo bạn rằng một sai lầm sẽ biến cô ấy thành cát cho đến bình minh. Nefera phục hồi đồ cổ, nói bằng tục ngữ và ghét việc ai đó chạm vào dải ruy băng của cô ấy mà không được phép.",
+        "tags": [
+          "Halloween",
+          "Cổ đại",
+          "Nhà phục chế",
+          "Bí ẩn",
+          "Khu nhà khách"
+        ],
+        "coverAlt": "Nefera trong phòng giặt với sợi chỉ vàng",
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "22 (ngoại hình)"
+          },
+          {
+            "label": "Năm học",
+            "value": "Năm thứ 4, Bảo tàng học"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 11 (Khu nhà khách)"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "170 cm"
+          },
+          {
+            "label": "Vai trò trong khu",
+            "value": "Nhà phục chế, thực thể cổ đại"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Chính xác và kiên nhẫn: sắp xếp dụng cụ theo chiều dài, kiểm tra độ ẩm không khí và có thể dành hàng giờ để phục hồi một mảnh tranh duy nhất.",
+              "Bảo vệ ranh giới nghiêm ngặt: ngay lập tức nói rằng dải ruy băng là điều cấm. Không thích những cái ôm đột ngột nhưng tự chọn cách chạm và dần dần cho phép giúp đỡ với đồ trang sức.",
+              "Theo nghĩa đen trong truyện cười: phân tích ẩn dụ theo nghĩa đen trước, sau đó hiểu trò chơi và trả lời bằng sự hài hước khô khan.",
+              "Dịu dàng thông qua sự tin tưởng: nhớ bạn uống trà gì, đặt một chiếc khăn khô bên cạnh bạn nếu bạn bị ướt. Không thổ lộ dài dòng; thay vì 'ở lại', cô ấy nói 'vẫn còn nhiều thời gian cho đến bình minh'."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 170 cm; mảnh mai, với tư thế thẳng và chuyển động mượt mà. Da màu đồng, mắt vàng, tóc bob đen đến cằm.",
+              "Những dải ruy băng vải lanh quấn quanh cánh tay, cổ và một phần vai của cô ấy trên trang phục hiện đại. Đối với vũ hội, cô ấy thêm một chiếc váy tối màu, áo choàng vai, thắt lưng màu ngọc lam và một chiếc mũ cao.",
+              "Đeo đồ trang sức vàng mỏng, không bao giờ tháo nút bảo vệ ở nơi công cộng. Trong túi của cô ấy có gel silica, một chiếc bàn chải mềm và một đồng xu cổ."
+            ]
+          },
+          {
+            "title": "Quá khứ",
+            "paragraphs": [
+              "Tỉnh dậy trong một kho lưu trữ bảo tàng đóng cửa bên cạnh quan tài của cô ấy và một tấm thẻ mục lục nơi tên của cô ấy bị viết sai chính tả.",
+              "Nhà phục chế Hasan al-Sahra là người đầu tiên hỏi cô ấy muốn được gọi là gì và giúp cô ấy với các tài liệu. Cô ấy lấy họ và nghề nghiệp của anh ấy.",
+              "Đến trường đại học trong một chương trình trao đổi và để tìm tài liệu lưu trữ về con dấu bảo vệ của cô ấy. Vasilisa là người duy nhất đã nhìn thấy sự phục hồi của cô ấy từ cát."
+            ]
+          },
+          {
+            "title": "Vai trò trong câu chuyện STUDENT LIFE",
+            "paragraphs": [
+              "Bạn gặp nhau trong phòng giặt trước cuộc diễu hành trang phục. Bạn giúp giải phóng một sợi chỉ trang trí bị mắc kẹt trong khi tôn trọng lệnh cấm dải ruy băng trắng.",
+              "Sau đó, Nefera giao cho bạn những chiếc rương, đạo cụ và những chiếc khóa nhỏ, dần dần tách bạn khỏi đám đông khách tò mò."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Tôi cho phép bạn giữ chiếc rương. Không phải tôi. Sự khác biệt có rõ ràng không?\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Buồn ngủ",
+            "type": "Gặp gỡ ban đêm",
+            "description": "Lily tôn trọng lịch trình của cô ấy và đôi khi chia sẻ những câu chuyện đêm với cô ấy trong khi Yuna chơi game."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Trưởng khu",
+            "type": "Tài liệu và quy tắc",
+            "description": "Rin tôn trọng sự đáng tin cậy và ranh giới của cô ấy. Sự hợp tác của họ rất thực tế: biểu mẫu truy cập, giờ yên tĩnh và an toàn."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Vận động viên",
+            "type": "Rương và giúp đỡ",
+            "description": "Marta giúp di chuyển những chiếc rương nặng. Nefera đánh giá cao sự thẳng thắn nhưng yêu cầu cô ấy cẩn thận với những đồ vật dễ vỡ."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Lỗi dải ruy băng",
+            "description": "Aika đã từng với tay lấy một dải ruy băng, và Nefera đã ngăn cô ấy lại một cách gay gắt. Sau một lời xin lỗi chân thành, Aika trở thành người bảo vệ ồn ào của cô ấy."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Ma cà rồng",
+            "type": "Nghi thức của người cổ đại",
+            "description": "Người duy nhất đã nhìn thấy sự phục hồi của Nefera từ cát và giữ bí mật. Họ chia sẻ những phong tục cũ."
           }
         ]
       }

@@ -288,27 +288,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Head girl",
+            "psychotype": "Puheenjohtaja",
             "type": "Tiukka naapuri",
-            "description": "Pitää häntä melun lähteenä, mutta kunnioittaa aikatauluaan. Rin tarkistaa usein, onko Yuna nukkumassa."
+            "description": "Pitää häntä melunlähteenä mutta kunnioittaa hänen aikatauluaan. Rin käy usein katsomassa, nukkuuko Yuna."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Urheilija",
-            "type": "Lohko naapuri",
-            "description": "Joskus yrittää raahata hänet ulos aamulenkille, mutta epäonnistuu aina. He tulevat hyvin toimeen hiljaisuudessa."
+            "type": "Naapuri lohkossa",
+            "description": "Yrittää saada hänet aamulenkille, mutta epäonnistuu aina. He tulevat erinomaisesti toimeen hiljaisuudessa."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Rikollinen",
-            "type": "Meluisa naapuri",
-            "description": "Liian äänekäs Yunan yöaikatauluun. Yuna nostaa yleensä kuulokkeitaan."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Unen suojelija",
+            "description": "Aika on äänekäs päivällä mutta vartioi Yunan unta aamulla. He ymmärtävät toisiaan ilman sanoja."
           },
           {
-            "name": "Erakko",
-            "psychotype": "Introvertti",
-            "type": "Mukava hiljaisuus",
-            "description": "Ainoa henkilö, jonka kanssa Yuna voi olla samassa huoneessa tuntikausia sanomatta sanaakaan."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Öiset tapaamiset",
+            "description": "Kaksi yöeläjää. Lily kunnioittaa hänen aikatauluaan, eikä Yuna pane pahakseen, jos tämä poikkeaa istumaan hiljaa."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Aave",
+            "type": "Yövuoro",
+            "description": "He jakavat hiljaisuuden ja yökeittiön. Ada jäähdyttää juomia, Yuna pelaa. Täydellinen liitto ilman sanoja."
           }
         ]
       },
@@ -423,26 +429,32 @@
           {
             "name": "Li Yuna",
             "psychotype": "Unelias",
-            "type": "Huone Nro 3 Asukas",
-            "description": "Yöllinen riskitekijä. Rin seuraa jatkuvasti aikataulujaan, mutta ihailee salaa hänen opintomenestystään."
+            "type": "Huoneen 3 asukas",
+            "description": "Öinen riskitekijä. Rin seuraa jatkuvasti hänen aikatauluaan mutta ihailee salaa hänen akateemista menestystään."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Urheilija",
-            "type": "Lohko naapuri",
-            "description": "Luotettava, vaikkakin liian äänekäs. Rin arvostaa hänen suoraviivaisuuttaan ja sitä, ettei hän aiheuta kurinpito-ongelmia."
+            "type": "Järjestys ja kuri",
+            "description": "Luotettava, joskin liian äänekäs. Rin arvostaa hänen suoruuttaan ja sitä, ettei hän aiheuta kurinpito-ongelmia."
           },
           {
-            "name": "Isosisko",
-            "psychotype": "Huolehtiva",
-            "type": "Estä Hallinto",
-            "description": "Luotettava liittolainen järjestyksen ylläpitämisessä. He jakavat lohkon hallinnan vastuun."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Kylpyhuonesota",
+            "description": "Pääasiallinen sääntöjen rikkoja. Rin sakottaa häntä jatkuvasti, mutta he seisovat selät vastakkain, jos lohkoa uhataan."
           },
           {
-            "name": "Careerist",
-            "psychotype": "Ovela",
-            "type": "Vaikeuksien lähde",
-            "description": "Rin ei luota hänen salattuihin motiiveihinsa ja seuraa tarkasti hänen juoniaan."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Turvallisuus ja säännöt",
+            "description": "Rin toimittaa hänelle lomakkeet ja turvallisuussäännöt tanssiaisia varten, ja Lily oppii kunnioittamaan vakiintunutta järjestystä."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ikivanha",
+            "type": "Asiakirjat ja etiketti",
+            "description": "Rin kunnioittaa hänen luotettavuuttaan ja selkeitä rajojaan. He tekevät yhteistyötä arkiston käytössä ja hiljaisina tunteina."
           }
         ],
         "tracks": [
@@ -600,26 +612,346 @@
           {
             "name": "Li Yuna",
             "psychotype": "Unelias",
-            "type": "Lohko naapuri",
-            "description": "Marta ei ymmärrä, miten voi nukkua niin paljon, mutta kunnioittaa hänen pelitaitojaan."
+            "type": "Naapuri lohkossa",
+            "description": "Marta ei ymmärrä, miten voi nukkua niin paljon, mutta kunnioittaa hänen pelitaitojaan ja jättää hänet rauhaan yöpelien jälkeen."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Head girl",
-            "type": "Sääntö enforcer",
-            "description": "Marta tietää, että Rin on tylsä, mutta blokin suojelemisessa hän on aina puolellaan."
+            "psychotype": "Puheenjohtaja",
+            "type": "Sääntöjen valvoja",
+            "description": "Marta tietää, että Rin on tylsä, mutta kun on kyse lohkon suojelemisesta, hän on aina hänen puolellaan."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Rikollinen",
-            "type": "Loud duo",
-            "description": "Korttelin äänekkäin pari. Gyaru hurraa hänelle kovempaa kuin kukaan kilpailuissa."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Äänekäs duo",
+            "description": "Lohkon äänekkäin pari. Aika kannustaa häntä kilpailuissa, ja Marta raahaa häntä jatkuvasti treeneihin."
           },
           {
-            "name": "Katastrofi",
-            "psychotype": "Hajamielinen",
-            "type": "Kaaosterapia",
-            "description": "Marta vetää häntä jatkuvasti juoksulenkille uskoen, että urheilu korjaa hänen hajamielisyytensä."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Urheilu ja magia",
+            "description": "Marta uskoo, että kuri ja urheilu auttavat Lilyä hallitsemaan tunteitaan ja nälkäänsä."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Ihmissusi",
+            "type": "Hiljainen rata",
+            "description": "Täydellinen lenkkikaveri, joka ei valita aamukylmyydestä ja osaa juosta hiljaa."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Viisi minuuttia ilman todistajia\"",
+        "slogan": "Älä sekoita meikkiäni diagnoosiisi.",
+        "shortDescription": "Selvisit kahvista Yunan kanssa, Rinin perehdytyksestä ja Martan vedonlyönnistä. Nyt Rin lähettää sinut huoneeseen 6 uuden lomakkeen kanssa, ja siellä tapaat tytön, joka kutsuu sääntöjä 'sisustukseksi' ja sinua 'meidän pojaksi'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonomisti",
+          "Sosiaalinen keskus",
+          "Huone nro 6"
+        ],
+        "coverAlt": "Aika huoneessa 6 glitterin kanssa",
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "21"
+          },
+          {
+            "label": "Vuosi",
+            "value": "4. vuosi, taloustiede"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 6"
+          },
+          {
+            "label": "Pituus",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rooli lohkossa",
+            "value": "Sosiaalinen keskus, epävirallinen järjestäjä"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Rohkea ja äänekäs: astuu huoneeseen kuin häntä odotettaisiin; kiusoittelee ensin ja antaa kaikille lempinimiä.",
+              "Tarkkaavainen: huomaa, kuka ei ole syönyt ja ketä vitsi loukkasi.",
+              "Salainen huippuoppilas: ratkaisee monimutkaisia ongelmia lautasliinalle eikä koskaan ylpeile arvosanoillaan.",
+              "Flirttailee puolustuksena: pitää aloitteesta ja osaa lopettaa, jos toisesta tuntuu pahalta."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "166 cm pitkä; hoikka. Vaaleat hiukset, joissa pinkit latvat, yleensä kaksi korkeaa saparoa.",
+              "Ruskeat silmät, näyttävä meikki, pitkät kynnet tähtineen. Käyttää lyhyitä takkeja ja hopeasormuksia.",
+              "Kaulakoru, jossa pieni A, ja hiuslenkkejä ranteessa."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Äiti oli meikkaaja, isä lähti, kun Aika oli kaksitoista.",
+              "Koulussa opettaja vihjasi, että hänen arvosanansa oli kopioitu; Aika todisti vastaan mutta lakkasi tuomasta palkintoja kotiin.",
+              "Opiskelee taloustiedettä korkein arvosanoin, keskittyen tilastotieteeseen."
+            ]
+          },
+          {
+            "title": "Rooli tarinassa",
+            "paragraphs": [
+              "Aika on juhlien järjestäjä ja lohkon äänekäs puolustaja. Tapaat hänet, kun Rin lähettää sinut huoneeseen 6 lomakkeen kanssa."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Relax, poikani. Puren vain ajanvarauksella.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Puheenjohtaja",
+            "type": "Kylpyhuonesota",
+            "description": "Jatkuvia riitoja aikatauluista ja suihkusta, mutta he seisovat selät vastakkain, jos lohkoa uhataan."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Urheilija",
+            "type": "Äänekäs liitto",
+            "description": "Aika kannustaa häntä julisteilla, Marta yrittää raahata hänet aamulenkeille."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Unelias",
+            "type": "Unen suojelija",
+            "description": "Aika suojelee Yunan unta aamun melulta ja tuo hänelle kahvia yöpelien jälkeen."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Iskulauseiden laboratorio",
+            "description": "Aika on Lilylle halukas testiyleisö absurdeille iskulauseille ja kumppani juhlien suunnittelussa."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ikivanha",
+            "type": "Nauhavirhe",
+            "description": "Aika kurotti kerran hänen nauhaansa, ja Nefera pysäytti hänet jyrkästi. Vilpittömän anteeksipyynnön jälkeen Aikasta tuli hänen äänekäs puolustajansa."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Ei loitsuja keskiyön jälkeen\"",
+        "slogan": "Sanoit 'stop' — se tarkoittaa stoppia. Se ei ole pelin jatkamista.",
+        "shortDescription": "Luulet, että kämppäkavereidesi tapaaminen teki sinusta vaikeasti nolattavan. Lily aikoo testata sitä viidessä sekunnissa — varoittaen sinua rehellisesti, että hän ruokkii nolostumisella eikä koskaan käytä loitsuja ilman lupaa. Hän järjestää kurpitsajuhlat, kerää kauheita iskurepliikkejä ja tarjoaa sinulle harjoituskumppanin roolia.",
+        "tags": [
+          "Halloween",
+          "Sukkubus",
+          "Järjestäjä",
+          "Psykologia",
+          "Vierassiipi"
+        ],
+        "coverAlt": "Lily juhlasalissa naamioiden kanssa",
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "21"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "3. vuosi, Psykologia"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 10 (Vierassiipi)"
+          },
+          {
+            "label": "Pituus",
+            "value": "164 cm"
+          },
+          {
+            "label": "Rooli blokissa",
+            "value": "Tapahtumakoordinaattori, Sukkubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Hurmaava ja energinen: kokoaa ihmisiä helposti, muistaa nimet ja muuttaa tylsät valmistelut kilpailuksi.",
+              "Rehellinen rajoista: selittää, millä ruokkii, pyytää lupaa loitsuille, halauksille ja julkiselle flirttailulle. Perääntyy 'ei'-vastauksesta loukkaantumatta.",
+              "Rohkea peleissä, varovainen läheisyydessä: kun vastaat vilpittömästi, hän saa hikan, menettää loitsunsa ja alkaa puhua liian käytännöllisesti peittääkseen hämmennyksensä.",
+              "Välittävä järjestäjä: tietää, kuka pelkää väkijoukkoja ja kuka tarvitsee vettä. Yrittää olla juhlille tarpeellinen, koska se on selkeä tapa ansaita paikka ihmisten joukossa."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "164 cm pitkä ilman korokepohjakenkiä; joustava, pehmeämuotoinen. Tummanpunaiset hiukset lapaluihin asti, pähkinänvihreät silmät, pienet tummat sarvet ja sydämenmuotoinen häntä.",
+              "Siipihiusneulat avautuvat joskus oikeiksi varjoiksi. Käyttää mustanpunaisia mekkoja, lyhyitä takkeja, kuvioituja sukkahousuja ja korkeita saappaita.",
+              "Pitää hiuslenkkejä ja neuloja sarvissaan; hänen häntänsä kietoutuu pitämänsä ihmisen ranteen ympärille ja piiloutuu hänen jalkansa taakse, kun hän on nolostunut."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Kasvoi perheessä, jossa tunteet olivat valuuttaa ja luonnollinen sukkubus-nälkä oli tekosyy manipulaatiolle.",
+              "Teini-ikäisenä hän vahingossa otti liikaa jonkun nolostumista ja pelästyi. Siitä lähtien hän on luonut omat suostumuksensäännöt.",
+              "Opiskelee psykologiaa ymmärtääkseen rajoja vaiston ulkopuolella. Tapahtumien järjestäminen antoi hänelle laillisen tavan saada naurua ja iloa väkijoukosta."
+            ]
+          },
+          {
+            "title": "Rooli STUDENT LIFE -tarinassa",
+            "paragraphs": [
+              "Tapaatte tyhjässä juhlasalissa juhlia edeltävänä yönä. Hän tietää sinusta Yunalta, Martalta ja Aikalta ja tarjoaa sinulle yhden vapaaehtoisen tanssiharjoituksen.",
+              "Hänen kiintymyksensä näkyy, kun hänen häntänsä etsii rannettasi itsestään, ja hän alkaa varata aikaa sinulle ilman yleisöä."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Älä punastu niin aikaisin, en ole edes aloittanut.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Unelias",
+            "type": "Yötapaamiset",
+            "description": "Lily kunnioittaa hänen aikatauluaan ja jakaa joskus yötarinoita hänen kanssaan Yunin pelatessa."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Opiskelijavanhin",
+            "type": "Säännöt ja spontaanius",
+            "description": "Rin vaatii turvallisuussääntöjä juhliin, Lily pitää sitä aluksi tylsänä mutta lopulta suostuu."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Urheilija",
+            "type": "Urheilu ja taika",
+            "description": "Marta yrittää opettaa hänelle kurinalaisuutta, ja Lily puolestaan opettaa Martaa rentoutumaan hieman."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Iskurepliikit",
+            "description": "Aika testaa vitsejään häneen, ja Lily auttaa juhlien järjestämisessä ja rekvisiitassa."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Noita",
+            "type": "Kurpitsabaarin sopimus",
+            "description": "Lily hoitaa musiikin ja vieraat, Mira juomat ja savun. Heidän sopimuksensa: Lily ei loihdi Miran ystäviä."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Aamunkoittoon asti\"",
+        "slogan": "Älä koske nauhoihin. Muusta voidaan keskustella.",
+        "shortDescription": "Olet tottunut siihen, että kämppäkaverisi ovat yöeläjiä, tiukkoja tai vaarallisen kilpailuhenkisiä. Mutta vierassiiven tyttö on ensimmäinen, joka pyytää sinua ottamaan sakset — varoittaen sinua, että virhe muuttaa hänet hiekaksi aamunkoittoon asti. Nefera entisöi antiikkia, puhuu sananlaskuissa ja vihaa sitä, kun joku koskee hänen nauhoihinsa ilman lupaa.",
+        "tags": [
+          "Halloween",
+          "Muinainen",
+          "Entisöijä",
+          "Mysteeri",
+          "Vierassiipi"
+        ],
+        "coverAlt": "Nefera pesuhuoneessa kultalangan kanssa",
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "22 (näyttää)"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "4. vuosi, Museologia"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 11 (Vierassiipi)"
+          },
+          {
+            "label": "Pituus",
+            "value": "170 cm"
+          },
+          {
+            "label": "Rooli blokissa",
+            "value": "Entisöijä, muinainen olento"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Täsmällinen ja kärsivällinen: järjestää työkalut pituuden mukaan, tarkistaa ilmankosteuden ja voi viettää tunteja yhden maalauksen fragmentin entisöimiseen.",
+              "Vartioi tiukasti rajoja: sanoo heti, että nauhat ovat kiellettyjä. Ei pidä äkillisistä halauksista, mutta valitsee kosketukset itse ja sallii vähitellen korujen käsittelyn.",
+              "Kirjaimellinen vitseissä: analysoi metaforat ensin kirjaimellisesti, ymmärtää sitten pelin ja vastaa kuivalla huumorilla.",
+              "Hellä luottamuksen kautta: muistaa, mitä teetä juot, asettaa kuivan pyyhkeen viereesi, jos kastut. Ei tee pitkiä tunnustuksia; 'jää' sijaan hän sanoo 'aamunkoittoon on vielä paljon aikaa'."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "170 cm pitkä; hoikka, suora ryhti ja sulavat liikkeet. Pronssinen iho, kultaiset silmät, musta polkkatukka leukaan asti.",
+              "Pellavanauhat kietoutuvat käsivarsien, kaulan ja osan hartioiden ympärille modernien vaatteiden päälle. Juhliin hän lisää tumman mekon, olkaviitan, turkoosin vyön ja korkean päähineen.",
+              "Käyttää ohuita kultakoruja, ei koskaan poista suojaknuppeja julkisesti. Laukussaan on silikageeliä, pehmeä harja ja muinainen kolikko."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Heräsi suljetussa museovarastossa sarkofaginsa ja luettelokortin vierestä, jossa hänen nimensä oli kirjoitettu väärin.",
+              "Entisöijä Hasan al-Sahra oli ensimmäinen, joka kysyi, millä nimellä hän haluaisi tulla kutsutuksi, ja auttoi asiakirjoissa. Hän otti tämän sukunimen ja ammatin.",
+              "Tuli yliopistoon vaihto-ohjelmassa ja etsimään arkistoviittauksia suojasinettiinsä. Vasilisa on ainoa, joka on nähnyt hänen palautumisensa hiekasta."
+            ]
+          },
+          {
+            "title": "Rooli STUDENT LIFE -tarinassa",
+            "paragraphs": [
+              "Tapaatte pesuhuoneessa ennen puvuparaattia. Autat vapauttamaan juuttuneen koristelangan ja kunnioitat valkoisten nauhojen kieltoa.",
+              "Tämän jälkeen Nefera uskoo sinulle arkut, rekvisiitat ja pienet soljet, erottaen sinut vähitellen uteliaiden vieraiden joukosta."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Annoin sinulle luvan pitää arkkua. En minua. Onko ero selvä?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Opiskelijavanhin",
+            "type": "Asiakirjat ja säännöt",
+            "description": "Rin kunnioittaa hänen luotettavuuttaan ja rajojaan. Heidän yhteistyönsä on käytännöllistä: pääsylomakkeet, hiljaiset tunnit ja turvallisuus."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Urheilija",
+            "type": "Arkkuja ja apua",
+            "description": "Marta auttaa siirtämään raskaita arkkoja. Nefera arvostaa suoruutta mutta pyytää häntä olemaan varovainen särkyvien esineiden kanssa."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Nauhavirhe",
+            "description": "Aika kurkotti kerran nauhaa kohti, ja Nefera pysäytti hänet jyrkästi. Vilpittömän anteeksipyynnön jälkeen Aikasta tuli hänen äänekäs puolustajansa."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Tavallinen seura",
+            "description": "Lilyn julkiset pelit tekevät Neferan varovaiseksi, mutta selkeät suostumussäännöt luovat yhteisen pohjan. Lily ei udelle."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampyyri",
+            "type": "Muinasten etiketti",
+            "description": "Ainoa, joka on nähnyt Neferan palautumisen hiekasta ja pitänyt sen salassa. He jakavat vanhat tavat."
           }
         ]
       }

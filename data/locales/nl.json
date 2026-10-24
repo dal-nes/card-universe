@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hoofd meisje",
-            "type": "Strenge buurman",
-            "description": "Beschouwt haar als een bron van lawaai, maar respecteert haar schema. Rin controleert vaak of Yuna slaapt."
+            "psychotype": "Blokhoofd",
+            "type": "Strikte buurvrouw",
+            "description": "Beschouwt haar als een geluidsbron maar respecteert haar schema. Rin komt vaak kijken of Yuna slaapt."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Atleet",
-            "type": "Blok buurman",
-            "description": "Soms probeert ze haar naar buiten te slepen voor een ochtendrun, maar faalt altijd. Ze kunnen goed met elkaar overweg in stilte."
+            "type": "Buurvrouw in het blok",
+            "description": "Probeert haar mee te slepen voor een ochtendloopje, maar faalt altijd. Ze kunnen het geweldig vinden in stilte."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Luidruchtige buurman",
-            "description": "Te luid voor Yuna ' s avond schema. Yuna zet meestal gewoon haar koptelefoon op."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Beschermer van de slaap",
+            "description": "Aika is overdag luidruchtig maar beschermt Yuna's slaap in de ochtend. Ze begrijpen elkaar zonder woorden."
           },
           {
-            "name": "Eenling",
-            "psychotype": "Introvert",
-            "type": "Comfortabele stilte",
-            "description": "De enige persoon met wie Yuna urenlang in dezelfde kamer kan blijven zonder een woord te zeggen."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Nachtelijke ontmoetingen",
+            "description": "Twee nachtbrakers. Lily respecteert haar schema en Yuna vindt het niet erg als ze langskomt om gewoon in stilte te zitten."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Spook",
+            "type": "Nachtdienst",
+            "description": "Ze delen de stilte en de nachtkeuken. Ada koelt drankjes, Yuna gamet. Een perfecte woordeloze alliantie."
           }
         ],
         "tracks": [
@@ -423,26 +429,32 @@
           {
             "name": "Li Yuna",
             "psychotype": "Slaperig",
-            "type": "Kamer Nr. 3 Bewoner",
-            "description": "Nachtelijke risicofactor. Rin houdt haar schema voortdurend in de gaten, maar bewondert in het geheim haar academische succes."
+            "type": "Bewoner van kamer 3",
+            "description": "Nachtelijke risicofactor. Rin houdt haar schema constant in de gaten maar bewondert stiekem haar academische succes."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Atleet",
-            "type": "Blok buurman",
-            "description": "Betrouwbaar, maar te luid. Rin waardeert haar eerlijkheid en dat ze geen disciplineproblemen veroorzaakt."
+            "type": "Orde en discipline",
+            "description": "Betrouwbaar, zij het te luidruchtig. Rin waardeert haar directheid en dat ze geen disciplinaire problemen veroorzaakt."
           },
           {
-            "name": "Grote Zus",
-            "psychotype": "Zorgzaam",
-            "type": "Block Administratie",
-            "description": "Een betrouwbare bondgenoot in het handhaven van de orde. Zij delen de verantwoordelijkheid voor het beheer van het blok."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Badkameroorlog",
+            "description": "De grootste regelovertreder. Rin beboet haar constant, maar ze staan rug aan rug als het blok wordt bedreigd."
           },
           {
-            "name": "Careerist",
-            "psychotype": "Sluw",
-            "type": "Bron van problemen",
-            "description": "Rin wantrouwt haar verborgen motieven en houdt haar plannen nauwlettend in de gaten."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Veiligheid en regels",
+            "description": "Rin voorziet haar van formulieren en veiligheidsregels voor het bal, en Lily leert de gevestigde orde te respecteren."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Oeroud",
+            "type": "Documenten en etiquette",
+            "description": "Rin respecteert haar betrouwbaarheid en duidelijke grenzen. Ze werken samen aan archieftoegang en stille uren."
           }
         ],
         "tracks": [
@@ -600,26 +612,346 @@
           {
             "name": "Li Yuna",
             "psychotype": "Slaperig",
-            "type": "Blok buurman",
-            "description": "Marta begrijpt niet hoe men zo veel kan slapen, maar respecteert haar spelvaardigheden."
+            "type": "Buurvrouw in het blok",
+            "description": "Marta begrijpt niet hoe iemand zoveel kan slapen maar respecteert haar gamevaardigheden en laat haar met rust na nachtwedstrijden."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hoofd meisje",
-            "type": "Regelhandhaver",
+            "psychotype": "Blokhoofd",
+            "type": "Handhaving van regels",
             "description": "Marta weet dat Rin saai is, maar als het gaat om het beschermen van het blok, staat ze altijd aan haar kant."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Luid duo",
-            "description": "Het luidste paar in het blok. Gyaru juicht voor haar luider dan wie dan ook op wedstrijden."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Luidruchtig duo",
+            "description": "Het luidruchtigste stel in het blok. Aika juicht voor haar bij wedstrijden, en Marta sleept haar constant mee naar trainingen."
           },
           {
-            "name": "Ramp",
-            "psychotype": "Afwezig-minded",
-            "type": "Chaos therapy",
-            "description": "Marta trekt haar voortdurend op de loop, in de overtuiging dat sport haar afwezigheid zal oplossen."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Sport en magie",
+            "description": "Marta gelooft dat discipline en sport Lily zullen helpen haar emoties en honger te beheersen."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Weerwolf",
+            "type": "Stille baan",
+            "description": "De perfecte loopmaatje die niet klaagt over de ochtendk Kou en weet hoe ze in stilte moet lopen."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Vijf minuten zonder getuigen\"",
+        "slogan": "Verwar mijn make-up niet met jouw diagnose.",
+        "shortDescription": "Je overleefde koffie met Yuna, Rins briefing en Marta's weddenschap. Nu stuurt Rin je naar kamer 6 met nog een formulier, en daar ontmoet je een meisje dat regels 'decoratie' noemt en jou 'ons jongetje'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Econoom",
+          "Sociaal centrum",
+          "Kamer nr. 6"
+        ],
+        "coverAlt": "Aika in kamer 6 met glitter",
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "21"
+          },
+          {
+            "label": "Jaar",
+            "value": "4e jaar, Economie"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 6"
+          },
+          {
+            "label": "Lengte",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "Sociaal centrum, informele organisator"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Brutaal en luidruchtig: komt een kamer binnen alsof ze verwacht wordt; plaagt eerst en geeft iedereen bijnamen.",
+              "Oplettend: merkt op wie niet heeft gegeten en wie gekwetst is door een grap.",
+              "Undercover topstudent: lost complexe problemen op een servet op en schept nooit op over cijfers.",
+              "Flirten als verdediging: houdt graag de leiding en weet te stoppen als de ander zich ongemakkelijk voelt."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "166 cm lang; slank. Blond haar met roze punten, meestal twee hoge staartjes.",
+              "Bruine ogen, opvallende make-up, lange nagels met sterretjes. Draagt korte jasjes en zilveren ringen.",
+              "Ketting met een kleine 'A' en haarelastiekjes om haar pols."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Haar moeder was visagist, haar vader vertrok toen Aika twaalf was.",
+              "Op school suggereerde een leraar dat haar cijfer was overgeschreven; Aika bewees het tegendeel maar stopte met prijzen mee naar huis te nemen.",
+              "Ze studeert Economie met hoge cijfers, gericht op statistiek."
+            ]
+          },
+          {
+            "title": "Rol in het verhaal",
+            "paragraphs": [
+              "Aika is de organisator van feestjes en de luide verdediger van het blok. Je ontmoet haar wanneer Rin je met een formulier naar kamer 6 stuurt."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Relax, jongen. Ik bijt alleen op afspraak.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Blokhoofd",
+            "type": "Badkameroorlog",
+            "description": "Constante ruzies over schema's en de douche, maar ze staan rug aan rug als het blok wordt bedreigd."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleet",
+            "type": "Luidruchtige alliantie",
+            "description": "Aika juicht voor haar met posters, Marta probeert haar mee te slepen voor ochtendloopjes."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Slaperig",
+            "type": "Beschermer van de slaap",
+            "description": "Aika beschermt Yuna's slaap tegen ochtendgeluid en brengt haar koffie na nachtspellen."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pick-up line laboratorium",
+            "description": "Aika is Lily's gewillige testpubliek voor absurde pick-up lines en partner in feestplanning."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Oeroud",
+            "type": "De lintfout",
+            "description": "Aika reikte ooit naar haar lint en Nefera stopte haar scherp. Na een oprechte verontschuldiging werd Aika haar luidruchtige verdediger."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Geen spreuken na middernacht\"",
+        "slogan": "Je zei 'stop' — dat betekent stop. Het is geen voortzetting van het spel.",
+        "shortDescription": "Je dacht dat het ontmoeten van je huisgenoten je moeilijk in verlegenheid kon brengen. Lily gaat dat in vijf seconden testen — ze waarschuwt je eerlijk dat ze zich voedt met verlegenheid en nooit spreuken gebruikt zonder toestemming. Ze organiseert het pompoenbal, verzamelt vreselijke openingszinnen en biedt je aan als repetitiepartner.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organisator",
+          "Psychologie",
+          "Gastenverblijf"
+        ],
+        "coverAlt": "Lily in de aula met maskers",
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "21"
+          },
+          {
+            "label": "Jaar",
+            "value": "3e jaar, Psychologie"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 10 (Gastenverblijf)"
+          },
+          {
+            "label": "Lengte",
+            "value": "164 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "Evenementencoördinator, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Charmant en energiek: verzamelt gemakkelijk mensen, onthoudt namen, verandert saaie voorbereidingen in een wedstrijd.",
+              "Eerlijk over grenzen: legt uit waar ze zich mee voedt, vraagt toestemming voor spreuken, knuffels en publiek flirten. Trekt zich terug bij een 'nee' zonder beledigd te zijn.",
+              "Dapper in spellen, voorzichtig in intimiteit: als je oprecht antwoordt, krijgt ze de hik, verliest ze haar charmes en begint ze te praktisch te praten om haar verwarring te verbergen.",
+              "Zorgzame organisator: weet wie bang is voor menigten en wie water nodig heeft. Probeert nodig te zijn voor het feest omdat het een duidelijke manier is om een plek onder de mensen te verdienen."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "164 cm lang zonder platform; lenig, met zachte rondingen. Donkerrood haar tot haar schouderbladen, hazelnootgroene ogen, kleine donkere horens en een staart met een hartje aan het uiteinde.",
+              "Vleugelhaarspelden ontvouwen zich soms tot echte schaduwen. Draagt zwarte en scharlakenrode jurken, korte jacks, gebreide kousen en hoge laarzen.",
+              "Draagt haarelastiekjes en spelden op haar horens; haar staart wikkelt zich om de pols van iemand die ze leuk vindt en verstopt zich achter haar been als ze verlegen is."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Groeide op in een familie waar emoties valuta waren en natuurlijke succubushonger een excuus was voor manipulatie.",
+              "Als tiener nam ze per ongeluk te veel verlegenheid van iemand over en werd bang. Sindsdien heeft ze haar eigen regels voor toestemming opgesteld.",
+              "Studeerde Psychologie om grenzen buiten instinct te begrijpen. Evenementen organiseren gaf haar een legitieme manier om gelach en vreugde van een menigte te krijgen."
+            ]
+          },
+          {
+            "title": "Rol in het STUDENT LIFE-verhaal",
+            "paragraphs": [
+              "Jullie ontmoeten elkaar in de lege aula de avond voor het bal. Ze weet van jou via Yuna, Marta en Aika en biedt een vrijwillige dansrepetitie aan.",
+              "Haar genegenheid blijkt wanneer haar staart uit zichzelf je pols zoekt, en ze begint tijd voor je te reserveren zonder publiek."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Bloos niet zo vroeg, ik ben nog niet eens begonnen.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Slaperig",
+            "type": "Nachtelijke ontmoetingen",
+            "description": "Lily respecteert haar schema en deelt soms nachtverhalen met haar terwijl Yuna gamet."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Hoofdmeisje",
+            "type": "Regels en spontaniteit",
+            "description": "Rin eist veiligheidsregels voor het bal, Lily vindt het eerst saai maar stemt uiteindelijk toe."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleet",
+            "type": "Sport en magie",
+            "description": "Marta probeert haar discipline te leren, en Lily leert Marta op haar beurt een beetje te ontspannen."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Openingszinnen",
+            "description": "Aika test haar grappen op haar, en Lily helpt met feestorganisatie en rekwisieten."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Heks",
+            "type": "Pompoenbar-pact",
+            "description": "Lily regelt muziek en gasten, Mira regelt drank en rook. Hun pact: Lily zal Mira's vrienden niet betoveren."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Tot zonsopgang\"",
+        "slogan": "Raak de linten niet aan. De rest kan besproken worden.",
+        "shortDescription": "Je bent gewend dat je huisgenoten nachtelijk, streng of gevaarlijk competitief zijn. Maar het meisje uit het gastenverblijf is de eerste die je vraagt een schaar te pakken — en je waarschuwt dat een fout haar tot zonsopgang in zand zal veranderen. Nefera restaureert antiquiteiten, spreekt in spreekwoorden en haat het als iemand zonder toestemming aan haar linten komt.",
+        "tags": [
+          "Halloween",
+          "Oeroud",
+          "Restaurator",
+          "Mysterie",
+          "Gastenverblijf"
+        ],
+        "coverAlt": "Nefera in de wasruimte met gouddraad",
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "22 (lijkt)"
+          },
+          {
+            "label": "Jaar",
+            "value": "4e jaar, Museumstudies"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 11 (Gastenverblijf)"
+          },
+          {
+            "label": "Lengte",
+            "value": "170 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "Restaurator, oeroude entiteit"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Precies en geduldig: rangschikt gereedschap op lengte, controleert de luchtvochtigheid en kan uren besteden aan het restaureren van een enkel fragment van een schilderij.",
+              "Bewaakt strikt grenzen: zegt onmiddellijk dat linten verboden zijn. Houdt niet van plotselinge knuffels, maar kiest zelf aanrakingen en staat geleidelijk hulp met sieraden toe.",
+              "Letterlijk in grappen: analyseert metaforen eerst letterlijk, begrijpt dan het spel en antwoordt met droge humor.",
+              "Teder door vertrouwen: onthoudt welke thee je drinkt, legt een droge handdoek naast je als je nat wordt. Maakt geen lange bekentenissen; in plaats van 'blijf' zegt ze 'er is nog veel tijd tot zonsopgang'."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "170 cm lang; slank, met een rechte houding en vloeiende bewegingen. Bronskleurige huid, gouden ogen, zwarte bob tot de kin.",
+              "Linnen linten wikkelen zich om haar armen, nek en een deel van haar schouders over moderne kleding. Voor het bal voegt ze een donkere jurk, een schoudercape, een turquoise riem en een hoge hoofdtooi toe.",
+              "Draagt dunne gouden sieraden, doet de beschermende knopen nooit af in het openbaar. In haar tas zitten silicagel, een zachte borstel en een oude munt."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Ontwaakte in een gesloten museumdepot naast haar sarcofaag en een cataloguskaart waarop haar naam verkeerd was gespeld.",
+              "Restaurator Hasan al-Sahra was de eerste die vroeg hoe ze genoemd wilde worden en hielp met de documenten. Ze nam zijn achternaam en beroep aan.",
+              "Kwam naar de universiteit in een uitwisselingsprogramma en voor archiefverwijzingen naar haar beschermende zegel. Vasilisa is de enige die haar herstel uit zand heeft gezien."
+            ]
+          },
+          {
+            "title": "Rol in het STUDENT LIFE-verhaal",
+            "paragraphs": [
+              "Jullie ontmoeten elkaar in de wasruimte voor de kostuumparade. Je helpt een vastzittende decoratieve draad los te maken en respecteert het verbod op witte linten.",
+              "Hierna vertrouwt Nefera je kisten, rekwisieten en kleine gespen toe, en scheidt je geleidelijk van de menigte nieuwsgierige gasten."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ik gaf je toestemming om de kist vast te houden. Niet mij. Is het verschil duidelijk?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Hoofdmeisje",
+            "type": "Documenten en regels",
+            "description": "Rin respecteert haar betrouwbaarheid en grenzen. Hun samenwerking is praktisch: toegangsformulieren, rustige uren en veiligheid."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleet",
+            "type": "Kisten en hulp",
+            "description": "Marta helpt zware kisten te verplaatsen. Nefera waardeert de directheid maar vraagt haar voorzichtig te zijn met breekbare voorwerpen."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Lintfout",
+            "description": "Aika reikte ooit naar een lint, en Nefera stopte haar scherp. Na oprechte excuses werd Aika haar luidruchtige verdediger."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Gewoon gezelschap",
+            "description": "Lily's openbare spelletjes maken Nefera wantrouwend, maar duidelijke toestemmingsregels scheppen een gemeenschappelijke basis. Lily vraagt niet door."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampier",
+            "type": "Etiquette van de oude",
+            "description": "De enige die Nefera's herstel uit zand heeft gezien en het geheim heeft gehouden. Ze delen oude manieren."
           }
         ]
       }

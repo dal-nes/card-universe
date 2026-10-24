@@ -5,38 +5,140 @@
     "endDate": "2026-11-20"
   },
   "locales": [
-    { "code": "ru", "label": "Русский" },
-    { "code": "en", "label": "English" },
-    { "code": "cs", "label": "Čeština" },
-    { "code": "da", "label": "Dansk" },
-    { "code": "de", "label": "Deutsch" },
-    { "code": "es", "label": "Español (Latinoamérica)" },
-    { "code": "es-es", "label": "Español (España)" },
-    { "code": "fi", "label": "Suomi" },
-    { "code": "fil", "label": "Filipino" },
-    { "code": "fr", "label": "Français" },
-    { "code": "hu", "label": "Magyar" },
-    { "code": "id", "label": "Bahasa Indonesia" },
-    { "code": "it", "label": "Italiano" },
-    { "code": "ja", "label": "日本語" },
-    { "code": "ko", "label": "한국어" },
-    { "code": "ms", "label": "Bahasa Melayu" },
-    { "code": "nl", "label": "Nederlands" },
-    { "code": "nb", "label": "Norsk Bokmål" },
-    { "code": "pl", "label": "Polski" },
-    { "code": "pt", "label": "Português" },
-    { "code": "pt-br", "label": "Português (Brasil)" },
-    { "code": "ro", "label": "Română" },
-    { "code": "sv", "label": "Svenska" },
-    { "code": "th", "label": "ภาษาไทย" },
-    { "code": "tr", "label": "Türkçe" },
-    { "code": "vi", "label": "Tiếng Việt" },
-    { "code": "zh-Hant", "label": "繁體中文" }
+    {
+      "code": "ru",
+      "label": "Русский"
+    },
+    {
+      "code": "en",
+      "label": "English"
+    },
+    {
+      "code": "cs",
+      "label": "Čeština"
+    },
+    {
+      "code": "da",
+      "label": "Dansk"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch"
+    },
+    {
+      "code": "es",
+      "label": "Español (Latinoamérica)"
+    },
+    {
+      "code": "es-es",
+      "label": "Español (España)"
+    },
+    {
+      "code": "fi",
+      "label": "Suomi"
+    },
+    {
+      "code": "fil",
+      "label": "Filipino"
+    },
+    {
+      "code": "fr",
+      "label": "Français"
+    },
+    {
+      "code": "hu",
+      "label": "Magyar"
+    },
+    {
+      "code": "id",
+      "label": "Bahasa Indonesia"
+    },
+    {
+      "code": "it",
+      "label": "Italiano"
+    },
+    {
+      "code": "ja",
+      "label": "日本語"
+    },
+    {
+      "code": "ko",
+      "label": "한국어"
+    },
+    {
+      "code": "ms",
+      "label": "Bahasa Melayu"
+    },
+    {
+      "code": "nl",
+      "label": "Nederlands"
+    },
+    {
+      "code": "nb",
+      "label": "Norsk Bokmål"
+    },
+    {
+      "code": "pl",
+      "label": "Polski"
+    },
+    {
+      "code": "pt",
+      "label": "Português"
+    },
+    {
+      "code": "pt-br",
+      "label": "Português (Brasil)"
+    },
+    {
+      "code": "ro",
+      "label": "Română"
+    },
+    {
+      "code": "sv",
+      "label": "Svenska"
+    },
+    {
+      "code": "th",
+      "label": "ภาษาไทย"
+    },
+    {
+      "code": "tr",
+      "label": "Türkçe"
+    },
+    {
+      "code": "vi",
+      "label": "Tiếng Việt"
+    },
+    {
+      "code": "zh-Hant",
+      "label": "繁體中文"
+    }
   ],
   "characters": [
-    { "id": "yuna", "file": "data/characters/yuna.json" },
-    { "id": "rin", "file": "data/characters/rin.json" },
-    { "id": "marta", "file": "data/characters/marta.json" }
+    {
+      "id": "yuna",
+      "file": "data/characters/yuna.json"
+    },
+    {
+      "id": "rin",
+      "file": "data/characters/rin.json"
+    },
+    {
+      "id": "marta",
+      "file": "data/characters/marta.json"
+    },
+    {
+      "id": "aika",
+      "file": "data/characters/aika.json"
+    },
+    {
+      "id": "lily",
+      "file": "data/characters/lily.json"
+    },
+    {
+      "id": "nefera",
+      "file": "data/characters/nefera.json"
+    }
   ],
   "group": "data/group.json"
 }

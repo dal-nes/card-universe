@@ -747,3 +747,9 @@
   background: #fff;
   transform: scale(1.2);
 }
+.hero-card--d {
+  top: 25%;
+  left: 10%;
+  transform: rotate(3deg);
+  z-index: 4;
+}

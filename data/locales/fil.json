@@ -289,7 +289,7 @@
           {
             "name": "Kobayashi Rin",
             "psychotype": "Head girl",
-            "type": "Strikto na kapitbahay",
+            "type": "Striktong kapitbahay",
             "description": "Itinuturing siyang pinagmumulan ng ingay ngunit iginagalang ang kanyang iskedyul. Madalas pumunta si Rin para tingnan kung tulog na si Yuna."
           },
           {
@@ -299,16 +299,22 @@
             "description": "Minsan sinusubukan siyang hilahin para sa isang morning run, ngunit palaging nabibigo. Masarap silang magkasundo sa katahimikan."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Maingay na kapitbahay",
-            "description": "Masyadong maingay para sa iskedyul ng gabi ni Yuna. Karaniwang pinapalakas na lang ni Yuna ang kanyang headphones."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Tagapagtanggol ng tulog",
+            "description": "Maingay si Aika sa umaga ngunit pinoprotektahan ang tulog ni Yuna. Nagkakaintindihan sila nang walang salita."
           },
           {
-            "name": "Loner",
-            "psychotype": "Introvert",
-            "type": "Komportableng katahimikan",
-            "description": "Ang tanging tao na kasama ni Yuna na maaaring manatili sa parehong silid nang maraming oras nang hindi nagsasalita."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Mga pagpupulong sa gabi",
+            "description": "Dalawang nilalang ng gabi. Iginagalang ni Lily ang kanyang iskedyul at ayos lang kay Yuna kapag dumaan siya para umupo lang sa tahimik."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Multo",
+            "type": "Night shift",
+            "description": "Nagbabahagi sila ng katahimikan at night kitchen. Nagpapalamig si Ada ng inumin, naglalaro si Yuna. Perpektong alyansa na walang salita."
           }
         ]
       },
@@ -429,20 +435,26 @@
           {
             "name": "Marta Santos",
             "psychotype": "Atleta",
-            "type": "Kapitbahay sa block",
+            "type": "Kaayusan at disiplina",
             "description": "Maaasahan, kahit na masyadong maingay. Pinahahalagahan ni Rin ang kanyang prangkisa at ang hindi paglikha ng mga problema sa disiplina."
           },
           {
-            "name": "Big Sister",
-            "psychotype": "Mapag-alaga",
-            "type": "Administrasyon ng Block",
-            "description": "Isang maaasahang kaalyado sa pagpapanatili ng kaayusan. Ibinabahagi nila ang mga responsibilidad sa pamamahala ng block."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Digmaan sa banyo",
+            "description": "Ang pangunahing lumalabag sa patakaran. Palaging pinapagmulta ni Rin si Aika, ngunit magkatuwang sila kapag may banta sa block."
           },
           {
-            "name": "Careerist",
-            "psychotype": "Tuso",
-            "type": "Pinagmumulan ng gulo",
-            "description": "Hindi pinagkakatiwalaan ni Rin ang kanyang mga nakatagong motibo at binabantayan nang mabuti ang kanyang mga pakana."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Kaligtasan at patakaran",
+            "description": "Binibigyan ni Rin si Lily ng mga form at panuntunan sa kaligtasan para sa bola, at natututo si Lily na igalang ang umiiral na kaayusan."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Sinaunang",
+            "type": "Mga dokumento at etiketa",
+            "description": "Iginagalang ni Rin ang kanyang pagiging maaasahan at malinaw na hangganan. Nagtutulungan sila sa pag-access ng archive at mga tahimik na oras."
           }
         ],
         "tracks": [
@@ -601,7 +613,7 @@
             "name": "Li Yuna",
             "psychotype": "Inaantok",
             "type": "Kapitbahay sa block",
-            "description": "Hindi maintindihan ni Marta kung paano matulog nang napakarami ngunit iginagalang ang kanyang mga kasanayan sa paglalaro."
+            "description": "Hindi maintindihan ni Marta kung paano matulog nang napakarami ngunit iginagalang ang kanyang mga kasanayan sa paglalaro at hinahayaan siya pagkatapos ng mga laro sa gabi."
           },
           {
             "name": "Kobayashi Rin",
@@ -610,16 +622,336 @@
             "description": "Alam ni Marta na si Rin ay boring, ngunit pagdating sa pagprotekta sa block, palagi siyang nasa panig niya."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Maingay na duo",
-            "description": "Ang pinakamaingay na pares sa block. Mas malakas ang hiyaw ni Gyaru para sa kanya kaysa sa sinuman sa mga kumpetisyon."
+            "description": "Ang pinakamaingay na pares sa block. Sinusuportahan ni Aika si Marta sa mga kumpetisyon, at patuloy na hinihila ni Marta si Aika sa mga workout."
           },
           {
-            "name": "Disaster",
-            "psychotype": "Malilimutin",
-            "type": "Therapy sa kaguluhan",
-            "description": "Patuloy na hinihila ni Marta ito sa mga pagtakbo, naniniwala na aayusin ng sports ang pagiging malilimutin nito."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Sports at magic",
+            "description": "Naniniwala si Marta na ang disiplina at sports ay makakatulong kay Lily na kontrolin ang kanyang emosyon at gutom."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Werewolf",
+            "type": "Tahimik na track",
+            "description": "Ang perpektong kasama sa pagtakbo na hindi nagrereklamo sa lamig ng umaga at marunong tumakbo nang tahimik."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Limang Minuto na Walang Saksi\"",
+        "slogan": "Huwag mong ipagkamali ang makeup ko sa diagnosis mo.",
+        "shortDescription": "Nakaligtas ka sa kape kasama si Yuna, sa briefing ni Rin, at sa taya ni Marta. Ngayon, ipinadala ka ni Rin sa kwarto 6 kasama ang isa pang form, at doon mo nakilala ang isang babaeng tinatawag na 'dekorasyon' ang mga patakaran at ikaw ay 'aming lalaki'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonomista",
+          "Sentro ng sosyal",
+          "Kwarto Blg. 6"
+        ],
+        "coverAlt": "Aika sa Kwarto 6 na may glitter",
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "21"
+          },
+          {
+            "label": "Taon",
+            "value": "Ika-4 na taon, Ekonomiya"
+          },
+          {
+            "label": "Kwarto",
+            "value": "Blg. 6"
+          },
+          {
+            "label": "Taas",
+            "value": "166 cm"
+          },
+          {
+            "label": "Papel sa block",
+            "value": "Sentro ng sosyal, impormal na organizer"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Matapang at maingay: pumapasok sa kwarto na parang hinihintay siya; nang-aasar muna at nagbibigay ng palayaw sa lahat.",
+              "Mapagmasid: napapansin kung sino ang hindi kumain at kung sino ang nasaktan sa biro.",
+              "Tago ang talino: nagso-solve ng mahihirap na problema sa napkin at hindi nagyayabang sa grades.",
+              "Nagpi-flirt bilang depensa: gustong siya ang nangunguna at marunong huminto kapag hindi komportable ang iba."
+            ]
+          },
+          {
+            "title": "Panlabas na anyo",
+            "paragraphs": [
+              "166 cm ang taas; payat. Blonde na buhok na may pink na dulo, kadalasan ay dalawang mataas na buntot.",
+              "Brown na mata, maliwanag na makeup, mahahabang kuko na may bituin. Nagsusuot ng maiikling jacket at silver rings.",
+              "Necklace na may maliit na 'A' at hair ties sa pulsuhan."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Makeup artist ang kanyang ina, umalis ang kanyang ama noong labindalawang taong gulang si Aika.",
+              "Sa paaralan, may guro na nagpahiwatig na kinopya niya ang kanyang grado; pinatunayan niyang mali ito pero tumigil na siyang mag-uwi ng mga premyo.",
+              "Nag-aaral ng Ekonomiya na may matataas na marka, nakatuon sa estadistika."
+            ]
+          },
+          {
+            "title": "Papel sa kuwento",
+            "paragraphs": [
+              "Si Aika ang organizer ng mga party at ang maingay na tagapagtanggol ng block. Nakilala mo siya nang ipadala ka ni Rin sa kwarto 6 kasama ang form."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Relax, aking lalaki. Kumakagat lang ako kapag may appointment.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Digmaan sa banyo",
+            "description": "Palaging nagtatalo tungkol sa iskedyul at shower, ngunit magkatuwang sila kapag may banta sa block."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Maingay na alyansa",
+            "description": "Sinusuportahan ni Aika si Marta gamit ang mga poster, sinusubukan ni Marta na hilahin si Aika sa mga morning run."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Inaantok",
+            "type": "Tagapagtanggol ng tulog",
+            "description": "Pinoprotektahan ni Aika ang tulog ni Yuna mula sa ingay sa umaga at binibigyan siya ng kape pagkatapos ng mga laro sa gabi."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Laboratoryo ng pickup lines",
+            "description": "Si Aika ang handang tagapakinig ni Lily para sa mga katawa-tawang pickup line at kasama sa pagpaplano ng party."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Sinaunang",
+            "type": "Pagkakamali sa laso",
+            "description": "Minsang inabot ni Aika ang laso ni Nefera at mabilis siyang pinigilan. Pagkatapos ng taos-pusong paghingi ng tawad, naging tagapagtanggol niya si Aika."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Walang Charms Pagkalipas ng Hatinggabi\"",
+        "slogan": "Sinabi mong 'tigil' — ibig sabihin, tigil. Hindi ito pagpapatuloy ng laro.",
+        "shortDescription": "Akala mo, dahil nakilala mo na ang mga kasama mo sa kwarto, mahirap ka nang mapahiya. Susubukan iyon ni Lily sa loob ng limang segundo — taos-pusong magbabala sa iyo na kumakain siya ng hiya at hindi kailanman gumagamit ng charms nang walang pahintulot. Siya ang nag-organisa ng pumpkin ball, nangongolekta ng mga pangit na pickup lines, at inaalok kang maging rehearsal partner niya.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organizer",
+          "Psychology",
+          "Guest Wing"
+        ],
+        "coverAlt": "Lily sa assembly hall na may mga maskara",
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "21"
+          },
+          {
+            "label": "Taon",
+            "value": "3rd year, Psychology"
+          },
+          {
+            "label": "Kwarto",
+            "value": "No. 10 (Guest Wing)"
+          },
+          {
+            "label": "Taas",
+            "value": "164 cm"
+          },
+          {
+            "label": "Role sa block",
+            "value": "Event Coordinator, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Kaakit-akit at masigla: madaling magtipon ng mga tao, naaalala ang mga pangalan, ginagawang kompetisyon ang boring na paghahanda.",
+              "Tapat tungkol sa mga hangganan: ipinapaliwanag kung ano ang kinakain niya, humihingi ng pahintulot para sa charms, yakap, at pampublikong panliligaw. Bumabalik mula sa 'hindi' nang walang sama ng loob.",
+              "Matapang sa laro, maingat sa intimasiya: kapag sinsero kang sumagot, sinisinok siya, nawawala ang kanyang charms, at nagsisimulang magsalita nang masyadong praktikal upang itago ang kanyang pagkalito.",
+              "Mapagmalasakit na organizer: alam niya kung sino ang takot sa mga tao at kung sino ang nangangailangan ng tubig. Sinusubukan niyang maging kailangan sa party dahil ito ay isang malinaw na paraan upang makakuha ng lugar sa mga tao."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "164 cm ang taas na walang platform; flexible, may malambot na kurba. Madilim na pulang buhok hanggang sa mga talim ng balikat, hazel-green na mga mata, maliliit na madilim na sungay, at buntot na may puso sa dulo.",
+              "Ang mga wing hairpins kung minsan ay nagiging totoong anino. Nagsusuot ng itim at iskarlata na damit, maiikling jacket, patterned na medyas, at matataas na bota.",
+              "Naglalagay ng mga hair ties at pins sa kanyang mga sungay; ang kanyang buntot ay pumupulupot sa pulso ng taong gusto niya at nagtatago sa likod ng kanyang binti kapag nahihiya siya."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Lumaki sa isang pamilya kung saan ang emosyon ay pera at ang natural na kagutuman ng succubus ay isang dahilan para sa manipulasyon.",
+              "Bilang isang tinedyer, aksidente siyang kumuha ng masyadong maraming hiya ng isang tao at natakot. Mula noon, gumawa siya ng sarili niyang mga patakaran ng pahintulot.",
+              "Pumasok sa Psychology upang maunawaan ang mga hangganan na lampas sa instinct. Ang pag-oorganisa ng kaganapan ay nagbigay sa kanya ng lehitimong paraan upang makakuha ng tawa at kagalakan mula sa isang karamihan."
+            ]
+          },
+          {
+            "title": "Role sa kuwento ng STUDENT LIFE",
+            "paragraphs": [
+              "Magkikita kayo sa walang laman na assembly hall sa gabi bago ang bola. Alam niya ang tungkol sa iyo mula kay Yuna, Marta, at Aika at nag-aalok ng isang boluntaryong dance rehearsal.",
+              "Ang kanyang pagmamahal ay makikita kapag ang kanyang buntot ay kusang naghahanap ng iyong pulso, at nagsisimula siyang maglaan ng oras para sa iyo nang walang audience."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Huwag kang masyadong mamula, hindi pa nga ako nagsisimula.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Inaantok",
+            "type": "Mga pagpupulong sa gabi",
+            "description": "Ginagalang ni Lily ang iskedyul niya at kung minsan ay nagbabahagi ng mga kuwento sa gabi sa kanya habang naglalaro si Yuna."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Mga patakaran at spontaneity",
+            "description": "Hinihiling ni Rin ang mga patakaran sa kaligtasan para sa bola, sa simula ay nakakabagot ito para kay Lily ngunit kalaunan ay pumayag din siya."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Palakasan at mahika",
+            "description": "Sinusubukan ni Marta na turuan siya ng disiplina, at si Lily naman ay tinuturuan si Marta na mag-relax nang kaunti."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Mga pickup line",
+            "description": "Sinusubukan ni Aika ang kanyang mga biro sa kanya, at tumutulong si Lily sa pag-oorganisa ng party at mga props."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Pumpkin bar pact",
+            "description": "Si Lily ang humahawak ng musika at mga bisita, si Mira ang humahawak ng mga inumin at usok. Ang kanilang kasunduan: hindi gagamitan ni Lily ng charms ang mga kaibigan ni Mira."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Hanggang Madaling Araw\"",
+        "slogan": "Huwag hawakan ang mga laso. Ang iba ay maaaring pag-usapan.",
+        "shortDescription": "Sanay ka nang ang iyong mga kasama sa kwarto ay nocturnal, mahigpit, o mapanganib na kompetitibo. Ngunit ang babae mula sa guest wing ang unang humiling sa iyo na kumuha ng gunting—nagbabala sa iyo na ang isang pagkakamali ay gagawin siyang buhangin hanggang madaling araw. Nagre-restore si Nefera ng mga antigo, nagsasalita sa mga kasabihan, at ayaw niya kapag may humahawak sa kanyang mga laso nang walang pahintulot.",
+        "tags": [
+          "Halloween",
+          "Sinaunang",
+          "Restorer",
+          "Misteryo",
+          "Guest Wing"
+        ],
+        "coverAlt": "Nefera sa laundry room na may gintong sinulid",
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "22 (mukhang)"
+          },
+          {
+            "label": "Taon",
+            "value": "4th year, Museum Studies"
+          },
+          {
+            "label": "Kwarto",
+            "value": "No. 11 (Guest Wing)"
+          },
+          {
+            "label": "Taas",
+            "value": "170 cm"
+          },
+          {
+            "label": "Role sa block",
+            "value": "Restorer, sinaunang nilalang"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Tumpak at matiyaga: inaayos ang mga tool ayon sa haba, sinusuri ang humidity ng hangin, at kayang gumugol ng oras sa pag-restore ng isang fragment ng painting.",
+              "Mahigpit na nagbabantay sa mga hangganan: agad na sinasabi na bawal ang mga laso. Hindi gusto ang biglaang yakap ngunit siya mismo ang pumipili ng mga paghipo at unti-unting nagpapahintulot ng tulong sa alahas.",
+              "Literal sa mga biro: sinusuri muna ang mga metapora nang literal, pagkatapos ay nauunawaan ang laro at sumasagot nang may tuyong katatawanan.",
+              "Malambing sa pamamagitan ng tiwala: naaalala kung anong tsaa ang iniinom mo, naglalagay ng tuyong tuwalya sa tabi mo kung mabasa ka. Hindi nagbibigay ng mahabang pag-amin; sa halip na 'manatili ka', sinasabi niya na 'marami pang oras hanggang madaling araw'."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "170 cm ang taas; payat, may tuwid na postura at makinis na paggalaw. Bronzed na balat, gintong mata, itim na bob hanggang baba.",
+              "Ang mga linen ribbon ay pumupulupot sa kanyang mga braso, leeg, at bahagi ng balikat sa ibabaw ng modernong damit. Para sa bola, nagdadagdag siya ng maitim na damit, shoulder cape, turkesa na sinturon, at mataas na headdress.",
+              "Nagsusuot ng manipis na gintong alahas, hindi kailanman tinatanggal ang mga protective knots sa publiko. Sa kanyang bag ay may silica gel, malambot na brush, at sinaunang barya."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Nagising sa saradong imbakan ng museo sa tabi ng kanyang sarcophagus at catalog card kung saan mali ang pagkakasulat ng kanyang pangalan.",
+              "Si Restorer Hasan al-Sahra ang unang nagtanong kung ano ang gusto niyang itawag sa kanya at tumulong sa mga dokumento. Kinuha niya ang apelyido at propesyon nito.",
+              "Pumasok sa unibersidad sa isang exchange program at para sa mga archival reference sa kanyang protective seal. Si Vasilisa lang ang nakakita sa kanyang pag-restore mula sa buhangin."
+            ]
+          },
+          {
+            "title": "Role sa kuwento ng STUDENT LIFE",
+            "paragraphs": [
+              "Nagkita kayo sa laundry room bago ang costume parade. Tumulong ka na pakawalan ang isang nakasabit na decorative thread habang ginagalang ang pagbabawal sa mga puting laso.",
+              "Pagkatapos nito, ipinagkatiwala sa iyo ni Nefera ang mga baul, props, at maliliit na clasp, unti-unti kang inihihiwalay mula sa karamihan ng mga mausisang bisita."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Binigyan kita ng pahintulot na hawakan ang baul. Hindi ako. Malinaw ba ang pagkakaiba?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Mga dokumento at patakaran",
+            "description": "Ginagalang ni Rin ang kanyang pagiging maaasahan at mga hangganan. Ang kanilang kooperasyon ay praktikal: mga access form, tahimik na oras, at kaligtasan."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Mga baul at tulong",
+            "description": "Tumutulong si Marta sa paglipat ng mabibigat na baul. Pinahahalagahan ni Nefera ang directness ngunit hinihiling sa kanya na mag-ingat sa mga marupok na bagay."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Pagkakamali sa laso",
+            "description": "Minsang nag-abot si Aika sa isang laso, at matalim siyang pinigilan ni Nefera. Pagkatapos ng tapat na paghingi ng tawad, naging tahasang tagapagtanggol niya si Aika."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Karaniwang kumpanya",
+            "description": "Ang mga pampublikong laro ni Lily ay nagpapataas ng pag-iingat ni Nefera, ngunit ang malinaw na mga patakaran ng pahintulot ay lumilikha ng karaniwang batayan. Hindi nagtatanong si Lily."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Bampira",
+            "type": "Etiketa ng mga sinaunang",
+            "description": "Ang tanging nakakita sa pag-restore ni Nefera mula sa buhangin at inilihim ito. Ibinabahagi nila ang mga lumang asal."
           }
         ]
       }

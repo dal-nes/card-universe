@@ -261,28 +261,34 @@
         },
         "relationships": [
           {
-            "name": "Kobajasi",
-            "psychotype": "Fejét lány",
+            "name": "Kobayashi Rin",
+            "psychotype": "Prefektusz",
             "type": "Szigorú szomszéd",
-            "description": "Zajforrásnak tartja, de tiszteletben tartja a menetrendjét. Rin gyakran ellenőrzi, hogy Yuna alszik-e."
+            "description": "Zajforrásnak tartja, de tiszteli az időbeosztását. Rin gyakran benéz, hogy Yuna elaludt-e."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Sportoló",
-            "type": "Blokk szomszéd",
-            "description": "Néha megpróbálja kihúzni egy reggeli futásra, de mindig kudarcot vall. Csendben jól kijönnek egymással."
+            "type": "Szomszéd a blokkban",
+            "description": "Megpróbálja elhúzni reggeli futásra, de mindig kudarcot vall. Nagyon jól kijönnek csendben."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Zajos szomszéd",
-            "description": "Túl hangos Yuna éjszakai menetrendjéhez. Yuna általában csak felhúzza a fejhallgatóját."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Az álom védelmezője",
+            "description": "Aika napközben hangos, de reggel megvédi Yuna álmát. Szavak nélkül is megértik egymást."
           },
           {
-            "name": "Magányos",
-            "psychotype": "Introvertált",
-            "type": "Kényelmes csend",
-            "description": "Az egyetlen ember, akivel Yuna órákig ugyanabban a szobában maradhat szó nélkül."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Éjszakai találkozók",
+            "description": "Két éjszakai lény. Lily tiszteli az időbeosztását, és Yunát nem zavarja, ha csak úgy beül csendben."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Kísértet",
+            "type": "Éjszakai műszak",
+            "description": "Megosztják a csendet és az éjszakai konyhát. Ada hűti az italokat, Yuna játszik. Tökéletes szó nélküli szövetség."
           }
         ],
         "tracks": [
@@ -423,26 +429,32 @@
           {
             "name": "Li Yuna",
             "psychotype": "Álmos",
-            "type": "3. Szoba Rezidens",
-            "description": "Éjszakai kockázati tényező. Rin folyamatosan figyeli a menetrendjét, de titokban csodálja tudományos sikerét."
+            "type": "A 3-as szoba lakója",
+            "description": "Éjszakai kockázati tényező. Rin folyamatosan figyeli az időbeosztását, de titokban csodálja a tanulmányi sikereit."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Sportoló",
-            "type": "Blokk szomszéd",
-            "description": "Megbízható, bár túl hangos. Rin nagyra értékeli az egyszerűségét, és azt, hogy nem okoz fegyelmi problémákat."
+            "type": "Rend és fegyelem",
+            "description": "Megbízható, bár túl hangos. Rin értékeli az egyenességét, és hogy nem okoz fegyelmi problémákat."
           },
           {
-            "name": "Nagytestvér",
-            "psychotype": "Gondoskodás",
-            "type": "Blokk Adminisztráció",
-            "description": "Megbízható szövetséges a rend fenntartásában. Megosztják a blokk kezelésének felelősségét."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Fürdőszobai háború",
+            "description": "A fő szabályszegő. Rin folyamatosan bírságolja, de ha a blokkot fenyegetik, egymás mellett állnak."
           },
           {
-            "name": "Karrierista",
-            "psychotype": "Ravasz",
-            "type": "A baj forrása",
-            "description": "Rin nem bízik rejtett indítékaiban, és szorosan figyelemmel kíséri terveit."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Biztonság és szabályok",
+            "description": "Rin látja el űrlapokkal és biztonsági szabályokkal a bálra, és Lily megtanulja tisztelni a fennálló rendet."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ősi",
+            "type": "Dokumentumok és etikett",
+            "description": "Rin tiszteli a megbízhatóságát és a világos határait. Együttműködnek az archívumhozzáférésben és a csendes órákban."
           }
         ],
         "tracks": [
@@ -600,26 +612,346 @@
           {
             "name": "Li Yuna",
             "psychotype": "Álmos",
-            "type": "Blokk szomszéd",
-            "description": "Marta nem érti, hogyan lehet annyira aludni, de tiszteletben tartja játéktudását."
+            "type": "Szomszéd a blokkban",
+            "description": "Marta nem érti, hogy lehet ennyit aludni, de tiszteli a játéktudását, és békén hagyja az éjszakai meccsek után."
           },
           {
-            "name": "Kobajasi",
-            "psychotype": "Fejét lány",
-            "type": "Szabály végrehajtó",
-            "description": "Marta tudja, hogy Rin unalmas, de amikor a blokk védelméről van szó, mindig az oldalán áll."
+            "name": "Kobayashi Rin",
+            "psychotype": "Prefektusz",
+            "type": "Szabályok betartatása",
+            "description": "Marta tudja, hogy Rin unalmas, de ha a blokk védelméről van szó, mindig mellette áll."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Hangos duó",
-            "description": "A leghangosabb pár a blokkban. Gyaru hangosabban ujjong érte, mint bárki más a versenyeken."
+            "description": "A blokk leghangosabb párja. Aika buzdítja a versenyeken, és Marta folyamatosan edzésre húzza."
           },
           {
-            "name": "Katasztrófa",
-            "psychotype": "Szórakozott",
-            "type": "Káosz terápia",
-            "description": "Marta folyamatosan húzza a futásokat, hisz abban, hogy a sport megjavítja a távollétét."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Sport és mágia",
+            "description": "Marta hisz abban, hogy a fegyelem és a sport segít Lilynek kontrollálni az érzelmeit és az éhségét."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vérfarkas",
+            "type": "Csendes pálya",
+            "description": "A tökéletes futótárs, aki nem panaszkodik a reggeli hidegre, és tud csendben futni."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — „Öt perc tanúk nélkül”",
+        "slogan": "Ne keverd a sminkemet a diagnózisoddal.",
+        "shortDescription": "Túlélted a kávét Yunával, Rin eligazítását és Marta fogadását. Most Rin a 6-os szobába küld egy újabb űrlappal, ahol egy lány fogad, aki a szabályokat „dekornak”, téged pedig „a mi fiúnknak” nevez.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Közgazdász",
+          "Társasági központ",
+          "6-os szoba"
+        ],
+        "coverAlt": "Aika a 6-os szobában csillámokkal",
+        "facts": [
+          {
+            "label": "Életkor",
+            "value": "21"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "4. évfolyam, Közgazdaságtan"
+          },
+          {
+            "label": "Szoba",
+            "value": "6."
+          },
+          {
+            "label": "Magasság",
+            "value": "166 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "Társasági központ, informális szervező"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Merész és hangos: úgy lép be a szobába, mintha várnák; elsőként ugrat és mindenkinek becenevet ad.",
+              "Figyelmes: észreveszi, ki nem evett, és kit bántott meg egy vicc.",
+              "Rejtett kitűnő tanuló: bonyolult feladatokat old meg egy szalvétán, és soha nem henceg a jegyeivel.",
+              "Flörtöl, mint védekezés: szereti kézben tartani a kezdeményezést, de megáll, ha a másik kényelmetlenül érzi magát."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "166 cm magas; karcsú. Szőke haj rózsaszín végződéssel, általában két magas copfban.",
+              "Barna szemek, feltűnő smink, hosszú körmök csillagokkal. Rövid kabátokat és ezüst gyűrűket visel.",
+              "Nyaklánc egy kis 'A' betűvel, és hajgumik a csuklóján."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "Anyja sminkmester volt, apja elment, amikor Aika tizenkét éves volt.",
+              "Az iskolában egy tanár nyilvánosan azt sugallta, hogy a jegyét másolta; bizonyította az ellenkezőjét, de többé nem vitt haza díjakat.",
+              "Közgazdaságtant tanul kiváló eredménnyel, statisztikára specializálódva."
+            ]
+          },
+          {
+            "title": "Szerep a történetben",
+            "paragraphs": [
+              "Aika a bulik szervezője és a blokk hangos védelmezője. Akkor találkoztok, amikor Rin a 6-os szobába küld egy űrlappal."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Relax, fiú. Csak előre egyeztetett időpontban harapok.”"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Prefektusz",
+            "type": "Fürdőszobai háború",
+            "description": "Állandó viták az időbeosztásokról és a zuhanyról, de ha a blokkot fenyegetik, egymás mellett állnak."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportoló",
+            "type": "Hangos szövetség",
+            "description": "Aika plakátokkal buzdítja, Marta reggeli futásra próbálja húzni."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Álmos",
+            "type": "Az álom védelmezője",
+            "description": "Aika megvédi Yuna álmát a reggeli zajtól, és kávét visz neki az éjszakai játékok után."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Felszedőszöveg-labor",
+            "description": "Aika Lily készséges tesztközönsége a nevetséges felszedőszövegekhez, és partnere a bulik szervezésében."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ősi",
+            "type": "Szalaghiba",
+            "description": "Aika egyszer a szalagja felé nyúlt, és Nefera élesen megállította. Őszinte bocsánatkérés után Aika lett a hangos védelmezője."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Nincs bűbáj éjfél után\"",
+        "slogan": "Azt mondtad 'stop' — ez stopot jelent. Ez nem a játék folytatása.",
+        "shortDescription": "Azt hitted, hogy a szobatársaiddal való találkozás után nehéz lesz zavarba hozni. Lily ezt öt másodperc alatt tesztelni fogja — őszintén figyelmeztetve, hogy zavarból táplálkozik, és soha nem használ bűbájt engedély nélkül. Ő szervezi a tökös bált, borzalmas beszólásokat gyűjt, és felajánlja, hogy legyél a próbabábu partnere.",
+        "tags": [
+          "Halloween",
+          "Szukkubusz",
+          "Szervező",
+          "Pszichológia",
+          "Vendégszárny"
+        ],
+        "coverAlt": "Lily a díszteremben maszkokkal",
+        "facts": [
+          {
+            "label": "Kor",
+            "value": "21"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "3. év, Pszichológia"
+          },
+          {
+            "label": "Szoba",
+            "value": "10. sz. (Vendégszárny)"
+          },
+          {
+            "label": "Magasság",
+            "value": "164 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "Rendezvényszervező, Szukkubusz"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Bájos és energikus: könnyen maga köré gyűjti az embereket, megjegyzi a neveket, és versennyé változtatja az unalmas előkészületeket.",
+              "Őszinte a határokról: elmagyarázza, miből táplálkozik, engedélyt kér a bűbájokhoz, ölelésekhez és a nyilvános flörtöléshez. A 'nem' szóra sértődés nélkül visszalép.",
+              "Bátor a játékokban, óvatos az intimitásban: amikor őszintén válaszolsz, csuklik egyet, elveszíti a bűbáját, és túl gyakorlatiasan kezd beszélni, hogy leplezze a zavarát.",
+              "Gondoskodó szervező: tudja, ki fél a tömegtől, és kinek van szüksége vízre. Igyekszik szükségessé válni a buli számára, mert ez egy világos módja annak, hogy helyet szerezzen az emberek között."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "164 cm magas platform nélkül; rugalmas, lágy formákkal. Sötétvörös haj a lapockákig, mogyorózöld szemek, kicsi sötét szarvak és szívvel végződő farok.",
+              "A szárnyas hajtűk néha valódi árnyakká bomlanak ki. Fekete és skarlátvörös ruhákat, rövid dzsekiket, mintás harisnyákat és magas csizmákat visel.",
+              "Hajgumikat és tűket tart a szarvain; a farka egy általa kedvelt ember csuklójára tekeredik, és zavarában a lába mögé bújik."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "Olyan családban nőtt fel, ahol az érzelmek fizetőeszköznek számítottak, a természetes szukkubusz éhség pedig a manipuláció kifogása volt.",
+              "Tizenévesen véletlenül túl sok zavart vett el valakitől, és megijedt. Azóta saját beleegyezési szabályokat alkotott.",
+              "A pszichológiát választotta, hogy megértse a határokat az ösztönön túl. A rendezvényszervezés legitim módot adott neki arra, hogy nevetést és örömöt kapjon a tömegből."
+            ]
+          },
+          {
+            "title": "Szerep a STUDENT LIFE történetében",
+            "paragraphs": [
+              "A bál előtti éjszaka találkoztok az üres díszteremben. Yuna, Marta és Aika révén tud rólad, és felajánl egy önkéntes táncpróbát.",
+              "A vonzalma akkor mutatkozik meg, amikor a farka magától keresi a csuklódat, és elkezd időt szánni rád közönség nélkül."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ne pirulj el ilyen korán, még el sem kezdtem.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Álmos",
+            "type": "Éjszakai találkozók",
+            "description": "Lily tiszteletben tartja az időbeosztását, és néha éjszakai történeteket oszt meg vele, miközben Yuna játszik."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Csoportvezető",
+            "type": "Szabályok és spontaneitás",
+            "description": "Rin biztonsági szabályokat követel a bálra, Lily eleinte unalmasnak találja, de végül beleegyezik."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportoló",
+            "type": "Sport és varázslat",
+            "description": "Marta megpróbálja megtanítani neki a fegyelmet, Lily pedig cserébe megtanítja Martát egy kicsit lazítani."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Beszólások",
+            "description": "Aika teszteli rajta a vicceit, Lily pedig segít a bulik szervezésében és a kellékekben."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Boszi",
+            "type": "Tökbár megállapodás",
+            "description": "Lily kezeli a zenét és a vendégeket, Mira az italokat és a füstöt. Megállapodásuk: Lily nem bűvöli el Mira barátait."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Hajnalig\"",
+        "slogan": "Ne érj a szalagokhoz. A többi megbeszélhető.",
+        "shortDescription": "Megszoktad, hogy a szobatársaid éjszakai életet élnek, szigorúak vagy veszélyesen versenyképesek. De a vendégszárny lány az első, aki ollót kér tőled — figyelmeztetve, hogy egy hiba hajnalig homokká változtatja. Nefera régiségeket restaurál, közmondásokban beszél, és utálja, ha valaki engedély nélkül hozzáér a szalagjaihoz.",
+        "tags": [
+          "Halloween",
+          "Ősi",
+          "Restaurátor",
+          "Misztikus",
+          "Vendégszárny"
+        ],
+        "coverAlt": "Nefera a mosókonyhában aranyszálakkal",
+        "facts": [
+          {
+            "label": "Kor",
+            "value": "22 (látszólag)"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "4. év, Muzeológia"
+          },
+          {
+            "label": "Szoba",
+            "value": "11. sz. (Vendégszárny)"
+          },
+          {
+            "label": "Magasság",
+            "value": "170 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "Restaurátor, ősi entitás"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Pontos és türelmes: hosszúság szerint rendezi a szerszámokat, ellenőrzi a levegő páratartalmát, és órákat tölthet egyetlen festménytöredék restaurálásával.",
+              "Szigorúan őrzi a határokat: azonnal közli, hogy a szalagok tabuk. Nem szereti a hirtelen öleléseket, de maga választja az érintéseket, és fokozatosan engedélyezi a segítséget az ékszerekkel.",
+              "Szó szerinti a viccekben: a metaforákat először szó szerint elemzi, aztán megérti a játékot, és száraz humorral válaszol.",
+              "Gyengéd a bizalom által: emlékszik, milyen teát iszol, törölközőt tesz melléd, ha vizes leszel. Nem tesz hosszú vallomásokat; a 'maradj' helyett azt mondja: 'még sok idő van hajnalig'."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "170 cm magas; karcsú, egyenes tartással és folyékony mozdulatokkal. Bronzbőr, aranyszemek, fekete bob állig.",
+              "Vászon szalagok tekerednek a karjaira, nyakára és vállára a modern ruházat fölött. A bálra sötét ruhát, vállköpenyt, türkiz övet és magas fejdíszt ad hozzá.",
+              "Vékony arany ékszereket visel, nyilvánosan soha nem veszi le a védőcsomókat. A táskájában szilikagél, puha kefe és egy ősi érme van."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "Egy zárt múzeumi raktárban ébredt fel a szarkofágja és egy katalóguskártya mellett, amelyen a nevét helytelenül írták.",
+              "Hasan al-Sahra restaurátor volt az első, aki megkérdezte, hogy szeretne hívni, és segített a dokumentumokban. Felvette a vezetéknevét és a szakmáját.",
+              "Csereprogrammal és a védőpecsétjére vonatkozó archívumi hivatkozások miatt jött az egyetemre. Vasilisa az egyetlen, aki látta a homokból való helyreállítását."
+            ]
+          },
+          {
+            "title": "Szerep a STUDENT LIFE történetében",
+            "paragraphs": [
+              "A jelmezes felvonulás előtt a mosókonyhában találkoztok. Segítesz kiszabadítani egy beszorult dekoratív szálat, miközben tiszteletben tartod a fehér szalagok tilalmát.",
+              "Ezután Nefera rád bízza a ládákat, kellékeket és kis kapcsokat, fokozatosan elválasztva téged a kíváncsi vendégek tömegétől."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Engedélyt adtam, hogy a ládát fogd. Engem nem. Világos a különbség?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Csoportvezető",
+            "type": "Dokumentumok és szabályok",
+            "description": "Rin tiszteli a megbízhatóságát és a határait. Együttműködésük gyakorlatias: hozzáférési űrlapok, csendes órák és biztonság."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportoló",
+            "type": "Ládák és segítség",
+            "description": "Marta segít a nehéz ládák mozgatásában. Nefera értékeli az egyenességet, de megkéri, hogy legyen óvatos a törékeny tárgyakkal."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Szalaghiba",
+            "description": "Aika egyszer egy szalag után nyúlt, és Nefera élesen megállította. Őszinte bocsánatkérés után Aika lett a hangos védelmezője."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Közönséges társaság",
+            "description": "Lily nyilvános játékai óvatossá teszik Neferát, de a világos beleegyezési szabályok közös alapot teremtenek. Lily nem faggatózik."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vámpír",
+            "type": "Az ősi etikett",
+            "description": "Az egyetlen, aki látta Nefera homokból való helyreállítását, és titokban tartotta. Közös régi modoruk van."
           }
         ]
       }

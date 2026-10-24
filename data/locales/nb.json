@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hode jente",
+            "psychotype": "Blokkkordinator",
             "type": "Streng nabo",
-            "description": "Anser henne som en kilde til støy, men respekterer timeplanen hennes. Rin sjekker ofte om Yuna sover."
+            "description": "Betrakter henne som en støykilde, men respekterer timeplanen hennes. Rin sjekker ofte om Yuna sover."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Idrettsutøver",
-            "type": "Blokker nabo",
-            "description": "Noen ganger prøver å dra henne ut for en morgenkjøring, men mislykkes alltid. De kommer godt overens i stillhet."
+            "type": "Nabo i blokken",
+            "description": "Prøver å dra henne ut på en morgenløpetur, men mislykkes alltid. De kommer godt overens i stillhet."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Støyende nabo",
-            "description": "For høyt for Yunas nattplan. Yuna skrur vanligvis bare opp hodetelefonene."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Søvnbeskytter",
+            "description": "Aika er høylytt om dagen, men beskytter Yunas søvn om morgenen. De forstår hverandre uten ord."
           },
           {
-            "name": "Loner",
-            "psychotype": "Innadvendt",
-            "type": "Komfortabel stillhet",
-            "description": "Den eneste personen Som Yuna kan bo i samme rom i flere timer uten å si et ord."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Nattlige møter",
+            "description": "To nattdyr. Lily respekterer timeplanen hennes, og Yuna har ikke noe imot når hun stikker innom bare for å sitte i stillhet."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Spøkelse",
+            "type": "Nattskift",
+            "description": "De deler stillheten og nattkjøkkenet. Ada kjøler drikke, Yuna spiller. En perfekt ordløs allianse."
           }
         ],
         "tracks": [
@@ -423,26 +429,32 @@
           {
             "name": "Li Yuna",
             "psychotype": "Søvnig",
-            "type": "3 Bosatt",
-            "description": "Nattlig risikofaktor. Rin overvåker hele tiden timeplanen sin, men beundrer i hemmelighet hennes akademiske suksess."
+            "type": "Beboer i rom 3",
+            "description": "Nattlig risikofaktor. Rin overvåker konstant timeplanen hennes, men beundrer i hemmelighet hennes akademiske suksess."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Idrettsutøver",
-            "type": "Blokker nabo",
-            "description": "Pålitelig, men for høyt. Rin setter pris på hennes rettferdighet og at hun ikke forårsaker disiplinproblemer."
+            "type": "Orden og disiplin",
+            "description": "Pålitelig, om enn for høylytt. Rin setter pris på hennes direkthet og at hun ikke skaper disiplinproblemer."
           },
           {
-            "name": "Storesøster",
-            "psychotype": "Omsorg",
-            "type": "Blokker Administrasjon",
-            "description": "En pålitelig alliert i å opprettholde orden. De deler ansvaret for å administrere blokken."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Baderomskrig",
+            "description": "Den største regelbryteren. Rin gir henne konstant bøter, men de står rygg mot rygg hvis blokken er truet."
           },
           {
-            "name": "Karriere",
-            "psychotype": "Utspekulert",
-            "type": "Kilde til problemer",
-            "description": "Rin mistroer sine skjulte motiver og følger nøye med på ordningene hennes."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Sikkerhet og regler",
+            "description": "Rin leverer skjemaer og sikkerhetsregler til ballet, og Lily lærer å respektere den etablerte ordenen."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Eldgammel",
+            "type": "Dokumenter og etikette",
+            "description": "Rin respekterer hennes pålitelighet og klare grenser. De samarbeider om arkivtilgang og stille timer."
           }
         ],
         "tracks": [
@@ -600,26 +612,346 @@
           {
             "name": "Li Yuna",
             "psychotype": "Søvnig",
-            "type": "Blokker nabo",
-            "description": "Marta forstår ikke hvordan man kan sove så mye, men respekterer spillferdighetene sine."
+            "type": "Nabo i blokken",
+            "description": "Marta forstår ikke hvordan man kan sove så mye, men respekterer spillferdighetene hennes og lar henne være i fred etter nattkamper."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Hode jente",
-            "type": "Regel håndhever",
-            "description": "Marta vet At Rin er kjedelig, men når det gjelder å beskytte blokken, hun er alltid på sin side."
+            "psychotype": "Blokkkordinator",
+            "type": "Regelhåndheving",
+            "description": "Marta vet at Rin er kjedelig, men når det gjelder å beskytte blokken, er hun alltid på hennes side."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Delinquent",
-            "type": "Høyt duo",
-            "description": "Det høyeste paret i blokken. Gyaru heier på henne høyere enn noen på konkurranser."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Høylytt duo",
+            "description": "Det mest høylytte paret i blokken. Aika heier på henne i konkurranser, og Marta drar henne konstant med på trening."
           },
           {
-            "name": "Katastrofe",
-            "psychotype": "Fraværende sinn",
-            "type": "Kaos terapi",
-            "description": "Marta drar henne stadig på løp, og tror at sport vil fikse hennes fravær."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Sport og magi",
+            "description": "Marta tror at disiplin og sport vil hjelpe Lily med å kontrollere følelsene og sulten sin."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Varulv",
+            "type": "Stille bane",
+            "description": "Den perfekte løpepartneren som ikke klager over morgenkulda og vet hvordan man løper i stillhet."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — «Fem minutter uten vitner»",
+        "slogan": "Ikke forveksle sminken min med diagnosen din.",
+        "shortDescription": "Du overlevde kaffe med Yuna, Rins briefing og Martas veddemål. Nå sender Rin deg til rom 6 med et nytt skjema, og der møter du en jente som kaller regler for 'dekor' og deg for 'gutten vår'.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Økonom",
+          "Sosialt senter",
+          "Rom nr. 6"
+        ],
+        "coverAlt": "Aika på rom 6 med glitter",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "21"
+          },
+          {
+            "label": "År",
+            "value": "4. år, økonomi"
+          },
+          {
+            "label": "Rom",
+            "value": "Nr. 6"
+          },
+          {
+            "label": "Høyde",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Sosialt senter, uformell arrangør"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Dristig og høylytt: går inn i et rom som om hun er forventet; erter først og gir alle kallenavn.",
+              "Oppmerksom: legger merke til hvem som ikke har spist og hvem som ble såret av en vits.",
+              "Undercover toppstudent: løser komplekse problemer på en serviett og skryter aldri av karakterene.",
+              "Flørter som forsvar: liker å ta initiativ og stopper hvis den andre er ukomfortabel."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "166 cm høy; slank. Lyst hår med rosa tupper, vanligvis to høye hestehaler.",
+              "Brune øyne, lys makeup, lange negler med stjerner. Bruker korte jakker og sølvringer.",
+              "Halskjede med en liten 'A' og hårstrikker på håndleddet."
+            ]
+          },
+          {
+            "title": "Bakgrunn",
+            "paragraphs": [
+              "Moren var makeupartist, faren dro da Aika var tolv.",
+              "På skolen antydet en lærer at karakteren hennes var kopiert; hun beviste det motsatte, men sluttet å ta med priser hjem.",
+              "Hun studerer økonomi med høye karakterer, med fokus på statistikk."
+            ]
+          },
+          {
+            "title": "Rolle i historien",
+            "paragraphs": [
+              "Aika er arrangøren av fester og blokkens høylytte forsvarer. Du møter henne når Rin sender deg til rom 6 med et skjema."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Relax, gutten min. Jeg biter bare etter avtale.»"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Blokkkordinator",
+            "type": "Baderomskrig",
+            "description": "Konstante krangler om timeplaner og dusjen, men de står rygg mot rygg hvis blokken er truet."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Idrettsutøver",
+            "type": "Høylytt allianse",
+            "description": "Aika heier på henne med plakater, Marta prøver å dra henne med på morgenløpeturer."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Søvnig",
+            "type": "Søvnbeskytter",
+            "description": "Aika beskytter Yunas søvn mot morgenstøy og bringer henne kaffe etter nattspill."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pickup-line laboratorium",
+            "description": "Aika er Lilys villige testpublikum for absurde pickup-lines og partner i festplanlegging."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Eldgammel",
+            "type": "Båndfeilen",
+            "description": "Aika strakk seg en gang etter båndet hennes, og Nefera stoppet henne skarpt. Etter en oppriktig unnskyldning ble Aika hennes høylytte forsvarer."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Ingen sjarm etter midnatt\"",
+        "slogan": "Du sa 'stopp' — det betyr stopp. Det er ikke en fortsettelse av spillet.",
+        "shortDescription": "Du trodde at det å møte romkameratene dine gjorde deg vanskelig å gjøre flau. Lily kommer til å teste det om fem sekunder — ærlig advare deg om at hun lever av forlegenhet og aldri bruker sjarm uten tillatelse. Hun organiserer gresskarballet, samler på forferdelige sjekkereplikker og tilbyr deg en prøvepartner.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Arrangør",
+          "Psykologi",
+          "Gjestevingen"
+        ],
+        "coverAlt": "Lily i aulen med masker",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "21"
+          },
+          {
+            "label": "År",
+            "value": "3. år, Psykologi"
+          },
+          {
+            "label": "Rom",
+            "value": "Nr. 10 (Gjestevingen)"
+          },
+          {
+            "label": "Høyde",
+            "value": "164 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Arrangementskoordinator, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Sjarmerende og energisk: samler lett folk, husker navn, gjør kjedelige forberedelser om til en konkurranse.",
+              "Ærlig om grenser: forklarer hva hun lever av, spør om tillatelse for sjarm, klemmer og offentlig flørting. Trekker seg tilbake fra et 'nei' uten å bli fornærmet.",
+              "Dristig i spill, forsiktig i intimitet: når du svarer oppriktig, hikker hun, mister sjarmen og begynner å snakke for praktisk for å skjule forvirringen.",
+              "Omsorgsfull arrangør: vet hvem som er redd for folkemengder og hvem som trenger vann. Prøver å være nødvendig for festen fordi det er en klar måte å tjene en plass blant folk."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "164 cm høy uten platåsko; fleksibel, med myke kurver. Mørkerødt hår til skulderbladene, hasselgrønne øyne, små mørke horn og en hale med et hjerte i enden.",
+              "Vinge-hårnåler folder seg noen ganger ut til ekte skygger. Går i svarte og skarlagensrøde kjoler, korte jakker, mønstrede strømper og høye støvler.",
+              "Har hårstrikk og nåler på hornene; halen vikler seg rundt håndleddet til noen hun liker, og gjemmer seg bak beinet hennes når hun er flau."
+            ]
+          },
+          {
+            "title": "Bakgrunn",
+            "paragraphs": [
+              "Vokste opp i en familie der følelser var valuta og naturlig succubus-sult var en unnskyldning for manipulasjon.",
+              "Som tenåring tok hun ved et uhell for mye av noens forlegenhet og ble redd. Siden den gang har hun laget sine egne regler for samtykke.",
+              "Begynte på Psykologi for å forstå grenser utover instinkt. Arrangementsorganisering ga henne en legitim måte å få latter og glede fra en folkemengde."
+            ]
+          },
+          {
+            "title": "Rolle i STUDENT LIFE-historien",
+            "paragraphs": [
+              "Dere møtes i den tomme aulen kvelden før ballet. Hun vet om deg fra Yuna, Marta og Aika og tilbyr en frivillig danseprøve.",
+              "Hennes hengivenhet vises når halen hennes selv søker håndleddet ditt, og hun begynner å reservere tid til deg uten publikum."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ikke rødme så tidlig, jeg har ikke engang begynt.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Søvnig",
+            "type": "Nattmøter",
+            "description": "Lily respekterer timeplanen hennes og deler noen ganger natthistorier med henne mens Yuna gamer."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Husmor",
+            "type": "Regler og spontanitet",
+            "description": "Rin krever sikkerhetsregler for ballet, Lily synes først det er kjedelig, men godtar til slutt."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atlet",
+            "type": "Sport og magi",
+            "description": "Marta prøver å lære henne disiplin, og Lily lærer på sin side Marta å slappe litt av."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Sjekkereplikker",
+            "description": "Aika tester vitsene sine på henne, og Lily hjelper med festarrangering og rekvisitter."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Heks",
+            "type": "Gresskarbar-pakt",
+            "description": "Lily håndterer musikk og gjester, Mira håndterer drikke og røyk. Deres pakt: Lily sjarmerer ikke Miras venner."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Frem til daggry\"",
+        "slogan": "Ikke rør båndene. Resten kan diskuteres.",
+        "shortDescription": "Du er vant til at romkameratene dine er nattlige, strenge eller farlig konkurransedyktige. Men jenta fra gjestevingen er den første som ber deg ta en saks — og advarer deg om at en feil vil forvandle henne til sand frem til daggry. Nefera restaurerer antikviteter, snakker i ordtak og hater når noen rører båndene hennes uten tillatelse.",
+        "tags": [
+          "Halloween",
+          "Eldgammel",
+          "Restaurator",
+          "Mysterium",
+          "Gjestevingen"
+        ],
+        "coverAlt": "Nefera i vaskerommet med gulltråd",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "22 (fremstår som)"
+          },
+          {
+            "label": "År",
+            "value": "4. år, Museumsstudier"
+          },
+          {
+            "label": "Rom",
+            "value": "Nr. 11 (Gjestevingen)"
+          },
+          {
+            "label": "Høyde",
+            "value": "170 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Restaurator, eldgammel entitet"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Presis og tålmodig: arrangerer verktøy etter lengde, sjekker luftfuktigheten og kan bruke timer på å restaurere et enkelt fragment av et maleri.",
+              "Vokter strengt over grenser: sier umiddelbart at bånd er forbudt. Liker ikke plutselige klemmer, men velger berøringer selv og tillater gradvis hjelp med smykker.",
+              "Bokstavelig i vitser: analyserer metaforer bokstavelig først, forstår deretter spillet og svarer med tørr humor.",
+              "Øm gjennom tillit: husker hvilken te du drikker, legger et tørt håndkle ved siden av deg hvis du blir våt. Kommer ikke med lange tilståelser; i stedet for 'bli' sier hun 'det er fortsatt mye tid til daggry'."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "170 cm høy; slank, med rett holdning og flytende bevegelser. Bronsefarget hud, gylne øyne, svart bob til haken.",
+              "Linbånd vikler seg rundt armene, halsen og en del av skuldrene over moderne klær. Til ballet legger hun til en mørk kjole, skulderkappe, turkis belte og høy hodeplagg.",
+              "Bærer tynne gullsmykker, fjerner aldri beskyttelsesknutene offentlig. I vesken har hun silikagel, en myk børste og en eldgammel mynt."
+            ]
+          },
+          {
+            "title": "Bakgrunn",
+            "paragraphs": [
+              "Våknet i et lukket museumlager ved siden av sarkofagen sin og et katalogkort der navnet hennes var stavet feil.",
+              "Restaurator Hasan al-Sahra var den første som spurte hva hun ønsket å bli kalt, og hjalp til med dokumenter. Hun tok etternavnet og yrket hans.",
+              "Kom til universitetet på et utvekslingsprogram og for arkivreferanser til beskyttelsesseglet sitt. Vasilisa er den eneste som har sett hennes gjenoppretting fra sand."
+            ]
+          },
+          {
+            "title": "Rolle i STUDENT LIFE-historien",
+            "paragraphs": [
+              "Dere møtes i vaskerommet før kostymeparaden. Du hjelper med å frigjøre en fastklemt dekorativ tråd mens du respekterer forbudet mot hvite bånd.",
+              "Etter dette betror Nefera deg kister, rekvisitter og små spenner, og skiller deg gradvis fra mengden av nysgjerrige gjester."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Jeg ga deg tillatelse til å holde kisten. Ikke meg. Er forskjellen klar?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Korridorsansvarlig",
+            "type": "Dokumenter og regler",
+            "description": "Rin respekterer hennes pålitelighet og grenser. Samarbeidet deres er praktisk: tilgangsskjemaer, stille timer og sikkerhet."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Idrettsutøver",
+            "type": "Kister og hjelp",
+            "description": "Marta hjelper med å flytte tunge kister. Nefera setter pris på direktheten, men ber henne være forsiktig med skjøre gjenstander."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Båndfeil",
+            "description": "Aika rakte en gang etter et bånd, og Nefera stoppet henne skarpt. Etter en oppriktig unnskyldning ble Aika hennes høylytte forsvarer."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Vanlig selskap",
+            "description": "Lilys offentlige spill gjør Nefera mistenksom, men klare samtykkeregler skaper felles grunn. Lily spør ikke."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampyr",
+            "type": "De gamles etikette",
+            "description": "Den eneste som har sett Neferas gjenoppretting fra sand og holdt det hemmelig. De deler gamle manerer."
           }
         ]
       }

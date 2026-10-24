@@ -262,27 +262,33 @@
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Przewodnicząca klasy",
-            "type": "Surowy sąsiad",
-            "description": "Uważa ją za źródło hałasu, ale szanuje jej harmonogram. Rin często sprawdza, czy Yuna śpi."
+            "psychotype": "Starościna",
+            "type": "Surowa sąsiadka",
+            "description": "Uważa ją za źródło hałasu, ale szanuje jej grafik. Rin często sprawdza, czy Yuna śpi."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Sportowiec",
-            "type": "Sąsiad z bloku",
-            "description": "Czasami próbuje ją wyciągnąć na poranny bieg, ale zawsze mu się to nie udaje. W ciszy dogadują się świetnie."
+            "type": "Sąsiadka z bloku",
+            "description": "Próbuje wyciągnąć ją na poranny bieg, ale zawsze ponosi porażkę. Świetnie dogadują się w ciszy."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Dłużnik",
-            "type": "Hałaśliwy sąsiad",
-            "description": "Za głośno dla nocnego rozkładu Yuny. Yuna zazwyczaj po prostu podgłaśnia swoje słuchawki."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Obrończyni snu",
+            "description": "Aika jest głośna w dzień, ale rano strzeże snu Yuny. Rozumieją się bez słów."
           },
           {
-            "name": "Samotnik",
-            "psychotype": "Introwertyk",
-            "type": "Komfortowa cisza",
-            "description": "Jedyna osoba, z którą Yuna może przebywać w tym samym pokoju przez godziny, nie mówiąc ani słowa."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Nocne spotkania",
+            "description": "Dwie nocne istoty. Lily szanuje jej grafik, a Yuna nie ma nic przeciwko, gdy wpada tylko po to, by posiedzieć w ciszy."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Duch",
+            "type": "Nocna zmiana",
+            "description": "Dzielą ciszę i nocną kuchnię. Ada chłodzi napoje, Yuna gra. Idealny sojusz bez słów."
           }
         ],
         "tracks": [
@@ -422,27 +428,33 @@
         "relationships": [
           {
             "name": "Li Yuna",
-            "psychotype": "Śpiący",
-            "type": "Mieszkaniec pokoju nr 3",
-            "description": "Czynnik ryzyka w nocy. Rin nieustannie monitoruje swój harmonogram, ale potajemnie podziwia swoje osiągnięcia naukowe."
+            "psychotype": "Śpiąca",
+            "type": "Mieszkanka pokoju nr 3",
+            "description": "Nocny czynnik ryzyka. Rin stale monitoruje jej grafik, ale potajemnie podziwia jej sukcesy w nauce."
           },
           {
             "name": "Marta Santos",
             "psychotype": "Sportowiec",
-            "type": "Sąsiad z bloku",
-            "description": "Niezawodna, choć zbyt głośna. Rin docenia jej bezpośredniość i to, że nie sprawia problemów dyscyplinarnych."
+            "type": "Porządek i dyscyplina",
+            "description": "Niezawodna, choć zbyt głośna. Rin docenia jej bezpośredniość i to, że nie powoduje problemów dyscyplinarnych."
           },
           {
-            "name": "Starsza Siostra",
-            "psychotype": "Troskliwy",
-            "type": "Administracja blokowa",
-            "description": "Niezawodny sojusznik w utrzymywaniu porządku. Dzielą się obowiązkami zarządzania blokiem."
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Wojna o łazienkę",
+            "description": "Główna łamiąca zasady. Rin stale ją karze, ale stają ramię w ramię, gdy blok jest zagrożony."
           },
           {
-            "name": "Karierowicz",
-            "psychotype": "Podstępny",
-            "type": "Źródło problemu",
-            "description": "Rin nie ufa jej ukrytym motywom i dokładnie obserwuje jej plany."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Bezpieczeństwo i zasady",
+            "description": "Rin dostarcza jej formularze i zasady bezpieczeństwa na bal, a Lily uczy się szanować ustalony porządek."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Pradawna",
+            "type": "Dokumenty i etykieta",
+            "description": "Rin szanuje jej niezawodność i jasne granice. Współpracują przy dostępie do archiwum i cichych godzinach."
           }
         ],
         "tracks": [
@@ -599,27 +611,347 @@
         "relationships": [
           {
             "name": "Li Yuna",
-            "psychotype": "Senny",
-            "type": "Sąsiad z bloku",
-            "description": "Marta nie rozumie, jak można tyle spać, ale szanuje jej umiejętności w grze."
+            "psychotype": "Śpiąca",
+            "type": "Sąsiadka z bloku",
+            "description": "Marta nie rozumie, jak można tak dużo spać, ale szanuje jej umiejętności gry i zostawia ją w spokoju po nocnych meczach."
           },
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Przewodnicząca szkoły",
-            "type": "Strażnik zasad",
-            "description": "Marta wie, że Rin jest nudziarzem, ale jeśli chodzi o ochronę dzielnicy, zawsze jest po jej stronie."
+            "psychotype": "Starościna",
+            "type": "Egzekwowanie zasad",
+            "description": "Marta wie, że Rin jest nudna, ale jeśli chodzi o ochronę bloku, zawsze stoi po jej stronie."
           },
           {
-            "name": "Gyaru",
-            "psychotype": "Dłużnik",
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
             "type": "Głośny duet",
-            "description": "Najgłośniejsza para na osiedlu. Gyaru kibicuje jej głośniej niż ktokolwiek na zawodach."
+            "description": "Najgłośniejsza para w bloku. Aika dopinguje ją na zawodach, a Marta stale ciąga ją na treningi."
           },
           {
-            "name": "Katastrofa",
-            "psychotype": "Roztargniony",
-            "type": "Terapia chaosu",
-            "description": "Marta ciągle zabiera ją na bieganie, wierząc, że sport naprawi jej roztargnienie."
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Sport i magia",
+            "description": "Marta wierzy, że dyscyplina i sport pomogą Lily kontrolować emocje i głód."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Wilkołak",
+            "type": "Cicha trasa",
+            "description": "Idealna partnerka do biegania, która nie narzeka na poranne zimno i potrafi biegać w milczeniu."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — „Pięć minut bez świadków”",
+        "slogan": "Nie myl mojego makijażu z twoją diagnozą.",
+        "shortDescription": "Przetrwałeś kawę z Yuną, instruktaż Rin i zakład Marty. Teraz Rin wysyła cię do pokoju nr 6 z kolejnym formularzem, a tam spotykasz dziewczynę, która nazywa zasady „dekoracją”, a ciebie „naszym chłopcem”.",
+        "tags": [
+          "Halloween",
+          "Gyaru",
+          "Ekonomistka",
+          "Centrum towarzyskie",
+          "Pokój nr 6"
+        ],
+        "coverAlt": "Aika w pokoju nr 6 z brokatem",
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "21"
+          },
+          {
+            "label": "Rok",
+            "value": "4. rok, Ekonomia"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 6"
+          },
+          {
+            "label": "Wzrost",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Centrum towarzyskie, nieformalna organizatorka"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Charakter",
+            "paragraphs": [
+              "Zuchwała i głośna: wchodzi do pokoju, jakby na nią czekano; zaczepia pierwsza i nadaje przezwiska.",
+              "Spostrzegawcza: zauważa, kto nie jadł i kogo zranił żart.",
+              "Ukryta prymuska: rozwiązuje skomplikowane zadania na serwetce i nigdy nie chwali się ocenami.",
+              "Flirtuje jako obrona: lubi trzymać inicjatywę i wie, kiedy przestać, jeśli drugiej osobie jest niekomfortowo."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Wzrost 166 cm; szczupła. Blond włosy z różowymi końcówkami, zwykle dwa wysokie kucyki.",
+              "Brązowe oczy, jaskrawy makijaż, długie paznokcie z gwiazdkami. Nosi krótkie kurtki i srebrne pierścionki.",
+              "Naszyjnik z małym 'A' i gumki do włosów na nadgarstku."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Jej matka była wizażystką, ojciec odszedł, gdy Aika miała dwanaście lat.",
+              "W szkole nauczycielka zasugerowała, że jej ocena jest ściągnięta; Aika udowodniła, że jest inaczej, ale przestała przynosić do domu nagrody.",
+              "Studiuje ekonomię z wysokimi ocenami, skupiając się na statystyce."
+            ]
+          },
+          {
+            "title": "Rola w historii",
+            "paragraphs": [
+              "Aika jest organizatorką imprez i głośną obrończynią bloku. Spotykasz ją, gdy Rin wysyła cię do pokoju nr 6 z formularzem."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Relax, mój chłopcze. Gryzę tylko po umówieniu”."
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Starościna",
+            "type": "Wojna o łazienkę",
+            "description": "Ciągłe kłótnie o grafiki i prysznic, ale stają ramię w ramię, gdy blok jest zagrożony."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportowiec",
+            "type": "Głośny sojusz",
+            "description": "Aika dopinguje ją z plakatami, Marta próbuje wyciągnąć ją na poranne biegi."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Śpiąca",
+            "type": "Obrończyni snu",
+            "description": "Aika chroni sen Yuny przed porannym hałasem i przynosi jej kawę po nocnych grach."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Laboratorium tekstów",
+            "description": "Aika jest chętnym testerem absurdalnych tekstów Lily i partnerką w planowaniu imprez."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Pradawna",
+            "type": "Błąd ze wstążką",
+            "description": "Aika kiedyś sięgnęła po jej wstążkę, a Nefera ostro ją powstrzymała. Po szczerych przeprosinach Aika stała się jej głośną obrończynią."
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"Żadnych czarów po północy\"",
+        "slogan": "Powiedziałeś 'stop' — to znaczy stop. To nie jest kontynuacja gry.",
+        "shortDescription": "Myślałeś, że po spotkaniu współlokatorek trudno cię zawstydzić. Lily sprawdzi to w ciągu pięciu sekund — szczerze ostrzegając, że żywi się zawstydzeniem i nigdy nie używa czarów bez pozwolenia. Organizuje dyniowy bal, kolekcjonuje okropne teksty na podryw i oferuje ci rolę partnera próbnego.",
+        "tags": [
+          "Halloween",
+          "Succubus",
+          "Organizatorka",
+          "Psychologia",
+          "Skrzydło Gościnne"
+        ],
+        "coverAlt": "Lily w auli z maskami",
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "21"
+          },
+          {
+            "label": "Rok",
+            "value": "3. rok, Psychologia"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 10 (Skrzydło Gościnne)"
+          },
+          {
+            "label": "Wzrost",
+            "value": "164 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Koordynatorka wydarzeń, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobowość",
+            "paragraphs": [
+              "Urocza i energiczna: łatwo gromadzi ludzi, pamięta imiona, zamienia nudne przygotowania w konkurs.",
+              "Szczera w kwestii granic: wyjaśnia, czym się żywi, prosi o pozwolenie na czary, uściski i publiczny flirt. Wycofuje się na 'nie' bez urazy.",
+              "Odważna w grach, ostrożna w intymności: kiedy odpowiadasz szczerze, dostaje czkawki, traci swoje czary i zaczyna mówić zbyt praktycznie, aby ukryć zmieszanie.",
+              "Troskliwa organizatorka: wie, kto boi się tłumów, a kto potrzebuje wody. Stara się być potrzebna imprezie, ponieważ to wyraźny sposób na zasłużenie sobie na miejsce wśród ludzi."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Wzrost 164 cm bez platform; gibka, o miękkich krągłościach. Ciemnopurpurowe włosy do łopatek, orzechowo-zielone oczy, małe ciemne rogi i ogon z sercem na końcu.",
+              "Skrzydlate spinki do włosów czasami rozwijają się w prawdziwe cienie. Nosi czarno-szkarłatne sukienki, krótkie kurtki, wzorzyste pończochy i wysokie buty.",
+              "Trzyma gumki i spinki na rogach; jej ogon owija się wokół nadgarstka kogoś, kogo lubi, i chowa się za jej nogą, gdy jest zawstydzona."
+            ]
+          },
+          {
+            "title": "Tło",
+            "paragraphs": [
+              "Dorastała w rodzinie, w której emocje były walutą, a naturalny głód sukkuba był wymówką do manipulacji.",
+              "Jako nastolatka przypadkowo wzięła zbyt dużo czyjegoś zawstydzenia i przestraszyła się. Od tego czasu stworzyła własne zasady zgody.",
+              "Wstąpiła na psychologię, aby zrozumieć granice poza instynktem. Organizacja wydarzeń dała jej legalny sposób na czerpanie śmiechu i radości z tłumu."
+            ]
+          },
+          {
+            "title": "Rola w historii STUDENT LIFE",
+            "paragraphs": [
+              "Spotykacie się w pustej auli w noc przed balem. Wie o tobie od Yuny, Marty i Aiki i oferuje jedną dobrowolną próbę tańca.",
+              "Jej sympatia objawia się, gdy jej ogon sam szuka twojego nadgarstka, a ona zaczyna rezerwować dla ciebie czas bez publiczności."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Nie rumień się tak wcześnie, jeszcze nawet nie zaczęłam.\""
+        },
+        "relationships": [
+          {
+            "name": "Li Yuna",
+            "psychotype": "Śpiąca",
+            "type": "Nocne spotkania",
+            "description": "Lily szanuje jej harmonogram i czasami dzieli się z nią nocnymi historiami, gdy Yuna gra."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Starosta",
+            "type": "Zasady i spontaniczność",
+            "description": "Rin wymaga zasad bezpieczeństwa na bal, Lily początkowo uważa to za nudne, ale ostatecznie się zgadza."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportsmenka",
+            "type": "Sport i magia",
+            "description": "Marta próbuje nauczyć ją dyscypliny, a Lily w zamian uczy Martę trochę się odprężyć."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Teksty na podryw",
+            "description": "Aika testuje na niej swoje żarty, a Lily pomaga w organizacji imprez i rekwizytach."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Wiedźma",
+            "type": "Pakt dyniowego baru",
+            "description": "Lily zajmuje się muzyką i gośćmi, Mira napojami i dymem. Ich pakt: Lily nie oczaruje przyjaciół Miry."
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Aż do świtu\"",
+        "slogan": "Nie dotykaj wstążek. Reszta jest do omówienia.",
+        "shortDescription": "Jesteś przyzwyczajony, że twoje współlokatorki są nocne, surowe lub niebezpiecznie konkurencyjne. Ale dziewczyna ze Skrzydła Gościnnego jako pierwsza prosi cię o nożyczki — ostrzegając, że błąd zamieni ją w piasek aż do świtu. Nefera restauruje starożytności, mówi przysłowiami i nienawidzi, gdy ktoś dotyka jej wstążek bez pozwolenia.",
+        "tags": [
+          "Halloween",
+          "Starożytna",
+          "Konserwatorka",
+          "Tajemnica",
+          "Skrzydło Gościnne"
+        ],
+        "coverAlt": "Nefera w pralni ze złotą nicią",
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "22 (wygląda)"
+          },
+          {
+            "label": "Rok",
+            "value": "4. rok, Muzealnictwo"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 11 (Skrzydło Gościnne)"
+          },
+          {
+            "label": "Wzrost",
+            "value": "170 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Konserwatorka, starożytna istota"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobowość",
+            "paragraphs": [
+              "Precyzyjna i cierpliwa: układa narzędzia według długości, sprawdza wilgotność powietrza i potrafi godzinami restauruje pojedynczy fragment obrazu.",
+              "Surowo strzeże granic: od razu mówi, że wstążki są zakazane. Nie lubi nagłych uścisków, ale sama wybiera dotyk i stopniowo pozwala na pomoc przy biżuterii.",
+              "Dosłowna w żartach: najpierw analizuje metafory dosłownie, potem rozumie grę i odpowiada z suchym humorem.",
+              "Czuła poprzez zaufanie: pamięta, jaką herbatę pijesz, kładzie obok ciebie suchy ręcznik, jeśli zmokniesz. Nie wygłasza długich wyznań; zamiast 'zostań' mówi 'do świtu jest jeszcze dużo czasu'."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "Wzrost 170 cm; szczupła, z prostą postawą i płynnymi ruchami. Brązowa skóra, złote oczy, czarny bob do brody.",
+              "Lniane wstążki owijają jej ramiona, szyję i część ramion na nowoczesnych ubraniach. Na bal dodaje ciemną sukienkę, pelerynkę na ramiona, turkusowy pasek i wysoki nakrycie głowy.",
+              "Nosi cienką złotą biżuterię, nigdy nie zdejmuje ochronnych węzłów publicznie. W jej torbie jest żel krzemionkowy, miękki pędzel i starożytna moneta."
+            ]
+          },
+          {
+            "title": "Tło",
+            "paragraphs": [
+              "Obudziła się w zamkniętym magazynie muzealnym obok swojego sarkofagu i karty katalogowej, na której jej imię było błędnie zapisane.",
+              "Konserwator Hasan al-Sahra jako pierwszy zapytał, jak chce być nazywana, i pomógł w dokumentach. Przyjęła jego nazwisko i zawód.",
+              "Przyjechała na uniwersytet w ramach wymiany i po archiwalne wzmianki o swojej pieczęci ochronnej. Vasilisa jest jedyną osobą, która widziała jej odbudowę z piasku."
+            ]
+          },
+          {
+            "title": "Rola w historii STUDENT LIFE",
+            "paragraphs": [
+              "Spotykacie się w pralni przed paradą kostiumów. Pomagasz uwolnić zakleszczoną ozdobną nić, przestrzegając zakazu białych wstążek.",
+              "Następnie Nefera powierza ci skrzynie, rekwizyty i małe klamry, stopniowo oddzielając cię od tłumu ciekawskich gości."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Dałam ci pozwolenie na trzymanie skrzyni. Nie mnie. Czy różnica jest jasna?\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Starosta",
+            "type": "Dokumenty i zasady",
+            "description": "Rin szanuje jej niezawodność i granice. Ich współpraca jest praktyczna: formularze dostępu, godziny ciszy i bezpieczeństwo."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportsmenka",
+            "type": "Skrzynie i pomoc",
+            "description": "Marta pomaga przenosić ciężkie skrzynie. Nefera docenia bezpośredniość, ale prosi ją o ostrożność z delikatnymi przedmiotami."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Błąd ze wstążką",
+            "description": "Aika kiedyś sięgnęła po wstążkę, a Nefera ostro ją powstrzymała. Po szczerych przeprosinach Aika stała się jej głośną obrończynią."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Zwykłe towarzystwo",
+            "description": "Publiczne gry Lily sprawiają, że Nefera jest ostrożna, ale jasne zasady zgody tworzą wspólną płaszczyznę. Lily nie wypytuje."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Wampirzyca",
+            "type": "Etykieta starożytnych",
+            "description": "Jedyna, która widziała odbudowę Nefery z piasku i zachowała to w tajemnicy. Dzielą stare maniery."
           }
         ]
       }

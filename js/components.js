@@ -239,6 +239,15 @@ window.SL = window.SL || {};
 
     
     const cover = el("div", { class: "char-card__cover" });
+    
+    // Добавляем значок Хэллоуина для Айки, Лили и Неферы
+    if (character.id === "aika" || character.id === "lily" || character.id === "nefera") {
+      cover.append(el("img", {
+        class: "char-card__halloween",
+        attrs: { src: "assets/images/badges/Halloween.webp", alt: "Halloween" }
+      }));
+    }
+
     if (character.cover) {
       const img = el("img", {
         attrs: {
@@ -332,45 +341,7 @@ window.SL = window.SL || {};
   }
 
   
-  function relationCard(relation, charactersById) {
-    const targetId = relation.characterId;
-    const target = charactersById[targetId];
-    const isAvailable = target && target.status === "available";
-    
-    // Если персонажа еще нет в системе (заглушка на будущее)
-    const href = isAvailable ? "character.html?id=" + encodeURIComponent(target.id) : "#";
-    const name = target ? SL.i18n.t(`content.characters.${target.id}.name`) : (relation.name || "???");
-    const psychotype = relation.psychotype || "";
-    
-    const avatar = el("span", { class: "relation-card__avatar" });
-    if (target && target.cover) {
-      const img = el("img", { attrs: { src: target.cover, alt: "", loading: "lazy" } });
-      img.addEventListener("error", () => img.remove());
-      avatar.append(img);
-    } else {
-      avatar.append(icon("users"));
-      avatar.style.display = "grid";
-      avatar.style.placeItems = "center";
-      avatar.style.background = "var(--surface-2)";
-    }
 
-    const card = el(isAvailable ? "a" : "article", { 
-      class: "relation-card" + (isAvailable ? "" : " relation-card--soon"),
-      attrs: isAvailable ? { href } : {}
-    }, [
-      avatar,
-      el("span", { class: "relation-card__body" }, [
-        el("div", { class: "relation-card__header" }, [
-          el("span", { class: "relation-card__type", text: relation.type }),
-          !isAvailable ? el("span", { class: "relation-card__badge", text: SL.i18n.t("status.coming-soon") }) : null
-        ]),
-        el("div", { class: "relation-card__name", text: name }),
-        psychotype ? el("div", { class: "relation-card__psychotype", text: psychotype }) : null,
-        el("p", { class: "relation-card__desc", text: relation.description })
-      ])
-    ]);
-    return card;
-  }
 
   
   function chatButton(url, labelKey, large) {
@@ -415,6 +386,89 @@ window.SL = window.SL || {};
         ])
       ])
     ]);
+  }
+
+
+  // Глобальный тултип (создается 1 раз на весь сайт)
+  let globalTooltip = null;
+  function getGlobalTooltip() {
+    if (!globalTooltip) {
+      globalTooltip = el("div", { class: "global-relation-tooltip" });
+      document.body.append(globalTooltip);
+      
+      document.addEventListener("mousemove", (e) => {
+        if (globalTooltip.style.opacity === "1") {
+          let x = e.clientX + 15;
+          let y = e.clientY + 15;
+          
+          const rect = globalTooltip.getBoundingClientRect();
+          if (x + rect.width > window.innerWidth - 10) x = e.clientX - rect.width - 15;
+          if (y + rect.height > window.innerHeight - 10) y = e.clientY - rect.height - 15;
+          
+          globalTooltip.style.left = x + "px";
+          globalTooltip.style.top = y + "px";
+        }
+      });
+    }
+    return globalTooltip;
+  }
+
+  function relationCard(relation, charactersById) {
+    const targetId = relation.characterId;
+    const target = charactersById[targetId];
+    const isAvailable = target && target.status === "available";
+    
+    const href = isAvailable ? "character.html?id=" + encodeURIComponent(target.id) : "#";
+    const name = target ? SL.i18n.t(`content.characters.${target.id}.name`) : (relation.name || "???");
+    const psychotype = relation.psychotype || "";
+    
+    const avatar = el("span", { class: "relation-card__avatar" });
+    if (target && target.cover) {
+      const img = el("img", { attrs: { src: target.cover, alt: "", loading: "lazy" } });
+      img.addEventListener("error", () => img.remove());
+      avatar.append(img);
+    } else {
+      avatar.append(icon("users"));
+      avatar.style.display = "grid";
+      avatar.style.placeItems = "center";
+      avatar.style.background = "var(--surface-2)";
+    }
+
+    const card = el(isAvailable ? "a" : "article", { 
+      class: "relation-card" + (isAvailable ? "" : " relation-card--soon"),
+      attrs: isAvailable ? { href } : {}
+    }, [
+      avatar,
+      el("span", { class: "relation-card__body" }, [
+        el("div", { class: "relation-card__header" }, [
+          el("span", { class: "relation-card__type", text: relation.type }),
+          !isAvailable ? el("span", { class: "relation-card__badge", text: SL.i18n.t("status.coming-soon") }) : null
+        ]),
+        el("div", { class: "relation-card__name", text: name }),
+        psychotype ? el("div", { class: "relation-card__psychotype", text: psychotype }) : null
+      ])
+    ]);
+
+    // Показываем тултип
+    card.addEventListener("mouseenter", (e) => {
+      const tt = getGlobalTooltip();
+      tt.textContent = relation.description;
+      tt.style.opacity = "1";
+      tt.style.visibility = "visible";
+      
+      // Сразу ставим в координаты мыши
+      tt.style.left = (e.clientX + 15) + "px";
+      tt.style.top = (e.clientY + 15) + "px";
+    });
+
+    // Скрываем тултип
+    card.addEventListener("mouseleave", () => {
+      const tt = getGlobalTooltip();
+      tt.style.opacity = "0";
+      tt.style.visibility = "hidden";
+    });
+
+    return card;
   }
 
   SL.components = {

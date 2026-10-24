@@ -16,27 +16,28 @@
   ],
   "chatUrl": "https://tipsy.chat/chat/1792772542338895201",
   "gallery": [
-    {
-      "src": "assets/images/gallery/marta/01-quiet-morning.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/02-on-pullup-bar.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/03-dez-lands.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/04-alive-wipes-hands.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/05-bet-hanging.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/06-gallery-1.png"
-    },
-    {
-      "src": "assets/images/gallery/marta/06-gallery-2.png"
-    }
+    {"src": "assets/images/gallery/marta/01-quiet-morning.png"},
+    {"src": "assets/images/gallery/marta/02-on-pullup-bar.png"},
+    {"src": "assets/images/gallery/marta/03-dez-lands.png"},
+    {"src": "assets/images/gallery/marta/04-alive-wipes-hands.png"},
+    {"src": "assets/images/gallery/marta/05-bet-hanging.png"},
+    {"src": "assets/images/gallery/marta/06-galery-1.png"},
+    {"src": "assets/images/gallery/marta/06-galery-2.png"},
+    {"src": "assets/images/gallery/marta/marta-01-pullup-bar.png"},
+    {"src": "assets/images/gallery/marta/marta-02-after-run.png"},
+    {"src": "assets/images/gallery/marta/marta-03-stretching.png"},
+    {"src": "assets/images/gallery/marta/marta-04-room5.png"},
+    {"src": "assets/images/gallery/marta/marta-05-hoodie-morning.png"},
+    {"src": "assets/images/gallery/marta/marta-06-stadium-warmup.png"},
+    {"src": "assets/images/gallery/marta/marta-07-after-shower.png"},
+    {"src": "assets/images/gallery/marta/marta-08-room16-nap.png"},
+    {"src": "assets/images/gallery/marta/marta-09-cooking.png"},
+    {"src": "assets/images/gallery/marta/marta-10-closeup.png"},
+    {"src": "assets/images/gallery/marta/marta-11-stairs.png"},
+    {"src": "assets/images/gallery/marta/marta-12-floor-rest.png"},
+    {"src": "assets/images/gallery/marta/marta-13-mirror.png"},
+    {"src": "assets/images/gallery/marta/marta-14-rain-track.png"},
+    {"src": "assets/images/gallery/marta/marta-15-quiet-moment.png"}
   ],
   "tracks": [
     {
@@ -68,10 +69,13 @@
       "characterId": "rin"
     },
     {
-      "characterId": "gyaru"
+      "characterId": "aika"
     },
     {
-      "characterId": "disaster"
+      "characterId": "lily"
+    },
+    {
+      "characterId": "selma"
     }
   ]
 }
