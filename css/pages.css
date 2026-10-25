@@ -772,27 +772,7 @@
 }
 
 
-/* ==========================================================================
-   FINAL FIX FOR HERO CARDS (Fan Layout & Hover)
-   Используем независимые свойства rotate/translate/scale, чтобы убрать
-   моргание, лаги и уход карточек за другие слои.
-   ========================================================================== */
-
-.hero-card {
-  position: absolute;
-  width: min(55%, 240px);
-  aspect-ratio: 3 / 4;
-  border-radius: var(--radius-l);
-  overflow: hidden;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset;
-  transition: rotate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
-              translate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
-              scale 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
-              box-shadow 0.4s ease;
-  transform-origin: bottom center;
-  transform: none !important; /* Сбрасываем старый transform */
+/* Сбрасываем старый transform */
   cursor: pointer;
 }
 
@@ -878,3 +858,239 @@
   pointer-events: none;
 }
 
+
+/* Сделали карточки чуть уже, чтобы 6 штук поместились */
+  aspect-ratio: 3 / 4;
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset;
+  transition: rotate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              translate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              scale 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              box-shadow 0.4s ease;
+  transform-origin: bottom center;
+  transform: none !important;
+  cursor: pointer;
+}
+
+.hero-card:hover {
+  rotate: 0deg !important;
+  scale: 1.12;
+  translate: var(--tx) calc(var(--ty) - 25px);
+  z-index: 100 !important;
+  box-shadow: 0 30px 60px -15px var(--shadow), 0 0 50px -10px var(--card-accent, var(--glow));
+}
+
+/* Позиции для 6 карточек */
+.hero-card--a { --rot: -24deg; --tx: -140px; --ty: 45px; rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 1; }
+.hero-card--b { --rot: -14deg; --tx: -85px;  --ty: 15px; rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 2; }
+.hero-card--c { --rot: -4deg;  --tx: -30px;  --ty: 0px;  rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 3; }
+.hero-card--d { --rot: 4deg;   --tx: 30px;   --ty: 0px;  rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 4; }
+.hero-card--e { --rot: 14deg;  --tx: 85px;   --ty: 15px; rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 5; }
+.hero-card--f { --rot: 24deg;  --tx: 140px;  --ty: 45px; rotate: var(--rot); translate: var(--tx) var(--ty); z-index: 6; }
+
+/* Отключаем анимацию наведения для недоступных карточек */
+.hero-card--disabled {
+  cursor: default !important;
+}
+.hero-card--disabled:hover {
+  rotate: var(--rot) !important;
+  scale: 1 !important;
+  translate: var(--tx) var(--ty) !important;
+  z-index: 1 !important;
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset !important;
+}
+
+.hero-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  pointer-events: none;
+}
+
+.hero-card figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 0.9rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #fff;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Центрируем крайние карточки */
+  align-items: center;
+  height: 450px;
+  cursor: grab;
+  width: 100%;
+  -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+}
+
+.hero-cards-track::-webkit-scrollbar {
+  display: none;
+}
+
+.hero-card {
+  flex: 0 0 200px; /* Фиксированная ширина карточки */
+  aspect-ratio: 3 / 4;
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  scroll-snap-align: center;
+  background: var(--surface);
+  box-shadow: 0 15px 35px -10px var(--shadow);
+  transition: transform 0.1s ease-out, opacity 0.3s ease;
+  transform-origin: bottom center;
+  position: relative;
+  border: 1px solid var(--border);
+  will-change: transform;
+}
+
+.hero-card--disabled {
+  cursor: default !important;
+}
+
+.hero-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  pointer-events: none;
+  display: block;
+}
+
+.hero-card figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 0.9rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #fff;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.hero__sticker {
+  position: absolute;
+  z-index: 100;
+  bottom: 5%;
+  left: 5%;
+  max-width: 170px;
+  padding: 0.85rem 1rem;
+  background: var(--note);
+  color: var(--note-text);
+  border-radius: 4px 14px 4px 14px;
+  box-shadow: 0 14px 28px -14px var(--shadow);
+  transform: rotate(6deg);
+  font-family: var(--font-hand);
+  font-size: 1.25rem;
+  line-height: 1.3;
+  transition: transform var(--transition);
+  pointer-events: none;
+}
+
+/* ==========================================================================
+   SMOOTH HORIZONTAL SCROLL FAN
+   ========================================================================== */
+.hero__visual {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+  overflow: hidden;
+}
+
+.hero-cards-track {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  /* Уменьшили боковые отступы, чтобы карточки были ближе к краям */
+  padding: 20px 2%;
+  align-items: center;
+  height: 450px;
+  cursor: grab;
+  width: 100%;
+  -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+}
+
+.hero-cards-track::-webkit-scrollbar {
+  display: none;
+}
+
+.hero-card {
+  flex: 0 0 190px;
+  aspect-ratio: 3 / 4;
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  scroll-snap-align: center;
+  background: var(--surface);
+  box-shadow: 0 15px 35px -10px var(--shadow);
+  transition: opacity 0.1s ease; /* Убрали transition для transform, чтобы JS работал плавнее */
+  position: relative;
+  border: 1px solid var(--border);
+  will-change: transform, opacity;
+  transform-origin: center center;
+}
+
+.hero-card--disabled {
+  cursor: default !important;
+}
+
+.hero-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  pointer-events: none;
+  display: block;
+}
+
+.hero-card figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 0.9rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #fff;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.hero__sticker {
+  position: absolute;
+  z-index: 100;
+  bottom: 5%;
+  left: 5%;
+  max-width: 170px;
+  padding: 0.85rem 1rem;
+  background: var(--note);
+  color: var(--note-text);
+  border-radius: 4px 14px 4px 14px;
+  box-shadow: 0 14px 28px -14px var(--shadow);
+  transform: rotate(6deg);
+  font-family: var(--font-hand);
+  font-size: 1.25rem;
+  line-height: 1.3;
+  transition: transform var(--transition);
+  pointer-events: none;
+}

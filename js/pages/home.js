@@ -70,18 +70,17 @@ SL.pages = SL.pages || {};
     left.append(stats);
 
     const visual = el("div", { class: "hero__visual" });
-    const featured = characters.filter((c) => c.cover).slice(0, 4);
+    const track = el("div", { class: "hero-cards-track" });
+    
+    const featured = characters.filter((c) => c.cover);
+    
     featured.forEach((character, index) => {
-      const classIndex = index === 0 ? "a" : index === 1 ? "b" : index === 2 ? "c" : "d";
-      const fig = el("figure", { class: "hero-card hero-card--" + classIndex });
-      
+      const fig = el("figure", { class: "hero-card" });
       const prefix = `content.characters.${character.id}.`;
       const isAvailable = character.status === "available";
       
-      // Добавляем акцентный цвет персонажа для свечения
       if (character.accent) fig.style.setProperty("--card-accent", character.accent);
       
-      // Делаем карточку кликабельной ТОЛЬКО если она доступна
       if (isAvailable) {
         const pageUrl = "character.html?id=" + encodeURIComponent(character.id);
         fig.style.cursor = "pointer";
@@ -89,12 +88,14 @@ SL.pages = SL.pages || {};
         fig.setAttribute("role", "link");
         fig.setAttribute("aria-label", t(prefix + "name") + " — " + t("actions.openPage"));
         
-        fig.addEventListener("click", () => { window.location.href = pageUrl; });
+        fig.addEventListener("click", (e) => { 
+           if (track.dataset.dragging === "true") return;
+           window.location.href = pageUrl; 
+        });
         fig.addEventListener("keydown", (e) => { 
           if (e.key === "Enter") window.location.href = pageUrl; 
         });
       } else {
-        // Если недоступна — добавляем класс для стилизации (например, чтобы убрать ховер-эффект)
         fig.classList.add("hero-card--disabled");
         fig.setAttribute("aria-disabled", "true");
       }
@@ -103,11 +104,93 @@ SL.pages = SL.pages || {};
       img.addEventListener("error", () => fig.remove());
       
       fig.append(img, el("figcaption", { text: "№" + character.number + " · " + t(prefix + "name") }));
-      visual.append(fig);
+      track.append(fig);
     });
+    
+    visual.append(track);
     visual.append(el("div", { class: "hero__sticker", text: t("footer.scheduleItems").split("·")[0].trim() + " ✎" }));
 
     mount.append(el("div", { class: "hero__grid" }, [left, visual]));
+
+    setTimeout(() => {
+      if (!track) return;
+      
+      let ticking = false;
+      const updateFan = () => {
+        const center = track.scrollLeft + track.clientWidth / 2;
+        Array.from(track.children).forEach(card => {
+          const cardCenter = card.offsetLeft + card.offsetWidth / 2;
+          const distance = cardCenter - center;
+          
+          // Наклон в соответствующую сторону (максимум 18 градусов)
+          const rotate = Math.max(-18, Math.min(18, distance * 0.035));
+          
+          // Плавное уменьшение к краям (без изменения высоты/смещения)
+          const scale = Math.max(0.8, 1 - Math.abs(distance) * 0.0006);
+          const zIndex = Math.round(100 - Math.abs(distance));
+          const opacity = Math.max(0.3, 1 - Math.abs(distance) * 0.0015);
+          
+          card.style.transform = `rotate(${rotate}deg) scale(${scale})`;
+          card.style.zIndex = zIndex;
+          card.style.opacity = opacity;
+        });
+        ticking = false;
+      };
+      
+      const onScroll = () => {
+        if (!ticking) {
+          window.requestAnimationFrame(updateFan);
+          ticking = true;
+        }
+      };
+      
+      track.addEventListener("scroll", onScroll);
+      window.addEventListener("resize", onScroll);
+      updateFan(); 
+      
+      // Перетаскивание мышкой
+      let isDown = false;
+      let startX;
+      let scrollLeft;
+      
+      track.addEventListener('mousedown', (e) => {
+        isDown = true;
+        track.dataset.dragging = "false";
+        startX = e.pageX - track.offsetLeft;
+        scrollLeft = track.scrollLeft;
+        track.style.cursor = 'grabbing';
+      });
+      
+      track.addEventListener('mouseleave', () => {
+        isDown = false;
+        track.style.cursor = 'grab';
+        setTimeout(() => delete track.dataset.dragging, 50);
+      });
+      
+      track.addEventListener('mouseup', () => {
+        isDown = false;
+        track.style.cursor = 'grab';
+        setTimeout(() => delete track.dataset.dragging, 50);
+      });
+      
+      track.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - track.offsetLeft;
+        const walk = (x - startX) * 1.5; // Чуть замедлили для плавности
+        if (Math.abs(walk) > 5) track.dataset.dragging = "true";
+        track.scrollLeft = scrollLeft - walk;
+      });
+
+      // Перевод вертикального колесика мыши в горизонтальный скролл
+      track.addEventListener('wheel', (e) => {
+        if (e.deltaY !== 0) {
+          e.preventDefault();
+          track.scrollLeft += e.deltaY;
+        }
+      }, { passive: false });
+      
+    }, 100);
   }
 
   function stat(value, label) {

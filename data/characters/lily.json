@@ -1,8 +1,8 @@
 {
   "id": "lily",
   "number": 5,
-  "status": "available1",
-  "releaseDate": "2026-10-27",
+  "status": "available",
+  "releaseDate": "2026-10-25",
   "accent": "#b43a3a",
   "cover": "assets/images/covers/lily/lily-cover-1.png",
   "covers": [
@@ -12,7 +12,7 @@
     "assets/images/covers/lily/lily-cover-4.png",
     "assets/images/covers/lily/lily-cover-5.png"
   ],
-  "chatUrl": "",
+  "chatUrl": "https://tipsy.chat/chat/1792946895355423574",
   "gallery": [
     {
       "src": "assets/images/gallery/lily/lily-gallery-1.png"
