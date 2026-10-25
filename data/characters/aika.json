@@ -2,15 +2,15 @@
   "id": "aika",
   "number": 4,
   "status": "available1",
-  "releaseDate": "2026-10-25",
+  "releaseDate": "2026-10-26",
   "accent": "#e0a96d",
-  "cover": "assets/images/covers/aika-cover-1.png",
+  "cover": "assets/images/covers/aika/aika-cover-1.png",
   "covers": [
-    "assets/images/covers/aika-cover-1.png",
-    "assets/images/covers/aika-cover-2.png",
-    "assets/images/covers/aika-cover-3.png",
-    "assets/images/covers/aika-cover-4.png",
-    "assets/images/covers/aika-cover-5.png"
+    "assets/images/covers/aika/aika-cover-1.png",
+    "assets/images/covers/aika/aika-cover-2.png",
+    "assets/images/covers/aika/aika-cover-3.png",
+    "assets/images/covers/aika/aika-cover-4.png",
+    "assets/images/covers/aika/aika-cover-5.png"
   ],
   "chatUrl": "",
   "gallery": [
@@ -57,7 +57,24 @@
       "src": "assets/images/gallery/aika/aika-10-closeup.jpg"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/aika/GLITTER IN-THE-MARGIN.mp3",
+      "cover": "assets/images/covers/aika/songs/GLITTER-IN-THE-MARGIN.png"
+    },
+    {
+      "src": "assets/audio/aika/NO-SCORE-TONIGHT.mp3",
+      "cover": "assets/images/covers/aika/songs/NO-SCORE-TONIGHT.png"
+    },
+    {
+      "src": "assets/audio/aika/FIVE-MINUTES-NO-WITNESSES.mp3",
+      "cover": "assets/images/covers/aika/songs/FIVE-MINUTES-NO-WITNESSES.png"
+    },
+    {
+      "src": "assets/audio/aika/EVERYBODY-LAUGHS.mp3",
+      "cover": "assets/images/covers/aika/songs/EVERYBODY-LAUGHS.png"
+    }
+  ],
   "relationships": [
     {
       "characterId": "rin"

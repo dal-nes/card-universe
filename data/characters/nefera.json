@@ -2,15 +2,15 @@
   "id": "nefera",
   "number": 6,
   "status": "available1",
-  "releaseDate": "2026-10-26",
+  "releaseDate": "2026-10-28",
   "accent": "#c2a77a",
-  "cover": "assets/images/covers/nefera-cover-1.png",
+  "cover": "assets/images/covers/nefera/nefera-cover-1.png",
   "covers": [
-    "assets/images/covers/nefera-cover-1.png",
-    "assets/images/covers/nefera-cover-2.png",
-    "assets/images/covers/nefera-cover-3.png",
-    "assets/images/covers/nefera-cover-4.png",
-    "assets/images/covers/nefera-cover-5.png"
+    "assets/images/covers/nefera/nefera-cover-1.png",
+    "assets/images/covers/nefera/nefera-cover-2.png",
+    "assets/images/covers/nefera/nefera-cover-3.png",
+    "assets/images/covers/nefera/nefera-cover-4.png",
+    "assets/images/covers/nefera/nefera-cover-5.png"
   ],
   "chatUrl": "",
   "gallery": [

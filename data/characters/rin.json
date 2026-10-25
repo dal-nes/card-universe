@@ -4,11 +4,11 @@
   "status": "available",
   "releaseDate": "2026-10-23",
   "accent": "#e0679a",
-  "cover": "assets/images/covers/rin-cover.png",
+  "cover": "assets/images/covers/rin/rin-cover.png",
   "chatUrl": "https://tipsy.chat/chat/1792602234456441566",
   "gallery": [
     {
-      "src": "assets/images/covers/rin-cover.jpg",
+      "src": "assets/images/covers/rin/rin-cover.jpg",
       "alt": "Rin with her logbook in the dormitory corridor",
       "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
     },
@@ -45,26 +45,26 @@
   ],
   "tracks": [
     {
-      "src": "assets/audio/a-blank-page.mp3",
-      "cover": "assets/images/covers/a-blank-page.png",
+      "src": "assets/audio/rin/a-blank-page.mp3",
+      "cover": "assets/images/covers/rin/songs/a-blank-page.png",
       "title": "A Blank Page",
       "artist": "Кобаяши Рин"
     },
     {
-      "src": "assets/audio/violation-no-16.mp3",
-      "cover": "assets/images/covers/violation-no-16.png",
+      "src": "assets/audio/rin/violation-no-16.mp3",
+      "cover": "assets/images/covers/rin/songs/violation-no-16.png",
       "title": "Violation No. 16",
       "artist": "Кобаяши Рин"
     },
     {
-      "src": "assets/audio/after-ten.mp3",
-      "cover": "assets/images/covers/after-ten.png",
+      "src": "assets/audio/rin/after-ten.mp3",
+      "cover": "assets/images/covers/rin/songs/after-ten.png",
       "title": "After Ten",
       "artist": "Кобаяши Рин"
     },
     {
-      "src": "assets/audio/its-not-personal.mp3",
-      "cover": "assets/images/covers/its-not-personal.png",
+      "src": "assets/audio/rin/its-not-personal.mp3",
+      "cover": "assets/images/covers/rin/songs/its-not-personal.png",
       "title": "It's Not Personal",
       "artist": "Кобаяши Рин"
     }
@@ -162,11 +162,11 @@
     }
   ],
   "covers": [
-    "assets/images/covers/rin-cover.png",
-    "assets/images/covers/rin-01-challenge.png",
-    "assets/images/covers/rin-02-home-tsundere.png",
-    "assets/images/covers/rin-03-resident-16.png",
-    "assets/images/covers/rin-04-full-denial.png",
-    "assets/images/covers/rin-05-strict-look.png"
+    "assets/images/covers/rin/rin-cover.png",
+    "assets/images/covers/rin/rin-01-challenge.png",
+    "assets/images/covers/rin/rin-02-home-tsundere.png",
+    "assets/images/covers/rin/rin-03-resident-16.png",
+    "assets/images/covers/rin/rin-04-full-denial.png",
+    "assets/images/covers/rin/rin-05-strict-look.png"
   ]
 }

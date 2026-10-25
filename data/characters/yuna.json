@@ -4,7 +4,7 @@
   "status": "available",
   "releaseDate": "2026-10-20",
   "accent": "#8b7cf6",
-  "cover": "assets/images/covers/yuna-cover.jpg",
+  "cover": "assets/images/covers/yuna/yuna-cover.jpg",
   "chatUrl": "https://tipsy.chat/chat/1792519967039353294",
   "gallery": [
     {
@@ -80,20 +80,20 @@
   ],
   "tracks": [
     {
-      "src": "assets/audio/low-hp-high-score.mp3",
-      "cover": "assets/images/covers/low-hp-high-score.png"
+      "src": "assets/audio/yuna/low-hp-high-score.mp3",
+      "cover": "assets/images/covers/yuna/songs/low-hp-high-score.png"
     },
     {
-      "src": "assets/audio/half-the-couch.mp3",
-      "cover": "assets/images/covers/half-the-couch.png"
+      "src": "assets/audio/yuna/half-the-couch.mp3",
+      "cover": "assets/images/covers/yuna/songs/half-the-couch.png"
     },
     {
-      "src": "assets/audio/unsent-at-109.mp3",
-      "cover": "assets/images/covers/unsent-at-109.png"
+      "src": "assets/audio/yuna/unsent-at-109.mp3",
+      "cover": "assets/images/covers/yuna/songs/unsent-at-109.png"
     },
     {
-      "src": "assets/audio/night-queue.mp3",
-      "cover": "assets/images/covers/night-queue.png"
+      "src": "assets/audio/yuna/night-queue.mp3",
+      "cover": "assets/images/covers/yuna/songs/night-queue.png"
     }
   ],
   "name": "Li Yuna",
@@ -188,9 +188,9 @@
     }
   ],
   "covers": [
-    "assets/images/covers/yuna-cover.jpg",
-    "assets/images/covers/yona-cover-2.png",
-    "assets/images/covers/yuna-02-gamer-throne.png",
-    "assets/images/covers/yuna-03-sleepy-temptation.png"
+    "assets/images/covers/yuna/yuna-cover.jpg",
+    "assets/images/covers/yuna/yona-cover-2.png",
+    "assets/images/covers/yuna/yuna-02-gamer-throne.png",
+    "assets/images/covers/yuna/yuna-03-sleepy-temptation.png"
   ]
 }

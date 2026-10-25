@@ -2,15 +2,15 @@
   "id": "lily",
   "number": 5,
   "status": "available1",
-  "releaseDate": "2026-10-26",
+  "releaseDate": "2026-10-27",
   "accent": "#b43a3a",
-  "cover": "assets/images/covers/lily-cover-1.png",
+  "cover": "assets/images/covers/lily/lily-cover-1.png",
   "covers": [
-    "assets/images/covers/lily-cover-1.png",
-    "assets/images/covers/lily-cover-2.png",
-    "assets/images/covers/lily-cover-3.png",
-    "assets/images/covers/lily-cover-4.png",
-    "assets/images/covers/lily-cover-5.png"
+    "assets/images/covers/lily/lily-cover-1.png",
+    "assets/images/covers/lily/lily-cover-2.png",
+    "assets/images/covers/lily/lily-cover-3.png",
+    "assets/images/covers/lily/lily-cover-4.png",
+    "assets/images/covers/lily/lily-cover-5.png"
   ],
   "chatUrl": "",
   "gallery": [
