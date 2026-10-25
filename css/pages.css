@@ -83,50 +83,59 @@
 .hero__visual {
   position: relative;
   min-height: 520px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .hero-card {
   position: absolute;
-  width: min(65%, 300px);
+  width: min(55%, 240px);
+  aspect-ratio: 3 / 4;
   border-radius: var(--radius-l);
   overflow: hidden;
   border: 1px solid var(--border);
   background: var(--surface);
-  box-shadow: 0 30px 60px -28px var(--shadow);
-  transition: transform var(--transition-slow), box-shadow var(--transition-slow);
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset;
+  transition: scale 0.3s ease-out, box-shadow 0.3s ease-out;
+  transform-origin: bottom center;
 }
 .hero-card img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
   display: block;
+  pointer-events: none;
 }
 .hero-card figcaption {
-  padding: 0.6rem 0.9rem 0.75rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 0.9rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
   font-size: 0.82rem;
   font-weight: 700;
-  color: var(--text-muted);
+  color: #fff;
+  z-index: 2;
+  pointer-events: none;
 }
 .hero-card--a {
-  top: 5%;
-  left: -5%;
-  transform: rotate(-12deg);
+  transform: rotate(-16deg) translate(-75px, 15px);
   z-index: 1;
 }
 .hero-card--b {
-  bottom: 5%;
-  right: -5%;
-  transform: rotate(10deg);
+  transform: rotate(-5deg) translate(-25px, 0px);
   z-index: 2;
 }
 .hero-card--c {
-  top: 15%;
-  left: 20%;
-  transform: rotate(-2deg);
+  transform: rotate(5deg) translate(25px, 0px);
   z-index: 3;
 }
 .hero-card:hover {
-  transform: rotate(0deg) translateY(-6px) scale(1.03);
-  z-index: 5;
-  box-shadow: 0 40px 80px -30px var(--shadow), 0 0 70px -20px var(--glow);
+  z-index: 10;
+  scale: 1.08;
+  box-shadow: 0 30px 60px -15px var(--shadow), 0 0 50px -10px var(--glow);
 }
 .hero__sticker {
   position: absolute;
@@ -748,8 +757,124 @@
   transform: scale(1.2);
 }
 .hero-card--d {
-  top: 25%;
-  left: 10%;
-  transform: rotate(3deg);
+  transform: rotate(16deg) translate(75px, 15px);
   z-index: 4;
 }
+
+/* Отключаем эффект наведения для недоступных персонажей */
+.hero-card--disabled {
+  cursor: default !important;
+}
+.hero-card--disabled:hover {
+  transform: rotate(0deg) scale(1) !important;
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset !important;
+  z-index: 1 !important;
+}
+
+
+/* ==========================================================================
+   FINAL FIX FOR HERO CARDS (Fan Layout & Hover)
+   Используем независимые свойства rotate/translate/scale, чтобы убрать
+   моргание, лаги и уход карточек за другие слои.
+   ========================================================================== */
+
+.hero-card {
+  position: absolute;
+  width: min(55%, 240px);
+  aspect-ratio: 3 / 4;
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset;
+  transition: rotate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              translate 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              scale 0.4s cubic-bezier(0.22, 1, 0.36, 1), 
+              box-shadow 0.4s ease;
+  transform-origin: bottom center;
+  transform: none !important; /* Сбрасываем старый transform */
+  cursor: pointer;
+}
+
+.hero-card:hover {
+  rotate: 0deg !important;
+  scale: 1.08;
+  translate: var(--tx) calc(var(--ty) - 25px); /* Поднимает вверх, сохраняя позицию по горизонтали */
+  z-index: 100 !important; /* Гарантированно поднимает наверх */
+  box-shadow: 0 30px 60px -15px var(--shadow), 0 0 50px -10px var(--card-accent, var(--glow));
+}
+
+/* Индивидуальные позиции карточек в веере */
+.hero-card--a {
+  --rot: -16deg;
+  --tx: -75px;
+  --ty: 15px;
+  rotate: var(--rot);
+  translate: var(--tx) var(--ty);
+  z-index: 1;
+}
+
+.hero-card--b {
+  --rot: -5deg;
+  --tx: -25px;
+  --ty: 0px;
+  rotate: var(--rot);
+  translate: var(--tx) var(--ty);
+  z-index: 2;
+}
+
+.hero-card--c {
+  --rot: 5deg;
+  --tx: 25px;
+  --ty: 0px;
+  rotate: var(--rot);
+  translate: var(--tx) var(--ty);
+  z-index: 3;
+}
+
+.hero-card--d {
+  --rot: 16deg;
+  --tx: 75px;
+  --ty: 15px;
+  rotate: var(--rot);
+  translate: var(--tx) var(--ty);
+  z-index: 4;
+}
+
+/* Отключаем анимацию наведения для недоступных карточек */
+.hero-card--disabled {
+  cursor: default !important;
+}
+
+.hero-card--disabled:hover {
+  rotate: var(--rot) !important;
+  scale: 1 !important;
+  translate: var(--tx) var(--ty) !important;
+  z-index: 1 !important;
+  box-shadow: 0 15px 35px -10px var(--shadow), 0 0 0 1px rgba(255,255,255,0.05) inset !important;
+}
+
+/* Убеждаемся, что картинка и текст не перехватывают мышку */
+.hero-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  pointer-events: none;
+}
+
+.hero-card figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 0.9rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #fff;
+  z-index: 2;
+  pointer-events: none;
+}
+

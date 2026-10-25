@@ -69,14 +69,39 @@ SL.pages = SL.pages || {};
     ]);
     left.append(stats);
 
-    const visual = el("div", { class: "hero__visual", attrs: { "aria-hidden": "true" } });
+    const visual = el("div", { class: "hero__visual" });
     const featured = characters.filter((c) => c.cover).slice(0, 4);
     featured.forEach((character, index) => {
       const classIndex = index === 0 ? "a" : index === 1 ? "b" : index === 2 ? "c" : "d";
       const fig = el("figure", { class: "hero-card hero-card--" + classIndex });
-      const img = el("img", { attrs: { src: character.cover, alt: "", loading: "eager" } });
-      img.addEventListener("error", () => fig.remove());
+      
       const prefix = `content.characters.${character.id}.`;
+      const isAvailable = character.status === "available";
+      
+      // Добавляем акцентный цвет персонажа для свечения
+      if (character.accent) fig.style.setProperty("--card-accent", character.accent);
+      
+      // Делаем карточку кликабельной ТОЛЬКО если она доступна
+      if (isAvailable) {
+        const pageUrl = "character.html?id=" + encodeURIComponent(character.id);
+        fig.style.cursor = "pointer";
+        fig.tabIndex = 0;
+        fig.setAttribute("role", "link");
+        fig.setAttribute("aria-label", t(prefix + "name") + " — " + t("actions.openPage"));
+        
+        fig.addEventListener("click", () => { window.location.href = pageUrl; });
+        fig.addEventListener("keydown", (e) => { 
+          if (e.key === "Enter") window.location.href = pageUrl; 
+        });
+      } else {
+        // Если недоступна — добавляем класс для стилизации (например, чтобы убрать ховер-эффект)
+        fig.classList.add("hero-card--disabled");
+        fig.setAttribute("aria-disabled", "true");
+      }
+
+      const img = el("img", { attrs: { src: character.cover, alt: t(prefix + "coverAlt") || "", loading: "eager" } });
+      img.addEventListener("error", () => fig.remove());
+      
       fig.append(img, el("figcaption", { text: "№" + character.number + " · " + t(prefix + "name") }));
       visual.append(fig);
     });
