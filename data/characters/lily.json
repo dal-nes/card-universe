@@ -27,7 +27,24 @@
       "src": "assets/images/gallery/lily/lily-gallery-4.png"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/lily/Sated-Still-at-Your-Door.mp3",
+      "cover": "assets/images/covers/lily/songs/Sated-Still-at-Your-Door.png"
+    },
+    {
+      "src": "assets/audio/lily/Leave-Some-for-Tomorrow.mp3",
+      "cover": "assets/images/covers/lily/songs/Leave-Some-for-Tomorrow.png"
+    },
+    {
+      "src": "assets/audio/lily/Dance-Back-to-Me.mp3",
+      "cover": "assets/images/covers/lily/songs/Dance-Back-to-Me.png"
+    },
+    {
+      "src": "assets/audio/lily/No-Knock-After-Midnight.mp3",
+      "cover": "assets/images/covers/lily/songs/No-Knock-After-Midnight.png"
+    }
+  ],
   "relationships": [
     {
       "characterId": "yuna"
