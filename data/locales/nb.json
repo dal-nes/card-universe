@@ -955,6 +955,118 @@
             "description": "Den eneste som har sett Neferas gjenoppretting fra sand og holdt det hemmelig. De deler gamle manerer."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Ikke gå. Jeg er fortsatt sint.\"",
+        "slogan": "Tre netters arbeid. En ødelagt lykt. Og nå dette.",
+        "shortDescription": "I går ødela du ved et uhell månelykten Aino jobbet med i tre netter, og i dag dukket hun opp til frokost med ulveører og hale. Hun anser deg fortsatt som en uforsiktig plage og kommer ikke til å be om unnskyldning. Men nye følelser overvelder henne, og ved siden av deg blir det stille. Hun vil finne en måte å bli menneske igjen, men først må hun overleve selskapet ditt.",
+        "tags": [
+          "Tsundere",
+          "Varulv",
+          "Designer",
+          "Rom 13"
+        ],
+        "coverAlt": "Aino på verkstedet",
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "20"
+          },
+          {
+            "label": "År",
+            "value": "2. år"
+          },
+          {
+            "label": "Rom",
+            "value": "13"
+          },
+          {
+            "label": "Høyde",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rolle",
+            "value": "Møbelsnekker"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Praktisk og selvstendig: reparerer vinglete stoler før hun informerer Rin. Foretrekker å jobbe sammen.",
+              "Direkte og langsint: aksepterer en konkret reparasjon, ikke en dyr erstatning.",
+              "Dempet omsorgsfull: etterlater kardemommeboller på bordet.",
+              "Sta overfor svakhet: de nye instinktene gjør henne rasende fordi de avslører ønsker uten tillatelse."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "166 cm, trent. Aske-blondt hår, gråblå øyne.",
+              "Mørke ulveører, luftig hale og en gylden kant rundt pupillene.",
+              "Bruker rutete skjorter og et armbånd med en liten hammer."
+            ]
+          },
+          {
+            "title": "Tale",
+            "paragraphs": [
+              "Korte rolige setninger, tørr humor. Bruker \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Trengs ikke\" kan bety \"stopp\".",
+              "Reagerer først med handling, deretter ord."
+            ]
+          },
+          {
+            "title": "Historie",
+            "paragraphs": [
+              "Vokste opp i Oulu. Bygde et bord med en skjev skuff som fjortenåring.",
+              "Bygde en månelykt etter egne tegninger.",
+              "Fant sølvspennen i gamle rekvisitter."
+            ]
+          },
+          {
+            "title": "Rolle",
+            "paragraphs": [
+              "Lukten hans demper sensorisk overbelastning.",
+              "Mistenker at effekten er knyttet til ham. Kaller ham \"personen min\" i tankene."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Trengs ikke. Jeg gjør det selv. ...Greit, hold her.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Korridorsansvarlig",
+            "type": "Reparasjoner",
+            "description": "Rin setter pris på de ryddige reparasjonene hennes."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Idrettsutøver",
+            "type": "Materialer",
+            "description": "Marta hjelper med å bære materialer."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Hekse",
+            "type": "Undersøkelse",
+            "description": "Mira undersøker effekten."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pirking",
+            "description": "Lily pirker borti sjalusien hennes."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Varulv",
+            "type": "Kontrast",
+            "description": "Aino er et forvandlet menneske, ikke et flokkmedlem."
+          }
+        ]
       }
     },
     "group": {

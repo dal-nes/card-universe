@@ -955,6 +955,118 @@
             "description": "Ang tanging nakakita sa pag-restore ni Nefera mula sa buhangin at inilihim ito. Ibinabahagi nila ang mga lumang asal."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Huwag kang umalis. Galit pa rin ako.\"",
+        "slogan": "Tatlong gabing trabaho. Isang sirang parol. At ngayon ito.",
+        "shortDescription": "Kahapon ay aksidente mong nasira ang moon lantern na tinrabaho ni Aino ng tatlong gabi, at ngayon ay nagpakita siya sa almusal na may tainga at buntot ng lobo. Itinuturing ka pa rin niyang peste at hindi siya magso-sorry. Ngunit ang mga bagong damdamin ay lumulunod sa kanya, at sa tabi mo, tahimik ang lahat. Gusto niyang humanap ng paraan upang bumalik sa anyong tao, ngunit kailangan muna niyang tiisin ang pagsasama mo.",
+        "tags": [
+          "Tsundere",
+          "Werewolf",
+          "Designer",
+          "Kwarto 13"
+        ],
+        "coverAlt": "Aino sa workshop",
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "20"
+          },
+          {
+            "label": "Taon",
+            "value": "2nd year"
+          },
+          {
+            "label": "Kwarto",
+            "value": "13"
+          },
+          {
+            "label": "Taas",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role",
+            "value": "Gumagawa ng muwebles"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Praktikal at independyente: inaayos ang upuan bago sabihin kay Rin. Mas gustong magtrabaho nang magkasama.",
+              "Direkta at mapagtanim ng sama ng loob: tumatanggap ng konkretong pag-aayos, hindi mamahaling kapalit.",
+              "Mahinahong nagmamalasakit: nag-iiwan ng cardamom buns sa mesa.",
+              "Matigas ang ulo sa kahinaan: nagagalit siya sa kanyang mga bagong instinct dahil ibinubunyag nito ang mga pagnanasa nang walang pahintulot."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "166 cm, fit. Ash-blonde na buhok, grey-blue na mata.",
+              "Maitim na tainga ng lobo, mabalahibong buntot, at gintong gilid sa paligid ng pupil.",
+              "Nagsusuot ng plaid na kamiseta at pulseras na may maliit na martilyo."
+            ]
+          },
+          {
+            "title": "Pagsasalita",
+            "paragraphs": [
+              "Maikling tahimik na pangungusap, tuyong katatawanan. Gumagamit ng \"voi ei\", \"no niin\", \"hitto\".",
+              "Ang \"hindi kailangan\" ay maaaring mangahulugang \"tumigil ka\".",
+              "Umuunawa muna sa aksyon, bago magsalita."
+            ]
+          },
+          {
+            "title": "Kasaysayan",
+            "paragraphs": [
+              "Lumaki sa Oulu. Sa edad na labing-apat ay gumawa ng mesa na may baluktot na drawer.",
+              "Gumawa ng moon lantern ayon sa sariling disenyo.",
+              "Nakahanap ng silver clasp sa lumang props."
+            ]
+          },
+          {
+            "title": "Role",
+            "paragraphs": [
+              "Ang amoy niya ay nagpapahupa ng sensory overload.",
+              "Pinaghihinalaang may kinalaman siya sa epekto. Tinatawag siyang \"aking tao\" sa isip."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Hindi kailangan. Ako na ang gagawa. ...Sige, hawakan mo dito.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Pag-aayos",
+            "description": "Pinahahalagahan ni Rin ang malinis niyang pag-aayos."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Mga materyales",
+            "description": "Tumutulong si Marta sa pagdala ng materyales."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Imbestigasyon",
+            "description": "Iniimbestigahan ni Mira ang epekto."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Panunukso",
+            "description": "Tinutukso ni Lily ang kanyang selos."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Werewolf",
+            "type": "Kontrast",
+            "description": "Si Aino ay isang transformed human, hindi miyembro ng pack."
+          }
+        ]
       }
     },
     "group": {

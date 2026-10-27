@@ -1094,3 +1094,61 @@
   transition: transform var(--transition);
   pointer-events: none;
 }
+
+
+/* ==========================================================================
+   BIO CARDS SCROLL FIX (Чистый скролл без закрепленных заголовков)
+   ========================================================================== */
+.bio-card {
+  max-height: 380px; /* Ограничиваем максимальную высоту */
+  overflow-y: auto; /* Включаем вертикальный скролл */
+  position: relative;
+  padding: 1.5rem 0.8rem 1.5rem 1.5rem; /* Меньше отступа справа для скролла */
+  
+  /* Плавное затухание текста внизу */
+  mask-image: linear-gradient(to bottom, black 88%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 88%, transparent 100%);
+}
+
+/* При наведении убираем затухание для удобства чтения */
+.bio-card:hover {
+  mask-image: none;
+  -webkit-mask-image: none;
+}
+
+/* Стилизация скроллбара (для Chrome/Safari/Edge) */
+.bio-card::-webkit-scrollbar {
+  width: 6px;
+}
+.bio-card::-webkit-scrollbar-track {
+  background: transparent;
+  margin: 1rem 0; /* Отступы сверху и снизу скроллбара */
+}
+.bio-card::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1); /* Почти прозрачный */
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+/* При наведении на карточку скроллбар становится ярче */
+.bio-card:hover::-webkit-scrollbar-thumb {
+  background: var(--accent);
+}
+
+/* Для Firefox */
+.bio-card {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  transition: scrollbar-color 0.3s ease;
+}
+
+.bio-card:hover {
+  scrollbar-color: var(--accent) transparent;
+}
+
+/* Возвращаем заголовку нормальное поведение (без sticky) */
+.bio-card h3 {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}

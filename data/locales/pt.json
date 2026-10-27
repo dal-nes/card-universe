@@ -955,6 +955,118 @@
             "description": "A única que viu a restauração de Nefera a partir de areia e manteve isso em segredo. Elas compartilham modos antigos."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Não vá embora. Ainda estou com raiva.\"",
+        "slogan": "Três noites de trabalho. Uma lanterna quebrada. E agora isso.",
+        "shortDescription": "Ontem você quebrou a lanterna lunar em que Aino trabalhou por três noites, e hoje ela apareceu no café da manhã com orelhas de lobo. Ela ainda o considera uma praga e não vai pedir desculpas. Mas novos sentimentos a dominam e, ao seu lado, tudo fica silencioso. Ela quer voltar à forma humana, mas primeiro terá que sobreviver à sua companhia.",
+        "tags": [
+          "Tsundere",
+          "Lobisomem",
+          "Designer",
+          "Quarto 13"
+        ],
+        "coverAlt": "Aino na oficina",
+        "facts": [
+          {
+            "label": "Idade",
+            "value": "20"
+          },
+          {
+            "label": "Ano",
+            "value": "2º ano"
+          },
+          {
+            "label": "Quarto",
+            "value": "13"
+          },
+          {
+            "label": "Altura",
+            "value": "166 cm"
+          },
+          {
+            "label": "Papel",
+            "value": "Fabricante de móveis"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidade",
+            "paragraphs": [
+              "Prática e independente: conserta cadeiras antes de avisar Rin. Prefere trabalhar junto.",
+              "Direta e rancorosa: aceita um conserto concreto, não uma substituição cara.",
+              "Carinhosa com reserva: deixa pães de cardamomo na mesa.",
+              "Teimosa diante da fraqueza: seus novos instintos a enfurecem porque entregam seus desejos."
+            ]
+          },
+          {
+            "title": "Aparência",
+            "paragraphs": [
+              "166 cm, em forma. Cabelo loiro-acinzentado, olhos cinza-azulados.",
+              "Orelhas de lobo escuras, cauda fofa e um aro dourado nas pupilas.",
+              "Usa camisas xadrez e uma pulseira com um martelinho."
+            ]
+          },
+          {
+            "title": "Fala",
+            "paragraphs": [
+              "Frases curtas, humor seco. Usa \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Não precisa\" pode significar \"pare\".",
+              "Reage primeiro com ação, depois responde."
+            ]
+          },
+          {
+            "title": "História",
+            "paragraphs": [
+              "Cresceu em Oulu. Aos quatorze anos construiu uma mesa com uma gaveta torta.",
+              "Fez uma lanterna lunar com seus próprios projetos.",
+              "Encontrou o fecho de prata em adereços antigos."
+            ]
+          },
+          {
+            "title": "Papel",
+            "paragraphs": [
+              "O cheiro dele amortece a sobrecarga sensorial.",
+              "Suspeita que o efeito esteja ligado a ele. Chama-o de \"minha pessoa\" nos pensamentos."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Não precisa. Eu faço. ...Tudo bem, segure aqui.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Líder",
+            "type": "Consertos",
+            "description": "Rin aprecia seus consertos organizados."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Materiais",
+            "description": "Marta ajuda a carregar materiais."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Bruxa",
+            "type": "Investigação",
+            "description": "Mira investiga o efeito."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Súcubo",
+            "type": "Provocações",
+            "description": "Lily provoca seu ciúme."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Lobisomem",
+            "type": "Contraste",
+            "description": "Aino é uma humana transformada, não da alcateia."
+          }
+        ]
       }
     },
     "group": {

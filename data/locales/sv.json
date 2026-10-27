@@ -955,6 +955,118 @@
             "description": "Den enda som har sett Neferas återställning från sand och hållit det hemligt. De delar gamla maner."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Gå inte. Jag är fortfarande arg.\"",
+        "slogan": "Tre nätters arbete. En trasig lykta. Och nu detta.",
+        "shortDescription": "Igår råkade du förstöra månlyktan som Aino arbetade med i tre nätter, och idag dök hon upp till frukosten med vargöron och svans. Hon anser fortfarande att du är en slarvig plåga och tänker inte be om ursäkt. Men nya känslor överväldigar henne och bredvid dig blir det tyst. Hon vill hitta ett sätt att återgå till sin mänskliga form, men först måste hon överleva ditt sällskap.",
+        "tags": [
+          "Tsundere",
+          "Varulv",
+          "Formgivare",
+          "Rum 13"
+        ],
+        "coverAlt": "Aino i verkstaden",
+        "facts": [
+          {
+            "label": "Ålder",
+            "value": "20"
+          },
+          {
+            "label": "Årskurs",
+            "value": "2:a året"
+          },
+          {
+            "label": "Rum",
+            "value": "13"
+          },
+          {
+            "label": "Längd",
+            "value": "166 cm"
+          },
+          {
+            "label": "Roll",
+            "value": "Möbelsnickare"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "Praktisk och självständig: lagar vingliga stolar innan hon meddelar Rin. Föredrar att arbeta tillsammans.",
+              "Direkt och långsint: accepterar en konkret reparation, inte en dyr ersättning.",
+              "Återhållsamt omtänksam: lämnar kardemummabullar på bordet.",
+              "Envis inför svaghet: hennes nya instinkter gör henne rasande eftersom de avslöjar önskningar utan tillstånd."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "166 cm, vältränad. Aschblont hår, gråblå ögon.",
+              "Mörka vargöron, fluffig svans och en gyllene kant runt pupillerna.",
+              "Bär rutiga skjortor och ett armband med en liten hammare."
+            ]
+          },
+          {
+            "title": "Tal",
+            "paragraphs": [
+              "Korta lugna meningar, torr humor. Använder \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Behövs inte\" kan betyda \"sluta\".",
+              "Reagerar först med handling, sedan med ord."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Växte upp i Uleåborg. Byggde ett bord med en sned låda vid fjorton års ålder.",
+              "Byggde en månlykta enligt sina egna ritningar.",
+              "Hittade silverlåset i gamla rekvisita."
+            ]
+          },
+          {
+            "title": "Roll",
+            "paragraphs": [
+              "Hans doft dämpar sensorisk överbelastning.",
+              "Misstänker att effekten är kopplad till honom. Kallar honom \"min person\" i tankarna."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Behövs inte. Jag gör det själv. ...Okej, håll här.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Korridorsansvarig",
+            "type": "Reparationer",
+            "description": "Rin uppskattar hennes prydliga reparationer."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Idrottare",
+            "type": "Material",
+            "description": "Marta hjälper till att bära material."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Häxa",
+            "type": "Utredning",
+            "description": "Mira utreder effekten."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Retas",
+            "description": "Lily retas med hennes svartsjuka."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Varulv",
+            "type": "Kontrast",
+            "description": "Aino är en förvandlad människa, inte en flockmedlem."
+          }
+        ]
       }
     },
     "group": {

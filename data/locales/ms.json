@@ -955,6 +955,118 @@
             "description": "Satu-satunya yang pernah melihat pemulihan Nefera dari pasir dan merahsiakannya. Mereka berkongsi adab lama."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Jangan pergi. Saya masih marah.\"",
+        "slogan": "Tiga malam bekerja. Tanglung rosak. Dan sekarang ini.",
+        "shortDescription": "Semalam awak secara tidak sengaja memecahkan tanglung bulan yang Aino usahakan selama tiga malam, dan hari ini dia muncul untuk sarapan dengan telinga dan ekor serigala. Dia masih menganggap awak perosak yang cuai dan tidak akan meminta maaf. Tetapi perasaan baru membanjirinya, dan di sebelah awak menjadi sunyi. Dia mahu mencari jalan untuk kembali ke bentuk manusia, tetapi pertama-tama dia harus bertahan dengan kehadiran awak.",
+        "tags": [
+          "Tsundere",
+          "Manusia serigala",
+          "Pereka",
+          "Bilik 13"
+        ],
+        "coverAlt": "Aino di bengkel",
+        "facts": [
+          {
+            "label": "Umur",
+            "value": "20"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-2"
+          },
+          {
+            "label": "Bilik",
+            "value": "13"
+          },
+          {
+            "label": "Tinggi",
+            "value": "166 cm"
+          },
+          {
+            "label": "Peranan",
+            "value": "Pembuat perabot"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personaliti",
+            "paragraphs": [
+              "Praktikal dan berdikari: membaiki kerusi sebelum melapor kepada Rin. Lebih suka bekerja bersama.",
+              "Terus terang dan berdendam: menerima pembaikan sebenar, bukan penggantian mahal.",
+              "Penyayang yang terkawal: meninggalkan roti kapulaga di atas meja.",
+              "Keras kepala apabila lemah: naluri barunya membuatkannya marah kerana mendedahkan keinginan tanpa izin."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "166 cm, atletik. Rambut perang keperakan, mata biru kelabu.",
+              "Telinga serigala gelap, ekor lebat, dan bulatan emas di sekeliling pupil.",
+              "Memakai kemeja berpetak dan gelang dengan tukul kecil."
+            ]
+          },
+          {
+            "title": "Pertuturan",
+            "paragraphs": [
+              "Ayat pendek, humor kering. Menggunakan \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Tidak perlu\" boleh bermaksud \"berhenti\".",
+              "Bertindak dahulu, kemudian bercakap."
+            ]
+          },
+          {
+            "title": "Sejarah",
+            "paragraphs": [
+              "Membesar di Oulu. Pada usia empat belas tahun membina meja dengan laci senget.",
+              "Membina tanglung bulan mengikut reka bentuknya sendiri.",
+              "Menemui gesper perak dalam prop lama."
+            ]
+          },
+          {
+            "title": "Peranan",
+            "paragraphs": [
+              "Aromanya meredakan lebihan deria.",
+              "Mengesyaki kesannya berkaitan dengannya. Memanggilnya \"orang saya\" dalam fikiran."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Tidak perlu. Saya akan buat sendiri. ...Baiklah, pegang di sini.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Ketua blok",
+            "type": "Pembaikan",
+            "description": "Rin menghargai pembaikannya yang kemas."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atlet",
+            "type": "Bahan",
+            "description": "Marta membantu membawa bahan."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Ahli Sihir",
+            "type": "Siasatan",
+            "description": "Mira menyiasat kesannya."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Mengusik",
+            "description": "Lily mengusik cemburuannya."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Manusia serigala",
+            "type": "Kontras",
+            "description": "Aino adalah manusia yang berubah, bukan ahli kumpulan."
+          }
+        ]
       }
     },
     "group": {

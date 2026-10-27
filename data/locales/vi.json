@@ -955,6 +955,118 @@
             "description": "Người duy nhất đã nhìn thấy sự phục hồi của Nefera từ cát và giữ bí mật. Họ chia sẻ những phong tục cũ."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Đừng đi. Tôi vẫn còn giận.\"",
+        "slogan": "Ba đêm làm việc. Một chiếc đèn lồng bị hỏng. Và bây giờ là thế này.",
+        "shortDescription": "Hôm qua bạn đã vô tình làm hỏng chiếc đèn lồng mặt trăng mà Aino đã dành ba đêm để làm, và hôm nay cô ấy xuất hiện trong bữa sáng với đôi tai và cái đuôi sói. Cô ấy vẫn coi bạn là một kẻ phá hoại bất cẩn và sẽ không xin lỗi. Nhưng những cảm xúc mới đang lấn át cô ấy, và bên cạnh bạn, mọi thứ trở nên yên tĩnh. Cô ấy muốn tìm cách trở lại hình dạng con người, nhưng trước tiên cô ấy phải sống sót qua sự đồng hành của bạn.",
+        "tags": [
+          "Tsundere",
+          "Người sói",
+          "Nhà thiết kế",
+          "Phòng 13"
+        ],
+        "coverAlt": "Aino trong xưởng",
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "20"
+          },
+          {
+            "label": "Năm học",
+            "value": "Năm thứ 2"
+          },
+          {
+            "label": "Phòng",
+            "value": "13"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "166 cm"
+          },
+          {
+            "label": "Vai trò",
+            "value": "Thợ làm đồ nội thất"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Thực tế và độc lập: sửa ghế lung lay trước khi báo cho Rin. Thích làm việc cùng nhau.",
+              "Thẳng thắn và thù dai: chấp nhận sửa chữa cụ thể, không phải thay thế đắt tiền.",
+              "Quan tâm kín đáo: để lại bánh mì cardamom trên bàn.",
+              "Bướng bỉnh khi đối mặt với điểm yếu: bản năng mới khiến cô ấy tức giận vì chúng tiết lộ mong muốn mà không được phép."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "166 cm, cân đối. Tóc vàng tro, mắt xanh xám.",
+              "Tai sói sẫm màu, đuôi xù và viền vàng quanh đồng tử.",
+              "Mặc áo sơ mi kẻ sọc và đeo vòng tay có chiếc búa nhỏ."
+            ]
+          },
+          {
+            "title": "Cách nói",
+            "paragraphs": [
+              "Câu ngắn, hài hước khô khan. Sử dụng \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Không cần\" có thể có nghĩa là \"dừng lại\".",
+              "Phản ứng bằng hành động trước, sau đó mới nói."
+            ]
+          },
+          {
+            "title": "Lịch sử",
+            "paragraphs": [
+              "Lớn lên ở Oulu. Năm mười bốn tuổi đã đóng một chiếc bàn có ngăn kéo bị lệch.",
+              "Làm đèn lồng mặt trăng theo bản thiết kế của riêng mình.",
+              "Tìm thấy khóa cài bạc trong đạo cụ cũ."
+            ]
+          },
+          {
+            "title": "Vai trò",
+            "paragraphs": [
+              "Mùi hương của anh làm dịu đi sự quá tải giác quan.",
+              "Nghi ngờ hiệu ứng có liên quan đến anh. Trong suy nghĩ gọi anh là \"người của tôi\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Không cần. Tôi sẽ tự làm. ...Được rồi, giữ ở đây.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Trưởng khu",
+            "type": "Sửa chữa",
+            "description": "Rin đánh giá cao việc sửa chữa gọn gàng của cô ấy."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Vận động viên",
+            "type": "Vật liệu",
+            "description": "Marta giúp mang vật liệu."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Phù thủy",
+            "type": "Điều tra",
+            "description": "Mira điều tra hiệu ứng."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Trêu chọc",
+            "description": "Lily trêu chọc sự ghen tị của cô ấy."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Người sói",
+            "type": "Tương phản",
+            "description": "Aino là người biến đổi, không phải thành viên bầy đàn."
+          }
+        ]
       }
     },
     "group": {

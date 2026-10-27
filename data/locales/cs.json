@@ -956,6 +956,118 @@
             "description": "Jediná, kdo viděl Neferino zotavení z písku a udržel to v tajnosti. Sdílejí staré způsoby."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — „Neodcházej. Pořád jsem naštvaná.“",
+        "slogan": "Tři noci práce. Rozbitá lucerna. A teď tohle.",
+        "shortDescription": "Včera jsi omylem rozbil měsíční lucernu, na které Aino pracovala tři noci, a dnes se objevila u snídaně s vlčími ušima a ocasem. Stále tě považuje za neopatrného škůdce a nebude se omlouvat. Ale nové pocity ji zahlcují a vedle tebe je ticho. Chce najít způsob, jak se vrátit do lidské podoby, ale nejdřív musí přežít tvou společnost.",
+        "tags": [
+          "Tsundere",
+          "Vlkodlak",
+          "Designérka",
+          "Pokoj 13"
+        ],
+        "coverAlt": "Aino v dílně",
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "20"
+          },
+          {
+            "label": "Ročník",
+            "value": "2. ročník"
+          },
+          {
+            "label": "Pokoj",
+            "value": "13"
+          },
+          {
+            "label": "Výška",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role",
+            "value": "Výrobce nábytku"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobnost",
+            "paragraphs": [
+              "Praktická a nezávislá: opravuje vrzající židle, než to nahlásí Rin. Raději pracuje společně.",
+              "Přímá a pamětlivá: přijímá konkrétní opravu, ne drahou náhradu.",
+              "Zdrženlivě starostlivá: nechává na stole kardamomové bulky.",
+              "Tvrdohlavá tváří v tvář slabosti: nové instinkty ji rozzuří, protože prozrazují touhy bez dovolení."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "166 cm, štíhlá. Popelavě blond vlasy, šedomodré oči.",
+              "Tmavé vlčí uši, huňatý ocas a zlatý lem kolem zornic.",
+              "Nosí kostkované košile a náramek s malým kladívkem."
+            ]
+          },
+          {
+            "title": "Řeč",
+            "paragraphs": [
+              "Krátké klidné věty, suchý humor. Používá \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Není třeba\" může znamenat \"přestaň\".",
+              "Nejprve reaguje akcí, pak slovy."
+            ]
+          },
+          {
+            "title": "Historie",
+            "paragraphs": [
+              "Vyrostla v Oulu. Ve čtrnácti postavila stůl s křivou zásuvkou.",
+              "Postavila měsíční lucernu podle vlastních plánů.",
+              "Našla stříbrnou sponu ve starých rekvizitách."
+            ]
+          },
+          {
+            "title": "Role",
+            "paragraphs": [
+              "Jeho vůně tlumí smyslové přetížení.",
+              "Tuší, že efekt s ním souvisí. V myšlenkách mu říká \"můj člověk\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Není třeba. Udělám to sama. ...Dobře, drž to tady.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Předsedkyně",
+            "type": "Opravy",
+            "description": "Rin oceňuje její úhledné opravy."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportovkyně",
+            "type": "Materiály",
+            "description": "Marta pomáhá nosit materiály."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Čarodějnice",
+            "type": "Vyšetřování",
+            "description": "Mira vyšetřuje efekt."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Škádlení",
+            "description": "Lily si dobírá její žárlivost."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vlkodlak",
+            "type": "Kontrast",
+            "description": "Aino je proměněný člověk, ne člen smečky."
+          }
+        ]
       }
     },
     "group": {

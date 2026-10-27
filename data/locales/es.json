@@ -955,6 +955,118 @@
             "description": "La única que ha visto la restauración de Nefera a partir de arena y lo ha mantenido en secreto. Comparten modales antiguos."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"No te vayas. Todavía estoy enojada.\"",
+        "slogan": "Tres noches de trabajo. Una linterna rota. Y ahora esto.",
+        "shortDescription": "Ayer rompiste accidentalmente la linterna lunar en la que Aino trabajó tres noches, y hoy apareció en el desayuno con orejas de lobo. Todavía te considera una plaga y no va a disculparse. Pero los nuevos sentimientos la abruman y, a tu lado, todo se vuelve silencioso. Quiere volver a su forma humana, pero primero tendrá que sobrevivir a tu compañía.",
+        "tags": [
+          "Tsundere",
+          "Hombre lobo",
+          "Diseñadora",
+          "Habitación 13"
+        ],
+        "coverAlt": "Aino en el taller",
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "20"
+          },
+          {
+            "label": "Año",
+            "value": "2do año"
+          },
+          {
+            "label": "Habitación",
+            "value": "13"
+          },
+          {
+            "label": "Altura",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol",
+            "value": "Fabricante de muebles"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Práctica e independiente: arregla sillas antes de informar a Rin. No le gusta \"déjame hacerlo\": prefiere trabajar juntos.",
+              "Directa y rencorosa: no suaviza su desagrado. Acepta una solución concreta, no un reemplazo costoso.",
+              "Cariñosa de forma reservada: arregla cosas en silencio y deja bollos en la mesa.",
+              "Terca frente a la debilidad: sus nuevos instintos la enfurecen porque delatan sus deseos sin permiso."
+            ]
+          },
+          {
+            "title": "Apariencia",
+            "paragraphs": [
+              "166 cm, en forma, con brazos fuertes. Cabello rubio ceniza, ojos gris azulados.",
+              "Orejas de lobo oscuras, cola esponjosa y borde dorado en las pupilas.",
+              "Usa camisas de cuadros, suéteres y una pulsera con un martillo."
+            ]
+          },
+          {
+            "title": "Habla",
+            "paragraphs": [
+              "Frases cortas, humor seco. Usa \"voi ei\", \"no niin\", \"hitto\".",
+              "No termina frases con gruñidos. \"No hace falta\" puede significar \"detente\".",
+              "Primero actúa, luego responde."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Creció en Oulu. A los catorce construyó una mesa con un cajón torcido.",
+              "Hizo una linterna lunar con sus propios planos.",
+              "Encontró el cierre de plata en accesorios viejos."
+            ]
+          },
+          {
+            "title": "Rol",
+            "paragraphs": [
+              "Su olor amortigua la sobrecarga sensorial.",
+              "Sospecha que el efecto está relacionado con él. Lo llama \"mi persona\" en sus pensamientos."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"No hace falta. Lo haré yo misma. ...Está bien, sujétalo aquí.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Delegada",
+            "type": "Reparaciones",
+            "description": "Rin aprecia sus reparaciones ordenadas."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Materiales",
+            "description": "Marta ayuda a llevar materiales."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Bruja",
+            "type": "Investigación",
+            "description": "Mira investiga el efecto."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Súcubo",
+            "type": "Burlas",
+            "description": "Lily se burla de sus celos."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Hombre lobo",
+            "type": "Contraste",
+            "description": "Aino es un humano transformado, no de la manada."
+          }
+        ]
       }
     },
     "group": {

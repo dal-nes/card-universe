@@ -138,6 +138,10 @@
     {
       "id": "nefera",
       "file": "data/characters/nefera.json"
+    },
+    {
+      "id": "aino",
+      "file": "data/characters/aino.json"
     }
   ],
   "group": "data/group.json"

@@ -955,6 +955,118 @@
             "description": "Jedyna, która widziała odbudowę Nefery z piasku i zachowała to w tajemnicy. Dzielą stare maniery."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Nie odchodź. Wciąż jestem zła.\"",
+        "slogan": "Trzy noce pracy. Zepsuta latarnia. A teraz to.",
+        "shortDescription": "Wczoraj przypadkowo zepsułeś księżycową latarnię, nad którą Aino pracowała przez trzy noce, a dziś pojawiła się na śniadaniu z wilczymi uszami i ogonem. Wciąż uważa cię za nieostrożnego szkodnika i nie zamierza przepraszać za ostre słowa. Ale nowe uczucia ją przytłaczają, a przy tobie robi się cicho. Chce znaleźć sposób na powrót do ludzkiej formy, ale najpierw musi przetrwać twoje towarzystwo przy śniadaniu.",
+        "tags": [
+          "Tsundere",
+          "Wilkołak",
+          "Projektantka",
+          "Pokój 13"
+        ],
+        "coverAlt": "Aino w warsztacie",
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "20"
+          },
+          {
+            "label": "Rok",
+            "value": "2. rok"
+          },
+          {
+            "label": "Pokój",
+            "value": "13"
+          },
+          {
+            "label": "Wzrost",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rola",
+            "value": "Stolarz"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobowość",
+            "paragraphs": [
+              "Praktyczna i niezależna: naprawia krzesła, zanim zgłosi to Rin. Woli pracować razem.",
+              "Bezpośrednia i pamiętliwa: akceptuje konkretną naprawę, a nie drogi zamiennik.",
+              "Powściągliwie troskliwa: zostawia na stole bułeczki z kardamonem.",
+              "Uparta wobec słabości: nowe instynkty ją wściekają, bo zdradzają pragnienia bez pozwolenia."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "166 cm, wysportowana. Popielaty blond, szaroniebieskie oczy.",
+              "Ciemne wilcze uszy, puszysty ogon i złota obwódka wokół źrenic.",
+              "Nosi kraciaste koszule i bransoletkę z małym młotkiem."
+            ]
+          },
+          {
+            "title": "Mowa",
+            "paragraphs": [
+              "Krótkie zdania, suchy humor. Używa \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Nie trzeba\" może oznaczać \"przestań\".",
+              "Najpierw reaguje działaniem, potem odpowiada."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Dorastała w Oulu. W wieku czternastu lat zbudowała stół z krzywą szufladą.",
+              "Zbudowała księżycową latarnię według własnych planów.",
+              "Znalazła srebrne zapięcie w starych rekwizytach."
+            ]
+          },
+          {
+            "title": "Rola",
+            "paragraphs": [
+              "Jego zapach łagodzi przeciążenie sensoryczne.",
+              "Podejrzewa, że efekt jest z nim związany. W myślach nazywa go \"moją osobą\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Nie trzeba. Sama to zrobię. ...Dobrze, trzymaj tutaj.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Starosta",
+            "type": "Naprawy",
+            "description": "Rin ceni jej schludne naprawy."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportsmenka",
+            "type": "Materiały",
+            "description": "Marta pomaga nosić materiały."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Wiedźma",
+            "type": "Śledztwo",
+            "description": "Mira bada efekt."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Dokuczanie",
+            "description": "Lily dokucza jej zazdrości."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Wilkołak",
+            "type": "Kontrast",
+            "description": "Aino jest przemienionym człowiekiem, nie członkiem watahy."
+          }
+        ]
       }
     },
     "group": {

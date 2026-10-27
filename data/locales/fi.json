@@ -955,6 +955,118 @@
             "description": "Ainoa, joka on nähnyt Neferan palautumisen hiekasta ja pitänyt sen salassa. He jakavat vanhat tavat."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Älä mene. Olen vielä vihainen.\"",
+        "slogan": "Kolme yötä työtä. Rikottu lyhty. Ja nyt tämä.",
+        "shortDescription": "Eilen rikoit vahingossa kuulyhdyn, jonka parissa Aino työskenteli kolme yötä, ja tänään hän ilmestyi aamiaiselle sudenkorvat ja häntä päässään. Hän pitää sinua edelleen huolimattomana tuholaisena eikä aio pyytää anteeksi. Mutta uudet tunteet valtaavat hänet, ja sinun lähelläsi tulee hiljaista. Hän haluaa löytää tavan palata ihmismuotoonsa, mutta ensin hänen on kestettävä seuruettasi.",
+        "tags": [
+          "Tsundere",
+          "Ihmissusi",
+          "Suunnittelija",
+          "Huone 13"
+        ],
+        "coverAlt": "Aino työpajassa",
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "20"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "2. vuosi"
+          },
+          {
+            "label": "Huone",
+            "value": "13"
+          },
+          {
+            "label": "Pituus",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rooli",
+            "value": "Huonekalujen tekijä"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Käytännöllinen ja itsenäinen: korjaa huojuvat tuolit ennen kuin kertoo Rinalle. Tekee mieluummin yhdessä.",
+              "Suorasukainen ja kauan muistava: hyväksyy konkreettisen korjauksen, ei kallista vaihtoa.",
+              "Pidättyväisen huomaavainen: jättää kardemummapullia pöydälle.",
+              "Itsepäinen heikkouden edessä: uudet vaistot raivostuttavat häntä, koska ne paljastavat toiveita ilman lupaa."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "166 cm, hyvässä kunnossa. Tuhkanvaaleat hiukset, harmaansiniset silmät.",
+              "Tummat sudenkorvat, pörröinen häntä ja kultainen reunus pupillien ympärillä.",
+              "Käyttää ruudullisia paitoja ja rannekorua, jossa on pieni vasara."
+            ]
+          },
+          {
+            "title": "Puhetapa",
+            "paragraphs": [
+              "Lyhyitä rauhallisia lauseita, kuivaa huumoria. Käyttää sanoja \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Ei tarvitse\" voi tarkoittaa \"lopeta\".",
+              "Reagoi ensin teolla, sitten sanoilla."
+            ]
+          },
+          {
+            "title": "Historia",
+            "paragraphs": [
+              "Kasvoi Oulussa. Rakensi neljätoistavuotiaana pöydän, jossa oli vino laatikko.",
+              "Rakensi kuulyhdyn omien piirustustensa mukaan.",
+              "Löysi hopeisen soljen vanhoista rekvisiitoista."
+            ]
+          },
+          {
+            "title": "Rooli",
+            "paragraphs": [
+              "Hänen tuoksunsa vaimentaa aistiylikuormitusta.",
+              "Epäilee, että vaikutus liittyy häneen. Kutsuu häntä ajatuksissaan \"minun ihmisekseni\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ei tarvitse. Teen sen itse. ...Okei, pidä tästä.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Opiskelijavanhin",
+            "type": "Korjaukset",
+            "description": "Rin arvostaa hänen siistejä korjauksiaan."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Urheilija",
+            "type": "Materiaalit",
+            "description": "Marta auttaa kantamaan materiaaleja."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Noita",
+            "type": "Tutkimus",
+            "description": "Mira tutkii vaikutusta."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Kiusoittelu",
+            "description": "Lily kiusoittelee hänen mustasukkaisuuttaan."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Ihmissusi",
+            "type": "Kontrasti",
+            "description": "Aino on muuttunut ihminen, ei lauman jäsen."
+          }
+        ]
       }
     },
     "group": {

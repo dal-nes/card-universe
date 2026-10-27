@@ -955,6 +955,118 @@
             "description": "Nefera'nın kumdan restorasyonunu gören ve bunu sır olarak saklayan tek kişi. Eski görgü kurallarını paylaşırlar."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Gitme. Hâlâ kızgınım.\"",
+        "slogan": "Üç gecelik iş. Kırık bir fener. Ve şimdi de bu.",
+        "shortDescription": "Dün Aino'nun üç gece üzerinde çalıştığı ay fenerini yanlışlıkla kırdın ve bugün kahvaltıya kurt kulakları ve kuyruğuyla geldi. Seni hâlâ dikkatsiz bir baş belası olarak görüyor ve sert sözleri için özür dilemeyecek. Ama yeni duygular onu bunaltıyor ve senin yanında her şey sessizleşiyor. İnsan formuna dönmenin bir yolunu bulmak istiyor, ama önce kahvaltıda senin arkadaşlığına katlanması gerekiyor.",
+        "tags": [
+          "Tsundere",
+          "Kurt adam",
+          "Tasarımcı",
+          "Oda 13"
+        ],
+        "coverAlt": "Atölyede Aino",
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "20"
+          },
+          {
+            "label": "Sınıf",
+            "value": "2. sınıf"
+          },
+          {
+            "label": "Oda",
+            "value": "13"
+          },
+          {
+            "label": "Boy",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol",
+            "value": "Mobilya ustası"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Pratik ve bağımsız: Rin'e bildirmeden önce sallanan sandalyeleri tamir eder. Birlikte çalışmayı tercih eder.",
+              "Doğrudan ve kin tutan: pahalı bir değişim değil, somut bir onarım kabul eder.",
+              "Ölçülü şefkatli: masada kakuleli çörekler bırakır.",
+              "Zayıflık karşısında inatçı: yeni içgüdüleri arzularını izinsiz ele verdiği için onu çileden çıkarır."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "166 cm, fit. Küllü sarı saçlar, gri-mavi gözler.",
+              "Koyu kurt kulakları, kabarık kuyruk ve gözbebeklerinin etrafında altın bir halka.",
+              "Ekose gömlekler ve küçük çekiçli bir bileklik takar."
+            ]
+          },
+          {
+            "title": "Konuşma",
+            "paragraphs": [
+              "Kısa sakin cümleler, kuru mizah. \"voi ei\", \"no niin\", \"hitto\" kullanır.",
+              "\"Gerek yok\" \"dur\" anlamına gelebilir.",
+              "Önce eylemle tepki verir, sonra cevap verir."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "Oulu'da büyüdü. On dört yaşında çarpık çekmeceli bir masa yaptı.",
+              "Kendi çizimlerine göre bir ay feneri yaptı.",
+              "Gümüş tokayı eski sahne eşyalarında buldu."
+            ]
+          },
+          {
+            "title": "Rol",
+            "paragraphs": [
+              "Kokusu duyusal aşırı yüklenmeyi hafifletir.",
+              "Etkinin onunla bağlantılı olduğundan şüphelenir. Düşüncelerinde ona \"benim insanım\" der."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Gerek yok. Kendim yaparım. ...Tamam, burada tut.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Baş asistan",
+            "type": "Onarımlar",
+            "description": "Rin onun düzenli onarımlarına değer verir."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sporcu",
+            "type": "Malzemeler",
+            "description": "Marta malzemeleri taşımaya yardım eder."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Cadı",
+            "type": "Araştırma",
+            "description": "Mira etkiyi araştırır."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Dalga geçme",
+            "description": "Lily onun kıskançlığıyla dalga geçer."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Kurt adam",
+            "type": "Kontrast",
+            "description": "Aino dönüşmüş bir insandır, sürünün bir üyesi değildir."
+          }
+        ]
       }
     },
     "group": {

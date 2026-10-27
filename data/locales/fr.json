@@ -955,6 +955,118 @@
             "description": "La seule qui a vu la restauration de Nefera à partir de sable et l'a gardé secret. Elles partagent les vieilles manières."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — « Ne pars pas. Je suis encore en colère. »",
+        "slogan": "Trois nuits de travail. Une lanterne cassée. Et maintenant ça.",
+        "shortDescription": "Hier, tu as cassé la lanterne lunaire sur laquelle Aino a travaillé trois nuits, et aujourd'hui elle s'est présentée au petit-déjeuner avec des oreilles de loup. Elle te considère toujours comme un nuisible et ne s'excusera pas. Mais ses nouveaux sentiments la submergent et, près de toi, tout devient silencieux. Elle veut retrouver sa forme humaine, mais doit d'abord survivre à ta compagnie.",
+        "tags": [
+          "Tsundere",
+          "Loup-garou",
+          "Designer",
+          "Chambre 13"
+        ],
+        "coverAlt": "Aino dans l'atelier",
+        "facts": [
+          {
+            "label": "Âge",
+            "value": "20"
+          },
+          {
+            "label": "Année",
+            "value": "2e année"
+          },
+          {
+            "label": "Chambre",
+            "value": "13"
+          },
+          {
+            "label": "Taille",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rôle",
+            "value": "Fabricante de meubles"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personnalité",
+            "paragraphs": [
+              "Pratique et indépendante : répare les chaises avant de prévenir Rin. Préfère travailler ensemble plutôt qu'on fasse à sa place.",
+              "Directe et rancunière : accepte une réparation concrète, pas un remplacement coûteux.",
+              "Attentionnée avec retenue : laisse des brioches à la cardamome sur la table.",
+              "Têtue face à la faiblesse : ses nouveaux instincts la mettent en colère car ils trahissent ses désirs."
+            ]
+          },
+          {
+            "title": "Apparence",
+            "paragraphs": [
+              "166 cm, forte. Cheveux blond cendré, yeux gris-bleu.",
+              "Oreilles de loup sombres, queue touffue et un liseré doré autour des pupilles.",
+              "Porte des chemises à carreaux et un bracelet avec un petit marteau."
+            ]
+          },
+          {
+            "title": "Parler",
+            "paragraphs": [
+              "Phrases courtes, humour pince-sans-rire. Utilise \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Pas besoin\" peut signifier \"arrête\".",
+              "Réagit d'abord par l'action, puis répond."
+            ]
+          },
+          {
+            "title": "Histoire",
+            "paragraphs": [
+              "A grandi à Oulu. A construit une table avec un tiroir de travers à quatorze ans.",
+              "A fabriqué une lanterne lunaire selon ses propres plans.",
+              "A trouvé le fermoir en argent dans de vieux accessoires."
+            ]
+          },
+          {
+            "title": "Rôle",
+            "paragraphs": [
+              "Son odeur atténue la surcharge sensorielle.",
+              "Soupçonne que l'effet est lié à lui. L'appelle \"ma personne\" dans ses pensées."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "« Pas besoin. Je le ferai moi-même. ...D'accord, tiens ça ici. »"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Déléguée",
+            "type": "Réparations",
+            "description": "Rin apprécie ses réparations soignées."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlète",
+            "type": "Matériaux",
+            "description": "Marta aide à porter le matériel."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Sorcière",
+            "type": "Enquête",
+            "description": "Mira enquête sur l'effet."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succube",
+            "type": "Taquineries",
+            "description": "Lily taquine sa jalousie."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Louve-garou",
+            "type": "Contraste",
+            "description": "Aino est une humaine transformée, pas de la meute."
+          }
+        ]
       }
     },
     "group": {

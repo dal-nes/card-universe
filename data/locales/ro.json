@@ -955,6 +955,118 @@
             "description": "Singura care a văzut restaurarea Neferei din nisip și a ținut-o secretă. Împărtășesc maniere vechi."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — „Nu pleca. Încă sunt supărată.“",
+        "slogan": "Trei nopți de muncă. Un felinar spart. Și acum asta.",
+        "shortDescription": "Ieri ai spart accidental felinarul lunar la care Aino a lucrat trei nopți, iar astăzi a apărut la micul dejun cu urechi de lup și coadă. Te consideră încă un dăunător neglijent și nu se va scuza. Dar noile sentimente o copleșesc, iar lângă tine devine liniște. Vrea să găsească o cale de a reveni la forma umană, dar mai întâi trebuie să supraviețuiască companiei tale.",
+        "tags": [
+          "Tsundere",
+          "Vârcolac",
+          "Designer",
+          "Camera 13"
+        ],
+        "coverAlt": "Aino în atelier",
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "20"
+          },
+          {
+            "label": "An",
+            "value": "Anul 2"
+          },
+          {
+            "label": "Cameră",
+            "value": "13"
+          },
+          {
+            "label": "Înălțime",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol",
+            "value": "Tâmplar"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "Practică și independentă: repară scaunele înainte de a-i spune Rinei. Preferă să lucreze împreună.",
+              "Directă și răzbunătoare: acceptă o reparație concretă, nu o înlocuire scumpă.",
+              "Grijulie cu reținere: lasă chifle cu cardamom pe masă.",
+              "Încăpățânată în fața slăbiciunii: noile instincte o înfurie pentru că dezvăluie dorințe fără permisiune."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "166 cm, în formă. Păr blond cenușiu, ochi gri-albaștri.",
+              "Urechi de lup închise, coadă pufoasă și o margine aurie în jurul pupilelor.",
+              "Poartă cămăși în carouri și o brățară cu un ciocănaș."
+            ]
+          },
+          {
+            "title": "Vorbire",
+            "paragraphs": [
+              "Propoziții scurte, umor sec. Folosește \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Nu e nevoie\" poate însemna \"oprește-te\".",
+              "Reacționează mai întâi cu acțiune, apoi cu vorbe."
+            ]
+          },
+          {
+            "title": "Istorie",
+            "paragraphs": [
+              "A crescut în Oulu. La paisprezece ani a construit o masă cu un sertar strâmb.",
+              "A construit un felinar lunar după propriile planuri.",
+              "A găsit închizătoarea de argint în recuzita veche."
+            ]
+          },
+          {
+            "title": "Rol",
+            "paragraphs": [
+              "Mirosul lui amortizează supraîncărcarea senzorială.",
+              "Bănuiește că efectul este legat de el. Îl numește în gând \"persoana mea\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Nu e nevoie. O fac singură. ...Bine, ține aici.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Șefa blocului",
+            "type": "Reparații",
+            "description": "Rin apreciază reparațiile ei îngrijite."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atletă",
+            "type": "Materiale",
+            "description": "Marta ajută la transportul materialelor."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Vrăjitoare",
+            "type": "Investigație",
+            "description": "Mira investighează efectul."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Tachinare",
+            "description": "Lily o tachinează pentru gelozie."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vârcolac",
+            "type": "Contrast",
+            "description": "Aino este un om transformat, nu un membru al haitei."
+          }
+        ]
       }
     },
     "group": {

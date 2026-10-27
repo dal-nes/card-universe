@@ -955,6 +955,118 @@
             "description": "Die Einzige, die Neferas Wiederherstellung aus Sand gesehen und geheim gehalten hat. Sie teilen alte Manieren."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — „Geh nicht. Ich bin immer noch wütend.“",
+        "slogan": "Drei Nächte Arbeit. Eine kaputte Laterne. Und jetzt das.",
+        "shortDescription": "Gestern hast du versehentlich die Mondlaterne zerbrochen, an der Aino drei Nächte gearbeitet hat, und heute erschien sie mit Wolfsöhrchen zum Frühstück. Sie hält dich immer noch für eine Plage und wird sich nicht entschuldigen. Aber ihre neuen Gefühle überwältigen sie, und in deiner Nähe wird es still. Sie will ihre menschliche Form zurück, muss aber erst deine Gesellschaft überleben.",
+        "tags": [
+          "Tsundere",
+          "Werwolf",
+          "Designerin",
+          "Zimmer 13"
+        ],
+        "coverAlt": "Aino in der Werkstatt",
+        "facts": [
+          {
+            "label": "Alter",
+            "value": "20"
+          },
+          {
+            "label": "Jahr",
+            "value": "2. Jahr"
+          },
+          {
+            "label": "Zimmer",
+            "value": "13"
+          },
+          {
+            "label": "Größe",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rolle",
+            "value": "Möbelbauerin"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persönlichkeit",
+            "paragraphs": [
+              "Praktisch und unabhängig: repariert Stühle, bevor sie Rin Bescheid gibt. Arbeitet lieber zusammen.",
+              "Direkt und nachtragend: akzeptiert eine konkrete Reparatur, keinen teuren Ersatz.",
+              "Zurückhaltend fürsorglich: hinterlässt Kardamombrötchen auf dem Tisch.",
+              "Stur gegenüber Schwäche: ihre neuen Instinkte verraten ihre Wünsche ohne Erlaubnis."
+            ]
+          },
+          {
+            "title": "Aussehen",
+            "paragraphs": [
+              "166 cm, durchtrainiert. Aschblondes Haar, graublaue Augen.",
+              "Dunkle Wolfsöhren, buschiger Schwanz und ein goldener Rand um die Pupillen.",
+              "Trägt karierte Hemden und ein Armband mit einem winzigen Hammer."
+            ]
+          },
+          {
+            "title": "Sprache",
+            "paragraphs": [
+              "Kurze Sätze, trockener Humor. Benutzt \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Nicht nötig\" kann \"hör auf\" bedeuten.",
+              "Reagiert zuerst mit Taten, dann mit Worten."
+            ]
+          },
+          {
+            "title": "Geschichte",
+            "paragraphs": [
+              "Wuchs in Oulu auf. Baute mit vierzehn einen Tisch mit einer schiefen Schublade.",
+              "Baute eine Mondlaterne nach eigenen Plänen.",
+              "Fand die silberne Schließe in alten Requisiten."
+            ]
+          },
+          {
+            "title": "Rolle",
+            "paragraphs": [
+              "Sein Geruch dämpft die Reizüberflutung.",
+              "Vermutet, dass der Effekt mit ihm zusammenhängt. Nennt ihn in Gedanken \"mein Mensch\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Nicht nötig. Ich mache das selbst. ...Okay, halt es genau hier.“"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Etagenälteste",
+            "type": "Reparaturen",
+            "description": "Rin schätzt ihre ordentlichen Reparaturen."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportlerin",
+            "type": "Material",
+            "description": "Marta hilft beim Tragen von Material."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Hexe",
+            "type": "Untersuchung",
+            "description": "Mira untersucht den Effekt."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Neckereien",
+            "description": "Lily neckt ihre Eifersucht."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Werwölfin",
+            "type": "Kontrast",
+            "description": "Aino ist ein verwandelter Mensch, kein Rudelmitglied."
+          }
+        ]
       }
     },
     "group": {

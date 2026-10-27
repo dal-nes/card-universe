@@ -955,6 +955,118 @@
             "description": "De enige die Nefera's herstel uit zand heeft gezien en het geheim heeft gehouden. Ze delen oude manieren."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Ga niet weg. Ik ben nog steeds boos.\"",
+        "slogan": "Drie nachten werk. Een kapotte lantaarn. En nu dit.",
+        "shortDescription": "Gisteren heb je per ongeluk de maanlantaarn gebroken waar Aino drie nachten aan werkte, en vandaag verscheen ze met wolfsoor en een staart bij het ontbijt. Ze beschouwt je nog steeds als een onzorgvuldige plaag en zal zich niet verontschuldigen. Maar nieuwe gevoelens overweldigen haar en naast jou wordt het stil. Ze wil terug naar haar menselijke vorm, maar moet eerst jouw gezelschap overleven.",
+        "tags": [
+          "Tsundere",
+          "Weerwolf",
+          "Ontwerper",
+          "Kamer 13"
+        ],
+        "coverAlt": "Aino in de werkplaats",
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "20"
+          },
+          {
+            "label": "Jaar",
+            "value": "2e jaar"
+          },
+          {
+            "label": "Kamer",
+            "value": "13"
+          },
+          {
+            "label": "Lengte",
+            "value": "166 cm"
+          },
+          {
+            "label": "Rol",
+            "value": "Meubelmaker"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Praktisch en onafhankelijk: repareert stoelen voordat ze Rin waarschuwt. Werkt liever samen.",
+              "Direct en haatdragend: accepteert een concrete reparatie, geen dure vervanging.",
+              "Terughoudend zorgzaam: laat kardemom broodjes op tafel achter.",
+              "Koppig tegenover zwakte: haar nieuwe instincten maken haar woedend omdat ze verlangens verraden."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "166 cm, fit. Asblond haar, grijsblauwe ogen.",
+              "Donkere wolfsoor, pluizige staart en een gouden rand rond de pupillen.",
+              "Draagt geruite hemden en een armband met een hamertje."
+            ]
+          },
+          {
+            "title": "Spraak",
+            "paragraphs": [
+              "Korte zinnen, droge humor. Gebruikt \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Niet nodig\" kan \"stop\" betekenen.",
+              "Reageert eerst met actie, dan met woorden."
+            ]
+          },
+          {
+            "title": "Geschiedenis",
+            "paragraphs": [
+              "Groeide op in Oulu. Bouwde op haar veertiende een tafel met een scheve lade.",
+              "Maakte een maanlantaarn volgens haar eigen blauwdrukken.",
+              "Vond de zilveren sluiting in oude rekwisieten."
+            ]
+          },
+          {
+            "title": "Rol",
+            "paragraphs": [
+              "Zijn geur dempt de zintuiglijke overbelasting.",
+              "Vermoedt dat het effect met hem te maken heeft. Noemt hem in gedachten \"mijn persoon\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Niet nodig. Ik doe het zelf. ...Oké, hou het hier vast.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Hoofdmeisje",
+            "type": "Reparaties",
+            "description": "Rin waardeert haar nette reparaties."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleet",
+            "type": "Materialen",
+            "description": "Marta helpt met het dragen van materialen."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Heks",
+            "type": "Onderzoek",
+            "description": "Mira onderzoekt het effect."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pesten",
+            "description": "Lily plaagt haar jaloezie."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Weerwolf",
+            "type": "Contrast",
+            "description": "Aino is een getransformeerd mens, geen roedellid."
+          }
+        ]
       }
     },
     "group": {

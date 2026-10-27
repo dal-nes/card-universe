@@ -955,6 +955,118 @@
             "description": "Az egyetlen, aki látta Nefera homokból való helyreállítását, és titokban tartotta. Közös régi modoruk van."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — „Ne menj el. Még mindig dühös vagyok.“",
+        "slogan": "Három éjszaka munkája. Egy törött lámpás. És most ez.",
+        "shortDescription": "Tegnap véletlenül eltörted a holdlámpást, amin Aino három éjszakán át dolgozott, és ma reggel farkasfülekkel és farokkal jelent meg. Még mindig gondatlan kártevőnek tart, és nem fog bocsánatot kérni. De az új érzelmek elárasztják, és melletted csend lesz. Szeretne visszatérni emberi formájába, de először túl kell élnie a társaságodat.",
+        "tags": [
+          "Tsundere",
+          "Vérfarkas",
+          "Tervező",
+          "13-as szoba"
+        ],
+        "coverAlt": "Aino a műhelyben",
+        "facts": [
+          {
+            "label": "Kor",
+            "value": "20"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "2. év"
+          },
+          {
+            "label": "Szoba",
+            "value": "13"
+          },
+          {
+            "label": "Magasság",
+            "value": "166 cm"
+          },
+          {
+            "label": "Szerep",
+            "value": "Bútorasztalos"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Praktikus és független: megjavítja az ingó székeket, mielőtt szólna Rinnek. Inkább együtt dolgozik.",
+              "Közvetlen és haragtartó: konkrét javítást fogad el, nem drága cserét.",
+              "Visszafogottan gondoskodó: kardamomos zsemlét hagy az asztalon.",
+              "Makacs a gyengeséggel szemben: az új ösztönök dühítik, mert engedély nélkül elárulják a vágyait."
+            ]
+          },
+          {
+            "title": "Megjelenés",
+            "paragraphs": [
+              "166 cm, fitt. Hamvas szőke haj, szürkéskék szemek.",
+              "Sötét farkasfülek, bozontos farok és arany gyűrű a pupillák körül.",
+              "Kockás ingeket és egy kis kalapácsos karkötőt visel."
+            ]
+          },
+          {
+            "title": "Beszéd",
+            "paragraphs": [
+              "Rövid, nyugodt mondatok, száraz humor. Használja a \"voi ei\", \"no niin\", \"hitto\" szavakat.",
+              "A \"Nem kell\" jelentheti azt, hogy \"hagyd abba\".",
+              "Először cselekvéssel reagál, aztán beszél."
+            ]
+          },
+          {
+            "title": "Történet",
+            "paragraphs": [
+              "Ouluban nőtt fel. Tizennégy évesen ferde fiókos asztalt épített.",
+              "Saját tervei alapján holdlámpást készített.",
+              "A ezüst csatot régi kellékek között találta."
+            ]
+          },
+          {
+            "title": "Szerep",
+            "paragraphs": [
+              "Az illata tompítja az érzékszervi túlterhelést.",
+              "Gyanítja, hogy a hatás összefügg vele. Gondolataiban \"az én emberemnek\" nevezi."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Nem kell. Megcsinálom magam. ...Rendben, tartsd itt.”"
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Csoportvezető",
+            "type": "Javítások",
+            "description": "Rin értékeli a rendes javításait."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Sportoló",
+            "type": "Anyagok",
+            "description": "Marta segít az anyagok szállításában."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Boszi",
+            "type": "Vizsgálat",
+            "description": "Mira vizsgálja a hatást."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Ugratás",
+            "description": "Lily ugratja a féltékenységét."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Vérfarkas",
+            "type": "Kontraszt",
+            "description": "Aino átváltozott ember, nem a falka tagja."
+          }
+        ]
       }
     },
     "group": {

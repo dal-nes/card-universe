@@ -955,6 +955,118 @@
             "description": "L'unica che ha visto il ripristino di Nefera dalla sabbia e l'ha tenuto segreto. Condividono le vecchie maniere."
           }
         ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Non andare. Sono ancora arrabbiata.\"",
+        "slogan": "Tre notti di lavoro. Una lanterna rotta. E ora questo.",
+        "shortDescription": "Ieri hai rotto accidentalmente la lanterna lunare su cui Aino ha lavorato per tre notti, e oggi si è presentata a colazione con le orecchie da lupo. Ti considera ancora un parassita e non si scuserà. Ma i nuovi sentimenti la travolgono e accanto a te diventa tutto silenzioso. Vuole tornare umana, ma prima deve sopravvivere alla tua compagnia.",
+        "tags": [
+          "Tsundere",
+          "Licantropo",
+          "Designer",
+          "Stanza 13"
+        ],
+        "coverAlt": "Aino in officina",
+        "facts": [
+          {
+            "label": "Età",
+            "value": "20"
+          },
+          {
+            "label": "Anno",
+            "value": "2° anno"
+          },
+          {
+            "label": "Stanza",
+            "value": "13"
+          },
+          {
+            "label": "Altezza",
+            "value": "166 cm"
+          },
+          {
+            "label": "Ruolo",
+            "value": "Falegname"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalità",
+            "paragraphs": [
+              "Pratica e indipendente: ripara le sedie prima di avvisare Rin. Preferisce lavorare insieme.",
+              "Diretta e rancorosa: accetta una riparazione concreta, non una costosa sostituzione.",
+              "Premurosa con riservatezza: lascia i panini al cardamomo sul tavolo.",
+              "Testarda di fronte alla debolezza: i nuovi istinti la fanno infuriare perché tradiscono i suoi desideri."
+            ]
+          },
+          {
+            "title": "Aspetto",
+            "paragraphs": [
+              "166 cm, in forma. Capelli biondo cenere, occhi grigio-blu.",
+              "Orecchie da lupo scure, coda folta e un bordo dorato attorno alle pupille.",
+              "Indossa camicie a scacchi e un bracciale con un martelletto."
+            ]
+          },
+          {
+            "title": "Parlato",
+            "paragraphs": [
+              "Frasi brevi, umorismo secco. Usa \"voi ei\", \"no niin\", \"hitto\".",
+              "\"Non serve\" può significare \"smettila\".",
+              "Reagisce prima con l'azione, poi risponde."
+            ]
+          },
+          {
+            "title": "Storia",
+            "paragraphs": [
+              "Cresciuta a Oulu. A quattordici anni ha costruito un tavolo con un cassetto storto.",
+              "Ha costruito una lanterna lunare secondo i suoi progetti.",
+              "Ha trovato la chiusura d'argento nei vecchi accessori."
+            ]
+          },
+          {
+            "title": "Ruolo",
+            "paragraphs": [
+              "Il suo odore attenua il sovraccarico sensoriale.",
+              "Sospetta che l'effetto sia legato a lui. Lo chiama \"la mia persona\" nei pensieri."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Non serve. Lo faccio da sola. ...Va bene, tienilo qui.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Capoblocco",
+            "type": "Riparazioni",
+            "description": "Rin apprezza le sue riparazioni ordinate."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Atleta",
+            "type": "Materiali",
+            "description": "Marta aiuta a trasportare i materiali."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Strega",
+            "type": "Indagine",
+            "description": "Mira indaga sull'effetto."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succube",
+            "type": "Prendere in giro",
+            "description": "Lily prende in giro la sua gelosia."
+          },
+          {
+            "name": "Selma Garm",
+            "psychotype": "Lupo mannaro",
+            "type": "Contrasto",
+            "description": "Aino è un'umana trasformata, non del branco."
+          }
+        ]
       }
     },
     "group": {
