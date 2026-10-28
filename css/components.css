@@ -1084,3 +1084,11 @@ input[type="range"]::-moz-range-thumb {
   transition: opacity 0.15s ease, visibility 0.15s;
   z-index: 9999;
 }
+
+
+/* Принудительная видимость карточек в разработке */
+.char-card--soon {
+  display: flex !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}

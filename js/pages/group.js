@@ -84,13 +84,18 @@ SL.pages = SL.pages || {};
 
   function renderMembers() {
     const t = SL.i18n.t;
-    const available = characters.filter((c) => c.status === "available");
 
     const grid = el("div", { class: "char-grid" });
-    available
+    
+    // Убираем фильтр c.status === "available", выводим всех
+    characters
       .slice()
       .sort((a, b) => (a.number || 99) - (b.number || 99))
-      .forEach((character) => grid.append(SL.components.characterCard(character)));
+      .forEach((character) => {
+        if (character.id !== "group") {
+          grid.append(SL.components.characterCard(character));
+        }
+      });
 
     return el("section", { class: "section container" }, [
       el("div", { class: "section-head reveal" }, [

@@ -206,19 +206,23 @@ SL.pages = SL.pages || {};
     if (!mount) return;
     mount.textContent = "";
 
-    if (!characters.length) {
+    if (!characters || !characters.length) {
       mount.append(SL.components.emptyState("image", t("errors.dataLoad")));
       return;
     }
 
     const grid = el("div", { class: "char-grid" });
+    
+    // ВЫВОДИМ ВСЕХ ПЕРСОНАЖЕЙ БЕЗ ИСКЛЮЧЕНИЙ
     characters
       .slice()
       .sort((a, b) => (a.number || 99) - (b.number || 99))
       .forEach((character) => {
         const card = SL.components.characterCard(character);
-        card.setAttribute("data-tilt", "");
-        grid.append(card);
+        if (card) {
+          card.setAttribute("data-tilt", "");
+          grid.append(card);
+        }
       });
 
     if (groupData && groupData.status !== "available") {
