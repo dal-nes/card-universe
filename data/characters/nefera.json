@@ -31,19 +31,19 @@
   "tracks": [],
   "relationships": [
     {
-      "characterId": "rin"
-    },
-    {
-      "characterId": "marta"
+      "characterId": "vasilisa"
     },
     {
       "characterId": "aika"
     },
     {
-      "characterId": "lily"
+      "characterId": "marta"
     },
     {
-      "characterId": "vasilisa"
+      "characterId": "rin"
+    },
+    {
+      "characterId": "rei"
     }
   ]
 }

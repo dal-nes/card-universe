@@ -142,6 +142,10 @@
     {
       "id": "aino",
       "file": "data/characters/aino.json"
+    },
+    {
+      "id": "rei",
+      "file": "data/characters/rei.json"
     }
   ],
   "group": "data/group.json"

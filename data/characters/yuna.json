@@ -172,6 +172,12 @@
   },
   "relationships": [
     {
+      "characterId": "ada"
+    },
+    {
+      "characterId": "rei"
+    },
+    {
       "characterId": "rin"
     },
     {
@@ -182,9 +188,6 @@
     },
     {
       "characterId": "lily"
-    },
-    {
-      "characterId": "ada"
     }
   ],
   "covers": [

@@ -146,19 +146,19 @@
   },
   "relationships": [
     {
-      "characterId": "yuna"
+      "characterId": "aika"
     },
     {
       "characterId": "marta"
     },
     {
-      "characterId": "aika"
-    },
-    {
-      "characterId": "lily"
-    },
-    {
       "characterId": "nefera"
+    },
+    {
+      "characterId": "rei"
+    },
+    {
+      "characterId": "mira"
     }
   ],
   "covers": [

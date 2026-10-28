@@ -77,19 +77,19 @@
   ],
   "relationships": [
     {
-      "characterId": "rin"
-    },
-    {
       "characterId": "marta"
     },
     {
-      "characterId": "yuna"
+      "characterId": "rin"
     },
     {
-      "characterId": "lily"
+      "characterId": "rei"
     },
     {
       "characterId": "nefera"
+    },
+    {
+      "characterId": "lily"
     }
   ]
 }

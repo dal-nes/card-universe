@@ -2,7 +2,7 @@
   "series": [
     {
       "id": "student-life",
-      "cover": "assets/images/covers/group-cover.jpg",
+      "cover": "assets/images/covers/group-cover/group-cover.jpg",
       "url": "index.html",
       "status": "available"
     }

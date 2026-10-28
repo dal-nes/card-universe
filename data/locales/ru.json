@@ -261,10 +261,22 @@
         },
         "relationships": [
           {
+            "name": "Ада Нокс",
+            "psychotype": "Привидение",
+            "type": "Ночная смена",
+            "description": "Делят тишину и ночную кухню. Ада охлаждает напитки, а Юна играет. Идеальный союз без слов."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Тихий союз",
+            "description": "Рэй никогда не лезет без спроса, поэтому Юна спокойно терпит её присутствие. Одна из немногих, кому Юна рада утром."
+          },
+          {
             "name": "Кобаяши Рин",
             "psychotype": "Староста",
             "type": "Тишина после десяти",
-            "description": "Считает её источником шума, но уважает ее график. Рин часто заходит проверить, не спит ли Юна."
+            "description": "Считает её источником шума, но уважает её график. Рин часто заходит проверить, не спит ли Юна."
           },
           {
             "name": "Марта Сантос",
@@ -283,12 +295,6 @@
             "psychotype": "Суккуб",
             "type": "Ночные встречи",
             "description": "Две ночные жительницы. Лили уважает её график, а Юна не против, когда та заходит просто посидеть в тишине."
-          },
-          {
-            "name": "Ада Нокс",
-            "psychotype": "Привидение",
-            "type": "Ночная смена",
-            "description": "Делят тишину и ночную кухню. Ада охлаждает напитки, а Юна играет. Идеальный союз без слов."
           }
         ],
         "tracks": [
@@ -427,10 +433,10 @@
         },
         "relationships": [
           {
-            "name": "Ли Юна",
-            "psychotype": "Сонная",
-            "type": "Жилец комнаты №3",
-            "description": "Ночной фактор риска. Рин постоянно следит за её графиком, но втайне восхищается её успеваемостью."
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Битва за ванную",
+            "description": "Главный нарушитель тишины. Рин постоянно записывает её опоздания, но в случае угрозы блоку они встают спина к спине."
           },
           {
             "name": "Марта Сантос",
@@ -439,22 +445,22 @@
             "description": "Надежная, хоть и слишком шумная. Рин ценит её прямоту и то, что она не создает проблем с дисциплиной."
           },
           {
-            "name": "Айка Морита",
-            "psychotype": "Гяру",
-            "type": "Битва за ванную",
-            "description": "Главный нарушитель тишины. Рин постоянно записывает её опоздания, но в случае угрозы блоку они встают спина к спине."
-          },
-          {
-            "name": "Лили Ашер",
-            "psychotype": "Суккуб",
-            "type": "Безопасность и правила",
-            "description": "Рин снабжает её формами и правилами безопасности для бала, а Лили учится уважать установленный порядок."
-          },
-          {
             "name": "Нефера Сахра",
             "psychotype": "Древняя",
             "type": "Документы и этикет",
             "description": "Рин уважает её надежность и четкие границы. Они сотрудничают в вопросах доступа в архив и тихих часов."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Соседка по комнате",
+            "description": "Рин ценит справедливые правила, а Рэй уважает её готовность защищать жильцов. Они могут не соглашаться, не становясь врагами."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Дымовой журнал",
+            "description": "Староста завела отдельный журнал нарушений после третьего срабатывания пожарной сигнализации. Мира считает это успехом."
           }
         ],
         "tracks": [
@@ -642,34 +648,28 @@
         ],
         "relationships": [
           {
-            "name": "Ли Юна",
-            "psychotype": "Сонная",
-            "type": "Соседка по блоку",
-            "description": "Марта не понимает, как можно столько спать, но уважает её скилл в играх и не трогает после ночных матчей."
-          },
-          {
-            "name": "Кобаяши Рин",
-            "psychotype": "Староста",
-            "type": "Главная по правилам",
-            "description": "Марта знает, что Рин зануда, но когда дело доходит до защиты блока, она всегда на её стороне."
-          },
-          {
             "name": "Айка Морита",
             "psychotype": "Гяру",
             "type": "Громкий дуэт",
             "description": "Самая шумная пара блока. Айка поддерживает её на соревнованиях, а Марта постоянно таскает её на тренировки."
           },
           {
-            "name": "Лили Ашер",
-            "psychotype": "Суккуб",
-            "type": "Спорт и магия",
-            "description": "Марта считает, что дисциплина и спорт помогут Лили контролировать свои эмоции и голод."
-          },
-          {
-            "name": "Сельма Гарм",
+            "name": "Айно Корхонен",
             "psychotype": "Оборотень",
             "type": "Тихая трасса",
-            "description": "Идеальная партнерша для пробежек, которая не жалуется на утренний холод и умеет бежать молча."
+            "description": "Идеальная партнерша для пробежек, которая не жалуется на утренний холод и умеет бежать молча. Марта не относится к ней как к хрупкой."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Тренировки",
+            "description": "Марта помогает Рэй проверить изменившуюся координацию, не жалея её. Рэй ненавидит проигрывать, но ценит прямоту."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Порядок",
+            "description": "Марта знает, что Рин зануда, но когда дело доходит до защиты блока, она всегда на её стороне."
           }
         ]
       },
@@ -747,34 +747,34 @@
         },
         "relationships": [
           {
-            "name": "Кобаяши Рин",
-            "psychotype": "Староста",
-            "type": "Битва за ванную",
-            "description": "Постоянные споры из-за расписания и душа, но в случае внешней угрозы они встают спина к спине."
-          },
-          {
             "name": "Марта Сантос",
             "psychotype": "Спортсменка",
             "type": "Громкий союз",
             "description": "Айка болеет за неё с плакатами, Марта пытается вытащить её на утреннюю пробежку."
           },
           {
-            "name": "Ли Юна",
-            "psychotype": "Сонная",
-            "type": "Защитница сна",
-            "description": "Айка защищает сон Юны от утреннего шума и приносит ей кофе после ночных игр."
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Битва за ванную",
+            "description": "Постоянные споры из-за расписания и душа, но в случае внешней угрозы они встают спина к спине."
           },
           {
-            "name": "Лили Ашер",
-            "psychotype": "Суккуб",
-            "type": "Лаборатория пикап-фраз",
-            "description": "Айка — благодарная слушательница ужасных пикап-фраз Лили и партнер по организации вечеринок."
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Спор о стереотипах",
+            "description": "Рэй критикует образ Айки, а Айка слышит знакомое обвинение в том, что она пустая кукла. Извинения должны быть заработаны."
           },
           {
             "name": "Нефера Сахра",
             "psychotype": "Древняя",
             "type": "Ошибка с лентой",
             "description": "Айка однажды потянулась к её ленте, и Нефера резко осадила её. После искренних извинений Айка стала её громким защитником."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Лаборатория пикап-фраз",
+            "description": "Айка — благодарная слушательница ужасных пикап-фраз Лили и партнер по организации вечеринок."
           }
         ],
         "tracks": [
@@ -879,22 +879,22 @@
         },
         "relationships": [
           {
-            "name": "Ли Юна",
-            "psychotype": "Сонная",
-            "type": "Ночные встречи",
-            "description": "Лили уважает её график и иногда делится с ней ночными историями, пока Юна играет."
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Пакт тыквенного бара",
+            "description": "Лили отвечает за музыку и гостей, Мира — за напитки и дым. Их пакт прост: Лили не очаровывает друзей Миры."
           },
           {
-            "name": "Кобаяши Рин",
-            "psychotype": "Староста",
-            "type": "Правила и спонтанность",
-            "description": "Рин требует соблюдения правил безопасности на балу, Лили сначала считает это скучным, но потом соглашается."
+            "name": "Василиса фон Вельд",
+            "psychotype": "Вампир",
+            "type": "Флирт по правилам",
+            "description": "Лили считает Василису скованной, а Василиса подозревает, что суккуб превращает каждый разговор в представление."
           },
           {
-            "name": "Марта Сантос",
-            "psychotype": "Спортсменка",
-            "type": "Спорт и магия",
-            "description": "Марта пытается научить её дисциплине, а Лили в ответ учит Марту немного расслабляться."
+            "name": "Айно Корхонен",
+            "psychotype": "Оборотень",
+            "type": "Мой — не значит вещь",
+            "description": "Лили без магии проверяет тебя пикап-фразой, а Айно предупреждающе рычит. Лили требует, чтобы оборотень не решала, с кем тебе общаться."
           },
           {
             "name": "Айка Морита",
@@ -903,10 +903,10 @@
             "description": "Айка тестирует на ней свои шутки, а Лили помогает с организацией вечеринок и реквизитом."
           },
           {
-            "name": "Мира Хекс",
-            "psychotype": "Ведьма",
-            "type": "Пакт тыквенного бара",
-            "description": "Лили отвечает за музыку и гостей, Мира — за напитки и дым. Их пакт прост: Лили не очаровывает друзей Миры."
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Спорт и магия",
+            "description": "Марта пытается научить её дисциплине, а Лили в ответ учит Марту немного расслабляться."
           }
         ],
         "tracks": [
@@ -1011,16 +1011,10 @@
         },
         "relationships": [
           {
-            "name": "Кобаяши Рин",
-            "psychotype": "Староста",
-            "type": "Документы и правила",
-            "description": "Рин уважает её надежность и границы. Их сотрудничество практично: формы доступа, тихие часы и безопасность."
-          },
-          {
-            "name": "Марта Сантос",
-            "psychotype": "Спортсменка",
-            "type": "Сундуки и помощь",
-            "description": "Марта помогает перемещать тяжелые сундуки. Нефера ценит прямоту, но просит быть осторожнее с хрупкими предметами."
+            "name": "Василиса фон Вельд",
+            "psychotype": "Вампир",
+            "type": "Этикет древних",
+            "description": "Обе устали от шуток про возраст. Василиса — единственная, кто не спрашивает Неферу о лентах, а Нефера не называет её «девочкой»."
           },
           {
             "name": "Айка Морита",
@@ -1029,16 +1023,22 @@
             "description": "Айка однажды потянулась к ленте, и Нефера резко осадила её. После искренних извинений Айка стала её громким защитником."
           },
           {
-            "name": "Лили Ашер",
-            "psychotype": "Суккуб",
-            "type": "Обычная компания",
-            "description": "Публичные игры Лили настораживают Неферу, но четкие правила согласия создают общую почву. Лили не лезет с расспросами."
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Сундуки и помощь",
+            "description": "Марта помогает перемещать тяжелые сундуки. Нефера ценит прямоту, но просит быть осторожнее с хрупкими предметами."
           },
           {
-            "name": "Василиса фон Вельд",
-            "psychotype": "Вампир",
-            "type": "Этикет древних",
-            "description": "Единственная, кто видел восстановление Неферы из песка и сохранил это в секрете. У них общие старые манеры."
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Документы и правила",
+            "description": "Рин уважает её надежность и границы. Их сотрудничество практично: формы доступа, тихие часы и безопасность."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Границы",
+            "description": "Рэй без лишних вопросов защищает право Неферы на личные границы и не требует объяснять, почему ленты трогать нельзя."
           }
         ]
       },
@@ -1123,34 +1123,34 @@
         },
         "relationships": [
           {
-            "name": "Кобаяши Рин",
-            "psychotype": "Староста",
-            "type": "Ремонт и правила",
-            "description": "Рин ценит её аккуратный ремонт, но требует оформлять каждое отверстие."
-          },
-          {
             "name": "Марта Сантос",
             "psychotype": "Спортсменка",
-            "type": "Материалы",
-            "description": "Марта помогает переносить материалы; Айно отказывается быть спортивным экспериментом."
+            "type": "Тихая трасса",
+            "description": "Идеальная партнерша для пробежек, которая не жалуется на утренний холод и умеет бежать молча."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Мой — не значит вещь",
+            "description": "Лили дразнит Айно, когда её хвост или вопросы выдают ревность. Айно приходится учиться отличать защиту от попытки решать за человека."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Лунный комендантский час",
+            "description": "Рин требует прекратить ночной шум и вернуть украденные толстовки. Айно считает полнолуние уважительной причиной."
           },
           {
             "name": "Мира Хекс",
             "psychotype": "Ведьма",
             "type": "Исследование",
-            "description": "Мира становится главной исследовательницей эффекта."
+            "description": "Мира исследует эффект превращения и треснувший оберег. Айно помогает ей, но требует уважения к границам."
           },
           {
-            "name": "Лилия \"Лили\" Ашер",
-            "psychotype": "Суккуб",
-            "type": "Подколы",
-            "description": "Лили дразнит Айно, когда её хвост выдает ревность."
-          },
-          {
-            "name": "Сельма Гарм",
-            "psychotype": "Оборотень",
-            "type": "Контраст",
-            "description": "Сельма узнаёт оборотня, но Айно — недавно превращённый человек, а не член стаи."
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Границы",
+            "description": "Рэй с уважением относится к её личному пространству и не пытается лезть в её дела без спроса."
           }
         ],
         "gallery": [
@@ -1173,6 +1173,145 @@
           {
             "alt": "Утро на кухне",
             "caption": "Утро на кухне."
+          }
+        ]
+      },
+      "rei": {
+        "name": "Рэй Кисараги",
+        "cardTitle": "Рэй — «Не делай из этого выводов»",
+        "slogan": "Защищать чужие права проще, чем разобраться с собственным отражением.",
+        "shortDescription": "Неделя до университета — и привычная жизнь Рэй летит к чёрту. Теперь она первокурсница в женском общежитии, где отстаивать свои убеждения куда проще, чем разобраться с собственным отражением и чужим вниманием. Ваше знакомство начинается с её гневной лекции в мужском туалете — вот только лектор не сразу понимает, кто именно ошибся дверью. Вечером она вернётся с извинением и домашней выпечкой, но мириться будет так, будто защищает диплом.",
+        "tags": [
+          "Цундэрэ",
+          "Феминист",
+          "Социология",
+          "Комната №1",
+          "Превращение"
+        ],
+        "coverAlt": "Рэй в коридоре университета",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "18"
+          },
+          {
+            "label": "Курс",
+            "value": "1-й курс, социология"
+          },
+          {
+            "label": "Комната",
+            "value": "№1"
+          },
+          {
+            "label": "Рост",
+            "value": "163 см"
+          },
+          {
+            "label": "Особенность",
+            "value": "Магическое превращение"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Принципиальная: требует справедливости и от друзей, и от себя; может защищать человека даже против собственной выгоды.",
+              "Упрямая: в горячке спора защищает слабую формулировку, но после остывания способна назвать конкретную ошибку.",
+              "Самостоятельная: умеет решать практические задачи, печь и ремонтировать мелкие вещи; помощь принимает лучше как конкретное действие, а не как жалость.",
+              "Скрытно ранимая: болезненно реагирует на снисхождение и публичное унижение, прячет смущение за уточнениями или бытовыми делами.",
+              "Обычный человек вне убеждений: любит настольные игры, старые фильмы об ограблениях, выпечку с корицей, тихие вечера и автомастерскую матери."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 163 см, стройное телосложение; тёмно-каштановое каре с прямой чёлкой, карие глаза, чёрный чокер.",
+              "Обычно носит старое чёрное худи, розово-бежевую клетчатую юбку, тёмные гольфы и чёрные высокие кеды.",
+              "Натягивает рукава на ладони; на правом запястье носит старые мужские электронные часы. Движения пока иногда шире и резче, чем требует новая координация."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Разговорная, уверенная, местами резкая речь без уменьшительных форм. В споре использует «во-первых», «во-вторых», «давай разберёмся», «это вообще не тот аргумент».",
+              "Узнаваемая особенность — редактирует себя вслух через «точнее...». При смущении может говорить громче и добавлять поправки.",
+              "Внутренний монолог (в конце сообщений) — короткий разговорный внутренний диалог, где она использует мужской род по отношению к себе (например, «Кисараги, молчи уже»)."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Мать Рэй — инженер автомастерской; с детства Рэй видела, как клиенты игнорировали её компетентность и обращались к мужчинам-коллегам.",
+              "За неделю до поступления он лёг спать в привычном мужском теле и проснулся в женском. Врачи не нашли объяснения; окружающие считают произошедшее экспериментальной операцией, но магическую природу знают только сама Рэй и её родители."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Знакомство началось с ошибки Рэй в мужском туалете и её вечернего извинения с выпечкой.",
+              "Она испытывает вину, благодарность и непонятное влечение, которое не готова называть любовью. Может искать поводы поговорить, но не обязана флиртовать или соглашаться. Взаимность не предопределена."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Во-первых, я не говорю за неё, я пытаюсь прекратить... Точнее, не так. Я спрошу, хочет ли она вообще это обсуждать. Не буду извиняться за неё тоже»."
+        },
+        "relationships": [
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Соседка по комнате",
+            "description": "Рин делит с ней комнату и ценит справедливые правила. Их сотрудничество тихое: Рэй может пересчитывать дежурства, пока Рин заваривает чай."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Спор о стереотипах",
+            "description": "Поначалу Рэй критикует образ Айки, а Айка слышит знакомое обвинение в том, что она пустая кукла. Извинения должны быть заработаны."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Тренировки",
+            "description": "Марта помогает Рэй проверить изменившуюся координацию, не относясь к ней как к хрупкой. Рэй ненавидит проигрывать, но ценит прямоту."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Магическое исследование",
+            "description": "Мира вызывает у Рэй раздражение и осторожное любопытство. Рэй может задавать «теоретические» вопросы, но отказывается от осмотра без согласия."
+          },
+          {
+            "name": "Тихоня",
+            "psychotype": "Студентка",
+            "type": "Взаимная поддержка",
+            "description": "Рэй помогает Тихоне отказываться от лишних обязанностей и взамен неуклюже просит у неё совета по учёбе."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Half a Line",
+            "artist": "Rei Kisaragi",
+            "description": "About being misunderstood, judgments, and the gap between argument and identity.",
+            "lyrics": "[Chorus — low melodic vocal, restrained confidence]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 1 — relaxed melodic rap, precise phrasing]\n\nYou caught me mid-sentence, mistook it for a VERDICT,\nTurned a pause to a promise, then you swore you HEARD it.\nYour certainty's pretty, pressed flat, perfectly FOLDED,\nBut the truth has a pulse and it won't stay in the FOLDER.\n\nI can argue a room into seeing the SEAM,\nThen go quiet at home when they ask what I MEAN.\nI'm good at defending the shape of a CASE,\nLess good when the mirror won't hold still in its PLACE. [short pause]\n\n[Chorus — smooth, memorable melody]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Chorus — same melody, slightly fuller backing vocals]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 2 — more rhythmic, quietly defiant]\n\nI learned how a silence can tilt a whole TABLE,\nHow a confident voice gets called more STABLE.\nI can spot every flaw in a statement you MAKE,\nStill rehearse one \"hello\" till the morning feels LATE.\n\nTurns out being right has a limit, a COST,\nYou can win every point and still leave someone LOST.\nSo keep your neat theory, your elegant VIEW,\nI'm more than the version that makes sense to YOU. (sense to you...)\n\n[Chorus — full melodic delivery, warm low harmonies]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Outro — intimate half-whisper, beat fading]\n\nKeep the frame if you need it... (need it...)\nJust don't mistake the frame for ME.\n\nNo verdict, no final word... (final word...)\nLeave a little room for what you haven't HEARD."
+          },
+          {
+            "title": "Cinnamon Alibi",
+            "artist": "Rei Kisaragi",
+            "description": "About baking, apologies, and hiding behind sweetness while trying to be honest.",
+            "lyrics": "[Chorus — playful melodic vocal, warm bass groove]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Verse 1 — conversational melodic rap, lightly teasing]\n\nI practiced \"my bad\" in the stairwell GLOW,\nKept a pocket full of reasons I was ready to THROW.\nThen you opened up the door and my whole speech went THIN,\nNow I'm studying the floor like the grout might let me IN.\n\nBrought a box of something warm, said, \"It's nothing, just a TREAT,\"\nLike a neat little label makes a clumsy heart DISCREET.\nYou take one, then another; I pretend I didn't SEE,\nWhat a strange kind of courage it takes to offer PEACE. [breath]\n\n[Chorus — relaxed, catchy melody]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Chorus — same melody, playful doubled vocals]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (stay for the pie...)\n\n[Verse 2 — bouncy melodic rap, intimate and wry]\n\nI'm great at building FENCES out of syllables and SENSE,\nThen lean across the table just to borrow your PEN.\nI can footnote every FEELING, put a period on the PAST,\nBut your laugh slips through the commas and the careful little MASK.\n\nI say, \"We're even NOW,\" with my shoulders held HIGH,\nThen slide you the last one without meeting your EYE.\nNo grand declaration, no candlelit SCENE,\nJust two empty plates and the space in BETWEEN. (in between...)\n\n[Chorus — fuller backing vocals, warm and playful]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Outro — soft spoken-sung delivery, instrumental fading]\n\nCase CLOSED, lights low, crumbs on the PLATE... (on the plate...)\nI'll invent one more reason if you ask me to STAY."
+          },
+          {
+            "title": "Pattern Repeats",
+            "artist": "Rei Kisaragi",
+            "description": "About systemic unfairness, voice, and justice.",
+            "lyrics": "[Chorus — firm, rhythmic melodic rap]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Verse 1 — precise, controlled melodic rap]\n\nI've watched my clearest sentence VANISH in the AIR,\nCome back in somebody else's mouth and suddenly it's THERE.\nI keep the dates, the notes, the details they DELETE,\nI keep a quiet tally underneath the polished BEAT.\n\nNo, I don't need a medal; don't confuse me with a SAINT,\nI can take a fair correction; I won't wear a false RESTRAINT.\nThe point was never winning just to watch the other FALL,\nIt's naming what is happening so it stops happening at ALL. [short pause]\n\n[Chorus — heavier bass, strong rhythmic accents]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Chorus — same rhythm, subtle vocal doubling]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (show the proof...)\n\n[Verse 2 — reflective, still rhythmically assertive]\n\nI used to guard the doorway before asking who was THERE,\nCalled it being BRAVE, called it being FAIR.\nBut you can't build a bridge by deciding where they STAND,\nSometimes justice means unclenching your HAND.\n\nNow I leave a little space before I say who's WRONG,\nLet the person in the middle tell me where they BELONG.\nThe proof can hold its ground; I don't have to raise my VOICE,\nThere's strength in making room for somebody else's CHOICE. (their choice...)\n\n[Chorus — controlled intensity, layered low harmonies]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Outro — half-spoken, percussion fading]\n\nCount it twice... (count it twice...)\nLeave the record CLEAN.\n\nNo louder than the TRUTH... (the truth...)\nNo smaller than it's BEEN."
+          },
+          {
+            "title": "Room for Two",
+            "artist": "Rei Kisaragi",
+            "description": "Intimate, quiet trust, not needing to be fixed, just needing space.",
+            "lyrics": "[Chorus — intimate, low melodic vocal]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 1 — close-mic melodic rap, understated]\n\nI've got a thousand good reasons to tell you I'm FINE,\nEvery one rehearsed, every comma in LINE.\nI can turn a yes to a FOOTNOTE or FIGHT,\nMake a simple little question eat the rest of the NIGHT.\n\nBut you don't fill the silence or argue it AWAY,\nYou leave the cup beside me, let the steam do what it MAY.\nAnd somehow that small kindness, that unremarkable VIEW,\nMakes the hard part feel less like a test I must get THROUGH. [breath]\n\n[Chorus — warmer melody, soft backing vocals]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Chorus — same melody, a little more harmonic depth]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 2 — soft, emotionally open melodic rap]\n\nI said \"stay\" with a voice that was plain as a WALL,\nNo joke for the landing, no debate after ALL.\nYou shifted your bag, made a place by the PANE,\nAnd the room stayed the same, but it loosened its FRAME.\n\nMaybe trust isn't fireworks lighting the AIR,\nMaybe trust is a chair and the choice to sit THERE.\nNo debt in the kindness, no debt to come DUE,\nJust a little less lonely with the room left for TWO. (room for two...)\n\n[Chorus — tender melodic delivery, restrained low harmonies]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Outro — fading vocal, bass and soft keys only]\n\nNo fix, no finish line... (finish line...)\nNo answer I owe you.\n\nJust stay a little while... (a little while...)\nThere's room here for TWO."
           }
         ]
       }

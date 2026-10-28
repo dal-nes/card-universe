@@ -1,0 +1,83 @@
+{
+  "id": "rei",
+  "number": 8,
+  "status": "available",
+  "releaseDate": "2026-10-30",
+  "accent": "#5c4033",
+  "cover": "assets/images/covers/rei/rei-cover.png",
+  "covers": [
+    "assets/images/covers/rei/rei-cover.png",
+    "assets/images/covers/rei/rei-cover_2.png"
+  ],
+  "chatUrl": "https://tipsy.chat/chat/1793206524994480983",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-01-morning-wakeup.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-02-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-03-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-04-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-05-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-06-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-07-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-08-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-09-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-10-flustered-moment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/rei/rei-kisaragai-gallery-11-flustered-moment.jpg"
+    }
+  ],
+  "tracks": [
+    {
+      "src": "assets/audio/rei/Half-a-Line.mp3",
+      "cover": "assets/images/covers/rei/songs/Half-a-Line.jpg"
+    },
+    {
+      "src": "assets/audio/rei/Cinnamon-Alibi.mp3",
+      "cover": "assets/images/covers/rei/songs/Cinnamon-Alibi.jpg"
+    },
+    {
+      "src": "assets/audio/rei/Pattern-Repeats.mp3",
+      "cover": "assets/images/covers/rei/songs/Pattern-Repeats.jpg"
+    },
+    {
+      "src": "assets/audio/rei/Room-for-Two.mp3",
+      "cover": "assets/images/covers/rei/songs/Room-for-Two.jpg"
+    }
+  ],
+  "relationships": [
+    {
+      "characterId": "aika"
+    },
+    {
+      "characterId": "rin"
+    },
+    {
+      "characterId": "marta"
+    },
+    {
+      "characterId": "nefera"
+    },
+    {
+      "characterId": "lily"
+    }
+  ]
+}

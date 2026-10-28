@@ -47,19 +47,19 @@
   ],
   "relationships": [
     {
-      "characterId": "yuna"
+      "characterId": "mira"
     },
     {
-      "characterId": "rin"
+      "characterId": "vasilisa"
     },
     {
-      "characterId": "marta"
+      "characterId": "aino"
     },
     {
       "characterId": "aika"
     },
     {
-      "characterId": "mira"
+      "characterId": "marta"
     }
   ]
 }

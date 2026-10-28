@@ -107,19 +107,16 @@
   ],
   "relationships": [
     {
-      "characterId": "yuna"
-    },
-    {
-      "characterId": "rin"
-    },
-    {
       "characterId": "aika"
     },
     {
-      "characterId": "lily"
+      "characterId": "aino"
     },
     {
-      "characterId": "selma"
+      "characterId": "rei"
+    },
+    {
+      "characterId": "rin"
     }
   ]
 }
