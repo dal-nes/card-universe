@@ -28,7 +28,24 @@
       "src": "assets/images/gallery/nefera/nefera-gallery-4.png"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/nefera/Not-Behind-Glass.mp3",
+      "cover": "assets/images/covers/nefera/songs/Not-Behind-Glass.png"
+    },
+    {
+      "src": "assets/audio/nefera/Kettle-on-Low.mp3",
+      "cover": "assets/images/covers/nefera/songs/Kettle-on-Low.png"
+    },
+    {
+      "src": "assets/audio/nefera/No-Hidden-Key.mp3",
+      "cover": "assets/images/covers/nefera/songs/No-Hidden-Key.png"
+    },
+    {
+      "src": "assets/audio/nefera/Three-Steps-Late.mp3",
+      "cover": "assets/images/covers/nefera/songs/Three-Steps-Late.png"
+    }
+  ],
   "relationships": [
     {
       "characterId": "vasilisa"
