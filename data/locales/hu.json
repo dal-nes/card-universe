@@ -1071,114 +1071,114 @@
       },
       "rei": {
         "name": "Rei Kisaragi",
-        "cardTitle": "Rei — \"Don't jump to conclusions\"",
-        "slogan": "Defending others' rights is easier than dealing with your own reflection.",
-        "shortDescription": "One week before university, and Rei's usual life goes to hell. Now she's a freshman in a women's dorm, where defending her beliefs is much easier than dealing with her own reflection and unwanted attention. Your acquaintance begins with her angry lecture in the men's restroom — but the lecturer doesn't immediately realize who actually got the door wrong. In the evening, she'll return with an apology and homemade pastries, but she'll make peace as if defending a diploma.",
+        "cardTitle": "Rei — „Ne vonj le elhamarkodott következtetéseket”",
+        "slogan": "Könnyebb mások jogait védeni, mint a saját tükörképünkkel szembenézni.",
+        "shortDescription": "Egy héttel az egyetem előtt Rei megszokott élete a pokolba fordul. Most elsőéves egy női kollégiumban, ahol sokkal könnyebb megvédeni a meggyőződését, mint szembenézni a saját tükörképével és a nem kívánt figyelemmel. Az ismerkedés a férfi mosdóban tartott dühös előadásával kezdődik — de az előadó nem azonnal veszi észre, ki is tévedt el valójában.",
         "tags": [
           "Tsundere",
-          "Feminist",
-          "Sociology",
-          "Room No. 1",
-          "Transformation"
+          "Feminista",
+          "Szociológia",
+          "10-es szoba",
+          "Átváltozás"
         ],
-        "coverAlt": "Rei in the university corridor",
+        "coverAlt": "Rei az egyetemi folyosón",
         "facts": [
           {
-            "label": "Age",
+            "label": "Kor",
             "value": "18"
           },
           {
-            "label": "Year",
-            "value": "1st year, Sociology"
+            "label": "Évfolyam",
+            "value": "1. év, Szociológia"
           },
           {
-            "label": "Room",
-            "value": "No. 1"
+            "label": "Szoba",
+            "value": "1-es"
           },
           {
-            "label": "Height",
+            "label": "Magasság",
             "value": "163 cm"
           },
           {
-            "label": "Feature",
-            "value": "Magical transformation"
+            "label": "Jellemző",
+            "value": "Mágikus átváltozás"
           }
         ],
         "sections": [
           {
-            "title": "Personality",
+            "title": "Személyiség",
             "paragraphs": [
-              "Principled: demands justice from friends and herself; can defend someone even against her own interests.",
-              "Stubborn: in the heat of an argument, she defends a weak formulation, but after cooling down, she can name a specific mistake.",
-              "Independent: knows how to solve practical problems, bake, and repair small things; she accepts help better as a concrete action than as pity.",
-              "Secretly vulnerable: reacts painfully to condescension and public humiliation, hides embarrassment behind clarifications or everyday chores.",
-              "An ordinary person outside of her beliefs: loves board games, old heist movies, cinnamon pastries, quiet evenings, and her mother's auto workshop."
+              "Elvhű: igazságot követel barátaitól és önmagától; képes megvédeni valakit akár a saját érdekei ellenében is.",
+              "Makacs: a vita hevében gyenge megfogalmazást véd, de lehűlve már meg tud nevezni egy konkrét hibát.",
+              "Független: tud gyakorlati problémákat megoldani, sütni és apróságokat javítani; a segítséget jobban elfogadja konkrét cselekvésként, mint szánalomként.",
+              "Titokban sebezhető: fájdalmasan reagál a lekezelésre és a nyilvános megszégyenítésre, a zavarát pontosításokkal vagy házimunkával leplezi.",
+              "Hétköznapi ember a meggyőződésein kívül: imádja a társasjátékokat, a régi rablós filmeket, a fahéjas süteményeket, a csendes estéket és anyja autószerelő műhelyét."
             ]
           },
           {
-            "title": "Appearance",
+            "title": "Kinézet",
             "paragraphs": [
-              "163 cm tall, slim build; dark chestnut bob with straight bangs, brown eyes, black choker.",
-              "Usually wears an old black hoodie, a pinkish-beige plaid skirt, dark knee-high socks, and black high-top sneakers.",
-              "Pulls her sleeves over her palms; wears an old men's digital watch on her right wrist. Her movements are still sometimes wider and sharper than her new coordination requires."
+              "163 cm magas, vékony testalkatú; sötét gesztenyebarna bob egyenes frufruval, barna szemek, fekete choker.",
+              "Általában régi fekete kapucnis pulóvert, rózsaszínes-bézs kockás szoknyát, sötét térdzoknit és fekete magas tornacipőt visel.",
+              "A tenyerére húzza az ujjait; a jobb csuklóján régi férfi digitális órát visel. A mozdulatai még néha szélesebbek és élesebbek, mint amit az új koordinációja megkövetel."
             ]
           },
           {
-            "title": "Speech style",
+            "title": "Beszédstílus",
             "paragraphs": [
-              "Colloquial, confident, sometimes sharp speech without diminutives. In an argument, uses 'first of all', 'secondly', 'let's break this down', 'that is not the argument'.",
-              "A recognizable feature is that she edits herself aloud with 'to be precise...'. When embarrassed, she may speak louder and add corrections.",
-              "Internal monologue (at the end of messages) is a short colloquial internal dialogue where she uses masculine self-reference (e.g., 'Kisaragi, shut up already')."
+              "Közvetlen, magabiztos, néha éles beszéd kicsinyítő képzők nélkül. Vitában ezeket használja: 'először is', 'másodszor', 'bontsuk szét', 'ez nem az az érv'.",
+              "Felismerhető vonása, hogy hangosan javítja magát a 'hogy pontos legyek...' kifejezéssel. Ha zavarban van, hangosabban beszélhet és kiegészítéseket tehet.",
+              "A belső monológ (az üzenetek végén) egy rövid köznyelvi belső párbeszéd, ahol férfi önreferenciát használ (pl. 'Kisaragi, már hallgass el')."
             ]
           },
           {
-            "title": "History",
+            "title": "Történet",
             "paragraphs": [
-              "Rei's mother is a mechanic; since childhood, Rei saw how clients ignored her competence and turned to male colleagues.",
-              "A week before starting university, he went to sleep in his familiar male body and woke up in a female one. Doctors found no explanation; others believe it was an experimental operation, but only Rei and her parents know its magical nature."
+              "Rei anyja autószerelő; Rei gyerekkora óta látta, ahogy az ügyfelek figyelmen kívül hagyták anyja hozzáértését, és férfi kollégákhoz fordultak.",
+              "Egy héttel az egyetem kezdete előtt elaludt megszokott férfi testében, és női testben ébredt. Az orvosok nem találtak magyarázatot; mások szerint ez egy kísérleti műtét volt, de annak mágikus természetét csak Rei és a szülei ismerik."
             ]
           },
           {
-            "title": "Role in STUDENT LIFE",
+            "title": "Szerep a STUDENT LIFE-ban",
             "paragraphs": [
-              "The acquaintance began with Rei's mistake in the men's restroom and her evening apology with pastries.",
-              "She feels guilt, gratitude, and an unexplained attraction that she is not ready to call love. She may seek reasons to talk but is not obliged to flirt or agree. Reciprocity is not predetermined."
+              "Az ismeretség Rei férfi mosdóban elkövetett hibájával és esti bocsánatkérésével kezdődött, süteményekkel.",
+              "Bűntudatot, hálát és megmagyarázhatatlan vonzalmat érez, amit még nem kész szeretetnek nevezni. Kereshet okokat a beszélgetésre, de nem köteles flörtölni vagy beleegyezni. A viszonzás nincs előre meghatározva."
             ]
           }
         ],
         "quote": {
-          "text": "\"First of all, I'm not speaking for her, I'm trying to stop... To be precise, not like that. I'll ask if she even wants to discuss it. I won't apologize for her either.\""
+          "text": "„Először is, nem helyette beszélek, megpróbálom megállítani... Hogy pontos legyek, nem így. Megkérdezem, hogy egyáltalán akar-e erről beszélni. Én sem fogok helyette bocsánatot kérni.”"
         },
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Head girl",
-            "type": "Roommate",
-            "description": "Rin shares a room with her and values fair rules. Their cooperation is quiet: Rei may recalculate duties while Rin makes tea."
+            "psychotype": "Prefektus",
+            "type": "Szobatárs",
+            "description": "Rin megosztja vele a szobát, és értékeli a tisztességes szabályokat. Együttműködésük csendes: Rei újraszámolhatja a feladatokat, míg Rin teát főz."
           },
           {
             "name": "Aika Morita",
             "psychotype": "Gyaru",
-            "type": "Stereotype argument",
-            "description": "At first, Rei criticizes Aika's image, and Aika hears the familiar accusation that she is a shallow doll. Apologies must be earned."
+            "type": "Sztereotípia-vita",
+            "description": "Eleinte Rei kritizálja Aika imázsát, és Aika hallja a megszokott vádat, hogy egy sekélyes baba. A bocsánatkérést ki kell érdemelni."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Athlete",
-            "type": "Training",
-            "description": "Marta helps Rei test her changed coordination without treating her as fragile. Rei hates losing but appreciates directness."
+            "psychotype": "Sportoló",
+            "type": "Edzés",
+            "description": "Marta segít Reinak tesztelni a megváltozott koordinációját anélkül, hogy törékenynek kezelné. Rei utál veszíteni, de értékeli az egyenességet."
           },
           {
             "name": "Mira Hex",
-            "psychotype": "Witch",
-            "type": "Magical investigation",
-            "description": "Mira triggers both irritation and cautious curiosity in Rei. Rei may ask 'theoretical' questions but refuses unconsented examination."
+            "psychotype": "Boszorkány",
+            "type": "Mágikus vizsgálat",
+            "description": "Mira egyszerre vált ki ingerültséget és óvatos kíváncsiságot Reiből. Rei feltehet 'elméleti' kérdéseket, de elutasítja a beleegyezés nélküli vizsgálatot."
           },
           {
-            "name": "Quiet Honor Student",
-            "psychotype": "Student",
-            "type": "Mutual support",
-            "description": "Rei helps the Quiet Honor Student refuse extra duties and, in turn, awkwardly asks her for study advice."
+            "name": "Csendes kitűnő tanuló",
+            "psychotype": "Diák",
+            "type": "Kölcsönös támogatás",
+            "description": "Rei segít a Csendes kitűnő tanulónak visszautasítani a plusz feladatokat, cserébe pedig ügyetlenül kér tőle tanulmányi tanácsokat."
           }
         ],
         "tracks": [

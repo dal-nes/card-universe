@@ -1073,12 +1073,12 @@
         "name": "Rei Kisaragi",
         "cardTitle": "Rei — «No saques conclusiones precipitadas»",
         "slogan": "Defender los derechos de los demás es más fácil que lidiar con tu propio reflejo.",
-        "shortDescription": "Una semana antes de la universidad, la vida habitual de Rei se va al infierno. Ahora es una estudiante de primer año en un dormitorio femenino, donde defender sus creencias es mucho más fácil que lidiar con su propio reflejo y la atención no deseada. Tu encuentro comienza con su airada conferencia en el baño de hombres — pero la profesora no se da cuenta de inmediato de quién se equivocó de puerta. Por la noche, regresará con una disculpa y pasteles caseros, pero hará las paces como si estuviera defendiendo una tesis.",
+        "shortDescription": "Una semana antes de la universidad, y la vida habitual de Rei se va al infierno. Ahora es una estudiante de primer año en un dormitorio de mujeres, donde defender sus creencias es mucho más fácil que lidiar con su propio reflejo y la atención no deseada. Vuestro conocimiento comienza con su airada conferencia en el baño de hombres, pero la conferenciante no se da cuenta de inmediato de quién se equivocó realmente de puerta.",
         "tags": [
           "Tsundere",
           "Feminista",
           "Sociología",
-          "Habitación 1",
+          "Habitación N.º 1",
           "Transformación"
         ],
         "coverAlt": "Rei en el pasillo de la universidad",
@@ -1093,7 +1093,7 @@
           },
           {
             "label": "Habitación",
-            "value": "1"
+            "value": "N.º 1"
           },
           {
             "label": "Altura",
@@ -1109,16 +1109,16 @@
             "title": "Personalidad",
             "paragraphs": [
               "Con principios: exige justicia a sus amigos y a sí misma; puede defender a alguien incluso en contra de sus propios intereses.",
-              "Testaruda: en el calor de una discusión, defiende una formulación débil, pero después de calmarse, puede nombrar un error específico.",
+              "Testaruda: en el calor de una discusión, defiende una formulación débil, pero después de calmarse, puede señalar un error concreto.",
               "Independiente: sabe resolver problemas prácticos, hornear y reparar cosas pequeñas; acepta la ayuda mejor como una acción concreta que como lástima.",
-              "Secretamente vulnerable: reacciona dolorosamente a la condescendencia y la humillación pública, oculta su vergüenza tras aclaraciones o tareas cotidianas.",
-              "Una persona común fuera de sus creencias: le encantan los juegos de mesa, las viejas películas de atracos, los pasteles de canela, las noches tranquilas y el taller de autos de su madre."
+              "Secretamente vulnerable: reacciona con dolor a la condescendencia y la humillación pública, oculta su vergüenza tras aclaraciones o tareas cotidianas.",
+              "Una persona corriente fuera de sus creencias: le encantan los juegos de mesa, las viejas películas de atracos, la bollería de canela, las tardes tranquilas y el taller de su madre."
             ]
           },
           {
             "title": "Apariencia",
             "paragraphs": [
-              "163 cm de altura, complexión delgada; corte bob castaño oscuro con flequillo recto, ojos marrones, gargantilla negra.",
+              "Mide 163 cm, complexión delgada; melena bob castaño oscuro con flequillo recto, ojos marrones, gargantilla negra.",
               "Suele llevar una vieja sudadera negra, una falda de cuadros rosa-beige, calcetines oscuros hasta la rodilla y zapatillas altas negras.",
               "Se estira las mangas sobre las palmas; lleva un viejo reloj digital de hombre en la muñeca derecha. Sus movimientos aún son a veces más amplios y bruscos de lo que requiere su nueva coordinación."
             ]
@@ -1126,35 +1126,35 @@
           {
             "title": "Estilo de habla",
             "paragraphs": [
-              "Habla coloquial, segura, a veces aguda, sin diminutivos. En una discusión, usa 'en primer lugar', 'en segundo lugar', 'vamos a analizarlo', 'ese no es el argumento'.",
-              "Una característica reconocible es que se corrige a sí misma en voz alta con 'para ser precisa...'. Cuando está avergonzada, puede hablar más alto y añadir correcciones.",
-              "El monólogo interno (al final de los mensajes) es un breve diálogo interno coloquial donde usa la autorreferencia masculina (por ejemplo, 'Kisaragi, cállate ya')."
+              "Habla coloquial, segura, a veces mordaz y sin diminutivos. En una discusión, utiliza 'en primer lugar', 'en segundo lugar', 'vamos a desglosarlo', 'ese no es el argumento'.",
+              "Un rasgo reconocible es que se corrige a sí misma en voz alta con 'para ser precisos...'. Cuando está avergonzada, puede hablar más alto y añadir correcciones.",
+              "El monólogo interno (al final de los mensajes) es un breve diálogo interno coloquial en el que utiliza la autorreferencia masculina (por ejemplo, 'Kisaragi, cállate ya')."
             ]
           },
           {
             "title": "Historia",
             "paragraphs": [
-              "La madre de Rei es mecánica; desde pequeña, Rei vio cómo los clientes ignoraban su competencia y se dirigían a sus colegas hombres.",
-              "Una semana antes de entrar a la universidad, se fue a dormir en su familiar cuerpo masculino y se despertó en uno femenino. Los médicos no encontraron explicación; otros creen que fue una operación experimental, pero solo Rei y sus padres conocen su naturaleza mágica."
+              "La madre de Rei es mecánica; desde pequeña, Rei vio cómo los clientes ignoraban la competencia de su madre y se dirigían a sus colegas masculinos.",
+              "Una semana antes de empezar la universidad, se fue a dormir en su familiar cuerpo masculino y se despertó en uno femenino. Los médicos no encontraron explicación; otros creen que fue una operación experimental, pero solo Rei y sus padres conocen su naturaleza mágica."
             ]
           },
           {
-            "title": "Papel en STUDENT LIFE",
+            "title": "Rol en STUDENT LIFE",
             "paragraphs": [
-              "El encuentro comenzó con el error de Rei en el baño de hombres y su disculpa nocturna con pasteles.",
-              "Siente culpa, gratitud y una atracción inexplicable que no está lista para llamar amor. Puede buscar razones para hablar, pero no está obligada a coquetear o aceptar. La reciprocidad no está predeterminada."
+              "El conocimiento comenzó con el error de Rei en el baño de hombres y su disculpa nocturna con bollería.",
+              "Siente culpa, gratitud y una atracción inexplicable que no está lista para llamar amor. Puede buscar razones para hablar, pero no está obligada a coquetear ni a aceptar. La reciprocidad no está predeterminada."
             ]
           }
         ],
         "quote": {
-          "text": "«En primer lugar, no hablo por ella, intento detener... Para ser precisa, no es así. Le preguntaré si ella quiere hablar de esto. Tampoco me disculparé por ella.»"
+          "text": "«En primer lugar, no hablo por ella, intento parar... Para ser precisos, no así. Preguntaré si ella siquiera quiere discutirlo. Tampoco me disculparé por ella.»"
         },
         "relationships": [
           {
             "name": "Kobayashi Rin",
             "psychotype": "Delegada",
             "type": "Compañera de cuarto",
-            "description": "Rin comparte habitación con ella y valora las reglas justas. Su cooperación es silenciosa: Rei puede recalcular las tareas mientras Rin prepara té."
+            "description": "Rin comparte habitación con ella y valora las reglas justas. Su cooperación es silenciosa: Rei puede recalcular los deberes mientras Rin prepara té."
           },
           {
             "name": "Aika Morita",
@@ -1172,13 +1172,13 @@
             "name": "Mira Hex",
             "psychotype": "Bruja",
             "type": "Investigación mágica",
-            "description": "Mira provoca tanto irritación como curiosidad cautelosa en Rei. Rei puede hacer preguntas 'teóricas' pero rechaza los exámenes sin consentimiento."
+            "description": "Mira despierta en Rei tanto irritación como una cautelosa curiosidad. Rei puede hacer preguntas 'teóricas' pero rechaza un examen sin consentimiento."
           },
           {
-            "name": "Estudiante Tímida",
+            "name": "Estudiante modelo silenciosa",
             "psychotype": "Estudiante",
             "type": "Apoyo mutuo",
-            "description": "Rei ayuda a la Estudiante Tímida a rechazar tareas extra y, a cambio, le pide torpemente consejos de estudio."
+            "description": "Rei ayuda a la estudiante modelo silenciosa a rechazar deberes adicionales y, a cambio, le pide torpemente consejos de estudio."
           }
         ],
         "tracks": [

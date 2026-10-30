@@ -1071,114 +1071,114 @@
       },
       "rei": {
         "name": "Rei Kisaragi",
-        "cardTitle": "Rei — \"Don't jump to conclusions\"",
-        "slogan": "Defending others' rights is easier than dealing with your own reflection.",
-        "shortDescription": "One week before university, and Rei's usual life goes to hell. Now she's a freshman in a women's dorm, where defending her beliefs is much easier than dealing with her own reflection and unwanted attention. Your acquaintance begins with her angry lecture in the men's restroom — but the lecturer doesn't immediately realize who actually got the door wrong. In the evening, she'll return with an apology and homemade pastries, but she'll make peace as if defending a diploma.",
+        "cardTitle": "Rei — \"Dra inte förhastade slutsatser\"",
+        "slogan": "Att försvara andras rättigheter är lättare än att hantera sin egen spegelbild.",
+        "shortDescription": "En vecka innan universitetet, och Reis vanliga liv går åt helvete. Nu är hon en freshman i ett kvinnligt studenthem, där det är mycket lättare att försvara sina övertygelser än att hantera sin egen spegelbild och oönskad uppmärksamhet. Er bekantskap börjar med hennes arga föreläsning på herrtoaletten — men föreläsaren inser inte omedelbart vem som faktiskt tog fel dörr.",
         "tags": [
           "Tsundere",
           "Feminist",
-          "Sociology",
-          "Room No. 1",
-          "Transformation"
+          "Sociologi",
+          "Rum nr 1",
+          "Förvandling"
         ],
-        "coverAlt": "Rei in the university corridor",
+        "coverAlt": "Rei i universitetskorridoren",
         "facts": [
           {
-            "label": "Age",
+            "label": "Ålder",
             "value": "18"
           },
           {
-            "label": "Year",
-            "value": "1st year, Sociology"
+            "label": "År",
+            "value": "1:a året, Sociologi"
           },
           {
-            "label": "Room",
-            "value": "No. 1"
+            "label": "Rum",
+            "value": "Nr 1"
           },
           {
-            "label": "Height",
+            "label": "Längd",
             "value": "163 cm"
           },
           {
-            "label": "Feature",
-            "value": "Magical transformation"
+            "label": "Egenskap",
+            "value": "Magisk förvandling"
           }
         ],
         "sections": [
           {
-            "title": "Personality",
+            "title": "Personlighet",
             "paragraphs": [
-              "Principled: demands justice from friends and herself; can defend someone even against her own interests.",
-              "Stubborn: in the heat of an argument, she defends a weak formulation, but after cooling down, she can name a specific mistake.",
-              "Independent: knows how to solve practical problems, bake, and repair small things; she accepts help better as a concrete action than as pity.",
-              "Secretly vulnerable: reacts painfully to condescension and public humiliation, hides embarrassment behind clarifications or everyday chores.",
-              "An ordinary person outside of her beliefs: loves board games, old heist movies, cinnamon pastries, quiet evenings, and her mother's auto workshop."
+              "Principtrogen: kräver rättvisa från vänner och sig själv; kan försvara någon även mot sina egna intressen.",
+              "Envis: i stridens hetta försvarar hon en svag formulering, men efter att ha svalnat kan hon namnge ett specifikt misstag.",
+              "Självständig: vet hur man löser praktiska problem, bakar och reparerar småsaker; hon accepterar hjälp bättre som en konkret handling än som medlidande.",
+              "I hemlighet sårbar: reagerar smärtsamt på nedlåtenhet och offentlig förnedring, döljer förlägenhet bakom klargöranden eller vardagssysslor.",
+              "En vanlig människa utanför sina övertygelser: älskar brädspel, gamla rånfilmer, kanelbakverk, lugna kvällar och sin mors bilverkstad."
             ]
           },
           {
-            "title": "Appearance",
+            "title": "Utseende",
             "paragraphs": [
-              "163 cm tall, slim build; dark chestnut bob with straight bangs, brown eyes, black choker.",
-              "Usually wears an old black hoodie, a pinkish-beige plaid skirt, dark knee-high socks, and black high-top sneakers.",
-              "Pulls her sleeves over her palms; wears an old men's digital watch on her right wrist. Her movements are still sometimes wider and sharper than her new coordination requires."
+              "163 cm lång, smal kroppsbyggnad; mörkbrun bob med rak lugg, bruna ögon, svart choker.",
+              "Bär vanligtvis en gammal svart hoodie, en rosa-beige rutig kjol, mörka knästrumpor och svarta höga sneakers.",
+              "Drar ärmarna över handflatorna; bär en gammal herr digitalklocka på höger handled. Hennes rörelser är fortfarande ibland bredare och skarpare än hennes nya koordination kräver."
             ]
           },
           {
-            "title": "Speech style",
+            "title": "Talstil",
             "paragraphs": [
-              "Colloquial, confident, sometimes sharp speech without diminutives. In an argument, uses 'first of all', 'secondly', 'let's break this down', 'that is not the argument'.",
-              "A recognizable feature is that she edits herself aloud with 'to be precise...'. When embarrassed, she may speak louder and add corrections.",
-              "Internal monologue (at the end of messages) is a short colloquial internal dialogue where she uses masculine self-reference (e.g., 'Kisaragi, shut up already')."
+              "Talspråklig, självsäker, ibland skarp talan utan diminutiver. I en argumentation använder hon 'för det första', 'för det andra', 'låt oss bryta ner det här', 'det är inte argumentet'.",
+              "Ett igenkännbart drag är att hon redigerar sig själv högt med 'för att vara exakt...'. När hon är generad kan hon tala högre och lägga till korrigeringar.",
+              "Inre monolog (i slutet av meddelanden) är en kort vardaglig inre dialog där hon använder maskulin självreferens (t.ex. 'Kisaragi, håll käften')."
             ]
           },
           {
-            "title": "History",
+            "title": "Historia",
             "paragraphs": [
-              "Rei's mother is a mechanic; since childhood, Rei saw how clients ignored her competence and turned to male colleagues.",
-              "A week before starting university, he went to sleep in his familiar male body and woke up in a female one. Doctors found no explanation; others believe it was an experimental operation, but only Rei and her parents know its magical nature."
+              "Reis mor är mekaniker; sedan barndomen har Rei sett hur kunder ignorerade hennes mammas kompetens och vände sig till manliga kollegor.",
+              "En vecka innan hon började på universitetet gick han och la sig i sin vanliga manliga kropp och vaknade i en kvinnlig. Läkarna hittade ingen förklaring; andra tror att det var en experimentell operation, men bara Rei och hennes föräldrar känner till dess magiska natur."
             ]
           },
           {
-            "title": "Role in STUDENT LIFE",
+            "title": "Roll i STUDENT LIFE",
             "paragraphs": [
-              "The acquaintance began with Rei's mistake in the men's restroom and her evening apology with pastries.",
-              "She feels guilt, gratitude, and an unexplained attraction that she is not ready to call love. She may seek reasons to talk but is not obliged to flirt or agree. Reciprocity is not predetermined."
+              "Bekantskapet började med Reis misstag på herrtoaletten och hennes kvällsursäkt med bakverk.",
+              "Hon känner skuld, tacksamhet och en oförklarlig attraktion som hon inte är redo att kalla kärlek. Hon kan söka anledningar att prata men är inte skyldig att flirta eller hålla med. Ömsesidighet är inte förutbestämd."
             ]
           }
         ],
         "quote": {
-          "text": "\"First of all, I'm not speaking for her, I'm trying to stop... To be precise, not like that. I'll ask if she even wants to discuss it. I won't apologize for her either.\""
+          "text": "\"För det första, jag pratar inte för henne, jag försöker stoppa... För att vara exakt, inte så. Jag ska fråga om hon ens vill diskutera det. Jag kommer inte att be om ursäkt för henne heller.\""
         },
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Head girl",
-            "type": "Roommate",
-            "description": "Rin shares a room with her and values fair rules. Their cooperation is quiet: Rei may recalculate duties while Rin makes tea."
+            "psychotype": "Korridorsansvarig",
+            "type": "Rumskamrat",
+            "description": "Rin delar rum med henne och värdesätter rättvisa regler. Deras samarbete är tyst: Rei kan räkna om uppgifter medan Rin gör te."
           },
           {
             "name": "Aika Morita",
             "psychotype": "Gyaru",
-            "type": "Stereotype argument",
-            "description": "At first, Rei criticizes Aika's image, and Aika hears the familiar accusation that she is a shallow doll. Apologies must be earned."
+            "type": "Stereotypdiskussion",
+            "description": "Först kritiserar Rei Aikas image, och Aika hör den vanliga anklagelsen att hon är en ytlig docka. Ursäkter måste förtjänas."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Athlete",
-            "type": "Training",
-            "description": "Marta helps Rei test her changed coordination without treating her as fragile. Rei hates losing but appreciates directness."
+            "psychotype": "Atlet",
+            "type": "Träning",
+            "description": "Marta hjälper Rei att testa sin förändrade koordination utan att behandla henne som ömtålig. Rei hatar att förlora men uppskattar direkthet."
           },
           {
             "name": "Mira Hex",
-            "psychotype": "Witch",
-            "type": "Magical investigation",
-            "description": "Mira triggers both irritation and cautious curiosity in Rei. Rei may ask 'theoretical' questions but refuses unconsented examination."
+            "psychotype": "Häxa",
+            "type": "Magisk undersökning",
+            "description": "Mira utlöser både irritation och försiktig nyfikenhet hos Rei. Rei kan ställa 'teoretiska' frågor men vägrar undersökning utan samtycke."
           },
           {
-            "name": "Quiet Honor Student",
+            "name": "Tysta toppstudenten",
             "psychotype": "Student",
-            "type": "Mutual support",
-            "description": "Rei helps the Quiet Honor Student refuse extra duties and, in turn, awkwardly asks her for study advice."
+            "type": "Ömsesidigt stöd",
+            "description": "Rei hjälper den tysta toppstudenten att avböja extra uppgifter och frågar i gengäld klumpigt om studieråd."
           }
         ],
         "tracks": [

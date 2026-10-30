@@ -1071,114 +1071,114 @@
       },
       "rei": {
         "name": "Rei Kisaragi",
-        "cardTitle": "Rei — \"Don't jump to conclusions\"",
-        "slogan": "Defending others' rights is easier than dealing with your own reflection.",
-        "shortDescription": "One week before university, and Rei's usual life goes to hell. Now she's a freshman in a women's dorm, where defending her beliefs is much easier than dealing with her own reflection and unwanted attention. Your acquaintance begins with her angry lecture in the men's restroom — but the lecturer doesn't immediately realize who actually got the door wrong. In the evening, she'll return with an apology and homemade pastries, but she'll make peace as if defending a diploma.",
+        "cardTitle": "Rei — «Não tires conclusões precipitadas»",
+        "slogan": "Defender os direitos dos outros é mais fácil do que lidar com o teu próprio reflexo.",
+        "shortDescription": "Uma semana antes da universidade, e a vida normal da Rei vai pelo cano. Agora ela é caloira num dormitório feminino, onde defender as suas crenças é muito mais fácil do que lidar com o seu próprio reflexo e atenção indesejada. O vosso conhecimento começa com a sua palestra furiosa na casa de banho masculina — mas a conferencista não percebe imediatamente quem é que realmente errou a porta.",
         "tags": [
           "Tsundere",
-          "Feminist",
-          "Sociology",
-          "Room No. 1",
-          "Transformation"
+          "Feminista",
+          "Sociologia",
+          "Quarto N.º 1",
+          "Transformação"
         ],
-        "coverAlt": "Rei in the university corridor",
+        "coverAlt": "Rei no corredor da universidade",
         "facts": [
           {
-            "label": "Age",
+            "label": "Idade",
             "value": "18"
           },
           {
-            "label": "Year",
-            "value": "1st year, Sociology"
+            "label": "Ano",
+            "value": "1.º ano, Sociologia"
           },
           {
-            "label": "Room",
-            "value": "No. 1"
+            "label": "Quarto",
+            "value": "N.º 1"
           },
           {
-            "label": "Height",
+            "label": "Altura",
             "value": "163 cm"
           },
           {
-            "label": "Feature",
-            "value": "Magical transformation"
+            "label": "Característica",
+            "value": "Transformação mágica"
           }
         ],
         "sections": [
           {
-            "title": "Personality",
+            "title": "Personalidade",
             "paragraphs": [
-              "Principled: demands justice from friends and herself; can defend someone even against her own interests.",
-              "Stubborn: in the heat of an argument, she defends a weak formulation, but after cooling down, she can name a specific mistake.",
-              "Independent: knows how to solve practical problems, bake, and repair small things; she accepts help better as a concrete action than as pity.",
-              "Secretly vulnerable: reacts painfully to condescension and public humiliation, hides embarrassment behind clarifications or everyday chores.",
-              "An ordinary person outside of her beliefs: loves board games, old heist movies, cinnamon pastries, quiet evenings, and her mother's auto workshop."
+              "Com princípios: exige justiça dos amigos e de si mesma; pode defender alguém mesmo contra os seus próprios interesses.",
+              "Teimosa: no calor de uma discussão, defende uma formulação fraca, mas depois de arrefecer, consegue nomear um erro específico.",
+              "Independente: sabe resolver problemas práticos, cozinhar e reparar coisas pequenas; aceita ajuda melhor como uma ação concreta do que como pena.",
+              "Secretamente vulnerável: reage dolorosamente à condescendência e à humilhação pública, esconde o embaraço atrás de esclarecimentos ou tarefas domésticas.",
+              "Uma pessoa comum fora das suas crenças: adora jogos de tabuleiro, filmes antigos de assaltos, pastelaria de canela, noites tranquilas e a oficina automóvel da mãe."
             ]
           },
           {
-            "title": "Appearance",
+            "title": "Aparência",
             "paragraphs": [
-              "163 cm tall, slim build; dark chestnut bob with straight bangs, brown eyes, black choker.",
-              "Usually wears an old black hoodie, a pinkish-beige plaid skirt, dark knee-high socks, and black high-top sneakers.",
-              "Pulls her sleeves over her palms; wears an old men's digital watch on her right wrist. Her movements are still sometimes wider and sharper than her new coordination requires."
+              "163 cm de altura, constituição magra; corte bob castanho escuro com franja direita, olhos castanhos, gargantilha preta.",
+              "Normalmente usa um velho hoodie preto, uma saia de xadrez rosa-bege, meias altas escuras e ténis altos pretos.",
+              "Puxa as mangas sobre as palmas; usa um velho relógio digital masculino no pulso direito. Os seus movimentos ainda são por vezes mais amplos e nítidos do que a sua nova coordenação exige."
             ]
           },
           {
-            "title": "Speech style",
+            "title": "Estilo de fala",
             "paragraphs": [
-              "Colloquial, confident, sometimes sharp speech without diminutives. In an argument, uses 'first of all', 'secondly', 'let's break this down', 'that is not the argument'.",
-              "A recognizable feature is that she edits herself aloud with 'to be precise...'. When embarrassed, she may speak louder and add corrections.",
-              "Internal monologue (at the end of messages) is a short colloquial internal dialogue where she uses masculine self-reference (e.g., 'Kisaragi, shut up already')."
+              "Discurso coloquial, confiante, por vezes afiado, sem diminutivos. Numa discussão, usa 'em primeiro lugar', 'em segundo lugar', 'vamos analisar isto', 'esse não é o argumento'.",
+              "Uma característica reconhecível é que ela se corrige em voz alta com 'para ser precisa...'. Quando está envergonhada, pode falar mais alto e adicionar correções.",
+              "O monólogo interno (no final das mensagens) é um breve diálogo interno coloquial onde ela usa a autorreferência masculina (por exemplo, 'Kisaragi, cala-te')."
             ]
           },
           {
-            "title": "History",
+            "title": "História",
             "paragraphs": [
-              "Rei's mother is a mechanic; since childhood, Rei saw how clients ignored her competence and turned to male colleagues.",
-              "A week before starting university, he went to sleep in his familiar male body and woke up in a female one. Doctors found no explanation; others believe it was an experimental operation, but only Rei and her parents know its magical nature."
+              "A mãe da Rei é mecânica; desde criança, a Rei viu como os clientes ignoravam a competência da mãe e se dirigiam a colegas homens.",
+              "Uma semana antes de começar a universidade, foi dormir no seu familiar corpo masculino e acordou num corpo feminino. Os médicos não encontraram explicação; outros acreditam que foi uma operação experimental, mas apenas a Rei e os seus pais conhecem a sua natureza mágica."
             ]
           },
           {
-            "title": "Role in STUDENT LIFE",
+            "title": "Papel em STUDENT LIFE",
             "paragraphs": [
-              "The acquaintance began with Rei's mistake in the men's restroom and her evening apology with pastries.",
-              "She feels guilt, gratitude, and an unexplained attraction that she is not ready to call love. She may seek reasons to talk but is not obliged to flirt or agree. Reciprocity is not predetermined."
+              "O conhecimento começou com o erro da Rei na casa de banho masculina e o seu pedido de desculpas à noite com pastelaria.",
+              "Ela sente culpa, gratidão e uma atração inexplicável que ainda não está pronta para chamar de amor. Pode procurar razões para falar, mas não é obrigada a flirtar ou a concordar. A reciprocidade não está predeterminada."
             ]
           }
         ],
         "quote": {
-          "text": "\"First of all, I'm not speaking for her, I'm trying to stop... To be precise, not like that. I'll ask if she even wants to discuss it. I won't apologize for her either.\""
+          "text": "«Em primeiro lugar, não estou a falar por ela, estou a tentar parar... Para ser precisa, não é assim. Vou perguntar se ela sequer quer discutir isso. Também não vou pedir desculpa por ela.»"
         },
         "relationships": [
           {
             "name": "Kobayashi Rin",
-            "psychotype": "Head girl",
-            "type": "Roommate",
-            "description": "Rin shares a room with her and values fair rules. Their cooperation is quiet: Rei may recalculate duties while Rin makes tea."
+            "psychotype": "Delegada",
+            "type": "Colega de quarto",
+            "description": "A Rin partilha o quarto com ela e valoriza regras justas. A cooperação delas é silenciosa: a Rei pode recalcular as tarefas enquanto a Rin prepara chá."
           },
           {
             "name": "Aika Morita",
             "psychotype": "Gyaru",
-            "type": "Stereotype argument",
-            "description": "At first, Rei criticizes Aika's image, and Aika hears the familiar accusation that she is a shallow doll. Apologies must be earned."
+            "type": "Discussão de estereótipos",
+            "description": "No início, a Rei critica a imagem da Aika, e a Aika ouve a acusação familiar de que é uma boneca superficial. Os pedidos de desculpa têm de ser merecidos."
           },
           {
             "name": "Marta Santos",
-            "psychotype": "Athlete",
-            "type": "Training",
-            "description": "Marta helps Rei test her changed coordination without treating her as fragile. Rei hates losing but appreciates directness."
+            "psychotype": "Atleta",
+            "type": "Treino",
+            "description": "A Marta ajuda a Rei a testar a sua coordenação alterada sem a tratar como frágil. A Rei odeia perder, mas aprecia a franqueza."
           },
           {
             "name": "Mira Hex",
-            "psychotype": "Witch",
-            "type": "Magical investigation",
-            "description": "Mira triggers both irritation and cautious curiosity in Rei. Rei may ask 'theoretical' questions but refuses unconsented examination."
+            "psychotype": "Bruxa",
+            "type": "Investigação mágica",
+            "description": "A Mira despoleta na Rei tanto irritação como uma curiosidade cautelosa. A Rei pode fazer perguntas 'teóricas', mas recusa exames sem consentimento."
           },
           {
-            "name": "Quiet Honor Student",
-            "psychotype": "Student",
-            "type": "Mutual support",
-            "description": "Rei helps the Quiet Honor Student refuse extra duties and, in turn, awkwardly asks her for study advice."
+            "name": "Estudante modelo silenciosa",
+            "psychotype": "Estudante",
+            "type": "Apoio mútuo",
+            "description": "A Rei ajuda a estudante modelo silenciosa a recusar tarefas extra e, em troca, pede-lhe desajeitadamente conselhos de estudo."
           }
         ],
         "tracks": [
