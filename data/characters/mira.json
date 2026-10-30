@@ -62,7 +62,32 @@
       "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-10-late-night-notes.jpg"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/mira/Stir-It-Twice.mp3",
+      "cover": "assets/images/covers/mira/songs/Stir-It-Twice.png",
+      "title": "Stir It Twice",
+      "artist": "Mira Hex"
+    },
+    {
+      "src": "assets/audio/mira/No-Room-for-a-Lie.mp3",
+      "cover": "assets/images/covers/mira/songs/No-Room-for-a-Lie.png",
+      "title": "No Room for a Lie",
+      "artist": "Mira Hex"
+    },
+    {
+      "src": "assets/audio/mira/Light-Up-Your-Side.mp3",
+      "cover": "assets/images/covers/mira/songs/Light-Up-Your-Side.png",
+      "title": "Light Up Your Side",
+      "artist": "Mira Hex"
+    },
+    {
+      "src": "assets/audio/mira/Read-the-Label.mp3",
+      "cover": "assets/images/covers/mira/songs/Read-the-Label.png",
+      "title": "Read the Label",
+      "artist": "Mira Hex"
+    }
+  ],
   "relationships": [
     {
       "characterId": "lily"
