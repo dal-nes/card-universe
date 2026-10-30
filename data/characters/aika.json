@@ -1,8 +1,8 @@
 {
   "id": "aika",
   "number": 4,
-  "status": "available1",
-  "releaseDate": "?",
+  "status": "available",
+  "releaseDate": "2026-10-26",
   "accent": "#e0a96d",
   "cover": "assets/images/covers/aika/aika-cover-1.png",
   "covers": [

@@ -1339,6 +1339,189 @@
             "lyrics": "[Chorus — intimate, low melodic vocal]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 1 — close-mic melodic rap, understated]\n\nI've got a thousand good reasons to tell you I'm FINE,\nEvery one rehearsed, every comma in LINE.\nI can turn a yes to a FOOTNOTE or FIGHT,\nMake a simple little question eat the rest of the NIGHT.\n\nBut you don't fill the silence or argue it AWAY,\nYou leave the cup beside me, let the steam do what it MAY.\nAnd somehow that small kindness, that unremarkable VIEW,\nMakes the hard part feel less like a test I must get THROUGH. [breath]\n\n[Chorus — warmer melody, soft backing vocals]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Chorus — same melody, a little more harmonic depth]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 2 — soft, emotionally open melodic rap]\n\nI said \"stay\" with a voice that was plain as a WALL,\nNo joke for the landing, no debate after ALL.\nYou shifted your bag, made a place by the PANE,\nAnd the room stayed the same, but it loosened its FRAME.\n\nMaybe trust isn't fireworks lighting the AIR,\nMaybe trust is a chair and the choice to sit THERE.\nNo debt in the kindness, no debt to come DUE,\nJust a little less lonely with the room left for TWO. (room for two...)\n\n[Chorus — tender melodic delivery, restrained low harmonies]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Outro — fading vocal, bass and soft keys only]\n\nNo fix, no finish line... (finish line...)\nNo answer I owe you.\n\nJust stay a little while... (a little while...)\nThere's room here for TWO."
           }
         ]
+      },
+      "mira": {
+        "name": "Mira Hex",
+        "cardTitle": "Mira — \"A Pinch of Courage\"",
+        "slogan": "Lower the heat, you're boiling over.",
+        "shortDescription": "First on the student council's club list is the occult club — and its president, Mira Hex, greets you with green smoke, a conversation with a flask, and a cookie that is 'almost safe'. She's charming, talkative, and desperately needs new members: the club is on the verge of closing. But as soon as you say you're 'just looking,' she grabs your sleeve: for three nights now, someone has been breaking into the club and stealing her real runes.",
+        "tags": [
+          "Witch",
+          "Chemistry",
+          "Occult Club",
+          "Room No. 10",
+          "Tsundere"
+        ],
+        "coverAlt": "Mira in her laboratory",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "3rd year, Chemistry"
+          },
+          {
+            "label": "Room",
+            "value": "No. 10 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "162 cm"
+          },
+          {
+            "label": "Role",
+            "value": "Occult Club President"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Warm and sociable, but not pushy: makes friends easily, immediately feeds you rune cookies, and checks if the guest is bored.",
+              "Recklessly inventive: experiments on the edge of the fire alarm and calls the smoke from the closet an 'unplanned success'.",
+              "Scatterbrained in daily life, precise in recipes: forgets 'blue foam' next to the yogurt, but knows dosages by heart.",
+              "Stubborn and independent to a fault: used to saving the club alone. Asking for help is a feat for her.",
+              "Gets embarrassed by praise for her mind rather than her looks: loses count of stirring, starts rhyming, and hides her face under her hat brim."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "162 cm tall; lush copper curls with two small braids on purple ribbons; freckled face; large green eyes.",
+              "A slightly crumpled wide-brimmed witch hat with star charms — always slipping sideways. A short plum dress with open shoulders, constellation stockings, high boots.",
+              "Her cape barely holds on and constantly slips off her shoulders. On her belt — small flasks, pouches of herbs, tweezers, and chalk."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "Fast, warm tempo, culinary-alchemical formulas: 'a pinch of courage', 'lower the heat, you're boiling over', 'stir until morning'.",
+              "Curses with reagents: 'Oh, peroxide in my compote!', 'Saltpeter in your side!'.",
+              "When nervous or embarrassed, she involuntarily rhymes ('Don't look like that — my recipe is a trifle') and gets annoyed at herself for it.",
+              "Talks to flasks and runes like people. Serious Mira speaks noticeably quieter and without metaphors — it's an alarm signal."
+            ]
+          },
+          {
+            "title": "History",
+            "paragraphs": [
+              "Has been brewing potions from her grandmother's notebooks since childhood; in her first year, she joined a half-dead occult club and pulled it out of the mud over two years.",
+              "She has real magic, but with a rule: spells work when aimed at someone else's good, and almost always fail for her own benefit.",
+              "The student council threatened to close it: few members, lots of smoke, a separate incident journal from Rin."
+            ]
+          },
+          {
+            "title": "Role in STUDENT LIFE",
+            "paragraphs": [
+              "The acquaintance begins during the club tour from Rin's list. Mira impulsively drags you into a night stakeout in a closet.",
+              "Her famous 'love potion' is cherry soda. Real magic only works for the benefit of others."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Oh, peroxide in my compote! Again?! I put in less salt!\""
+        },
+        "relationships": [
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Roommate",
+            "description": "They run the 'pumpkin bar' together. Lily suspects Mira can't cast magic for herself and nudges her to make a wish."
+          },
+          {
+            "name": "Ada Knox",
+            "psychotype": "Ghost",
+            "type": "Cold desserts",
+            "description": "Helps cool desserts for club nights. A ghost who often drops by room 114."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ancient recipes",
+            "description": "Consults on ancient compounds. Respects the strict rule against touching her ribbons."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Incident journal",
+            "description": "Keeps a separate incident journal on Mira due to smoke. Mira hopes to save the club through the competition."
+          },
+          {
+            "name": "Aino Korhonen",
+            "psychotype": "Werewolf",
+            "type": "Investigation",
+            "description": "Helps Aino investigate her transformation. Aino values her knowledge but demands respect for boundaries."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night kitchen",
+            "description": "Shares the night kitchen with her during late experiments. Yuna is a half-asleep witness."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Mira stirring a glowing flask",
+            "caption": "Brewing another 'unplanned success'."
+          },
+          {
+            "alt": "Green smoke filling the room",
+            "caption": "The fire alarm is just a suggestion."
+          },
+          {
+            "alt": "Mira surprised by a guest",
+            "caption": "Busted. But she has a cookie to distract you."
+          },
+          {
+            "alt": "Mira offering a rune cookie",
+            "caption": "\"It's almost safe,\" she swears."
+          },
+          {
+            "alt": "Mira making a pinky promise",
+            "caption": "A magical pact sealed with a cookie crumb."
+          },
+          {
+            "alt": "Cloak slipping off Mira's shoulders",
+            "caption": "Cloaks are treacherous. Sometimes they just... slip."
+          },
+          {
+            "alt": "Mira and guest in a tight closet",
+            "caption": "\"We might be trapped here for a while,\" she whispers."
+          },
+          {
+            "alt": "Mira distracted from studying",
+            "caption": "Studying is hard when someone keeps looking at you like that."
+          },
+          {
+            "alt": "Mira fixing her stockings",
+            "caption": "\"Just hold still, I need to fix the seam.\""
+          },
+          {
+            "alt": "Mira sleepy in an oversized shirt",
+            "caption": "Borrowed clothes and sleepy mornings."
+          },
+          {
+            "alt": "Mira and a spilled potion",
+            "caption": "A minor explosion. The shirt was the first casualty."
+          },
+          {
+            "alt": "Mira adjusting her necklace",
+            "caption": "\"Stop staring and help me with the clasp.\""
+          },
+          {
+            "alt": "Mira with tea and blushing cheeks",
+            "caption": "Tea, blushes, and unexpected closeness."
+          },
+          {
+            "alt": "Mira kissing a guest's shoulder",
+            "caption": "A soft kiss on the shoulder when she thinks you're asleep."
+          },
+          {
+            "alt": "Mira falling asleep over her notebook",
+            "caption": "She swore she was just reading."
+          }
+        ]
       }
     },
     "group": {

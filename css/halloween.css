@@ -1,0 +1,320 @@
+/* ============================================================
+   HALLOWEEN OVERLAY — праздничные украшения STUDENT LIFE
+   Слой не перехватывает клики и не ломает темы/палитры сайта.
+   ============================================================ */
+
+.hw-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+}
+
+.hw-layer[hidden] {
+  display: none;
+}
+
+/* ---------- Лёгкая «ночная» виньетка по краям ---------- */
+.hw-vignette {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 38%, transparent 58%, rgba(26, 10, 46, 0.16) 100%);
+}
+html[data-theme="dark"] .hw-vignette {
+  background: radial-gradient(ellipse at 50% 38%, transparent 55%, rgba(8, 3, 18, 0.38) 100%);
+}
+
+/* ---------- Луна ---------- */
+.hw-moon {
+  position: absolute;
+  top: 4.6rem;
+  right: clamp(1rem, 7vw, 7rem);
+  width: clamp(52px, 7vw, 92px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle at 36% 34%, #fffbe8 0%, #f9e39a 46%, #eec76a 78%, #dca94e 100%);
+  box-shadow:
+    0 0 26px 6px rgba(255, 224, 140, 0.38),
+    0 0 90px 26px rgba(255, 200, 90, 0.16);
+  opacity: 0.9;
+  animation: hw-moon-glow 7s ease-in-out infinite;
+}
+.hw-moon::before,
+.hw-moon::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(190, 150, 70, 0.35);
+}
+.hw-moon::before {
+  width: 22%;
+  height: 22%;
+  left: 30%;
+  top: 48%;
+  box-shadow: 1.6em -1.1em 0 -0.35em rgba(190, 150, 70, 0.3);
+}
+.hw-moon::after {
+  width: 13%;
+  height: 13%;
+  left: 58%;
+  top: 30%;
+}
+@keyframes hw-moon-glow {
+  0%, 100% { box-shadow: 0 0 26px 6px rgba(255, 224, 140, 0.38), 0 0 90px 26px rgba(255, 200, 90, 0.16); }
+  50%      { box-shadow: 0 0 34px 9px rgba(255, 224, 140, 0.5),  0 0 110px 34px rgba(255, 200, 90, 0.22); }
+}
+
+/* ---------- Паутины по углам ---------- */
+.hw-web {
+  position: absolute;
+  width: clamp(110px, 17vw, 240px);
+  height: auto;
+  color: rgba(74, 58, 92, 0.34);
+  animation: hw-web-shimmer 9s ease-in-out infinite;
+}
+html[data-theme="dark"] .hw-web {
+  color: rgba(228, 220, 246, 0.30);
+}
+.hw-web--tl { top: 0; left: 0; }
+.hw-web--tr { top: 0; right: 0; transform: scaleX(-1); }
+.hw-web--bl { bottom: 0; left: 0; transform: scaleY(-1); animation-delay: -3s; }
+.hw-web--br { bottom: 0; right: 0; transform: scale(-1); animation-delay: -6s; }
+@keyframes hw-web-shimmer {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.72; }
+}
+
+/* ---------- Пауки на нитях ---------- */
+.hw-spider {
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgba(46, 36, 60, 0.85);
+}
+html[data-theme="dark"] .hw-spider {
+  color: rgba(20, 14, 30, 0.95);
+}
+.hw-spider__thread {
+  width: 2px;
+  height: var(--hw-thread, 110px);
+  background: linear-gradient(to bottom, transparent, currentColor 22%);
+  opacity: 0.55;
+}
+.hw-spider svg {
+  width: clamp(30px, 3.4vw, 46px);
+  height: auto;
+  margin-top: -2px;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.25));
+}
+.hw-spider--left {
+  left: clamp(6rem, 17vw, 19rem);
+  animation: hw-spider-bob 6.5s ease-in-out infinite;
+}
+.hw-spider--right {
+  right: clamp(5rem, 24vw, 26rem);
+  animation: hw-spider-drop 24s ease-in-out infinite;
+}
+.hw-spider--right .hw-spider__thread {
+  animation: hw-thread-drop 24s ease-in-out infinite;
+}
+@keyframes hw-spider-bob {
+  0%, 100% { transform: translateY(0) rotate(-2deg); }
+  50%      { transform: translateY(12px) rotate(2.5deg); }
+}
+/* Паук периодически спускается вниз и поднимается обратно */
+@keyframes hw-spider-drop {
+  0%, 55%   { transform: translateY(0); }
+  68%, 80%  { transform: translateY(30vh); }
+  96%, 100% { transform: translateY(0); }
+}
+@keyframes hw-thread-drop {
+  0%, 55%   { height: var(--hw-thread, 110px); }
+  68%, 80%  { height: calc(var(--hw-thread, 110px) + 30vh); }
+  96%, 100% { height: var(--hw-thread, 110px); }
+}
+
+/* ---------- Тыквы со светящимися мордашками ---------- */
+.hw-pumpkin {
+  position: absolute;
+  bottom: -8px;
+  filter: drop-shadow(0 6px 10px rgba(30, 10, 0, 0.3));
+}
+.hw-pumpkin svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.hw-pumpkin--left {
+  left: clamp(0.4rem, 2vw, 2rem);
+  width: clamp(84px, 10vw, 150px);
+}
+.hw-pumpkin--left-small {
+  left: clamp(5.4rem, 11vw, 11.5rem);
+  width: clamp(56px, 6.6vw, 96px);
+  transform: rotate(5deg);
+}
+.hw-pumpkin--right {
+  right: clamp(3.6rem, 6vw, 5.6rem);
+  width: clamp(66px, 7.6vw, 112px);
+  transform: rotate(-4deg);
+}
+/* Мерцание свечи внутри тыквы */
+.hw-pumpkin .hw-face {
+  fill: #ffd968;
+  filter: drop-shadow(0 0 7px rgba(255, 190, 70, 0.95)) drop-shadow(0 0 18px rgba(255, 140, 30, 0.55));
+  animation: hw-flicker 4.2s linear infinite;
+}
+.hw-pumpkin--left-small .hw-face { animation-delay: -1.7s; animation-duration: 3.6s; }
+.hw-pumpkin--right .hw-face { animation-delay: -2.9s; animation-duration: 5s; }
+@keyframes hw-flicker {
+  0%, 100% { opacity: 1; }
+  38%      { opacity: 0.95; }
+  41%      { opacity: 0.55; }
+  44%      { opacity: 0.95; }
+  58%      { opacity: 0.8; }
+  62%      { opacity: 1; }
+  83%      { opacity: 0.65; }
+  86%      { opacity: 1; }
+}
+
+/* ---------- Летучие мыши ---------- */
+.hw-bat {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: clamp(46px, 5.4vw, 78px);
+  color: #2b2033;
+  will-change: transform;
+}
+html[data-theme="dark"] .hw-bat {
+  color: #57456e;
+}
+.hw-bat svg {
+  width: 100%;
+  height: auto;
+  overflow: visible;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
+}
+.hw-bat .hw-wing-l,
+.hw-bat .hw-wing-r {
+  transform-box: fill-box;
+  animation: hw-flap 0.46s ease-in-out infinite alternate;
+}
+.hw-bat .hw-wing-l { transform-origin: 100% 50%; }
+.hw-bat .hw-wing-r { transform-origin: 0% 50%; }
+@keyframes hw-flap {
+  from { transform: scaleY(1); }
+  to   { transform: scaleY(0.32); }
+}
+.hw-bat--1 { animation: hw-fly-1 17s linear infinite; }
+.hw-bat--2 {
+  width: clamp(34px, 4vw, 58px);
+  animation: hw-fly-2 23s linear infinite;
+  animation-delay: -8s;
+}
+.hw-bat--3 {
+  width: clamp(40px, 4.6vw, 66px);
+  animation: hw-fly-3 20s linear infinite;
+  animation-delay: -14s;
+}
+.hw-bat--3 svg { transform: scaleX(-1); }
+@keyframes hw-fly-1 {
+  0%   { transform: translate(-12vw, 16vh) rotate(4deg); }
+  25%  { transform: translate(20vw, 9vh)  rotate(-5deg); }
+  50%  { transform: translate(52vw, 20vh) rotate(5deg); }
+  75%  { transform: translate(80vw, 11vh) rotate(-4deg); }
+  100% { transform: translate(114vw, 18vh) rotate(3deg); }
+}
+@keyframes hw-fly-2 {
+  0%   { transform: translate(-14vw, 34vh) rotate(-3deg); }
+  30%  { transform: translate(28vw, 26vh) rotate(6deg); }
+  55%  { transform: translate(58vw, 36vh) rotate(-6deg); }
+  80%  { transform: translate(86vw, 27vh) rotate(4deg); }
+  100% { transform: translate(116vw, 33vh) rotate(-3deg); }
+}
+@keyframes hw-fly-3 {
+  0%   { transform: translate(112vw, 8vh)  rotate(-4deg); }
+  25%  { transform: translate(76vw, 17vh)  rotate(5deg); }
+  50%  { transform: translate(46vw, 7vh)   rotate(-5deg); }
+  75%  { transform: translate(18vw, 15vh)  rotate(4deg); }
+  100% { transform: translate(-14vw, 9vh)  rotate(-3deg); }
+}
+
+/* ---------- Призрак ---------- */
+.hw-ghost {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: clamp(44px, 4.6vw, 68px);
+  opacity: 0.55;
+  animation: hw-ghost-drift 30s ease-in-out infinite;
+}
+.hw-ghost svg {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 4px 10px rgba(90, 70, 140, 0.35));
+}
+@keyframes hw-ghost-drift {
+  0%   { transform: translate(6vw, 72vh) rotate(-4deg); opacity: 0; }
+  8%   { opacity: 0.55; }
+  30%  { transform: translate(16vw, 56vh) rotate(4deg); }
+  55%  { transform: translate(10vw, 40vh) rotate(-3deg); }
+  80%  { transform: translate(20vw, 26vh) rotate(3deg); opacity: 0.55; }
+  96%  { opacity: 0; }
+  100% { transform: translate(14vw, 18vh) rotate(0deg); opacity: 0; }
+}
+
+/* ---------- Кнопка переключения режима ---------- */
+.hw-toggle {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 190;
+  display: grid;
+  place-items: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  box-shadow: 0 8px 22px -8px var(--shadow);
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+.hw-toggle:hover {
+  transform: translateY(-2px) scale(1.06);
+  box-shadow: 0 12px 26px -8px var(--shadow);
+}
+.hw-toggle[aria-pressed="false"] {
+  opacity: 0.55;
+  filter: grayscale(0.8);
+}
+.hw-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* ---------- Мобильная адаптация ---------- */
+@media (max-width: 640px) {
+  .hw-moon { top: 5rem; }
+  .hw-ghost { display: none; }
+  .hw-bat--2 { display: none; }
+  .hw-web { width: clamp(88px, 24vw, 130px); }
+  .hw-spider--right { display: none; }
+  .hw-pumpkin--left-small { display: none; }
+}
+
+/* ---------- Уважение к reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .hw-layer *,
+  .hw-layer *::before,
+  .hw-layer *::after {
+    animation: none !important;
+  }
+}

@@ -146,6 +146,10 @@
     {
       "id": "rei",
       "file": "data/characters/rei.json"
+    },
+    {
+      "id": "mira",
+      "file": "data/characters/mira.json"
     }
   ],
   "group": "data/group.json"

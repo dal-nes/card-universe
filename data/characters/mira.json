@@ -1,0 +1,86 @@
+{
+  "id": "mira",
+  "number": 9,
+  "status": "available",
+  "releaseDate": "2026-10-30",
+  "accent": "#9b59b6",
+  "cover": "assets/images/covers/mira/mira-hex-cover-sfw-tuned.jpg",
+  "covers": [
+    "assets/images/covers/mira/mira-hex-cover-sfw-tuned.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-01-warm-welcome.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-02-alchemy-focus.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-03-blushing-flustered.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-04-cozy-late-night.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-05-mischievous-witch.jpg",
+    "assets/images/covers/mira/mira-hex-avatar-sfw-06-surprised-puff.jpg"
+  ],
+  "chatUrl": "",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/mira/mira-hex-scene-sfw-02-stirring-flask.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-scene-sfw-03-green-smoke.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-scene-sfw-04-caught-guest.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-scene-sfw-05-cookie-offer.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-scene-sfw-06-pinky-promise.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-01-sliding-cloak.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-02-tight-closet.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-03-desk-distraction.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-04-fixing-stocking.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-05-sleepy-oversized.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-06-potion-spill.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-07-necklace-adjustment.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-08-blushing-tease.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-09-shoulder-kiss.jpg"
+    },
+    {
+      "src": "assets/images/gallery/mira/mira-hex-nsfw-gallery-10-late-night-notes.jpg"
+    }
+  ],
+  "tracks": [],
+  "relationships": [
+    {
+      "characterId": "lily"
+    },
+    {
+      "characterId": "ada"
+    },
+    {
+      "characterId": "nefera"
+    },
+    {
+      "characterId": "rin"
+    },
+    {
+      "characterId": "aino"
+    },
+    {
+      "characterId": "yuna"
+    }
+  ]
+}

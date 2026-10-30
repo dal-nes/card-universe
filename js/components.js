@@ -241,7 +241,7 @@ window.SL = window.SL || {};
     const cover = el("div", { class: "char-card__cover" });
     
     // Добавляем значок Хэллоуина для Айки, Лили и Неферы
-    if (["aika", "lily", "nefera", "aino"].includes(character.id)) {
+    if (["aika", "lily", "nefera", "aino", "mira"].includes(character.id)) {
       cover.append(el("img", {
         class: "char-card__halloween",
         attrs: { src: "assets/images/badges/Halloween.webp", alt: "Halloween" }
