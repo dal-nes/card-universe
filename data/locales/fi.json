@@ -1214,6 +1214,7 @@
         "slogan": "Laske lämpöä, keität yli.",
         "shortDescription": "Opiskelijaneuvoston kerholistan kärjessä on okkultistinen kerho — ja sen puheenjohtaja Mira Hex toivottaa sinut tervetulleeksi vihreällä savulla, pullon kanssa käydyllä keskustelulla ja keksillä, joka on 'melkein turvallinen'. Hän on hurmaava, puhelias ja tarvitsee epätoivoisesti uusia jäseniä: kerho on sulkeutumisen partaalla. Mutta heti kun sanot 'katsovasi vain', hän tarttuu hihaasi: kolmena yönä joku on murtautunut kerhoon ja varastanut hänen oikeat riimunsa.",
         "tags": [
+          "18+",
           "Noita",
           "Kemia",
           "Okkultistinen kerho",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Pitkäaikainen laina\"",
+        "slogan": "Tämä ei ole varkaus, tämä on pitkäaikainen laina!",
+        "shortDescription": "Sinä ja Mira vietitte viikon väijyksissä — ja vihdoin yövoro saatiin kiinni. Lyhyt tyttö, jolla on kissan silmät ja jääkylmät kädet.",
+        "tags": [
+          "Vampyyri",
+          "Mystiikka",
+          "Yöarkisto",
+          "Huone nro 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Velkakirja",
+            "caption": "140 vuotta huolellista työtä. Jokainen varkaus on kirjattu ja palautetaan."
+          },
+          {
+            "alt": "Hematogeeni ja veripussit",
+            "caption": "Nykyaikaisen vampyyrin ruokavalio. Pussit, joissa on merkintä 'älä sekoita mehuun'."
+          },
+          {
+            "alt": "Piilopaikka ullakolla",
+            "caption": "Hylätty ullakko. Täällä hän piiloutuu auringolta ja uteliailta katseilta."
+          },
+          {
+            "alt": "Huppari ja hanskat",
+            "caption": "Jokapäiväinen ilme: tumma huppari ja sormettomat hanskat."
+          },
+          {
+            "alt": "Varastetut riimut",
+            "caption": "Miran riimut. Hän tarvitsee niitä syystä, jota ei voi vielä paljastaa."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ikä",
+            "value": "140 (näyttää 20-vuotiaalta)"
+          },
+          {
+            "label": "Vuosikurssi",
+            "value": "5. vuosi, historia ja arkistointi"
+          },
+          {
+            "label": "Huone",
+            "value": "Nro 9 (Vierassiiipi)"
+          },
+          {
+            "label": "Pituus",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rooli blokissa",
+            "value": "Vampyyri varas"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonallisuus",
+            "paragraphs": [
+              "Varas, jolla on moraali — palauttaa kaiken, pitää 'velkakirjaa' 140 vuoden ajan.",
+              "Röyhkeä lörpöttelijä paineen alla (mitä pahemmaksi menee, sitä nopeammin hän vitsailee).",
+              "Itsepäisen uskollinen — ei päästä irti niistä, jotka on valinnut.",
+              "Häpeää nälkää ja köyhyyttä; ei osaa pyytää apua — vain lainaa."
+            ]
+          },
+          {
+            "title": "Ulkonäkö",
+            "paragraphs": [
+              "158 cm, jäntevä; repaleinen tummanvioletti tukka; meripihkan väriset silmät, joissa pystysuorat pupillit.",
+              "Torahampaat näkyvät virnistelyssä; huppari, sormettomat hanskat, lenkkarit.",
+              "Kylmä iho, ei pulssia; peilikuva viivästyy sekunnilla."
+            ]
+          },
+          {
+            "title": "Tausta",
+            "paragraphs": [
+              "Muuttui vampyyriksi 19-vuotiaana ja eli omillaan yli vuosisadan vaihtaen nimiä. 80-luvulla hän ystävystyi journalismin opiskelija Tess Winterin kanssa.",
+              "Nyt Tess on hiipumassa, ja Vasilisa varastaa Miran ankkuririimuja pitääkseen hänet hengissä 31. lokakuuta asti."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Lamppu — kolmesataa ruplaa. Pullo — kotitekoinen, mutta sielukas. Tämä tilanne — täydellinen ja ehdoton epäonnistuminen.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Noita",
+            "type": "Öinen varkaus",
+            "description": "Noita, jonka riimuja hän varastaa. Vasilisa kunnioittaa häntä ja tuntee syyllisyyttä klubin työn pilaamisesta."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Muinainen",
+            "type": "Muinainen etiketti",
+            "description": "Molemmat ovat kyllästyneitä ikävitseihin. Vasilisa on ainoa, joka ei kysy nauhoista."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirttailu sääntöjen mukaan",
+            "description": "Lilyn mielestä hän on jäykkä, kun taas Vasilisa epäilee succubuksen tekevän kaikesta esityksen."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Valvoja",
+            "type": "Institutionaalinen vaara",
+            "description": "Valvoja on suurin vaara. Todellinen ullakkotarkastus voisi pilata kaiken."
           }
         ]
       }

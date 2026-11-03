@@ -1214,6 +1214,7 @@
         "slogan": "火を弱めて、沸騰してるよ。",
         "shortDescription": "生徒会のクラブリストの一番上にあるのはオカルトクラブだ。その会長であるミラ・ヘックスは、緑の煙とフラスコとの会話、そして「ほぼ安全」なクッキーで君を迎える。彼女は魅力的でおしゃべりで、新しい部員を必死に必要としている。クラブは閉鎖の危機にあるのだ。しかし君が「ただ見ているだけ」と言った途端、彼女は君の袖を掴む。三晩前から、誰かがクラブに侵入し、彼女の本物のルーン文字を盗んでいるのだ。",
         "tags": [
+          "18+",
           "魔女",
           "化学",
           "オカルトクラブ",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "ヴァシリサ・フォン・ヴェルド",
+        "cardTitle": "ヴァシリサ — 「長期貸付」",
+        "slogan": "これは盗みじゃない、長期貸付だ！",
+        "shortDescription": "あなたとミラは一週間待ち伏せして、ついに夜の泥棒を捕まえた。猫のような目と氷のように冷たい手を持つ小柄な少女。",
+        "tags": [
+          "吸血鬼",
+          "ミステリアス",
+          "夜のアーカイブ",
+          "9号室"
+        ],
+        "coverAlt": "ヴァシリサ・フォン・ヴェルド",
+        "gallery": [
+          {
+            "alt": "借金の台帳",
+            "caption": "140年にわたる几帳面な仕事。すべての盗みが記録され、返却される。"
+          },
+          {
+            "alt": "ヘマトゲンと血液パック",
+            "caption": "現代の吸血鬼の食事。『ジュースと間違えないで』と書かれたパック。"
+          },
+          {
+            "alt": "屋根裏の隠れ家",
+            "caption": "廃墟の屋根裏。ここで太陽と詮索好きな目から身を隠している。"
+          },
+          {
+            "alt": "パーカーと手袋",
+            "caption": "普段の姿：暗い色のパーカーと指なし手袋。"
+          },
+          {
+            "alt": "盗まれたルーン",
+            "caption": "ミラのルーン。まだ明かせない理由で必要としている。"
+          }
+        ],
+        "facts": [
+          {
+            "label": "年齢",
+            "value": "140歳（20歳に見える）"
+          },
+          {
+            "label": "学年",
+            "value": "5年生、歴史・アーカイブ学科"
+          },
+          {
+            "label": "部屋",
+            "value": "9号室（ゲストウィング）"
+          },
+          {
+            "label": "身長",
+            "value": "158 cm"
+          },
+          {
+            "label": "ブロックでの役割",
+            "value": "吸血鬼の泥棒"
+          }
+        ],
+        "sections": [
+          {
+            "title": "性格",
+            "paragraphs": [
+              "道徳心を持つ泥棒 — すべてを返却し、140年間「借金の台帳」をつけている。",
+              "プレッシャーがかかると図々しい早口になる（状況が悪化するほど、ジョークが速くなる）。",
+              "頑固なまでに忠実 — 選んだ相手を決して手放さない。",
+              "飢えと貧しさを恥じている。助けを求めることができない — 借りることしかできない。"
+            ]
+          },
+          {
+            "title": "外見",
+            "paragraphs": [
+              "158 cm、細身。ボサボサの暗い紫色の髪。縦長の瞳孔を持つ琥珀色の目。",
+              "ニヤリと笑うと牙が見える。パーカー、指なし手袋、スニーカー。",
+              "冷たい肌、脈拍なし。鏡の反射は1秒遅れる。"
+            ]
+          },
+          {
+            "title": "背景",
+            "paragraphs": [
+              "19歳で吸血鬼になり、名前を変えながら1世紀以上を一人で生きた。80年代にジャーナリズム専攻のテス・ウィンターと友達になった。",
+              "今、テスは消えつつあり、ヴァシリサは10月31日まで彼女を維持するためにミラのアンカールーンを盗んでいる。"
+            ]
+          }
+        ],
+        "quote": {
+          "text": "「ランプは300ルーブル。フラスコは手作りだが、味がある。この状況は完全かつ無条件の失敗だ。」"
+        },
+        "relationships": [
+          {
+            "name": "ミラ・ヘックス",
+            "psychotype": "魔女",
+            "type": "夜の盗み",
+            "description": "ルーンを盗んでいる魔女。ヴァシリサは彼女を尊敬しており、クラブの仕事を台無しにしていることに罪悪感を感じている。"
+          },
+          {
+            "name": "ネフェラ・サフラ",
+            "psychotype": "古代人",
+            "type": "古代のエチケット",
+            "description": "二人とも年齢に関するジョークにうんざりしている。ヴァシリサはリボンについて尋ねない唯一の人物。"
+          },
+          {
+            "name": "リリア「リリィ」アッシャー",
+            "psychotype": "サキュバス",
+            "type": "ルールに従ったフリルト",
+            "description": "リリィは彼女を堅苦しいと思っているが、ヴァシリサはサキュバスがすべてをパフォーマンスに変えていると疑っている。"
+          },
+          {
+            "name": "小林 凛",
+            "psychotype": "寮長",
+            "type": "制度的な危険",
+            "description": "寮長が最大の危険人物。屋根裏の本当の視察はすべてを台無しにする可能性がある。"
           }
         ]
       }

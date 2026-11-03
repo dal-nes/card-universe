@@ -150,6 +150,10 @@
     {
       "id": "mira",
       "file": "data/characters/mira.json"
+    },
+    {
+      "id": "vasilisa",
+      "file": "data/characters/vasilisa.json"
     }
   ],
   "group": "data/group.json"

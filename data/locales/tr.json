@@ -1214,6 +1214,7 @@
         "slogan": "Ateşi kıs, taşıyorsun.",
         "shortDescription": "Öğrenci konseyi kulüp listesinin ilk sırasında okült kulübü var - ve başkanı Mira Hex sizi yeşil dumanla, bir şişeyle sohbet ederek ve 'neredeyse güvenli' bir kurabiyeyle karşılıyor. Büyüleyici, konuşkan ve yeni üyelere umutsuzca ihtiyacı var: kulüp kapanmanın eşiğinde. Ama 'sadece bakıyorum' dediğiniz anda kolunuzu tutuyor: üç gecedir birileri kulübe girip onun gerçek rünlerini çalıyor.",
         "tags": [
+          "18+",
           "Cadı",
           "Kimya",
           "Okült Kulübü",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Uzun Vadeli Kredi\"",
+        "slogan": "Bu hırsızlık değil, uzun vadeli bir kredi!",
+        "shortDescription": "Sen ve Mira bir hafta pusuda beklediniz — ve sonunda gece hırsızı yakalandı. Kedi gözlü ve buz gibi ellere sahip kısa boylu bir kız.",
+        "tags": [
+          "Vampir",
+          "Mistik",
+          "Gece Arşivi",
+          "Oda No. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Borç defteri",
+            "caption": "140 yıllık titiz çalışma. Her hırsızlık kaydedildi ve iade edilecek."
+          },
+          {
+            "alt": "Hematogen ve kan torbaları",
+            "caption": "Modern bir vampirin diyeti. 'Meyve suyuyla karıştırmayın' etiketli torbalar."
+          },
+          {
+            "alt": "Tavan arası sığınağı",
+            "caption": "Terk edilmiş tavan arası. Burada güneşten ve meraklı bakışlardan saklanıyor."
+          },
+          {
+            "alt": "Kapüşonlu ve eldivenler",
+            "caption": "Günlük görünüm: koyu renkli bir kapüşonlu ve parmaksız eldivenler."
+          },
+          {
+            "alt": "Çalınan rünler",
+            "caption": "Mira'nın rünleri. Henüz açıklayamadığı bir nedenle onlara ihtiyacı var."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Yaş",
+            "value": "140 (20 gibi görünüyor)"
+          },
+          {
+            "label": "Sınıf",
+            "value": "5. sınıf, Tarih ve Arşiv"
+          },
+          {
+            "label": "Oda",
+            "value": "No. 9 (Misafir Kanadı)"
+          },
+          {
+            "label": "Boy",
+            "value": "158 cm"
+          },
+          {
+            "label": "Bloktaki rolü",
+            "value": "Vampir hırsız"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kişilik",
+            "paragraphs": [
+              "Ahlaklı bir hırsız — her şeyi iade eder, 140 yıldır bir 'borç defteri' tutar.",
+              "Baskı altında küstahça gevezelik eder (durum ne kadar kötüleşirse, o kadar hızlı şaka yapar).",
+              "İnatçı derecede sadık — seçtiği kişileri bırakmaz.",
+              "Açlıktan ve yoksulluktan utanır; nasıl yardım isteyeceğini bilmez — sadece ödünç alır."
+            ]
+          },
+          {
+            "title": "Görünüm",
+            "paragraphs": [
+              "158 cm, sıska; dağınık koyu mor saçlar; dikey gözbebekleri olan kehribar rengi gözler.",
+              "Sırıtışında köpek dişleri görünür; kapüşonlu, parmaksız eldivenler, spor ayakkabılar.",
+              "Soğuk cilt, nabız yok; aynadaki yansıma bir saniye gecikir."
+            ]
+          },
+          {
+            "title": "Geçmiş",
+            "paragraphs": [
+              "19 yaşında dönüştü ve bir asırdan fazla bir süre yalnız yaşadı, isim değiştirdi. 80'lerde gazetecilik öğrencisi Tess Winter ile arkadaş oldu.",
+              "Şimdi Tess soluyor ve Vasilisa, onu 31 Ekim'e kadar hayatta tutmak için Mira'nın çapa rünlerini çalıyor."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Lamba — üç yüz ruble. Şişe — ev yapımı ama ruhu var. Bu durum — tam ve koşulsuz bir başarısızlık.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Cadı",
+            "type": "Gece hırsızlığı",
+            "description": "Rünlerini çaldığı cadı. Vasilisa ona saygı duyuyor ve kulübün işini mahvettiği için suçluluk duyuyor."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kadim",
+            "type": "Kadim görgü",
+            "description": "İkisi de yaş şakalarından bıkmış durumda. Vasilisa kurdeleler hakkında soru sormayan tek kişi."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Kurallara göre flört",
+            "description": "Lily onu katı buluyor, Vasilisa ise succubus'un her şeyi bir gösteriye dönüştürdüğünden şüpheleniyor."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Kat görevlisi",
+            "type": "Kurumsal tehlike",
+            "description": "Kat görevlisi en büyük tehlike. Tavan arasında yapılacak gerçek bir teftiş her şeyi mahvedebilir."
           }
         ]
       }

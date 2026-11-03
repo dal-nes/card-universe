@@ -1214,6 +1214,7 @@
         "slogan": "Zet het vuur lager, je kookt over.",
         "shortDescription": "Bovenaan de lijst met clubs van de studentenraad staat de occulte club - en haar voorzitter, Mira Hex, begroet je met groene rook, een gesprek met een kolf en een koekje dat 'bijna veilig' is. Ze is charmant, praatgraag en heeft dringend nieuwe leden nodig: de club staat op het punt te sluiten. Maar zodra je zegt dat je 'alleen maar kijkt', grijpt ze je mouw: al drie nachten breekt iemand in bij de club en steelt haar echte runen.",
         "tags": [
+          "18+",
           "Heks",
           "Scheikunde",
           "Occulte Club",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"De Langlopende Lening\"",
+        "slogan": "Dit is geen diefstal, dit is een langlopende lening!",
+        "shortDescription": "Jij en Mira brachten een week door in een hinderlaag — en eindelijk werd de nachtdief gepakt. Een klein meisje met kattenogen en ijskoude handen.",
+        "tags": [
+          "Vampier",
+          "Mystiek",
+          "Nachtarchief",
+          "Kamer nr. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Schuldenboek",
+            "caption": "140 jaar nauwgezet werk. Elke diefstal wordt geregistreerd en zal worden teruggegeven."
+          },
+          {
+            "alt": "Hematogeen en bloedzakken",
+            "caption": "Het dieet van een moderne vampier. Zakken met het label 'niet verwarren met sap'."
+          },
+          {
+            "alt": "Schuilplaats op zolder",
+            "caption": "De verlaten zolder. Hier verbergt ze zich voor de zon en nieuwsgierige blikken."
+          },
+          {
+            "alt": "Hoodie en handschoenen",
+            "caption": "Dagelijkse look: een donkere hoodie en vingerloze handschoenen."
+          },
+          {
+            "alt": "Gestolen runen",
+            "caption": "Mira's runen. Ze heeft ze nodig om een reden die ze nog niet kan onthullen."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Leeftijd",
+            "value": "140 (ziet er 20 uit)"
+          },
+          {
+            "label": "Jaar",
+            "value": "5e jaar, Geschiedenis & Archieven"
+          },
+          {
+            "label": "Kamer",
+            "value": "Nr. 9 (Gastenverblijf)"
+          },
+          {
+            "label": "Lengte",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rol in het blok",
+            "value": "Vampierendief"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persoonlijkheid",
+            "paragraphs": [
+              "Een dief met moraal — geeft alles terug, houdt 140 jaar lang een 'schuldenboek' bij.",
+              "Brutale praatjes onder druk (hoe erger het wordt, hoe sneller ze grappen maakt).",
+              "Koppig loyaal — laat degenen die ze heeft gekozen niet los.",
+              "Schaamt zich voor honger en armoede; weet niet hoe ze om hulp moet vragen — leent alleen."
+            ]
+          },
+          {
+            "title": "Uiterlijk",
+            "paragraphs": [
+              "158 cm, pezig; warrig donkerpaars haar; amberkleurige ogen met verticale pupillen.",
+              "Hoektanden zichtbaar in een grijns; hoodie, vingerloze handschoenen, sneakers.",
+              "Koude huid, geen pols; de weerkaatsing in spiegels loopt een seconde achter."
+            ]
+          },
+          {
+            "title": "Achtergrond",
+            "paragraphs": [
+              "Veranderd op 19-jarige leeftijd en leefde meer dan een eeuw alleen, waarbij ze van naam veranderde. In de jaren 80 raakte ze bevriend met journalisiekstudente Tess Winter.",
+              "Nu vervaagt Tess, en Vasilisa steelt Mira's ankerrunen om haar tot 31 oktober in leven te houden."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"De lamp — driehonderd roebel. De flacon — handgemaakt, maar met ziel. Deze situatie — een complete en onvoorwaardelijke mislukking.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Heks",
+            "type": "Nachtelijke diefstal",
+            "description": "De heks wiens runen ze steelt. Vasilisa respecteert haar en voelt zich schuldig over het verpesten van het werk van de club."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Oeroud",
+            "type": "Oeroude etiquette",
+            "description": "Beiden zijn de leeftijdsgrappen beu. Vasilisa is de enige die niet naar de linten vraagt."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirten volgens regels",
+            "description": "Lily vindt haar stijf, terwijl Vasilisa vermoedt dat de succubus alles in een voorstelling verandert."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Hoofdmeisje",
+            "type": "Institutioneel gevaar",
+            "description": "Het hoofdmeisje is het grootste gevaar. Een echte zolderinspectie kan alles verpesten."
           }
         ]
       }

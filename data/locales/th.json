@@ -1214,6 +1214,7 @@
         "slogan": "ลดไฟลงหน่อย เธอกำลังเดือดแล้ว",
         "shortDescription": "อันดับแรกในรายชื่อชมรมของสภานักเรียนคือชมรมไสยศาสตร์ — และประธานชมรมของมัน มิร่า เฮกซ์ ก็ต้อนรับคุณด้วยควันสีเขียว บทสนทนากับขวดแก้ว และคุกกี้ที่ 'เกือบจะปลอดภัย' เธอมีเสน่ห์ ช่างพูด และต้องการสมาชิกใหม่เป็นอย่างมาก เพราะชมรมกำลังจะปิดตัวลง แต่ทันทีที่คุณบอกว่า 'แค่มาเดินดู' เธอก็คว้าแขนเสื้อคุณไว้ เพราะสามคืนแล้วที่มีคนบุกเข้ามาในชมรมและขโมยรูนจริงของเธอไป",
         "tags": [
+          "18+",
           "แม่มด",
           "เคมี",
           "ชมรมไสยศาสตร์",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "วาซิลิซา ฟอน เวลด์",
+        "cardTitle": "วาซิลิซา — \"เงินกู้ระยะยาว\"",
+        "slogan": "นี่ไม่ใช่การขโมย มันคือเงินกู้ระยะยาว!",
+        "shortDescription": "คุณและมีร่าซุ่มโจมตีมาหนึ่งสัปดาห์ — และในที่สุดขโมยยามค่ำคืนก็ถูกจับได้ เด็กสาวตัวเล็กที่มีดวงตาสีแมวและมือที่เย็นยะเยือก",
+        "tags": [
+          "แวมไพร์",
+          "ลึกลับ",
+          "หอจดหมายเหตุกลางคืน",
+          "ห้องหมายเลข 9"
+        ],
+        "coverAlt": "วาซิลิซา ฟอน เวลด์",
+        "gallery": [
+          {
+            "alt": "สมุดบัญชีหนี้สิน",
+            "caption": "140 ปีแห่งการทำงานอย่างพิถีพิถัน การโจรกรรมทุกครั้งถูกบันทึกไว้และจะถูกส่งคืน"
+          },
+          {
+            "alt": "ฮีมาโตเจนและถุงเลือด",
+            "caption": "อาหารของแวมไพร์ยุคใหม่ ถุงที่ติดป้ายว่า 'ห้ามสับสนกับน้ำผลไม้'"
+          },
+          {
+            "alt": "ที่ซ่อนในห้องใต้หลังคา",
+            "caption": "ห้องใต้หลังคาที่ถูกทิ้งร้าง ที่นี่เธอซ่อนตัวจากแสงแดดและสายตาที่สอดรู้สอดเห็น"
+          },
+          {
+            "alt": "ฮู้ดดี้และถุงมือ",
+            "caption": "ลุคประจำวัน: ฮู้ดดี้สีเข้มและถุงมือไร้นิ้ว"
+          },
+          {
+            "alt": "รูนที่ถูกขโมย",
+            "caption": "รูนของมีร่า เธอต้องการมันด้วยเหตุผลที่ยังเปิดเผยไม่ได้"
+          }
+        ],
+        "facts": [
+          {
+            "label": "อายุ",
+            "value": "140 (ดูเหมือน 20)"
+          },
+          {
+            "label": "ชั้นปี",
+            "value": "ปี 5, ประวัติศาสตร์และจดหมายเหตุ"
+          },
+          {
+            "label": "ห้อง",
+            "value": "หมายเลข 9 (ปีกแขก)"
+          },
+          {
+            "label": "ส่วนสูง",
+            "value": "158 ซม."
+          },
+          {
+            "label": "บทบาทในบล็อก",
+            "value": "แวมไพร์ขโมย"
+          }
+        ],
+        "sections": [
+          {
+            "title": "บุคลิกภาพ",
+            "paragraphs": [
+              "ขโมยที่มีศีลธรรม — คืนทุกอย่าง จดบันทึก 'บัญชีหนี้สิน' มา 140 ปี",
+              "พูดจาโอหังเมื่ออยู่ภายใต้ความกดดัน (ยิ่งแย่เท่าไหร่ เธอก็ยิ่งเล่นมุกเร็วขึ้นเท่านั้น)",
+              "ภักดีอย่างดื้อรั้น — ไม่ปล่อยคนที่เธอเลือก",
+              "ละอายใจต่อความหิวโหยและความยากจน ไม่รู้วิธีขอความช่วยเหลือ — แค่ยืมเท่านั้น"
+            ]
+          },
+          {
+            "title": "รูปลักษณ์",
+            "paragraphs": [
+              "สูง 158 ซม. ผอมบาง ผมสีม่วงเข้มยุ่งเหยิง ดวงตาสีอำพันที่มีรูม่านตาแนวตั้ง",
+              "เห็นเขี้ยวเมื่อยิ้ม ฮู้ดดี้ ถุงมือไร้นิ้ว รองเท้าผ้าใบ",
+              "ผิวเย็น ไม่มีชีพจร เงาสะท้อนในกระจกช้ากว่าปกติหนึ่งวินาที"
+            ]
+          },
+          {
+            "title": "ภูมิหลัง",
+            "paragraphs": [
+              "กลายเป็นแวมไพร์เมื่ออายุ 19 และใช้ชีวิตคนเดียวมากว่าหนึ่งศตวรรษโดยเปลี่ยนชื่อ ในยุค 80 เธอได้เป็นเพื่อนกับเทส วินเทอร์ นักศึกษาวารสารศาสตร์",
+              "ตอนนี้เทสกำลังเลือนหายไป และวาซิลิซาก็ขโมยรูนสมอของมีร่าเพื่อพยุงเธอไว้จนถึงวันที่ 31 ตุลาคม"
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"โคมไฟ — สามร้อยรูเบิล ขวด — ทำเอง แต่มีจิตวิญญาณ สถานการณ์นี้ — ความล้มเหลวโดยสมบูรณ์และไม่มีเงื่อนไข\""
+        },
+        "relationships": [
+          {
+            "name": "มีร่า เฮกซ์",
+            "psychotype": "แม่มด",
+            "type": "การโจรกรรมยามค่ำคืน",
+            "description": "แม่มดที่รูนของเธอถูกขโมย วาซิลิซาเคารพเธอและรู้สึกผิดที่ทำลายงานของชมรม"
+          },
+          {
+            "name": "เนเฟรา ซาฮรา",
+            "psychotype": "โบราณ",
+            "type": "มารยาทโบราณ",
+            "description": "ทั้งคู่เบื่อกับเรื่องตลกเกี่ยวกับอายุ วาซิลิซาเป็นคนเดียวที่ไม่ถามเกี่ยวกับริบบิ้น"
+          },
+          {
+            "name": "ลิเลีย \"ลิลี่\" แอชเชอร์",
+            "psychotype": "ซัคคิวบัส",
+            "type": "จีบตามกฎ",
+            "description": "ลิลี่คิดว่าเธอแข็งทื่อ ในขณะที่วาซิลิซาสงสัยว่าซัคคิวบัสเปลี่ยนทุกอย่างให้เป็นการแสดง"
+          },
+          {
+            "name": "โคบายาชิ ริน",
+            "psychotype": "หัวหน้าหอพัก",
+            "type": "อันตรายจากสถาบัน",
+            "description": "หัวหน้าหอพักเป็นอันตรายหลัก การตรวจสอบห้องใต้หลังคาจริงอาจทำลายทุกอย่าง"
           }
         ]
       }

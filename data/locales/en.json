@@ -1346,6 +1346,7 @@
         "slogan": "Lower the heat, you're boiling over.",
         "shortDescription": "First on the student council's club list is the occult club — and its president, Mira Hex, greets you with green smoke, a conversation with a flask, and a cookie that is 'almost safe'. She's charming, talkative, and desperately needs new members: the club is on the verge of closing. But as soon as you say you're 'just looking,' she grabs your sleeve: for three nights now, someone has been breaking into the club and stealing her real runes.",
         "tags": [
+          "18+",
           "Witch",
           "Chemistry",
           "Occult Club",
@@ -1546,6 +1547,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"The Long-Term Loan\"",
+        "slogan": "This isn't theft, it's a long-term loan!",
+        "shortDescription": "You and Mira spent a week in ambush — and finally, the night thief got caught. A short girl with cat eyes and ice-cold hands.",
+        "tags": [
+          "Vampire",
+          "Mystical",
+          "Night Archive",
+          "Room No. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Debt ledger",
+            "caption": "140 years of meticulous work. Every theft is logged and will be returned."
+          },
+          {
+            "alt": "Hematogen and blood packs",
+            "caption": "The diet of a modern vampire. Packs labeled 'do not confuse with juice'."
+          },
+          {
+            "alt": "Attic hideout",
+            "caption": "The abandoned attic. Here she hides from the sun and prying eyes."
+          },
+          {
+            "alt": "Hoodie and gloves",
+            "caption": "Everyday look: a dark hoodie and fingerless gloves."
+          },
+          {
+            "alt": "Stolen runes",
+            "caption": "Mira's runes. She needs them for a reason she can't reveal yet."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Age",
+            "value": "140 (appears 20)"
+          },
+          {
+            "label": "Year",
+            "value": "5th year, History & Archives"
+          },
+          {
+            "label": "Room",
+            "value": "No. 9 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "158 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Vampire thief"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "A thief with morals — returns everything, keeps a 'debt ledger' for 140 years.",
+              "Cheeky patter under pressure (the worse it gets, the faster she jokes).",
+              "Stubbornly loyal — doesn't let go of those she's chosen.",
+              "Ashamed of hunger and poverty; doesn't know how to ask for help — only borrows."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "158 cm, wiry; torn dark purple hair; amber eyes with vertical pupils.",
+              "Fangs visible in a smirk; hoodie, fingerless gloves, sneakers.",
+              "Cold skin, no pulse; reflection in mirrors lags by one second."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Turned at 19 and lived on her own for over a century, changing names. In the 80s, she befriended journalism student Tess Winter.",
+              "Now Tess is fading, and Vasilisa steals Mira's anchor runes to keep her going until October 31."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"The lamp — three hundred rubles. The flask — homemade, but soulful. This situation — a complete and unconditional failure.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Night theft",
+            "description": "The witch whose runes she steals. Vasilisa respects her and feels guilty about ruining the club's work."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ancient etiquette",
+            "description": "Both are tired of age jokes. Vasilisa is the only one who doesn't ask about the ribbons."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirt by rules",
+            "description": "Lily finds her stiff, while Vasilisa suspects the succubus turns everything into a performance."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Institutional danger",
+            "description": "The head girl is the main danger. A real attic inspection could ruin everything."
           }
         ]
       }

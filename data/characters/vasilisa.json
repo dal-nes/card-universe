@@ -1,0 +1,48 @@
+{
+  "id": "vasilisa",
+  "number": 10,
+  "status": "available1",
+  "releaseDate": "2026-11-03",
+  "accent": "#8b1c3d",
+  "cover": "assets/images/covers/vasilisa/main-cover.png",
+  "covers": [
+    "assets/images/covers/vasilisa/main-cover.png",
+    "assets/images/covers/vasilisa/cover-2.png",
+    "assets/images/covers/vasilisa/cover-3.png",
+    "assets/images/covers/vasilisa/cover-4.png",
+    "assets/images/covers/vasilisa/cover-5.png"
+  ],
+  "chatUrl": "https://tipsy.chat/chat/1793717897897839828",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/vasilisa/vasilisa_bedroom_lace_nsfw_03.jpg"
+    },
+    {
+      "src": "assets/images/gallery/vasilisa/vasilisa_blood_pack_sfw_02.jpg"
+    },
+    {
+      "src": "assets/images/gallery/vasilisa/vasilisa_bedroom_lace_nsfw_03.jpg"
+    },
+    {
+      "src": "assets/images/gallery/vasilisa/vasilisa_hoodie_shoulder_nsfw_04.jpg"
+    },
+    {
+      "src": "assets/images/gallery/vasilisa/vasilisa_rune_lingerie_nsfw_05.jpg"
+    }
+  ],
+  "tracks": [],
+  "relationships": [
+    {
+      "characterId": "mira"
+    },
+    {
+      "characterId": "nefera"
+    },
+    {
+      "characterId": "lily"
+    },
+    {
+      "characterId": "rin"
+    }
+  ]
+}

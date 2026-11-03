@@ -1214,6 +1214,7 @@
         "slogan": "Skru ned varmen, du koker over.",
         "shortDescription": "Øverst på studentrådets klubbliste står okkultklubben — og presidenten, Mira Hex, ønsker deg velkommen med grønn røyk, en samtale med en kolbe og en kjeks som er 'nesten trygg'. Hun er sjarmerende, pratsom og trenger desperat nye medlemmer: klubben er på randen av stenging. Men så snart du sier at du 'bare ser', griper hun tak i ermet ditt: i tre netter nå har noen brutt seg inn i klubben og stjålet de ekte runene hennes.",
         "tags": [
+          "18+",
           "Hekse",
           "Kjemi",
           "Okkult klubb",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Det langsiktige lånet\"",
+        "slogan": "Dette er ikke tyveri, det er et langsiktig lån!",
+        "shortDescription": "Du og Mira tilbrakte en uke i bakhold — og endelig ble natttyven tatt. En lav jente med katteøyne og iskalde hender.",
+        "tags": [
+          "Vampyr",
+          "Mystikk",
+          "Nattarkiv",
+          "Rom nr. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Gjeldbok",
+            "caption": "140 år med nøye arbeid. Hvert tyveri er loggført og vil bli returnert."
+          },
+          {
+            "alt": "Hematogen og blodposer",
+            "caption": "Dietten til en moderne vampyr. Poser merket 'ikke forveksle med juice'."
+          },
+          {
+            "alt": "Skjulested på loftet",
+            "caption": "Det forlatte loftet. Her gjemmer hun seg for solen og nysgjerrige blikk."
+          },
+          {
+            "alt": "Hettegenser og hansker",
+            "caption": "Hverdagslook: en mørk hettegenser og fingerløse hansker."
+          },
+          {
+            "alt": "Stjålne runer",
+            "caption": "Miras runer. Hun trenger dem av en grunn hun ennå ikke kan avsløre."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Alder",
+            "value": "140 (ser ut som 20)"
+          },
+          {
+            "label": "År",
+            "value": "5. år, historie og arkiv"
+          },
+          {
+            "label": "Rom",
+            "value": "Nr. 9 (Gjestevingen)"
+          },
+          {
+            "label": "Høyde",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rolle i blokken",
+            "value": "Vampyrtyv"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "En tyv med moral — returnerer alt, fører en 'gjeldbok' i 140 år.",
+              "Frekk prat under press (jo verre det blir, jo raskere tuller hun).",
+              "Sta og lojal — slipper ikke dem hun har valgt.",
+              "Skammer seg over sult og fattigdom; vet ikke hvordan man ber om hjelp — låner bare."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "158 cm, senete; fillete mørkelilla hår; ravfargede øyne med vertikale pupiller.",
+              "Hoggtann synlig i et smil; hettegenser, fingerløse hansker, joggesko.",
+              "Kald hud, ingen puls; speilbildet henger et sekund etter."
+            ]
+          },
+          {
+            "title": "Bakgrunn",
+            "paragraphs": [
+              "Forvandlet som 19-åring og levde alene i over et århundre, byttet navn. På 80-tallet ble hun venn med journalistikkstudenten Tess Winter.",
+              "Nå svinner Tess, og Vasilisa stjeler Miras ankerruner for å holde henne gående til 31. oktober."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Lampen — tre hundre rubler. Kolben — hjemmelaget, men sjelefull. Denne situasjonen — en fullstendig og betingelsesløs fiasko.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Heks",
+            "type": "Nattlig tyveri",
+            "description": "Heksen hvis runer hun stjeler. Vasilisa respekterer henne og føler skyld for å ødelegge klubbens arbeid."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Eldgammel",
+            "type": "Eldgammel etikette",
+            "description": "Begge er lei av alderspøker. Vasilisa er den eneste som ikke spør om båndene."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flørting etter reglene",
+            "description": "Lily synes hun er stiv, mens Vasilisa mistenker at succubusen gjør alt til en forestilling."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Klasseforstander",
+            "type": "Institusjonell fare",
+            "description": "Klasseforstanderen er den største faren. En ekte loftsinspeksjon kan ødelegge alt."
           }
         ]
       }

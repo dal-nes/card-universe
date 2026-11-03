@@ -1215,6 +1215,7 @@
         "slogan": "Stáhni ten plyn, vaříš se.",
         "shortDescription": "První na seznamu klubů studentské rady je okultní klub — a jeho předsedkyně Mira Hex tě vítá zeleným kouřem, rozhovorem s baňkou a sušenkou, která je „téměř bezpečná“. Je okouzlující, upovídaná a zoufale potřebuje nové členy: klub je na pokraji zavření. Ale jakmile řekneš, že se „jen díváš“, chytne tě za rukáv: už tři noci se někdo vloupává do klubu a krade její skutečné runy.",
         "tags": [
+          "18+",
           "Čarodějnice",
           "Chemie",
           "Okultní klub",
@@ -1415,6 +1416,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — „Dlouhodobá půjčka“",
+        "slogan": "To není krádež, to je dlouhodobá půjčka!",
+        "shortDescription": "Strávili jste s Mirou týden v léčce — a noční zloděj byl konečně dopaden. Drobná dívka s kočičíma očima a ledově studenýma rukama.",
+        "tags": [
+          "Upír",
+          "Mystika",
+          "Noční archiv",
+          "Pokoj č. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Kniha dluhů",
+            "caption": "140 let pečlivé práce. Každá krádež je zaznamenána a bude vrácena."
+          },
+          {
+            "alt": "Hematogen a krevní balíčky",
+            "caption": "Strava moderní upírky. Balíčky s nápisem „nezaměňovat s džusem“."
+          },
+          {
+            "alt": "Úkryt na půdě",
+            "caption": "Opuštěná půda. Zde se skrývá před sluncem a zvědavýma očima."
+          },
+          {
+            "alt": "Mikina a rukavice",
+            "caption": "Každodenní vzhled: tmavá mikina a rukavice bez prstů."
+          },
+          {
+            "alt": "Ukradené runy",
+            "caption": "Miriny runy. Potřebuje je z důvodu, který zatím nemůže odhalit."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Věk",
+            "value": "140 (vypadá na 20)"
+          },
+          {
+            "label": "Ročník",
+            "value": "5. ročník, historie a archivnictví"
+          },
+          {
+            "label": "Pokoj",
+            "value": "č. 9 (Hostující křídlo)"
+          },
+          {
+            "label": "Výška",
+            "value": "158 cm"
+          },
+          {
+            "label": "Role v bloku",
+            "value": "Upíří zlodějka"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Povaha",
+            "paragraphs": [
+              "Zlodějka se svědomím — vše vrací, vede si „knihu dluhů“ 140 let.",
+              "Drzá mluvka pod tlakem (čím hůř, tím rychleji vtipkuje).",
+              "Tvrdohlavě věrná — nepustí ty, které si vybrala.",
+              "Stydí se hladu a chudoby; neumí požádat o pomoc — jen si půjčuje."
+            ]
+          },
+          {
+            "title": "Vzhled",
+            "paragraphs": [
+              "158 cm, šlachovitá; rozcuchané tmavě fialové vlasy; jantarové oči s vertikálními zorničkami.",
+              "Špičáky viditelné při úšklebku; mikina, rukavice bez prstů, tenisky.",
+              "Studená kůže, žádný puls; odraz v zrcadle se zpožďuje o sekundu."
+            ]
+          },
+          {
+            "title": "Příběh",
+            "paragraphs": [
+              "Proměněna v 19 letech a přes století žila sama, měnila si jména. V 80. letech se spřátelila se studentkou žurnalistiky Tess Winter.",
+              "Nyní Tess mizí a Vasilisa krade Miriny kotvící runy, aby ji udržela až do 31. října."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Lampa — tři sta rublů. Baňka — domácí, ale s duší. Tahle situace — naprosté a bezpodmínečné selhání.“"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Čarodějnice",
+            "type": "Noční krádež",
+            "description": "Čarodějnice, jejíž runy krade. Vasilisa si jí váží a cítí vinu za to, že ničí práci klubu."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Prastará",
+            "type": "Prastarý etiket",
+            "description": "Obě jsou unavené vtipy o věku. Vasilisa je jediná, kdo se neptá na stuhy."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukuba",
+            "type": "Flirtování podle pravidel",
+            "description": "Lily ji považuje za strnulou, zatímco Vasilisa podezřívá sukubu, že z každého rozhovoru dělá představení."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Předsedkyně",
+            "type": "Institucionální hrozba",
+            "description": "Předsedkyně je hlavní nebezpečí. Skutečná inspekce na půdě by mohla všechno zničit."
           }
         ]
       }

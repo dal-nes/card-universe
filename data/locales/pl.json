@@ -1214,6 +1214,7 @@
         "slogan": "Przykręć ogień, wykipisz.",
         "shortDescription": "Na szczycie listy klubów samorządu studenckiego znajduje się klub okultystyczny — a jego przewodnicząca, Mira Hex, wita cię zielonym dymem, rozmową z kolbą i ciasteczkiem, które jest „prawie bezpieczne”. Jest czarująca, gadatliwa i desperacko potrzebuje nowych członków: klub jest na skraju zamknięcia. Ale gdy tylko mówisz, że „tylko oglądasz”, chwyta cię za rękaw: od trzech nocy ktoś włamuje się do klubu i kradnie jej prawdziwe runy.",
         "tags": [
+          "18+",
           "Czarownica",
           "Chemia",
           "Klub Okultystyczny",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — „Długoterminowa pożyczka”",
+        "slogan": "To nie kradzież, to długoterminowa pożyczka!",
+        "shortDescription": "Ty i Mira spędziliście tydzień w zasadzce — i w końcu nocna złodziejka została złapana. Niska dziewczyna z kocimi oczami i lodowatymi rękami.",
+        "tags": [
+          "Wampirzyca",
+          "Mistyczna",
+          "Nocne archiwum",
+          "Pokój nr 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Księga długów",
+            "caption": "140 lat skrupulatnej pracy. Każda kradzież jest zapisana i zostanie zwrócona."
+          },
+          {
+            "alt": "Hematogen i paczki krwi",
+            "caption": "Dieta nowoczesnej wampirzycy. Paczki z napisem „nie mylić z sokiem”."
+          },
+          {
+            "alt": "Kryjówka na strychu",
+            "caption": "Opuszczony strych. Tutaj ukrywa się przed słońcem i wścibskimi oczami."
+          },
+          {
+            "alt": "Bluza z kapturem i rękawiczki",
+            "caption": "Codzienny wygląd: ciemna bluza z kapturem i rękawiczki bez palców."
+          },
+          {
+            "alt": "Skradzione runy",
+            "caption": "Runy Miry. Potrzebuje ich z powodu, którego nie może jeszcze ujawnić."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Wiek",
+            "value": "140 (wygląda na 20)"
+          },
+          {
+            "label": "Rok",
+            "value": "5. rok, historia i archiwistyka"
+          },
+          {
+            "label": "Pokój",
+            "value": "Nr 9 (Skrzydło Gościnne)"
+          },
+          {
+            "label": "Wzrost",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rola w bloku",
+            "value": "Wampirzyca-złodziejka"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Osobowość",
+            "paragraphs": [
+              "Złodziejka z moralnością — wszystko zwraca, prowadzi „księgę długów” od 140 lat.",
+              "Zadziorna gaduła pod presją (im gorzej, tym szybciej żartuje).",
+              "Uparcie lojalna — nie puszcza tych, których wybrała.",
+              "Wstydzi się głodu i biedy; nie umie prosić o pomoc — tylko pożycza."
+            ]
+          },
+          {
+            "title": "Wygląd",
+            "paragraphs": [
+              "158 cm, żylasta; potargane ciemnofioletowe włosy; bursztynowe oczy z pionowymi źrenicami.",
+              "Kły widoczne w uśmiechu; bluza z kapturem, rękawiczki bez palców, trampki.",
+              "Zimna skóra, brak pulsu; odbicie w lustrze spóźnia się o sekundę."
+            ]
+          },
+          {
+            "title": "Tło",
+            "paragraphs": [
+              "Przemieniona w wieku 19 lat i żyła samotnie przez ponad wiek, zmieniając imiona. W latach 80. zaprzyjaźniła się ze studentką dziennikarstwa Tess Winter.",
+              "Teraz Tess zanika, a Vasilisa kradnie runy kotwiczne Miry, aby utrzymać ją do 31 października."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Lampa — trzysta rubli. Kolba — domowej roboty, ale z duszą. Ta sytuacja — całkowita i bezwarunkowa porażka.”"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Wiedźma",
+            "type": "Nocna kradzież",
+            "description": "Wiedźma, której runy kradnie. Vasilisa szanuje ją i czuje winę za zrujnowanie pracy klubu."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Starodawna",
+            "type": "Starożytna etykieta",
+            "description": "Obie są zmęczone żartami o wieku. Vasilisa jest jedyną, która nie pyta o wstążki."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkub",
+            "type": "Flirt według zasad",
+            "description": "Lily uważa ją za sztywną, podczas gdy Vasilisa podejrzewa, że sukkub zamienia wszystko w przedstawienie."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Starosta",
+            "type": "Zagrożenie instytucjonalne",
+            "description": "Starosta to główne zagrożenie. Prawdziwa inspekcja strychu może wszystko zepsuć."
           }
         ]
       }

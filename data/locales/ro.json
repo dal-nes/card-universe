@@ -1214,6 +1214,7 @@
         "slogan": "Dă focul mai încet, clocotești.",
         "shortDescription": "Primul pe lista cluburilor consiliului studențesc este clubul ocult — iar președinta acestuia, Mira Hex, te întâmpină cu fum verde, o conversație cu un flacon și un fursec care este 'aproape sigur'. Ea este fermecătoare, vorbăreață și are disperat nevoie de membri noi: clubul este pe punctul de a se închide. Dar imediat ce spui că 'doar te uiți', te prinde de mânecă: de trei nopți, cineva a intrat în club și i-a furat runele adevărate.",
         "tags": [
+          "18+",
           "Vrăjitoare",
           "Chimie",
           "Club Ocult",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — „Împrumutul pe termen lung”",
+        "slogan": "Nu este furt, este un împrumut pe termen lung!",
+        "shortDescription": "Tu și Mira ați petrecut o săptămână în ambuscadă — și în sfârșit hoața de noapte a fost prinsă. O fată scundă cu ochi de pisică și mâini reci ca gheața.",
+        "tags": [
+          "Vampir",
+          "Mistic",
+          "Arhiva de noapte",
+          "Camera nr. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Cartea datoriilor",
+            "caption": "140 de ani de muncă meticuloasă. Fiecare furt este înregistrat și va fi returnat."
+          },
+          {
+            "alt": "Hematogen și pungi de sânge",
+            "caption": "Dieta unui vampir modern. Pungi etichetate „a nu se confunda cu sucul”."
+          },
+          {
+            "alt": "Ascunzătoare în pod",
+            "caption": "Podul abandonat. Aici se ascunde de soare și de privirile indiscrete."
+          },
+          {
+            "alt": "Hanorac și mănuși",
+            "caption": "Look-ul de zi cu zi: un hanorac închis la culoare și mănuși fără degete."
+          },
+          {
+            "alt": "Rune furate",
+            "caption": "Runele Miraei. Are nevoie de ele dintr-un motiv pe care nu îl poate dezvălui încă."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Vârstă",
+            "value": "140 (arată de 20)"
+          },
+          {
+            "label": "Anul",
+            "value": "Anul 5, Istorie și Arhive"
+          },
+          {
+            "label": "Camera",
+            "value": "Nr. 9 (Aripa oaspeților)"
+          },
+          {
+            "label": "Înălțime",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rol în bloc",
+            "value": "Hoț vampir"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalitate",
+            "paragraphs": [
+              "O hoață cu principii — returnează totul, ține o „carte a datoriilor” timp de 140 de ani.",
+              "Vorbăreață obraznică sub presiune (cu cât e mai rău, cu atât glumește mai repede).",
+              "Loială cu încăpățânare — nu dă drumul celor pe care i-a ales.",
+              "Se rușinează de foame și sărăcie; nu știe să ceară ajutor — doar împrumută."
+            ]
+          },
+          {
+            "title": "Aspect",
+            "paragraphs": [
+              "158 cm, vânjoasă; păr mov închis ciufulit; ochi ambră cu pupile verticale.",
+              "Colți vizibili într-un zâmbet; hanorac, mănuși fără degete, adidași.",
+              "Piele rece, fără puls; reflexia în oglinzi întârzie cu o secundă."
+            ]
+          },
+          {
+            "title": "Fundal",
+            "paragraphs": [
+              "Transformați la 19 ani și a trăit singură peste un secol, schimbându-și numele. În anii '80, s-a împrietenit cu studenta la jurnalism Tess Winter.",
+              "Acum Tess dispare, iar Vasilisa fură runele de ancorare ale Miraei pentru a o menține până pe 31 octombrie."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Lampa — trei sute de ruble. Balonul — făcut în casă, dar cu suflet. Această situație — un eșec complet și necondiționat.”"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Vrăjitoare",
+            "type": "Furt nocturn",
+            "description": "Vrăjitoarea căreia îi fură runele. Vasilisa o respectă și se simte vinovată că strică munca clubului."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Străveche",
+            "type": "Etiketă străveche",
+            "description": "Ambele sunt obosite de glumele despre vârstă. Vasilisa este singura care nu întreabă despre panglici."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sucub",
+            "type": "Flirt după reguli",
+            "description": "Lily o consideră rigidă, în timp ce Vasilisa bănuiește că sucubul transformă totul într-un spectacol."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Șefa de cămin",
+            "type": "Pericol instituțional",
+            "description": "Șefa de cămin este principalul pericol. O inspecție reală a podului ar putea strica totul."
           }
         ]
       }

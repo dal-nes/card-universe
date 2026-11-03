@@ -1214,6 +1214,7 @@
         "slogan": "Bawasan ang init, kumukulo ka na.",
         "shortDescription": "Una sa listahan ng mga club ng student council ang occult club — at ang presidente nito, si Mira Hex, ay binabati ka ng berdeng usok, pakikipag-usap sa isang flask, at isang cookie na 'halos ligtas'. Siya ay kaakit-akit, madaldal, at desperadong nangangailangan ng mga bagong miyembro: ang club ay malapit nang magsara. Ngunit sa sandaling sabihin mong 'nanonood ka lang', hinawakan niya ang iyong manggas: sa loob ng tatlong gabi, may pumapasok sa club at nagnanakaw ng kanyang mga tunay na rune.",
         "tags": [
+          "18+",
           "Mangkukulam",
           "Chemistry",
           "Occult Club",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Ang Pangmatagalang Utang\"",
+        "slogan": "Hindi ito pagnanakaw, ito ay isang pangmatagalang utang!",
+        "shortDescription": "Nag-abang kayo ni Mira ng isang linggo — at sa wakas, nahuli na ang magnanakaw sa gabi. Isang maliit na babaeng may mga mata ng pusa at yelong kamay.",
+        "tags": [
+          "Bampira",
+          "Mistiko",
+          "Night Archive",
+          "Silid Blg. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Libro ng mga utang",
+            "caption": "140 taon ng maingat na trabaho. Ang bawat pagnanakaw ay naitala at ibabalik."
+          },
+          {
+            "alt": "Hematogen at mga blood pack",
+            "caption": "Ang diyeta ng isang modernong bampira. Mga pack na may tatak na 'huwag ipagkamali sa juice'."
+          },
+          {
+            "alt": "Taguan sa attic",
+            "caption": "Ang inabandonang attic. Dito siya nagtatago mula sa araw at mga matang nakatingin."
+          },
+          {
+            "alt": "Hoodie at guwantes",
+            "caption": "Pang-araw-araw na hitsura: isang madilim na hoodie at guwantes na walang daliri."
+          },
+          {
+            "alt": "Mga ninakaw na rune",
+            "caption": "Mga rune ni Mira. Kailangan niya ang mga ito para sa isang dahilan na hindi pa niya maibubunyag."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "140 (mukhang 20)"
+          },
+          {
+            "label": "Taon",
+            "value": "Ika-5 taon, Kasaysayan at Archive"
+          },
+          {
+            "label": "Silid",
+            "value": "Blg. 9 (Guest Wing)"
+          },
+          {
+            "label": "Taas",
+            "value": "158 cm"
+          },
+          {
+            "label": "Tungkulin sa block",
+            "value": "Bampirang magnanakaw"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Isang magnanakaw na may moral — ibinabalik ang lahat, may 'libro ng mga utang' sa loob ng 140 taon.",
+              "Palaban na daldal kapag nasa ilalim ng pressure (mas lumalala, mas mabilis magbiro).",
+              "Matigas ang ulo na tapat — hindi bibitawan ang mga pinili niya.",
+              "Nahihiya sa gutom at kahirapan; hindi marunong humingi ng tulong — nanghihiram lang."
+            ]
+          },
+          {
+            "title": "Hitsura",
+            "paragraphs": [
+              "158 cm, payat; gulanit na madilim-lilang buhok; amber na mga mata na may patayong pupil.",
+              "Kitang-kita ang mga pangil kapag ngumingiti; hoodie, guwantes na walang daliri, sneakers.",
+              "Malamig ang balat, walang pulso; ang repleksyon sa salamin ay nahuhuli ng isang segundo."
+            ]
+          },
+          {
+            "title": "Pinagmulan",
+            "paragraphs": [
+              "Naging bampira sa edad na 19 at nabuhay nang mag-isa ng mahigit isang siglo, nagpapalit ng pangalan. Noong 80s, naging kaibigan niya ang estudyante ng journalism na si Tess Winter.",
+              "Ngayon, unti-unting nawawala si Tess, at ninanakaw ni Vasilisa ang mga anchor rune ni Mira para mapanatili siya hanggang Oktubre 31."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Ang lampara — tatlong daang rubles. Ang prasko — gawang bahay, pero may kaluluwa. Ang sitwasyong ito — isang kumpleto at walang pasubaling kabiguan.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Mangkukulam",
+            "type": "Pagnanakaw sa gabi",
+            "description": "Ang mangkukulam na ninanakawan niya ng rune. Nirerespeto ni Vasilisa si Mira at nakokonsensya siya sa pagsira sa trabaho ng club."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Sinauna",
+            "type": "Sinaunang etiketa",
+            "description": "Pareho silang sawa sa mga biro tungkol sa edad. Si Vasilisa lang ang hindi nagtatanong tungkol sa mga laso."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirt ayon sa patakaran",
+            "description": "Nakikita ni Lily na matigas siya, habang pinaghihinalaan ni Vasilisa na ginagawang palabas ng succubus ang lahat."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Institutional na panganib",
+            "description": "Ang head girl ang pangunahing panganib. Ang isang tunay na inspeksyon sa attic ay maaaring makasira sa lahat."
           }
         ]
       }

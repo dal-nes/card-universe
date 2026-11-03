@@ -1214,6 +1214,7 @@
         "slogan": "Vedd lejjebb a lángot, kiforr alattad.",
         "shortDescription": "A diákönkormányzat klublistájának élén az okkult klub áll — és annak elnöke, Mira Hex zöld füsttel, egy lombikkal folytatott beszélgetéssel és egy 'majdnem biztonságos' keksszel fogad. Elbűvölő, beszédes, és kétségbeesetten szüksége van új tagokra: a klub a bezárás szélén áll. De amint azt mondod, hogy 'csak nézelődöl', megragadja a kabátujjadat: már három éjszaka, hogy valaki betör a klubba és ellopja a valódi rúnáit.",
         "tags": [
+          "18+",
           "Boszorkány",
           "Kémia",
           "Okkult klub",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — „A hosszú távú kölcsön”",
+        "slogan": "Ez nem lopás, ez egy hosszú távú kölcsön!",
+        "shortDescription": "Te és Mira egy hétig lesben álltatok — és végre elkapják az éjszakai tolvajt. Egy alacsony lány macskaszemekkel és jéghideg kezekkel.",
+        "tags": [
+          "Vámpír",
+          "Misztikus",
+          "Éjszakai archívum",
+          "9-es szoba"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Adósságkönyv",
+            "caption": "140 év aprólékos munka. Minden lopás rögzítve van, és vissza fogják adni."
+          },
+          {
+            "alt": "Hematogén és vérpakkok",
+            "caption": "Egy modern vámpír étrendje. A 'ne keverd össze gyümölcslével' feliratú pakkok."
+          },
+          {
+            "alt": "Rejtekhely a padláson",
+            "caption": "Az elhagyatott padlás. Itt bújik el a nap és a kíváncsi szemek elől."
+          },
+          {
+            "alt": "Kapucnis pulóver és kesztyű",
+            "caption": "Hétköznapi megjelenés: sötét kapucnis pulóver és ujjatlan kesztyű."
+          },
+          {
+            "alt": "Ellopott rúnák",
+            "caption": "Mira rúnái. Olyan okból van rájuk szüksége, amit még nem fedhet fel."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Kor",
+            "value": "140 (20-nak tűnik)"
+          },
+          {
+            "label": "Évfolyam",
+            "value": "5. évfolyam, történelem és levéltár"
+          },
+          {
+            "label": "Szoba",
+            "value": "9. sz. (Vendégszárny)"
+          },
+          {
+            "label": "Magasság",
+            "value": "158 cm"
+          },
+          {
+            "label": "Szerep a blokkban",
+            "value": "Vámpír tolvaj"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Személyiség",
+            "paragraphs": [
+              "Erkölcsös tolvaj — mindent visszaad, 140 éve vezeti az 'adósságkönyvet'.",
+              "Pimasz fecsegés nyomás alatt (minél rosszabbul megy, annál gyorsabban viccelődik).",
+              "Makacsul hűséges — nem engedi el azokat, akiket kiválasztott.",
+              "Szégyelli az éhséget és a szegénységet; nem tud segítséget kérni — csak kölcsönkér."
+            ]
+          },
+          {
+            "title": "Kinézet",
+            "paragraphs": [
+              "158 cm, inas; tépett sötétlila haj; borostyánsárga szemek függőleges pupillákkal.",
+              "A szemfogak vigyorogva látszanak; kapucnis pulóver, ujjatlan kesztyű, tornacipő.",
+              "Hideg bőr, nincs pulzus; a tükörkép egy másodpercet késik."
+            ]
+          },
+          {
+            "title": "Háttér",
+            "paragraphs": [
+              "19 évesen változott át, és több mint egy évszázadig élt egyedül, nevet változtatva. A 80-as években összebarátkozott Tess Winter újságíró hallgatóval.",
+              "Most Tess halványul, és Vasilisa ellopja Mira horgonyrúnáit, hogy életben tartsa október 31-ig."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„A lámpa — háromszáz rubel. A lombik — házilag készült, de lelkes. Ez a helyzet — teljes és feltétel nélküli kudarc.”"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Boszorkány",
+            "type": "Éjszakai lopás",
+            "description": "A boszorkány, akinek a rúnáit lopja. Vasilisa tiszteli őt, és bűntudatot érez a klubb munkájának tönkretétele miatt."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ősi",
+            "type": "Ősi etikett",
+            "description": "Mindketten belefáradtak a korral kapcsolatos viccekbe. Vasilisa az egyetlen, aki nem kérdez a szalagokról."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Szukkubusz",
+            "type": "Flört szabályok szerint",
+            "description": "Lily merevnek találja őt, míg Vasilisa gyanítja, hogy a szukkubusz mindent előadássá változtat."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Prefektus",
+            "type": "Intézményi veszély",
+            "description": "A prefektus a fő veszély. Egy igazi padlásvizsgálat mindent tönkretehet."
           }
         ]
       }

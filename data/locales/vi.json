@@ -1214,6 +1214,7 @@
         "slogan": "Giảm lửa đi, bạn đang sôi đấy.",
         "shortDescription": "Đứng đầu danh sách các câu lạc bộ của hội đồng học sinh là câu lạc bộ huyền bí — và chủ tịch của nó, Mira Hex, chào đón bạn bằng làn khói xanh, cuộc trò chuyện với một cái bình và một chiếc bánh quy 'gần như an toàn'. Cô ấy quyến rũ, hay nói và vô cùng cần thành viên mới: câu lạc bộ đang trên bờ vực đóng cửa. Nhưng ngay khi bạn nói rằng bạn 'chỉ xem thôi', cô ấy túm lấy tay áo bạn: ba đêm nay, có ai đó đã đột nhập vào câu lạc bộ và lấy trộm những viên đá rune thật của cô ấy.",
         "tags": [
+          "18+",
           "Phù thủy",
           "Hóa học",
           "Câu lạc bộ Huyền bí",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Khoản vay dài hạn\"",
+        "slogan": "Đây không phải là trộm cắp, đây là một khoản vay dài hạn!",
+        "shortDescription": "Bạn và Mira đã phục kích suốt một tuần — và cuối cùng tên trộm ban đêm cũng bị bắt. Một cô gái nhỏ nhắn với đôi mắt mèo và đôi bàn tay lạnh như băng.",
+        "tags": [
+          "Ma cà rồng",
+          "Huyền bí",
+          "Lưu trữ ban đêm",
+          "Phòng số 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Sổ nợ",
+            "caption": "140 năm làm việc tỉ mỉ. Mỗi vụ trộm đều được ghi lại và sẽ được trả lại."
+          },
+          {
+            "alt": "Hematogen và túi máu",
+            "caption": "Chế độ ăn của ma cà rồng hiện đại. Các túi dán nhãn 'đừng nhầm với nước ép'."
+          },
+          {
+            "alt": "Nơi ẩn náu trên gác mái",
+            "caption": "Gác mái bỏ hoang. Ở đây cô trốn tránh ánh nắng mặt trời và những ánh mắt tò mò."
+          },
+          {
+            "alt": "Áo hoodie và găng tay",
+            "caption": "Phong cách hàng ngày: áo hoodie tối màu và găng tay hở ngón."
+          },
+          {
+            "alt": "Rune bị đánh cắp",
+            "caption": "Rune của Mira. Cô cần chúng vì một lý do mà cô chưa thể tiết lộ."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tuổi",
+            "value": "140 (trông như 20)"
+          },
+          {
+            "label": "Năm học",
+            "value": "Năm thứ 5, Lịch sử & Lưu trữ"
+          },
+          {
+            "label": "Phòng",
+            "value": "Số 9 (Khu dành cho khách)"
+          },
+          {
+            "label": "Chiều cao",
+            "value": "158 cm"
+          },
+          {
+            "label": "Vai trò trong khu nhà",
+            "value": "Ma cà rồng trộm cắp"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tính cách",
+            "paragraphs": [
+              "Một tên trộm có đạo đức — trả lại mọi thứ, giữ một 'sổ nợ' trong 140 năm.",
+              "Nói năng hỗn xược khi bị áp lực (mọi thứ càng tồi tệ, cô càng nhanh nhảu đùa cợt).",
+              "Trung thành một cách cố chấp — không buông bỏ những người cô đã chọn.",
+              "Xấu hổ vì đói và nghèo; không biết cách yêu cầu giúp đỡ — chỉ biết vay mượn."
+            ]
+          },
+          {
+            "title": "Ngoại hình",
+            "paragraphs": [
+              "Cao 158 cm, gầy gò; mái tóc màu tím sẫm rối bù; đôi mắt màu hổ phách với đồng tử thẳng đứng.",
+              "Răng nanh lộ ra khi cười nhếch mép; áo hoodie, găng tay hở ngón, giày thể thao.",
+              "Da lạnh, không có mạch đập; hình ảnh phản chiếu trong gương chậm một giây."
+            ]
+          },
+          {
+            "title": "Quá khứ",
+            "paragraphs": [
+              "Bị biến đổi ở tuổi 19 và sống một mình trong hơn một thế kỷ, thay đổi tên gọi. Vào những năm 80, cô kết bạn với sinh viên báo chí Tess Winter.",
+              "Bây giờ Tess đang mờ dần, và Vasilisa đánh cắp các rune neo đậu của Mira để giữ cô ấy tồn tại cho đến ngày 31 tháng 10."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Cái đèn — ba trăm rúp. Cái bình — tự làm, nhưng có hồn. Tình huống này — một thất bại hoàn toàn và vô điều kiện.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Phù thủy",
+            "type": "Trộm cắp ban đêm",
+            "description": "Phù thủy mà cô ăn cắp rune. Vasilisa tôn trọng cô ấy và cảm thấy tội lỗi vì đã phá hỏng công việc của câu lạc bộ."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Cổ đại",
+            "type": "Nghi thức cổ đại",
+            "description": "Cả hai đều mệt mỏi với những trò đùa về tuổi tác. Vasilisa là người duy nhất không hỏi về những dải ruy băng."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Tán tỉnh theo quy tắc",
+            "description": "Lily thấy cô cứng nhắc, trong khi Vasilisa nghi ngờ succubus biến mọi thứ thành một màn trình diễn."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Lớp trưởng",
+            "type": "Mối nguy hiểm từ thể chế",
+            "description": "Lớp trưởng là mối nguy hiểm chính. Một cuộc kiểm tra gác mái thực sự có thể phá hủy mọi thứ."
           }
         ]
       }

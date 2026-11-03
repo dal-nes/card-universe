@@ -1214,6 +1214,7 @@
         "slogan": "Sänk värmen, du kokar över.",
         "shortDescription": "Överst på studentrådets klubblista står den ockulta klubben — och dess ordförande, Mira Hex, hälsar dig välkommen med grön rök, ett samtal med en kolv och en kaka som är 'nästan säker'. Hon är charmig, pratsam och behöver desperat nya medlemmar: klubben är på gränsen till att stänga. Men så fort du säger att du 'bara tittar', griper hon tag i din ärm: i tre nätter nu har någon brutit sig in i klubben och stulit hennes riktiga runor.",
         "tags": [
+          "18+",
           "Häxa",
           "Kemi",
           "Ockult klubb",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Det långsiktiga lånet\"",
+        "slogan": "Det är inte stöld, det är ett långsiktigt lån!",
+        "shortDescription": "Du och Mira tillbringade en vecka i bakhåll — och till slut greps nattjuven. En kort tjej med kattögon och iskalla händer.",
+        "tags": [
+          "Vampyr",
+          "Mystik",
+          "Nattarkiv",
+          "Rum nr 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Skuldbok",
+            "caption": "140 år av noggrant arbete. Varje stöld är loggad och kommer att returneras."
+          },
+          {
+            "alt": "Hematogen och blodpåsar",
+            "caption": "Diet för en modern vampyr. Påsar märkta 'blanda inte ihop med juice'."
+          },
+          {
+            "alt": "Gömställe på vinden",
+            "caption": "Den övergivna vinden. Här gömmer hon sig för solen och nyfikna blickar."
+          },
+          {
+            "alt": "Huvtröja och handskar",
+            "caption": "Vardagslook: en mörk huvtröja och fingervantar."
+          },
+          {
+            "alt": "Stulna runor",
+            "caption": "Miras runor. Hon behöver dem av en anledning hon ännu inte kan avslöja."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Ålder",
+            "value": "140 (ser ut som 20)"
+          },
+          {
+            "label": "Årskurs",
+            "value": "År 5, Historia & Arkiv"
+          },
+          {
+            "label": "Rum",
+            "value": "Nr 9 (Gästflygeln)"
+          },
+          {
+            "label": "Längd",
+            "value": "158 cm"
+          },
+          {
+            "label": "Roll i blocket",
+            "value": "Vampyr tjuv"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personlighet",
+            "paragraphs": [
+              "En tjuv med moral — returnerar allt, för en 'skuldbok' i 140 år.",
+              "Fräckt pladder under press (ju värre det blir, desto snabbare skämtar hon).",
+              "Envis lojal — släpper inte dem hon har valt.",
+              "Skäms över hunger och fattigdom; vet inte hur man ber om hjälp — lånar bara."
+            ]
+          },
+          {
+            "title": "Utseende",
+            "paragraphs": [
+              "158 cm, senig; trasigt mörklila hår; bärnstensfärgade ögon med vertikala pupiller.",
+              "Huggtänder synliga i ett leende; huvtröja, fingervantar, sneakers.",
+              "Kall hud, ingen puls; spegelbilden släpar en sekund."
+            ]
+          },
+          {
+            "title": "Bakgrund",
+            "paragraphs": [
+              "Förvandlades vid 19 och levde ensam i över ett sekel och bytte namn. På 80-talet blev hon vän med journalistikstudenten Tess Winter.",
+              "Nu bleknar Tess, och Vasilisa stjäl Miras ankarrunor för att hålla henne vid liv till den 31 oktober."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Lampan — trehundra rubel. Kolven — hemgjord, men själfull. Den här situationen — ett fullständigt och ovillkorligt misslyckande.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Häxa",
+            "type": "Nattlig stöld",
+            "description": "Häxan vars runor hon stjäl. Vasilisa respekterar henne och känner skuld över att ha förstört klubbens arbete."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Uråldrig",
+            "type": "Uråldrig etikett",
+            "description": "Båda är trötta på åldersskämt. Vasilisa är den enda som inte frågar om banden."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flörta enligt reglerna",
+            "description": "Lily tycker att hon är stel, medan Vasilisa misstänker att succubusen förvandlar allt till en föreställning."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Korridorsansvarig",
+            "type": "Institutionell fara",
+            "description": "Korridorsansvarig är den största faran. En riktig vindsinspektion kan förstöra allt."
           }
         ]
       }

@@ -1347,6 +1347,7 @@
         "slogan": "Убавь огонь, ты закипаешь.",
         "shortDescription": "Первым в списке клубов от студсовета значится оккультный — и его староста, Мира Хекс, встречает тебя зелёным дымом, разговором с колбой и печеньем, которое «почти безопасно». Она обаятельная, болтливая и отчаянно нуждается в новых участниках: клуб на грани закрытия. Но стоит тебе сказать, что ты «просто посмотреть», как она хватает тебя за рукав: уже третью ночь кто-то пробирается в клуб и крадёт её настоящие руны.",
         "tags": [
+          "18+",
           "Ведьма",
           "Химичка",
           "Оккультный клуб",
@@ -1547,6 +1548,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Василиса фон Велд",
+        "cardTitle": "Василиса — «Долгосрочный заём»",
+        "slogan": "Это не воровство, а долгосрочный заём!",
+        "shortDescription": "Неделю вы с Мирой сидели в засаде — и вот ночной вор наконец попался. Невысокая девушка с кошачьими глазами и ледяными руками.",
+        "tags": [
+          "Вампир",
+          "Мистика",
+          "Ночной архив",
+          "Комната №9"
+        ],
+        "coverAlt": "Василиса фон Велд",
+        "gallery": [
+          {
+            "alt": "Тетрадь долгов",
+            "caption": "140 лет кропотливой работы. Каждая кража записана и будет возвращена."
+          },
+          {
+            "alt": "Гематоген и донорская кровь",
+            "caption": "Диета современной вампирши. Пакеты с пометкой «не путать с соком»."
+          },
+          {
+            "alt": "Убежище на чердаке",
+            "caption": "Заброшенный чердак. Здесь она прячется от солнца и чужих глаз."
+          },
+          {
+            "alt": "Худи и перчатки",
+            "caption": "Повседневный образ: темное худи и перчатки без пальцев."
+          },
+          {
+            "alt": "Украденные руны",
+            "caption": "Руны Миры. Они нужны ей не для себя... но об этом она пока молчит."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "140 лет (внешне 20)"
+          },
+          {
+            "label": "Курс",
+            "value": "5-й курс, история и архив"
+          },
+          {
+            "label": "Комната",
+            "value": "№9 (Гостевое крыло)"
+          },
+          {
+            "label": "Рост",
+            "value": "158 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Вампирша-воровка"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Воровка с моралью — всё возвращает, ведёт «книгу долгов» за 140 лет.",
+              "Дерзкая скороговорка под давлением (чем хуже, тем быстрее шутит).",
+              "Верная до упрямства — не отпускает тех, кого выбрала.",
+              "Стыдится голода и бедности; не умеет просить о помощи — только берёт взаймы."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "158 см, жилистая; рваные тёмно-фиолетовые волосы; янтарные глаза с вертикальным зрачком.",
+              "Клыки заметны в ухмылке; худи, перчатки с обрезанными пальцами, кроссовки.",
+              "Кожа холодная, пульса нет; отражение в зеркалах запаздывает на секунду."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Обратилась в 19 и больше века жила сама, меняя имена. В 80-х подружилась со студенткой журфака Тэсс Уинтер.",
+              "Теперь Тэсс стирается, и Василиса крадёт у Миры якорные руны, чтобы дотянуть её до 31 октября."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Лампа — рублей триста. Колба — самоделка, но душевная. Эта ситуация — провал, полный и безоговорочный.»"
+        },
+        "relationships": [
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Ночная кража",
+            "description": "Ведьма, чьи руны она крадет. Василиса уважает её и чувствует вину за срыв работы клуба."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Этикет древних",
+            "description": "Обе устали от шуток про возраст. Василиса единственная не спрашивает про ленты."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Флирт по правилам",
+            "description": "Лили считает её скованной, а Василиса подозревает, что суккуб превращает всё в представление."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Институциональная угроза",
+            "description": "Староста — главная опасность. Реальная проверка чердака может разрушить всё."
           }
         ]
       }

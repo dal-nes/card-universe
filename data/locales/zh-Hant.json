@@ -1214,6 +1214,7 @@
         "slogan": "把火關小，你要燒乾了。",
         "shortDescription": "學生會社團名單上的第一個是神秘學社團——而它的社長米拉·赫克斯用綠煙、與燒瓶的交談，以及一塊「幾乎安全」的餅乾來迎接你。她迷人、健談，並且迫切需要新成員：社團瀕臨倒閉。但當你說你「只是看看」時，她抓住了你的袖子：已經連續三個晚上，有人闖入社團偷走她真正的符文。",
         "tags": [
+          "18+",
           "女巫",
           "化學",
           "神秘學社團",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "瓦西里薩·馮·維爾德",
+        "cardTitle": "瓦西里薩 — 「長期貸款」",
+        "slogan": "這不是盜竊，這是長期貸款！",
+        "shortDescription": "你和米拉潛伏了一個星期——夜賊終於被抓住了。一個有著貓眼和冰冷雙手的矮個子女孩。",
+        "tags": [
+          "吸血鬼",
+          "神秘",
+          "夜晚檔案館",
+          "9號房間"
+        ],
+        "coverAlt": "瓦西里薩·馮·維爾德",
+        "gallery": [
+          {
+            "alt": "債務帳本",
+            "caption": "140年一絲不苟的工作。每一次盜竊都被記錄下來，並將被歸還。"
+          },
+          {
+            "alt": "造血劑和血袋",
+            "caption": "現代吸血鬼的飲食。標有「請勿與果汁混淆」的血袋。"
+          },
+          {
+            "alt": "閣樓藏身處",
+            "caption": "廢棄的閣樓。在這裡，她躲避陽光和探尋的目光。"
+          },
+          {
+            "alt": "連帽衫和手套",
+            "caption": "日常裝扮：深色連帽衫和露指手套。"
+          },
+          {
+            "alt": "被盜的符文",
+            "caption": "米拉的符文。她需要它們的原因目前還不能透露。"
+          }
+        ],
+        "facts": [
+          {
+            "label": "年齡",
+            "value": "140歲（看起來20歲）"
+          },
+          {
+            "label": "年級",
+            "value": "五年級，歷史與檔案學"
+          },
+          {
+            "label": "房間",
+            "value": "9號（客翼）"
+          },
+          {
+            "label": "身高",
+            "value": "158公分"
+          },
+          {
+            "label": "街區角色",
+            "value": "吸血鬼小偷"
+          }
+        ],
+        "sections": [
+          {
+            "title": "性格",
+            "paragraphs": [
+              "有道德底線的小偷——會歸還一切，140年來一直保持著「債務帳本」。",
+              "在壓力下會喋喋不休地胡言亂語（情況越糟，她開玩笑的速度就越快）。",
+              "固執地忠誠——不會放開她所選擇的人。",
+              "為飢餓和貧窮感到羞恥；不知道如何尋求幫助——只會借貸。"
+            ]
+          },
+          {
+            "title": "外貌",
+            "paragraphs": [
+              "身高158公分，瘦削；一頭凌亂的深紫色頭髮；擁有垂直瞳孔的琥珀色眼睛。",
+              "咧嘴笑時露出獠牙；連帽衫、露指手套、運動鞋。",
+              "皮膚冰冷，沒有脈搏；鏡子裡的倒影會慢一秒。"
+            ]
+          },
+          {
+            "title": "背景",
+            "paragraphs": [
+              "19歲時被轉化，獨自生活了一個多世紀，不斷更換名字。80年代，她與新聞系學生苔絲·溫特成為朋友。",
+              "現在苔絲正在消失，瓦西里薩偷走米拉的錨定符文，以維持她的存在直到10月31日。"
+            ]
+          }
+        ],
+        "quote": {
+          "text": "「檯燈——三百盧布。燒瓶——純手工製作，但很有靈魂。這個局面——徹底且無條件的失敗。」"
+        },
+        "relationships": [
+          {
+            "name": "米拉·赫克斯",
+            "psychotype": "女巫",
+            "type": "夜間盜竊",
+            "description": "被她偷走符文的女巫。瓦西里薩尊重她，並為破壞社團的工作而感到內疚。"
+          },
+          {
+            "name": "內費拉·薩赫拉",
+            "psychotype": "古代人",
+            "type": "古老禮儀",
+            "description": "兩人都厭倦了關於年齡的玩笑。瓦西里薩是唯一一個不問緞帶的人。"
+          },
+          {
+            "name": "莉莉亞·「莉莉」·阿舍爾",
+            "psychotype": "魅魔",
+            "type": "按規則調情",
+            "description": "莉莉覺得她很死板，而瓦西里薩懷疑魅魔把一切都變成了表演。"
+          },
+          {
+            "name": "小林凜",
+            "psychotype": "女舍監",
+            "type": "制度性危險",
+            "description": "女舍監是最大的危險。一次真正的閣樓檢查可能會毀掉一切。"
           }
         ]
       }

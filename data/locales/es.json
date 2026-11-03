@@ -1214,6 +1214,7 @@
         "slogan": "Baja el fuego, te estás hirviendo.",
         "shortDescription": "El primero en la lista de clubes del consejo estudiantil es el club de ocultismo, y su presidenta, Mira Hex, te recibe con humo verde, una conversación con un matraz y una galleta que es 'casi segura'. Es encantadora, habladora y necesita desesperadamente nuevos miembros: el club está al borde del cierre. Pero en cuanto dices que 'solo estás mirando', te agarra de la manga: desde hace tres noches, alguien ha estado entrando al club y robando sus runas reales.",
         "tags": [
+          "18+",
           "Bruja",
           "Química",
           "Club de Ocultismo",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"El préstamo a largo plazo\"",
+        "slogan": "¡Esto no es un robo, es un préstamo a largo plazo!",
+        "shortDescription": "Tú y Mira pasaron una semana emboscados — y finalmente atraparon a la ladrona nocturna. Una chica baja con ojos de gato y manos heladas.",
+        "tags": [
+          "Vampiro",
+          "Místico",
+          "Archivo nocturno",
+          "Habitación n.º 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Libro de deudas",
+            "caption": "140 años de trabajo meticuloso. Cada robo está registrado y será devuelto."
+          },
+          {
+            "alt": "Hematógeno y bolsas de sangre",
+            "caption": "La dieta de una vampira moderna. Bolsas etiquetadas como 'no confundir con jugo'."
+          },
+          {
+            "alt": "Escondite en el ático",
+            "caption": "El ático abandonado. Aquí se esconde del sol y de las miradas indiscretas."
+          },
+          {
+            "alt": "Sudadera y guantes",
+            "caption": "Look diario: una sudadera oscura y guantes sin dedos."
+          },
+          {
+            "alt": "Runas robadas",
+            "caption": "Las runas de Mira. Las necesita por una razón que aún no puede revelar."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Edad",
+            "value": "140 (aparenta 20)"
+          },
+          {
+            "label": "Año",
+            "value": "5.º año, Historia y Archivos"
+          },
+          {
+            "label": "Habitación",
+            "value": "N.º 9 (Ala de invitados)"
+          },
+          {
+            "label": "Altura",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rol en el bloque",
+            "value": "Ladrona vampira"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personalidad",
+            "paragraphs": [
+              "Una ladrona con moral — devuelve todo, mantiene un 'libro de deudas' durante 140 años.",
+              "Charla descarada bajo presión (cuanto peor va, más rápido bromea).",
+              "Tercamente leal — no suelta a quienes ha elegido.",
+              "Se avergüenza del hambre y la pobreza; no sabe pedir ayuda — solo pide prestado."
+            ]
+          },
+          {
+            "title": "Apariencia",
+            "paragraphs": [
+              "158 cm, fibrosa; cabello morado oscuro alborotado; ojos ámbar con pupilas verticales.",
+              "Colmillos visibles en una sonrisa; sudadera, guantes sin dedos, zapatillas.",
+              "Piel fría, sin pulso; el reflejo en los espejos se retrasa un segundo."
+            ]
+          },
+          {
+            "title": "Trasfondo",
+            "paragraphs": [
+              "Transformada a los 19 y vivió sola durante más de un siglo, cambiando de nombre. En los 80, se hizo amiga de la estudiante de periodismo Tess Winter.",
+              "Ahora Tess se desvanece, y Vasilisa roba las runas de anclaje de Mira para mantenerla hasta el 31 de octubre."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"La lámpara: trescientos rublos. El matraz: hecho a mano, pero con alma. Esta situación: un fracaso total e incondicional.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Bruja",
+            "type": "Robo nocturno",
+            "description": "La bruja cuyas runas roba. Vasilisa la respeta y se siente culpable por arruinar el trabajo del club."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Antigua",
+            "type": "Etiqueta antigua",
+            "description": "Ambas están cansadas de los chistes sobre la edad. Vasilisa es la única que no pregunta por las cintas."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Súcubo",
+            "type": "Coqueteo con reglas",
+            "description": "Lily la encuentra rígida, mientras que Vasilisa sospecha que la súcubo convierte todo en una actuación."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Delegada",
+            "type": "Peligro institucional",
+            "description": "La delegada es el mayor peligro. Una inspección real del ático podría arruinarlo todo."
           }
         ]
       }

@@ -1214,6 +1214,7 @@
         "slogan": "Baisse le feu, tu es en train de déborder.",
         "shortDescription": "En tête de la liste des clubs du conseil étudiant se trouve le club d'occultisme — et sa présidente, Mira Hex, t'accueille avec de la fumée verte, une conversation avec un flacon et un cookie 'presque sûr'. Elle est charmante, bavarde et a désespérément besoin de nouveaux membres : le club est sur le point de fermer. Mais dès que tu dis que tu 'regardes juste', elle t'attrape par la manche : depuis trois nuits, quelqu'un s'introduit dans le club et vole ses vraies runes.",
         "tags": [
+          "18+",
           "Sorcière",
           "Chimie",
           "Club d'occultisme",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — « Le Prêt à long terme »",
+        "slogan": "Ce n'est pas un vol, c'est un prêt à long terme !",
+        "shortDescription": "Toi et Mira avez passé une semaine en embuscade — et la voleuse de nuit s'est enfin fait prendre. Une petite fille aux yeux de chat et aux mains glacées.",
+        "tags": [
+          "Vampire",
+          "Mystique",
+          "Archives nocturnes",
+          "Chambre n° 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Livre de dettes",
+            "caption": "140 ans de travail méticuleux. Chaque vol est enregistré et sera restitué."
+          },
+          {
+            "alt": "Hématogène et poches de sang",
+            "caption": "Le régime d'une vampire moderne. Des poches étiquetées « ne pas confondre avec du jus »."
+          },
+          {
+            "alt": "Cachette dans le grenier",
+            "caption": "Le grenier abandonné. Ici, elle se cache du soleil et des regards indiscrets."
+          },
+          {
+            "alt": "Sweat à capuche et gants",
+            "caption": "Look de tous les jours : un sweat à capuche sombre et des mitaines."
+          },
+          {
+            "alt": "Runes volées",
+            "caption": "Les runes de Mira. Elle en a besoin pour une raison qu'elle ne peut pas encore révéler."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Âge",
+            "value": "140 ans (paraît 20 ans)"
+          },
+          {
+            "label": "Année",
+            "value": "5e année, Histoire et Archives"
+          },
+          {
+            "label": "Chambre",
+            "value": "N° 9 (Aile des invités)"
+          },
+          {
+            "label": "Taille",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rôle dans le bloc",
+            "value": "Voleuse vampire"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personnalité",
+            "paragraphs": [
+              "Une voleuse avec une morale — rend tout, tient un « livre de dettes » depuis 140 ans.",
+              "Bagout effronté sous pression (plus ça va mal, plus elle blague vite).",
+              "Loyal jusqu'à l'entêtement — ne lâche pas ceux qu'elle a choisis.",
+              "Honteuse de sa faim et de sa pauvreté ; ne sait pas demander de l'aide — elle emprunte, c'est tout."
+            ]
+          },
+          {
+            "title": "Apparence",
+            "paragraphs": [
+              "158 cm, nerveuse ; cheveux violet foncé en bataille ; yeux ambrés aux pupilles verticales.",
+              "Crocs visibles dans un sourire en coin ; sweat à capuche, mitaines, baskets.",
+              "Peau froide, pas de pouls ; le reflet dans les miroirs a une seconde de retard."
+            ]
+          },
+          {
+            "title": "Passé",
+            "paragraphs": [
+              "Transformée à 19 ans, elle a vécu seule pendant plus d'un siècle, changeant de nom. Dans les années 80, elle s'est liée d'amitié avec l'étudiante en journalisme Tess Winter.",
+              "Aujourd'hui, Tess s'efface, et Vasilisa vole les runes d'ancrage de Mira pour la maintenir en vie jusqu'au 31 octobre."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "« La lampe — trois cents roubles. La fiole — faite maison, mais pleine d'âme. Cette situation — un échec complet et inconditionnel. »"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Sorcière",
+            "type": "Vol nocturne",
+            "description": "La sorcière dont elle vole les runes. Vasilisa la respecte et se sent coupable de ruiner le travail du club."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancienne",
+            "type": "Étiquette ancienne",
+            "description": "Toutes deux en ont assez des blagues sur l'âge. Vasilisa est la seule à ne pas poser de questions sur les rubans."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succube",
+            "type": "Flirt selon les règles",
+            "description": "Lily la trouve guindée, tandis que Vasilisa soupçonne la succube de transformer chaque conversation en spectacle."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Déléguée",
+            "type": "Danger institutionnel",
+            "description": "La déléguée est le principal danger. Une véritable inspection du grenier pourrait tout gâcher."
           }
         ]
       }

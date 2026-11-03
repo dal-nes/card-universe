@@ -1214,6 +1214,7 @@
         "slogan": "불 줄여, 끓어넘치고 있어.",
         "shortDescription": "학생회 동아리 목록의 첫 번째는 오컬트 동아리이며, 그 회장인 미라 헥스는 초록 연기, 플라스크와의 대화, 그리고 '거의 안전한' 쿠키로 당신을 맞이합니다. 그녀는 매력적이고 수다스러우며 새로운 부원이 절실히 필요합니다. 동아리가 폐부 직전이기 때문입니다. 하지만 당신이 '그냥 구경하는 중'이라고 말하는 순간, 그녀는 당신의 소매를 붙잡습니다. 3일 밤째 누군가 동아리에 침입해 그녀의 진짜 룬을 훔쳐가고 있기 때문입니다.",
         "tags": [
+          "18+",
           "마녀",
           "화학",
           "오컬트 동아리",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "바실리사 폰 벨드",
+        "cardTitle": "바실리사 — \"장기 대여\"",
+        "slogan": "이건 절도가 아니라 장기 대여야!",
+        "shortDescription": "당신과 미라는 일주일 동안 잠복했고, 마침내 밤의 도둑을 잡았습니다. 고양이 눈과 얼음처럼 차가운 손을 가진 작은 소녀.",
+        "tags": [
+          "뱀파이어",
+          "신비로운",
+          "밤의 기록보관소",
+          "9호실"
+        ],
+        "coverAlt": "바실리사 폰 벨드",
+        "gallery": [
+          {
+            "alt": "부채 장부",
+            "caption": "140년의 꼼꼼한 작업. 모든 절도가 기록되었으며 반환될 것입니다."
+          },
+          {
+            "alt": "헤마토겐과 혈액 팩",
+            "caption": "현대 뱀파이어의 식단. '주스와 혼동하지 마시오'라고 적힌 팩."
+          },
+          {
+            "alt": "다락방 은신처",
+            "caption": "버려진 다락방. 여기서 태양과 남의 시선을 피해 숨어 있습니다."
+          },
+          {
+            "alt": "후드티와 장갑",
+            "caption": "일상적인 모습: 어두운 후드티와 손가락이 없는 장갑."
+          },
+          {
+            "alt": "훔친 룬",
+            "caption": "미라의 룬. 아직 밝힐 수 없는 이유로 필요합니다."
+          }
+        ],
+        "facts": [
+          {
+            "label": "나이",
+            "value": "140세 (20세로 보임)"
+          },
+          {
+            "label": "학년",
+            "value": "5학년, 역사 및 기록보관학"
+          },
+          {
+            "label": "방",
+            "value": "9호 (게스트 윙)"
+          },
+          {
+            "label": "키",
+            "value": "158 cm"
+          },
+          {
+            "label": "블록 내 역할",
+            "value": "뱀파이어 도둑"
+          }
+        ],
+        "sections": [
+          {
+            "title": "성격",
+            "paragraphs": [
+              "도덕적인 도둑 — 모든 것을 반환하고 140년 동안 '부채 장부'를 유지합니다.",
+              "압박을 받으면 뻔뻔하게 재잘거립니다 (상황이 나빠질수록 농담을 빨리 합니다).",
+              "고집스러울 정도로 충성스럽습니다 — 한 번 선택한 사람은 놓지 않습니다.",
+              "배고픔과 가난을 부끄러워합니다. 도움을 요청할 줄 모르고 오직 빌리기만 합니다."
+            ]
+          },
+          {
+            "title": "외모",
+            "paragraphs": [
+              "158 cm, 마른 체격; 헝클어진 짙은 보라색 머리카락; 수직 동공을 가진 호박색 눈.",
+              "웃을 때 송곳니가 보입니다. 후드티, 손가락 없는 장갑, 운동화.",
+              "차가운 피부, 맥박 없음; 거울에 비친 모습이 1초 늦게 나타납니다."
+            ]
+          },
+          {
+            "title": "배경",
+            "paragraphs": [
+              "19세에 뱀파이어가 되어 이름을 바꾸며 한 세기 이상 혼자 살았습니다. 80년대에는 저널리즘 전공 학생인 테스 윈터와 친구가 되었습니다.",
+              "이제 테스가 사라져 가고 있으며, 바실리사는 10월 31일까지 그녀를 유지하기 위해 미라의 앵커 룬을 훔치고 있습니다."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"램프 — 300루블. 플라스크 — 직접 만든 것이지만 정감이 간다. 이 상황은 — 완전하고 무조건적인 실패다.\""
+        },
+        "relationships": [
+          {
+            "name": "미라 헥스",
+            "psychotype": "마녀",
+            "type": "밤의 절도",
+            "description": "룬을 훔치는 마녀. 바실리사는 그녀를 존경하며 클럽 활동을 망친 것에 대해 죄책감을 느낍니다."
+          },
+          {
+            "name": "네페라 사흐라",
+            "psychotype": "고대인",
+            "type": "고대의 예절",
+            "description": "둘 다 나이에 관한 농담에 지쳐 있습니다. 바실리사는 리본에 대해 묻지 않는 유일한 사람입니다."
+          },
+          {
+            "name": "릴리아 \"릴리\" 애셔",
+            "psychotype": "서큐버스",
+            "type": "규칙에 따른 유혹",
+            "description": "릴리는 그녀를 딱딱하다고 생각하고, 바실리사는 서큐버스가 모든 것을 쇼로 만든다고 의심합니다."
+          },
+          {
+            "name": "코바야시 린",
+            "psychotype": "기숙사장",
+            "type": "제도적 위험",
+            "description": "기숙사장이 가장 큰 위험입니다. 다락방을 실제로 점검하면 모든 것이 망가질 수 있습니다."
           }
         ]
       }

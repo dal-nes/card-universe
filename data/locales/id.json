@@ -1214,6 +1214,7 @@
         "slogan": "Kecilkan apinya, kamu mendidih.",
         "shortDescription": "Pertama dalam daftar klub dewan siswa adalah klub okultisme — dan presidennya, Mira Hex, menyambutmu dengan asap hijau, percakapan dengan labu, dan kue yang 'hampir aman'. Dia menawan, banyak bicara, dan sangat membutuhkan anggota baru: klub ini hampir tutup. Tapi begitu kamu bilang kamu 'hanya melihat-lihat', dia menarik lengan bajumu: selama tiga malam sekarang, seseorang telah membobol klub dan mencuri rune aslinya.",
         "tags": [
+          "18+",
           "Penyihir",
           "Kimia",
           "Klub Okultisme",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"Pinjaman Jangka Panjang\"",
+        "slogan": "Ini bukan pencurian, ini pinjaman jangka panjang!",
+        "shortDescription": "Kamu dan Mira menghabiskan seminggu dalam penyergapan — dan akhirnya pencuri malam itu tertangkap. Seorang gadis mungil dengan mata kucing dan tangan sedingin es.",
+        "tags": [
+          "Vampir",
+          "Mistik",
+          "Arsip Malam",
+          "Kamar No. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Buku utang",
+            "caption": "140 tahun kerja teliti. Setiap pencurian dicatat dan akan dikembalikan."
+          },
+          {
+            "alt": "Hematogen dan kantong darah",
+            "caption": "Diet vampir modern. Kantong berlabel 'jangan tertukar dengan jus'."
+          },
+          {
+            "alt": "Persembunyian di loteng",
+            "caption": "Loteng terbengkalai. Di sinilah ia bersembunyi dari matahari dan mata yang mengintip."
+          },
+          {
+            "alt": "Hoodie dan sarung tangan",
+            "caption": "Penampilan sehari-hari: hoodie gelap dan sarung tangan tanpa jari."
+          },
+          {
+            "alt": "Rune yang dicuri",
+            "caption": "Rune milik Mira. Dia membutuhkannya untuk alasan yang belum bisa dia ungkapkan."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Usia",
+            "value": "140 (tampak 20)"
+          },
+          {
+            "label": "Tahun",
+            "value": "Tahun ke-5, Sejarah & Arsip"
+          },
+          {
+            "label": "Kamar",
+            "value": "No. 9 (Sayap Tamu)"
+          },
+          {
+            "label": "Tinggi",
+            "value": "158 cm"
+          },
+          {
+            "label": "Peran di blok",
+            "value": "Pencuri vampir"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kepribadian",
+            "paragraphs": [
+              "Pencuri dengan moral — mengembalikan semuanya, menyimpan 'buku utang' selama 140 tahun.",
+              "Cerewet kurang ajar di bawah tekanan (semakin buruk, semakin cepat dia bercanda).",
+              "Setia yang keras kepala — tidak melepaskan orang yang telah dia pilih.",
+              "Malu akan kelaparan dan kemiskinan; tidak tahu cara meminta bantuan — hanya meminjam."
+            ]
+          },
+          {
+            "title": "Penampilan",
+            "paragraphs": [
+              "158 cm, kurus; rambut ungu gelap compang-camping; mata kuning dengan pupil vertikal.",
+              "Taring terlihat saat menyeringai; hoodie, sarung tangan tanpa jari, sepatu kets.",
+              "Kulit dingin, tidak ada denyut nadi; pantulan di cermin terlambat satu detik."
+            ]
+          },
+          {
+            "title": "Latar Belakang",
+            "paragraphs": [
+              "Berubah pada usia 19 dan hidup mandiri selama lebih dari satu abad, berganti nama. Pada tahun 80-an, ia berteman dengan mahasiswi jurnalistik Tess Winter.",
+              "Sekarang Tess memudar, dan Vasilisa mencuri rune jangkar Mira untuk membuatnya bertahan hingga 31 Oktober."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Lampu — tiga ratus rubel. Labu — buatan sendiri, tapi penuh jiwa. Situasi ini — kegagalan total dan tanpa syarat.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Penyihir",
+            "type": "Pencurian malam",
+            "description": "Penyihir yang rune-nya dia curi. Vasilisa menghormatinya dan merasa bersalah karena menghancurkan pekerjaan klub."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Kuno",
+            "type": "Etiket kuno",
+            "description": "Keduanya lelah dengan lelucon usia. Vasilisa adalah satu-satunya yang tidak bertanya tentang pitanya."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukubus",
+            "type": "Flirt sesuai aturan",
+            "description": "Lily menganggapnya kaku, sementara Vasilisa mencurigai sukubus itu mengubah segalanya menjadi pertunjukan."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Ketua kelas",
+            "type": "Bahaya institusional",
+            "description": "Ketua kelas adalah bahaya utama. Inspeksi loteng sungguhan bisa menghancurkan segalanya."
           }
         ]
       }

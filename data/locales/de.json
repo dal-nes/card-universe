@@ -1214,6 +1214,7 @@
         "slogan": "Dreh die Hitze runter, du kochst über.",
         "shortDescription": "Ganz oben auf der Club-Liste des Studentenrats steht der Okkult-Club — und dessen Präsidentin Mira Hex begrüßt dich mit grünem Rauch, einem Gespräch mit einem Kolben und einem Keks, der 'fast sicher' ist. Sie ist charmant, gesprächig und braucht dringend neue Mitglieder: Der Club steht kurz vor der Schließung. Aber kaum sagst du, dass du 'nur mal schaust', packt sie dich am Ärmel: Seit drei Nächten bricht jemand in den Club ein und stiehlt ihre echten Runen.",
         "tags": [
+          "18+",
           "Hexe",
           "Chemie",
           "Okkult-Club",
@@ -1414,6 +1415,118 @@
             "artist": "Mira Hex",
             "description": "",
             "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — „Das langfristige Darlehen“",
+        "slogan": "Das ist kein Diebstahl, das ist ein langfristiges Darlehen!",
+        "shortDescription": "Du und Mira habt eine Woche im Hinterhalt verbracht — und endlich wurde die nächtliche Diebin gefasst. Ein kleines Mädchen mit Katzenaugen und eiskalten Händen.",
+        "tags": [
+          "Vampir",
+          "Mystik",
+          "Nachtarchiv",
+          "Zimmer Nr. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Schuldenbuch",
+            "caption": "140 Jahre sorgfältige Arbeit. Jeder Diebstahl wird protokolliert und zurückgegeben."
+          },
+          {
+            "alt": "Hämatogen und Blutkonserven",
+            "caption": "Die Ernährung eines modernen Vampirs. Packungen mit der Aufschrift „Nicht mit Saft verwechseln“."
+          },
+          {
+            "alt": "Versteck auf dem Dachboden",
+            "caption": "Der verlassene Dachboden. Hier versteckt sie sich vor der Sonne und neugierigen Blicken."
+          },
+          {
+            "alt": "Kapuzenpullover und Handschuhe",
+            "caption": "Alltagslook: ein dunkler Kapuzenpullover und fingerlose Handschuhe."
+          },
+          {
+            "alt": "Gestohlene Runen",
+            "caption": "Miras Runen. Sie braucht sie aus einem Grund, den sie noch nicht preisgeben kann."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Alter",
+            "value": "140 (sieht aus wie 20)"
+          },
+          {
+            "label": "Studienjahr",
+            "value": "5. Jahr, Geschichte & Archive"
+          },
+          {
+            "label": "Zimmer",
+            "value": "Nr. 9 (Gästeflügel)"
+          },
+          {
+            "label": "Größe",
+            "value": "158 cm"
+          },
+          {
+            "label": "Rolle im Block",
+            "value": "Vampir-Diebin"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Persönlichkeit",
+            "paragraphs": [
+              "Eine Diebin mit Moral — gibt alles zurück, führt 140 Jahre lang ein „Schuldenbuch“.",
+              "Freches Geplänkel unter Druck (je schlimmer es wird, desto schneller scherzt sie).",
+              "Stur loyal — lässt nicht los, wen sie sich ausgesucht hat.",
+              "Schämt sich für Hunger und Armut; weiß nicht, wie man um Hilfe bittet — leiht sich nur."
+            ]
+          },
+          {
+            "title": "Aussehen",
+            "paragraphs": [
+              "158 cm, drahtig; zerzaustes dunkelviolettes Haar; bernsteinfarbene Augen mit vertikalen Pupillen.",
+              "Fangzähne beim Grinsen sichtbar; Kapuzenpullover, fingerlose Handschuhe, Turnschuhe.",
+              "Kalte Haut, kein Puls; das Spiegelbild hinkt eine Sekunde hinterher."
+            ]
+          },
+          {
+            "title": "Hintergrund",
+            "paragraphs": [
+              "Mit 19 verwandelt und über ein Jahrhundert allein gelebt, Namen gewechselt. In den 80ern freundete sie sich mit der Journalistikstudentin Tess Winter an.",
+              "Jetzt verblasst Tess, und Vasilisa stiehlt Miras Ankerrunen, um sie bis zum 31. Oktober am Leben zu erhalten."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "„Die Lampe – dreihundert Rubel. Der Kolben – handgemacht, aber mit Seele. Diese Situation – ein völliger und bedingungsloser Misserfolg.“"
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Hexe",
+            "type": "Nächtlicher Diebstahl",
+            "description": "Die Hexe, deren Runen sie stiehlt. Vasilisa respektiert sie und fühlt sich schuldig, weil sie die Arbeit des Clubs ruiniert."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Uralt",
+            "type": "Uralte Etikette",
+            "description": "Beide haben genug von Witzen über das Alter. Vasilisa ist die Einzige, die nicht nach den Bändern fragt."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Sukkubus",
+            "type": "Flirten nach Regeln",
+            "description": "Lily findet sie steif, während Vasilisa vermutet, dass der Sukkubus alles in eine Aufführung verwandelt."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Heimleiterin",
+            "type": "Institutionelle Gefahr",
+            "description": "Die Heimleiterin ist die größte Gefahr. Eine echte Dachbodenkontrolle könnte alles ruinieren."
           }
         ]
       }
