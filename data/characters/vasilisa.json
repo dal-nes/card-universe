@@ -1,7 +1,7 @@
 {
   "id": "vasilisa",
   "number": 10,
-  "status": "available1",
+  "status": "available",
   "releaseDate": "2026-11-03",
   "accent": "#8b1c3d",
   "cover": "assets/images/covers/vasilisa/main-cover.png",
@@ -30,7 +30,24 @@
       "src": "assets/images/gallery/vasilisa/vasilisa_rune_lingerie_nsfw_05.jpg"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/vasilisa/THE-LEDGER.mp3",
+      "cover": "assets/images/covers/vasilisa/songs/THE-LEDGER.png"
+    },
+    {
+      "src": "assets/audio/vasilisa/BORROWED-HEAT.mp3",
+      "cover": "assets/images/covers/vasilisa/songs/BORROWED-HEAT.png"
+    },
+    {
+      "src": "assets/audio/vasilisa/ONE-SECOND LATE.mp3",
+      "cover": "assets/images/covers/vasilisa/songs/ONE-SECOND-LATE.png"
+    },
+    {
+      "src": "assets/audio/vasilisa/NO-RECEIPT.mp3",
+      "cover": "assets/images/covers/vasilisa/songs/NO-RECEIPT.png"
+    }
+  ],
   "relationships": [
     {
       "characterId": "mira"
