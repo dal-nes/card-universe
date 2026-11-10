@@ -1,0 +1,75 @@
+{
+  "id": "tess",
+  "number": 11,
+  "status": "available",
+  "releaseDate": "2026-11-05",
+  "accent": "#00f0ff",
+  "cover": "assets/images/covers/tess/main-cover.png",
+  "covers": [
+    "assets/images/covers/tess/main-cover.png",
+    "assets/images/covers/tess/cover-2.png",
+    "assets/images/covers/tess/cover-3.png",
+    "assets/images/covers/tess/cover-4.png",
+    "assets/images/covers/tess/cover-5.png"
+  ],
+  "chatUrl": "https://tipsy.chat/chat/1793722457136411189",
+  "gallery": [
+    {
+      "src": "assets/images/gallery/tess/gallery-1.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-2.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-3.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-4.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-5.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-6.png"
+    },
+    {
+      "src": "assets/images/gallery/tess/gallery-7.png"
+    }
+  ],
+  "tracks": [
+    {
+      "src": "assets/audio/tess/TWO-BLINKS.mp3",
+      "cover": "assets/images/covers/tess/songs/TWO-BLINKS.png"
+    },
+    {
+      "src": "assets/audio/tess/DON'T-MAKE-A-HOME.mp3",
+      "cover": "assets/images/covers/tess/songs/Dont-Make-a-Home.png"
+    },
+    {
+      "src": "assets/audio/tess/WORDS-GO-FIRST.mp3",
+      "cover": "assets/images/covers/tess/songs/Words-Go-First.png"
+    },
+    {
+      "src": "assets/audio/tess/DEAD-AIR-FM.mp3",
+      "cover": "assets/images/covers/tess/songs/Dead-Air-FM.png"
+    }
+  ],
+  "relationships": [
+    {
+      "characterId": "vasilisa"
+    },
+    {
+      "characterId": "mira"
+    },
+    {
+      "characterId": "rin"
+    },
+    {
+      "characterId": "lily"
+    },
+    {
+      "characterId": "aika"
+    }
+  ],
+  "tags": []
+}

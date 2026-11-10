@@ -93,7 +93,7 @@
       "characterId": "lily"
     },
     {
-      "characterId": "ada"
+      "characterId": "tess"
     },
     {
       "characterId": "nefera"
@@ -106,6 +106,12 @@
     },
     {
       "characterId": "yuna"
+    },
+    {
+      "characterId": "aika"
+    },
+    {
+      "characterId": "rei"
     }
   ],
   "tags": [

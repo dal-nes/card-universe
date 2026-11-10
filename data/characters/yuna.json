@@ -172,7 +172,7 @@
   },
   "relationships": [
     {
-      "characterId": "ada"
+      "characterId": "tess"
     },
     {
       "characterId": "rei"
@@ -188,6 +188,9 @@
     },
     {
       "characterId": "lily"
+    },
+    {
+      "characterId": "vasilisa"
     }
   ],
   "covers": [

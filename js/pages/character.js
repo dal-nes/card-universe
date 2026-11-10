@@ -10,8 +10,11 @@ SL.pages = SL.pages || {};
   let charactersById = {};
   let mainEl = null;
 
+
   async function init() {
+
     mainEl = document.getElementById("character-main");
+
     if (!mainEl) return;
 
     const id = new URLSearchParams(window.location.search).get("id");
@@ -39,6 +42,7 @@ SL.pages = SL.pages || {};
       return;
     }
     if (character.accent) document.body.style.setProperty("--card-accent", character.accent);
+
 
     const prefix = `content.characters.${character.id}.`;
     document.title = t(prefix + "cardTitle") + " — STUDENT LIFE";
@@ -141,6 +145,7 @@ SL.pages = SL.pages || {};
       el("h1", { class: "char-hero__name", text: t(prefix + "name") }),
       el("p", { class: "char-hero__cardtitle", text: t(prefix + "cardTitle") }),
       el("p", { class: "char-hero__slogan", text: t(prefix + "slogan") }),
+
       el("div", { class: "char-hero__tags" },
         cleanTags.map((tag) => el("span", { class: "tag", text: tag }))
       ),
@@ -315,4 +320,5 @@ SL.pages = SL.pages || {};
   }
 
   SL.pages.character = { init };
+
 })(window.SL);

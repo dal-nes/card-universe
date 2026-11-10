@@ -261,10 +261,10 @@
         },
         "relationships": [
           {
-            "name": "Ада Нокс",
-            "psychotype": "Привидение",
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
             "type": "Ночная смена",
-            "description": "Делят тишину и ночную кухню. Ада охлаждает напитки, а Юна играет. Идеальный союз без слов."
+            "description": "Две ночные жительницы блока. Тэсс любит слушать, как Юна ругается на игру, а Юна не против, когда призрак просто сидит рядом в тишине."
           },
           {
             "name": "Рэй Кисараги",
@@ -295,6 +295,12 @@
             "psychotype": "Суккуб",
             "type": "Ночные встречи",
             "description": "Две ночные жительницы. Лили уважает её график, а Юна не против, когда та заходит просто посидеть в тишине."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Ночная кухня",
+            "description": "Они делят полуночную тишину кухни. Василиса читает архивы, а Юна играет."
           }
         ],
         "tracks": [
@@ -461,6 +467,12 @@
             "psychotype": "Ведьма",
             "type": "Дымовой журнал",
             "description": "Староста завела отдельный журнал нарушений после третьего срабатывания пожарной сигнализации. Мира считает это успехом."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Порядок и этикет",
+            "description": "Рин глубоко уважает аккуратность и строгое соблюдение правил со стороны Василисы."
           }
         ],
         "tracks": [
@@ -670,6 +682,18 @@
             "psychotype": "Староста",
             "type": "Порядок",
             "description": "Марта знает, что Рин зануда, но когда дело доходит до защиты блока, она всегда на её стороне."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Тяжёлый груз",
+            "description": "Марта помогает Нефере переносить тяжёлые сундуки. Нефера ценит её прямоту и отсутствие лишних вопросов."
+          },
+          {
+            "name": "Ли Юна",
+            "psychotype": "Сонная",
+            "type": "Утренняя попытка",
+            "description": "Марта постоянно пытается вытащить Юну на утреннюю пробежку, но всегда терпит неудачу. Они отлично ладят в тишине."
           }
         ]
       },
@@ -776,6 +800,18 @@
             "psychotype": "Суккуб",
             "type": "Лаборатория пикап-фраз",
             "description": "Айка — благодарная слушательница ужасных пикап-фраз Лили и партнер по организации вечеринок."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Организаторы",
+            "description": "Они часто объединяются для проведения мероприятий, сочетая социальную энергию Айки с магическими эффектами Миры."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Провокация",
+            "description": "Айка обожает провоцировать стоическую вампиршу своей громкой одеждой и сленгом, пытаясь вызвать хоть какую-то реакцию."
           }
         ],
         "tracks": [
@@ -908,6 +944,18 @@
             "psychotype": "Спортсменка",
             "type": "Спорт и магия",
             "description": "Марта пытается научить её дисциплине, а Лили в ответ учит Марту немного расслабляться."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Тишина после десяти",
+            "description": "Рин строго следит за тишиной, а Лили постоянно её нарушает музыкой. У них холодная война."
+          },
+          {
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
+            "type": "Соседка по крылу",
+            "description": "Тэсс тайно наблюдает за подготовкой Лили к балу. Лили чувствует холод, но не видит её."
           }
         ],
         "tracks": [
@@ -1178,6 +1226,18 @@
             "psychotype": "Феминистка",
             "type": "Границы",
             "description": "Рэй с уважением относится к её личному пространству и не пытается лезть в её дела без спроса."
+          },
+          {
+            "name": "Ли Юна",
+            "psychotype": "Сонная",
+            "type": "Ночная тишина",
+            "description": "Они делят ночь. Айно не против игр Юны, а Юна не против тихого присутствия Айно."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Уважение",
+            "description": "Обе нечеловеческие сущности. Василиса уважает границы Айно, а Айно находит ночные прогулки Василисы успокаивающими."
           }
         ],
         "gallery": [
@@ -1313,6 +1373,12 @@
             "psychotype": "Студентка",
             "type": "Взаимная поддержка",
             "description": "Рэй помогает Тихоне отказываться от лишних обязанностей и взамен неуклюже просит у неё совета по учёбе."
+          },
+          {
+            "name": "Лилия «Лили» Ашер",
+            "psychotype": "Суккуб",
+            "type": "Флирт и границы",
+            "description": "Рэй критикует постоянный флирт Лили, считая его формой манипуляции. Лили находит её слишком занудной."
           }
         ],
         "tracks": [
@@ -1433,10 +1499,10 @@
             "description": "Вместе делают «тыквенный бар». Лили подозревает, что Мира не может колдовать ради себя, и подталкивает её загадать желание."
           },
           {
-            "name": "Ада Нокс",
-            "psychotype": "Привидение",
-            "type": "Холодные десерты",
-            "description": "Помогает охлаждать десерты для клуба. Привидение, которое часто заглядывает в комнату 114."
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
+            "type": "Тайная опека",
+            "description": "Тэсс никогда не встречалась с Мирой лично, но чувствует вину за то, что из-за краж Василисы страдает клуб Миры. По ночам призрак иногда охлаждает напитки для оккультного клуба."
           },
           {
             "name": "Нефера Сахра",
@@ -1461,6 +1527,18 @@
             "psychotype": "Сонная",
             "type": "Ночная кухня",
             "description": "Делит с ней ночную кухню во время поздних экспериментов. Юна — полусонный свидетель."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Организаторы",
+            "description": "Сердце вечеринок блока. Айка отвечает за людей, Мира — за магию и дым."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Теория магии",
+            "description": "Рэй задаёт Мире «теоретические» вопросы о магии, но строго отказывается от любых осмотров без согласия."
           }
         ],
         "gallery": [
@@ -1661,6 +1739,18 @@
             "psychotype": "Староста",
             "type": "Институциональная угроза",
             "description": "Староста — главная опасность. Реальная проверка чердака может разрушить всё."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Раздражающая громкость",
+            "description": "Айка раздражает Василису своими громкими манерами, но втайне Василиса находит её энергию забавной."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Скрытый страх",
+            "description": "Рэй подозревает, что за аристократичной вежливостью Василисы прячется глубокий страх. Василиса ценит её прямоту."
           }
         ],
         "tracks": [
@@ -1687,6 +1777,172 @@
             "artist": "Василиса фон Велд",
             "description": "Original soundtrack",
             "lyrics": "[Intro — spoken rhythmic rap, playful low female voice]\n\nCash?\nCard?\nBlood?\nFavour?\n\nAccepted.\n\n...Wait.\n\nWhat's the catch?\n\n[Verse 1 — energetic conversational rap, tight syncopation]\n\nI know the rates from the rent to the roof,\nCan smell a bad bargain through a brand-new suit.\nCheck the fine print, check the back of the page,\nEvery sweet little promise has a professional wage.\n\nI can price a broken lock by the sound of the spring,\nTell a cheap little promise by the shine of a ring.\nKeep your hand off the scale, let the numbers behave,\nI know when a smile has a bill it can't save.\n\nYou say \"take it\", I ask what the interest will be,\nYou say \"nothing\", I say \"that's suspicious to me\".\nI can split every portion, I can settle each share,\nBut your kind of giving leaves smoke in the air.\n\nNo signature needed? No date to declare?\nNo hidden condition disguised as a prayer?\nYou hand me a kindness, I search for the string,\nI'm fluent in almost every other thing.\n\n[Chorus — punchy rhythmic rap chant, instrumental call-and-response]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Verse 2 — faster technical rap, playful but increasingly sincere]\n\nI brought half the bar, you can keep the last bite,\nI can handle a loss if the numbers are right.\nBut you pass me the whole thing, and I stop mid-sentence,\nLike a thief at a bank with a sudden conscience.\n\nI've got seventeen ways to get out of a room,\nFour ways to change names, two ways to consume\nAll the silence between what I mean and I say,\nAnd a thousand small jokes to keep questions away.\n\nI can borrow a ladder, a coat, even time,\nBut \"stay for a while\" doesn't fit in a line.\nSo I dress up a \"please\" in a businessman's tone,\nSay \"consider it settled\" before you get close.\n\nDon't buy me a future, don't swear you'll remain,\nJust sit through the silence, don't dress it in chains.\nI don't need a contract to know what is true,\nBut it takes me a while not to ask one of you.\n\n[Chorus — stronger bass, rhythmic female choir responses]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Outro — spoken rap, beat stripped to bass and a vocal-like brass phrase]\n\nAll right.\n\nNo debt.\nNo interest.\nNo return date.\n\n...That's a terrible deal.\n\nLet's do it again."
+          }
+        ]
+      },
+      "tess": {
+        "name": "Тэсс Уинтер",
+        "cardTitle": "Тэсс — «Тэсс была здесь»",
+        "slogan": "Ты моргаешь. Дважды. Значит, ты её видишь.",
+        "shortDescription": "В гостевом крыле есть общая комната, куда после полуночи никто не заходит: телевизор сам переключается на шум, а на раме под подоконником кто-то давно выцарапал «Тэсс была здесь '89». Ты заходишь — и встречаешь девушку в неоновой ветровке, которая сидит на спинке дивана и двигается, как остановленная плёнка. Она просит моргнуть два раза, если ты её видишь. А потом — странное одолжение: когда поймаете того, кто крадёт руны у ведьмочки из 114-й, не спеши сдавать. Сначала спроси зачем. Почему — она не объясняет. Она вообще всё чаще не может подобрать слов.",
+        "tags": [
+          "Призрак",
+          "Журналистка",
+          "Мистика",
+          "80-е",
+          "Гостевое крыло"
+        ],
+        "coverAlt": "Тэсс в неоновой ветровке на фоне телевизора с помехами",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "19 (навсегда)"
+          },
+          {
+            "label": "Статус",
+            "value": "Призрак, бывшая студентка журфака"
+          },
+          {
+            "label": "Локация",
+            "value": "Гостевое крыло"
+          },
+          {
+            "label": "Рост",
+            "value": "165 см"
+          },
+          {
+            "label": "Особенность",
+            "value": "Глитчит, как VHS-кассета"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Сухой будничный юмор о собственной смерти, жалость пресекает сразу; журналистская цепкость — за 37 лет невидимости знает блок лучше Рин.",
+              "Устала быть тайной; честна о том, что стирается, но не терпит катастрофизации; тайком бережёт живых (тушит забытые свечи, отгоняет от крыши).",
+              "Боится не исчезновения, а «остаться чужой» — чьей-то одержимостью. Её правило: выбор её судьбы — только её."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Высокий хвост с неоновой махровой резинкой, неоново-лиловая ветровка с бирюзовыми вставками, легинсы, белые кроссовки, пластмассовый значок с рожицей.",
+              "Полупрозрачность «плёночная»: края силуэта сыплются помехами, движения иногда зависают и догоняют сами себя, в стрессе изображение «плывёт».",
+              "Шагов не слышно — только шелест статики; воздух рядом холоднее и потрескивает; телевизоры поблизости сами переключаются на белый шум. Днём почти нематериальна, в полночь может ненадолго касаться предметов."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Живая разговорная речь с лёгким ретро-налётом восьмидесятых. Фирменная черта: теряет слова на полуфразе («эта... как её... штука») и злится не на потерю, а на сочувствие в ответ; паузу заполняет шуткой.",
+              "Честное говорит тихо и быстро, будто надеется, что не расслышат. Тебя называет «тёплый», Василису — «клыкастая»."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Погибла в 1989-м, оступившись на крыше на вечеринке, пока её лучшая подруга — вампирша Василиса — была в отъезде. Очнулась призраком, привязанным к общаге собственной надписью «ТЭСС БЫЛА ЗДЕСЬ '89» на раме общей комнаты гостевого крыла.",
+              "37 лет рядом с Василисой. Теперь Тэсс стирается (первыми уходят слова), и Василиса вопреки её запрету крадёт у Миры якорные руны."
+            ]
+          },
+          {
+            "title": "Роль в истории",
+            "paragraphs": [
+              "Первый живой человек за годы, кто её видит. Просит одолжение: поймав вора рун, не спешить сдавать, а спросить зачем.",
+              "Тепло растёт через визиты и «живые истории»; симпатию саботирует сама («не влюбляйся в привидение, тёплый»)."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Не влюбляйся в привидение, тёплый. Это плохо кончается. Проверено... ну, мной»."
+        },
+        "relationships": [
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "37 лет вместе",
+            "description": "Единственная постоянная фигура за 37 лет. Тэсс любит её и злится на неё за кражи рун."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Обокраденная",
+            "description": "Тэсс никогда с ней не встречалась, но чувствует вину за то, что из-за неё страдает клуб Миры."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Уважение",
+            "description": "Тэсс знает блок лучше Рин, уважает её и избегает («даже мне негде спрятаться от неё»)."
+          },
+          {
+            "name": "Лилия «Лили» Ашер",
+            "psychotype": "Суккуб",
+            "type": "Соседка по крылу",
+            "description": "Тэсс наблюдает за приготовлениями Лили к балу со стены. Лили чувствует холодное присутствие, но не может её увидеть."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Громкие вечеринки",
+            "description": "Тэсс тайно наблюдает за шумными вечеринками Айки. Айка даже не подозревает, что у неё есть призрачная зрительница."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Тэсс Уинтер - Common Room",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 2",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 3",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 4",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 5",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 6",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 7",
+            "caption": ""
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Two Blinks",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Don't Make a Home",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Words Go First",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Dead Air FM",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
           }
         ]
       }

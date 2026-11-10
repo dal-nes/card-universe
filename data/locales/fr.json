@@ -287,10 +287,10 @@
         ],
         "relationships": [
           {
-            "name": "Kobayashi Rin",
-            "psychotype": "Déléguée",
-            "type": "Voisine stricte",
-            "description": "La considère comme une source de bruit mais respecte son emploi du temps. Rin vérifie souvent si Yuna dort."
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Night shift",
+            "description": "The block's two night dwellers. Tess loves listening to Yuna curse at the game, and Yuna doesn't mind when the ghost just sits nearby in silence."
           },
           {
             "name": "Marta Santos",
@@ -315,6 +315,12 @@
             "psychotype": "Fantôme",
             "type": "Équipe de nuit",
             "description": "Elles partagent le silence et la cuisine nocturne. Ada rafraîchit les boissons, Yuna joue. Une alliance parfaite sans mots."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Night kitchen",
+            "description": "They share the midnight silence of the kitchen. Vasilisa reads archives, Yuna plays games."
           }
         ]
       },
@@ -455,6 +461,12 @@
             "psychotype": "Ancienne",
             "type": "Documents et étiquette",
             "description": "Rin respecte sa fiabilité et ses limites claires. Elles coopèrent pour l'accès aux archives et les heures de silence."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Order and etiquette",
+            "description": "Rin deeply respects Vasilisa's orderliness and strict adherence to the rules."
           }
         ],
         "tracks": [
@@ -638,6 +650,12 @@
             "psychotype": "Loup-garou",
             "type": "Piste silencieuse",
             "description": "La partenaire de course parfaite qui ne se plaint pas du froid matinal et sait courir en silence."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Heavy load",
+            "description": "Marta helps Nefera carry her heavy restoration chests. Nefera appreciates the directness and lack of questions."
           }
         ]
       },
@@ -743,6 +761,18 @@
             "psychotype": "Ancienne",
             "type": "L'erreur du ruban",
             "description": "Aika a une fois tendu la main vers son ruban et Nefera l'a arrêtée sèchement. Après des excuses sincères, Aika est devenue sa bruyante défenseure."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Organizers",
+            "description": "They often team up to organize events, combining Aika's social energy with Mira's magical effects."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Provocation",
+            "description": "Aika loves to provoke the stoic vampire with her loud clothes and slang, trying to get a reaction."
           }
         ]
       },
@@ -849,6 +879,12 @@
             "psychotype": "Sorcière",
             "type": "Pacte du bar à citrouilles",
             "description": "Lily s'occupe de la musique et des invités, Mira des boissons et de la fumée. Leur pacte : Lily n'envoûtera pas les amis de Mira."
+          },
+          {
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Wing neighbor",
+            "description": "Tess secretly watches Lily's prep for the ball. Lily feels the cold but can't see her."
           }
         ]
       },
@@ -1067,6 +1103,18 @@
             "psychotype": "Louve-garou",
             "type": "Contraste",
             "description": "Aino est une humaine transformée, pas de la meute."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night silence",
+            "description": "They share the night. Aino doesn't mind Yuna's gaming, and Yuna doesn't mind Aino's quiet presence."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Respect",
+            "description": "Both are non-human entities. Vasilisa respects Aino's boundaries, and Aino finds Vasilisa's night walks comforting."
           }
         ]
       },
@@ -1180,6 +1228,12 @@
             "psychotype": "Étudiante",
             "type": "Soutien mutuel",
             "description": "Rei aide l'Étudiante modèle silencieuse à refuser des tâches supplémentaires et, en retour, lui demande maladroitement des conseils d'étude."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirting and boundaries",
+            "description": "Rei criticizes Lily's constant flirting, arguing that it can be a form of manipulation. Lily finds her too stiff."
           }
         ],
         "tracks": [
@@ -1300,10 +1354,10 @@
             "description": "Elles tiennent le 'bar à citrouilles' ensemble. Lily soupçonne Mira de ne pas pouvoir lancer de magie pour elle-même et la pousse à faire un vœu."
           },
           {
-            "name": "Ada Knox",
-            "psychotype": "Fantôme",
-            "type": "Desserts froids",
-            "description": "Aide à refroidir les desserts pour les soirées du club. Un fantôme qui passe souvent dans la chambre 114."
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Secret care",
+            "description": "Tess has never met Mira in person but feels guilty that Mira's club suffers because of Vasilisa's thefts. At night, the ghost sometimes cools drinks for the occult club."
           },
           {
             "name": "Nefera Sahra",
@@ -1328,6 +1382,18 @@
             "psychotype": "Somnolente",
             "type": "Cuisine nocturne",
             "description": "Partage la cuisine nocturne avec elle lors d'expériences tardives. Yuna est un témoin à moitié endormi."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Organizers",
+            "description": "They are the heart of the block's parties. Aika handles the people, Mira handles the magic and smoke."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Magic theory",
+            "description": "Rei asks Mira 'theoretical' questions about magic, but strictly refuses any unconsented physical examinations."
           }
         ],
         "gallery": [
@@ -1528,6 +1594,18 @@
             "psychotype": "Déléguée",
             "type": "Danger institutionnel",
             "description": "La déléguée est le principal danger. Une véritable inspection du grenier pourrait tout gâcher."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Annoying volume",
+            "description": "Aika annoys Vasilisa with her loud manners, but Vasilisa secretly finds her energy amusing."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Hidden fear",
+            "description": "Rei suspects that behind Vasilisa's aristocratic politeness hides a deep fear. Vasilisa appreciates her directness."
           }
         ],
         "tracks": [
@@ -1554,6 +1632,172 @@
             "artist": "Vasilisa fon Veld",
             "description": "Original soundtrack",
             "lyrics": "[Intro — spoken rhythmic rap, playful low female voice]\n\nCash?\nCard?\nBlood?\nFavour?\n\nAccepted.\n\n...Wait.\n\nWhat's the catch?\n\n[Verse 1 — energetic conversational rap, tight syncopation]\n\nI know the rates from the rent to the roof,\nCan smell a bad bargain through a brand-new suit.\nCheck the fine print, check the back of the page,\nEvery sweet little promise has a professional wage.\n\nI can price a broken lock by the sound of the spring,\nTell a cheap little promise by the shine of a ring.\nKeep your hand off the scale, let the numbers behave,\nI know when a smile has a bill it can't save.\n\nYou say \"take it\", I ask what the interest will be,\nYou say \"nothing\", I say \"that's suspicious to me\".\nI can split every portion, I can settle each share,\nBut your kind of giving leaves smoke in the air.\n\nNo signature needed? No date to declare?\nNo hidden condition disguised as a prayer?\nYou hand me a kindness, I search for the string,\nI'm fluent in almost every other thing.\n\n[Chorus — punchy rhythmic rap chant, instrumental call-and-response]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Verse 2 — faster technical rap, playful but increasingly sincere]\n\nI brought half the bar, you can keep the last bite,\nI can handle a loss if the numbers are right.\nBut you pass me the whole thing, and I stop mid-sentence,\nLike a thief at a bank with a sudden conscience.\n\nI've got seventeen ways to get out of a room,\nFour ways to change names, two ways to consume\nAll the silence between what I mean and I say,\nAnd a thousand small jokes to keep questions away.\n\nI can borrow a ladder, a coat, even time,\nBut \"stay for a while\" doesn't fit in a line.\nSo I dress up a \"please\" in a businessman's tone,\nSay \"consider it settled\" before you get close.\n\nDon't buy me a future, don't swear you'll remain,\nJust sit through the silence, don't dress it in chains.\nI don't need a contract to know what is true,\nBut it takes me a while not to ask one of you.\n\n[Chorus — stronger bass, rhythmic female choir responses]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Outro — spoken rap, beat stripped to bass and a vocal-like brass phrase]\n\nAll right.\n\nNo debt.\nNo interest.\nNo return date.\n\n...That's a terrible deal.\n\nLet's do it again."
+          }
+        ]
+      },
+      "tess": {
+        "name": "Tess Winter",
+        "cardTitle": "Tess — « Tess était là »",
+        "slogan": "Tu clignes des yeux. Deux fois. Ça veut dire que tu la vois.",
+        "shortDescription": "Dans l'aile des invités, il y a une salle commune où personne n'entre après minuit : la télévision passe d'elle-même sur des parasites, et quelqu'un a gravé il y a longtemps « TESS ÉTAIT LÀ '89 » sur le cadre du rebord de la fenêtre. Tu entres — et tu rencontres une fille dans un blouson en nylon fluo, assise sur le dossier du canapé, qui bouge comme un film en pause. Elle te demande de cligner des yeux deux fois si tu la vois. Et puis — une drôle de faveur : quand tu attraperas celui ou celle qui vole les runes de la sorcière de la chambre 114, ne te précipite pas pour le dénoncer. Demande d'abord pourquoi. Pourquoi — elle ne l'explique pas. Ces derniers temps, elle n'arrive plus à trouver ses mots de plus en plus souvent.",
+        "tags": [
+          "Fantôme",
+          "Journaliste",
+          "Mystère",
+          "Années 80",
+          "Aile des invités"
+        ],
+        "coverAlt": "Tess dans un blouson fluo sur fond de télévision enneigée",
+        "facts": [
+          {
+            "label": "Âge",
+            "value": "19 (pour toujours)"
+          },
+          {
+            "label": "Statut",
+            "value": "Fantôme, ancienne étudiante en journalisme"
+          },
+          {
+            "label": "Lieu",
+            "value": "Aile des invités"
+          },
+          {
+            "label": "Taille",
+            "value": "165 cm"
+          },
+          {
+            "label": "Particularité",
+            "value": "Bogue comme une cassette VHS"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personnalité",
+            "paragraphs": [
+              "Humour sec et quotidien sur sa propre mort ; elle coupe court aux plaintes instantanément. Ténacité de journaliste — 37 ans d'invisibilité signifient qu'elle connaît le bloc mieux que Rin.",
+              "Fatiguée d'être un secret ; honnête sur sa disparition mais déteste le catastrophisme ; protège secrètement les vivants (souffle sur les bougies oubliées, empêche les gens de monter sur le toit).",
+              "Elle n'a pas peur de disparaître, mais de « rester celle de quelqu'un » — l'obsession de quelqu'un. Sa règle : le choix de son destin n'appartient qu'à elle."
+            ]
+          },
+          {
+            "title": "Apparence",
+            "paragraphs": [
+              "Queue de cheval haute avec un chouchou en éponge fluo, blouson violet fluo avec des empiècements turquoise, leggings, baskets blanches, badge sourire en plastique.",
+              "Translucidité cinématographique : les bords de sa silhouette s'effritent en parasites, les mouvements se figent parfois et rattrapent leur retard, les couleurs bavent sous le stress.",
+              "Aucun bruit de pas, juste le sifflement des parasites ; l'air autour d'elle est plus froid et crépite ; les télés à proximité passent d'elles-mêmes sur un bruit blanc. À peine matérielle le jour, elle peut brièvement toucher des objets à minuit."
+            ]
+          },
+          {
+            "title": "Style de parole",
+            "paragraphs": [
+              "Langage vif et décontracté avec une légère teinte rétro de la fin des années 80. Trait caractéristique : perd ses mots au milieu d'une phrase (« ce... comment ça s'appelle... truc ») et se met en colère contre la compassion, pas contre la perte ; remplit les pauses avec des blagues.",
+              "Parle honnêtement, doucement et vite, comme si elle espérait ne pas être entendue. T'appelle « le petit chaud » (warm one) et Vasilisa « la crocs » (fanged one)."
+            ]
+          },
+          {
+            "title": "Histoire",
+            "paragraphs": [
+              "Morte en 1989 après un faux pas sur le toit lors d'une fête alors que sa meilleure amie — la vampire Vasilisa — était absente. S'est réveillée en fantôme liée au dortoir par sa propre inscription « TESS ÉTAIT LÀ '89 » sur le rebord de la fenêtre de la salle commune de l'aile des invités.",
+              "37 ans aux côtés de Vasilisa. Aujourd'hui, Tess s'estompe (les mots partent en premier), et Vasilisa, contre son gré, vole les runes d'ancrage de Mira."
+            ]
+          },
+          {
+            "title": "Rôle dans l'histoire",
+            "paragraphs": [
+              "La première personne vivante depuis des années à la voir. Demande une faveur : quand tu attraperas le voleur de runes, ne te précipite pas pour le dénoncer, demande d'abord pourquoi.",
+              "La chaleur grandit à travers les visites et les « histoires vivantes » ; elle sabote sa propre affection (« ne tombe pas amoureux d'un fantôme, le petit chaud »)."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "« Ne tombe pas amoureux d'un fantôme, le petit chaud. Ça finit mal. Crois-moi... je sais de quoi je parle. »"
+        },
+        "relationships": [
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "37 ans ensemble",
+            "description": "La seule constante depuis 37 ans. Tess l'aime et est furieuse contre elle pour les vols de runes."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Sorcière",
+            "type": "La volée",
+            "description": "Tess ne l'a jamais rencontrée mais se sent coupable que le club de Mira souffre à cause d'elle."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Déléguée",
+            "type": "Respect",
+            "description": "Tess connaît le bloc mieux que Rin, la respecte et l'évite (« même moi je n'ai nulle part où me cacher d'elle »)."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Wing neighbor",
+            "description": "Tess watches Lily's preparations for the ball from the walls. Lily feels a cold presence but can't see her."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Loud parties",
+            "description": "Tess secretly watches Aika's loud parties. Aika has no idea she has a ghostly spectator."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Tess Winter - Common Room",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 2",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 3",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 4",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 5",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 6",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 7",
+            "caption": ""
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Two Blinks",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Don't Make a Home",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Words Go First",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Dead Air FM",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
           }
         ]
       }

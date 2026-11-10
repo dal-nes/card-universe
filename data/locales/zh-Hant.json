@@ -261,10 +261,10 @@
         },
         "relationships": [
           {
-            "name": "Kobayashi Rin",
-            "psychotype": "樓長",
-            "type": "嚴格的鄰居",
-            "description": "認為她是噪音的來源，但尊重她的作息。凜經常過來看看由奈是否睡著了。"
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Night shift",
+            "description": "The block's two night dwellers. Tess loves listening to Yuna curse at the game, and Yuna doesn't mind when the ghost just sits nearby in silence."
           },
           {
             "name": "Marta Santos",
@@ -289,6 +289,12 @@
             "psychotype": "幽靈",
             "type": "夜班",
             "description": "她們分享著寂靜和夜晚的廚房。艾達冷卻飲料，由奈玩遊戲。完美的無言同盟。"
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Night kitchen",
+            "description": "They share the midnight silence of the kitchen. Vasilisa reads archives, Yuna plays games."
           }
         ],
         "tracks": [
@@ -455,6 +461,12 @@
             "psychotype": "古埃及",
             "type": "文件與禮儀",
             "description": "凜尊重她的可靠性和明確的界限。她們在檔案館訪問和安靜時間上合作。"
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Order and etiquette",
+            "description": "Rin deeply respects Vasilisa's orderliness and strict adherence to the rules."
           }
         ],
         "tracks": [
@@ -638,6 +650,12 @@
             "psychotype": "狼人",
             "type": "安靜的跑道",
             "description": "完美的跑步夥伴，不會抱怨早晨的寒冷，懂得如何在沉默中奔跑。"
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Heavy load",
+            "description": "Marta helps Nefera carry her heavy restoration chests. Nefera appreciates the directness and lack of questions."
           }
         ]
       },
@@ -743,6 +761,18 @@
             "psychotype": "古埃及",
             "type": "緞帶錯誤",
             "description": "艾卡曾經伸手去抓她的緞帶，內菲拉嚴厲地阻止了她。在真誠的道歉之後，艾卡成了她大聲的捍衛者。"
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Organizers",
+            "description": "They often team up to organize events, combining Aika's social energy with Mira's magical effects."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Provocation",
+            "description": "Aika loves to provoke the stoic vampire with her loud clothes and slang, trying to get a reaction."
           }
         ]
       },
@@ -849,6 +879,18 @@
             "psychotype": "女巫",
             "type": "南瓜酒吧協議",
             "description": "莉莉負責音樂和賓客，米拉負責飲料和煙霧。她們的協議：莉莉不會魅惑米拉的朋友。"
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Quiet after ten",
+            "description": "Rin strictly enforces quiet hours, and Lily constantly breaks them with music. They are in a constant cold war."
+          },
+          {
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Wing neighbor",
+            "description": "Tess secretly watches Lily's prep for the ball. Lily feels the cold but can't see her."
           }
         ]
       },
@@ -1067,6 +1109,18 @@
             "psychotype": "狼人",
             "type": "對比",
             "description": "艾諾是變身的人類，不是狼群的一員。"
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night silence",
+            "description": "They share the night. Aino doesn't mind Yuna's gaming, and Yuna doesn't mind Aino's quiet presence."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Respect",
+            "description": "Both are non-human entities. Vasilisa respects Aino's boundaries, and Aino finds Vasilisa's night walks comforting."
           }
         ]
       },
@@ -1180,6 +1234,12 @@
             "psychotype": "學生",
             "type": "互相支持",
             "description": "玲幫助安靜的優等生拒絕額外的職責，並反過來笨拙地向她請教學習建議。"
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirting and boundaries",
+            "description": "Rei criticizes Lily's constant flirting, arguing that it can be a form of manipulation. Lily finds her too stiff."
           }
         ],
         "tracks": [
@@ -1300,10 +1360,10 @@
             "description": "她們一起經營「南瓜酒吧」。莉莉懷疑米拉無法為自己施法，並慫恿她許個願。"
           },
           {
-            "name": "艾達·諾克斯",
-            "psychotype": "幽靈",
-            "type": "冷甜點",
-            "description": "協助為社團之夜冷卻甜點。一個經常順道拜訪114號房的幽靈。"
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Secret care",
+            "description": "Tess has never met Mira in person but feels guilty that Mira's club suffers because of Vasilisa's thefts. At night, the ghost sometimes cools drinks for the occult club."
           },
           {
             "name": "內菲拉·薩赫拉",
@@ -1328,6 +1388,18 @@
             "psychotype": "嗜睡",
             "type": "夜間廚房",
             "description": "在深夜實驗時與她共用夜間廚房。尤娜是個半夢半醒的目擊者。"
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Organizers",
+            "description": "They are the heart of the block's parties. Aika handles the people, Mira handles the magic and smoke."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Magic theory",
+            "description": "Rei asks Mira 'theoretical' questions about magic, but strictly refuses any unconsented physical examinations."
           }
         ],
         "gallery": [
@@ -1528,6 +1600,18 @@
             "psychotype": "女舍監",
             "type": "制度性危險",
             "description": "女舍監是最大的危險。一次真正的閣樓檢查可能會毀掉一切。"
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Annoying volume",
+            "description": "Aika annoys Vasilisa with her loud manners, but Vasilisa secretly finds her energy amusing."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Hidden fear",
+            "description": "Rei suspects that behind Vasilisa's aristocratic politeness hides a deep fear. Vasilisa appreciates her directness."
           }
         ],
         "tracks": [
@@ -1554,6 +1638,172 @@
             "artist": "瓦西里薩·馮·維爾德",
             "description": "Original soundtrack",
             "lyrics": "[Intro — spoken rhythmic rap, playful low female voice]\n\nCash?\nCard?\nBlood?\nFavour?\n\nAccepted.\n\n...Wait.\n\nWhat's the catch?\n\n[Verse 1 — energetic conversational rap, tight syncopation]\n\nI know the rates from the rent to the roof,\nCan smell a bad bargain through a brand-new suit.\nCheck the fine print, check the back of the page,\nEvery sweet little promise has a professional wage.\n\nI can price a broken lock by the sound of the spring,\nTell a cheap little promise by the shine of a ring.\nKeep your hand off the scale, let the numbers behave,\nI know when a smile has a bill it can't save.\n\nYou say \"take it\", I ask what the interest will be,\nYou say \"nothing\", I say \"that's suspicious to me\".\nI can split every portion, I can settle each share,\nBut your kind of giving leaves smoke in the air.\n\nNo signature needed? No date to declare?\nNo hidden condition disguised as a prayer?\nYou hand me a kindness, I search for the string,\nI'm fluent in almost every other thing.\n\n[Chorus — punchy rhythmic rap chant, instrumental call-and-response]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Verse 2 — faster technical rap, playful but increasingly sincere]\n\nI brought half the bar, you can keep the last bite,\nI can handle a loss if the numbers are right.\nBut you pass me the whole thing, and I stop mid-sentence,\nLike a thief at a bank with a sudden conscience.\n\nI've got seventeen ways to get out of a room,\nFour ways to change names, two ways to consume\nAll the silence between what I mean and I say,\nAnd a thousand small jokes to keep questions away.\n\nI can borrow a ladder, a coat, even time,\nBut \"stay for a while\" doesn't fit in a line.\nSo I dress up a \"please\" in a businessman's tone,\nSay \"consider it settled\" before you get close.\n\nDon't buy me a future, don't swear you'll remain,\nJust sit through the silence, don't dress it in chains.\nI don't need a contract to know what is true,\nBut it takes me a while not to ask one of you.\n\n[Chorus — stronger bass, rhythmic female choir responses]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Outro — spoken rap, beat stripped to bass and a vocal-like brass phrase]\n\nAll right.\n\nNo debt.\nNo interest.\nNo return date.\n\n...That's a terrible deal.\n\nLet's do it again."
+          }
+        ]
+      },
+      "tess": {
+        "name": "泰絲·溫特 (Tess Winter)",
+        "cardTitle": "泰絲 — 「泰絲曾在此」",
+        "slogan": "你眨眼。兩次。這意味著你能看見她。",
+        "shortDescription": "在客翼有一間午夜過後無人敢進的公共休息室：電視會自己切換到雜訊，而窗台框架上很久以前被刻下了「TESS WAS HERE '89」。你走進去——遇到一個穿著霓虹防風外套的女孩坐在沙發背上，動作像暫停的電影。如果你能看見她，她請你眨兩次眼。然後——一個奇怪的請求：當你們抓到那個偷 114 號房女巫符文的人時，別急著交出去。先問為什麼。她沒有解釋為什麼。最近，她越來越頻繁地找不到詞語。",
+        "tags": [
+          "幽靈",
+          "記者",
+          "懸疑",
+          "80年代",
+          "客翼"
+        ],
+        "coverAlt": "穿著霓虹防風外套的泰絲，背景是佈滿雜訊的電視",
+        "facts": [
+          {
+            "label": "年齡",
+            "value": "19 (永遠)"
+          },
+          {
+            "label": "狀態",
+            "value": "幽靈，前新聞系學生"
+          },
+          {
+            "label": "位置",
+            "value": "客翼"
+          },
+          {
+            "label": "身高",
+            "value": "165 cm"
+          },
+          {
+            "label": "特徵",
+            "value": "像 VHS 錄影帶一樣會出現故障"
+          }
+        ],
+        "sections": [
+          {
+            "title": "性格",
+            "paragraphs": [
+              "對自己的死亡有著乾巴巴的日常幽默；她會立刻切斷同情。記者的執著——37年的隱形意味著她比凜更了解這個街區。",
+              "厭倦了成為秘密；對自己正在消散的事實很誠實，但討厭災難化；暗中保護活著的人（吹熄被遺忘的蠟燭，不讓人們靠近屋頂）。",
+              "她不怕消失，而是怕「成為別人的」——成為別人的執念。她的原則：她命運的選擇只能由她自己做出。"
+            ]
+          },
+          {
+            "title": "外貌",
+            "paragraphs": [
+              "高馬尾配霓虹毛絨髮圈，帶綠松石色嵌片的霓虹紫防風外套，緊身褲，白色運動鞋，塑膠笑臉徽章。",
+              "電影般的半透明感：她輪廓的邊緣會碎裂成雜訊，動作有時會凍結然後再跟上，壓力下顏色會塗抹開來。",
+              "沒有腳步聲，只有靜電的嘶嘶聲；她周圍的空氣更冷且劈啪作響；附近的電視會自己切換到白噪音。白天幾乎沒有實體，午夜時她可以短暫觸碰物體。"
+            ]
+          },
+          {
+            "title": "說話風格",
+            "paragraphs": [
+              "充滿活力且隨意的談話，帶有 80 年代末淡淡的復古色彩。標誌性特徵：說話說到一半會忘詞（「這個……叫什麼來著……東西」），並且會對同情發火，而不是對忘詞發火；用笑話填補停頓。",
+              "誠實的時候說話輕聲且快速，彷彿希望不被聽見。叫你「溫暖的」，叫瓦西里莎「尖牙的」。"
+            ]
+          },
+          {
+            "title": "歷史",
+            "paragraphs": [
+              "1989 年死於一場派對上的屋頂失足，當時她最好的朋友——吸血鬼瓦西里莎——不在。她醒來時變成了幽靈，被自己刻在客翼公共休息室窗台上的銘文「TESS WAS HERE '89」束縛在宿舍裡。",
+              "陪伴了瓦西里莎 37 年。現在泰絲正在消散（詞語最先消失），而瓦西里莎不顧她的意願，偷走了米拉的錨定符文。"
+            ]
+          },
+          {
+            "title": "故事中的角色",
+            "paragraphs": [
+              "幾年來第一個看見她的活人。請求一個幫忙：當你抓到符文小偷時，別急著交出去，先問為什麼。",
+              "溫暖透過拜訪和「活生生的故事」增長；她會破壞自己的感情（「別愛上一個幽靈，溫暖的」）。"
+            ]
+          }
+        ],
+        "quote": {
+          "text": "「別愛上一個幽靈，溫暖的。這會很慘的。相信我……我經歷過。」"
+        },
+        "relationships": [
+          {
+            "name": "瓦西里莎·馮·維爾德",
+            "psychotype": "吸血鬼",
+            "type": "在一起 37 年",
+            "description": "37 年來唯一不變的存在。泰絲愛她，但也因為符文盜竊案對她感到憤怒。"
+          },
+          {
+            "name": "米拉·赫克斯",
+            "psychotype": "女巫",
+            "type": "被偷竊者",
+            "description": "泰絲從未見過她，但因為米拉的社團因她而受苦感到內疚。"
+          },
+          {
+            "name": "小林凜",
+            "psychotype": "舍長",
+            "type": "尊重",
+            "description": "泰絲比凜更了解街區，尊重她並避開她（「連我也沒有地方可以躲她」）。"
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Wing neighbor",
+            "description": "Tess watches Lily's preparations for the ball from the walls. Lily feels a cold presence but can't see her."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Loud parties",
+            "description": "Tess secretly watches Aika's loud parties. Aika has no idea she has a ghostly spectator."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "泰絲·溫特 - Common Room",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 2",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 3",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 4",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 5",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 6",
+            "caption": ""
+          },
+          {
+            "alt": "泰絲·溫特 - Image 7",
+            "caption": ""
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Two Blinks",
+            "artist": "泰絲·溫特 (Tess Winter)",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Don't Make a Home",
+            "artist": "泰絲·溫特 (Tess Winter)",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Words Go First",
+            "artist": "泰絲·溫特 (Tess Winter)",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Dead Air FM",
+            "artist": "泰絲·溫特 (Tess Winter)",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
           }
         ]
       }

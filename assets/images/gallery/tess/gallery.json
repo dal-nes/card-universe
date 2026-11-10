@@ -1,0 +1,69 @@
+{
+    "character": "tess",
+    "total_images": 7,
+    "images": [
+        {
+            "id": "gallery-1",
+            "filename": "gallery-1.png",
+            "path": "assets/images/gallery/tess/gallery-1.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1083.28
+        },
+        {
+            "id": "gallery-2",
+            "filename": "gallery-2.png",
+            "path": "assets/images/gallery/tess/gallery-2.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1209.77
+        },
+        {
+            "id": "gallery-3",
+            "filename": "gallery-3.png",
+            "path": "assets/images/gallery/tess/gallery-3.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1145.21
+        },
+        {
+            "id": "gallery-4",
+            "filename": "gallery-4.png",
+            "path": "assets/images/gallery/tess/gallery-4.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1209.64
+        },
+        {
+            "id": "gallery-5",
+            "filename": "gallery-5.png",
+            "path": "assets/images/gallery/tess/gallery-5.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 935.57
+        },
+        {
+            "id": "gallery-6",
+            "filename": "gallery-6.png",
+            "path": "assets/images/gallery/tess/gallery-6.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1054.73
+        },
+        {
+            "id": "gallery-7",
+            "filename": "gallery-7.png",
+            "path": "assets/images/gallery/tess/gallery-7.png",
+            "width": 1152,
+            "height": 768,
+            "format": "PNG",
+            "size_kb": 1185.98
+        }
+    ]
+}
