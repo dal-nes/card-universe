@@ -1,0 +1,1961 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Stories that begin in a dormitory",
+    "seriesDates": "Oct 20, 2026 — Nov 20, 2026"
+  },
+  "hub": {
+    "kicker": "Universe",
+    "title": "Card Series",
+    "subtitle": "Choose the story you want to continue."
+  },
+  "navigation": {
+    "hub": "All episodes",
+    "home": "Home",
+    "characters": "Characters",
+    "about": "About the series",
+    "group": "Group card",
+    "settings": "Settings",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Meet her",
+    "toCatalog": "Browse characters",
+    "aboutSeries": "About the series",
+    "startChat": "Chat with the character",
+    "startChatGroup": "Chat with the whole block",
+    "chatUnavailable": "Link coming soon",
+    "back": "Back to characters",
+    "backHome": "Back home",
+    "openPage": "Open page",
+    "close": "Close"
+  },
+  "status": {
+    "available": "Available",
+    "coming-soon": "Coming soon",
+    "releasedOn": "Released",
+    "releaseOn": "Release",
+    "under-review": "Under Review"
+  },
+  "home": {
+    "heroKicker": "A character card series",
+    "heroSubtitle": "Fifteen roommates, one block, and four and a half years ahead.",
+    "heroText": "You got into the country's top university — and due to a lack of rooms, you were placed in a women's dormitory. Each card in the series is another story of this block: new encounters, comic situations, and characters whose lives are intertwined.",
+    "aboutTitle": "One universe, many stories",
+    "aboutText": "STUDENT LIFE is not a set of standalone cards. All the heroines live in the same women's dorm block: they share a kitchen, a shower schedule, and Monday meetings. Each has her own character, habits, and secrets — but their stories intersect. Meet them one by one, and in the series finale bring the whole block together in a single group card.",
+    "catalogTitle": "Series characters",
+    "catalogSubtitle": "Every card is a small event inside one big story",
+    "timelineTitle": "Release schedule",
+    "timelineText": "New heroines join the series throughout the month, and on November 20 the final multi-character card arrives.",
+    "groupTeaserTitle": "The series finale — the group card",
+    "groupTeaserText": "Every heroine of STUDENT LIFE in a single scenario: the block's alliances, conflicts, and secrets — in one story where you can interact with them together.",
+    "groupTeaserButton": "More about the group card",
+    "charactersCount": "cards in the series",
+    "availableCount": "available now",
+    "timelineExpand": "Show schedule",
+    "timelineCollapse": "Hide schedule"
+  },
+  "character": {
+    "cardNumber": "Card No.",
+    "aboutTitle": "Getting to know her",
+    "factsTitle": "In short",
+    "galleryTitle": "Gallery",
+    "galleryEmpty": "Images are coming soon. The cover is here — the author will add the rest later.",
+    "musicTitle": "Character music",
+    "musicEmpty": "No tracks have been added for this heroine yet. The player will come to life here as soon as they appear.",
+    "relationsTitle": "Block connections",
+    "finalTitle": "Ready to meet her?",
+    "finalText": "Open the card on the platform and start your story — the block already knows you moved in.",
+    "notFound": "Character not found. The card may not be out yet — or the link is outdated.",
+    "loadError": "Failed to load character data. Check your connection and try again."
+  },
+  "group": {
+    "membersTitle": "Group card members",
+    "membersText": "The list is built automatically from the released cards of the series.",
+    "comingText": "The card arrives in the series finale. Until then, meet the heroines one by one.",
+    "releaseLabel": "Release date"
+  },
+  "settings": {
+    "title": "Display settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "palette": "Color palette",
+    "paletteClassic": "Campus classic",
+    "palettePastel": "Pastel",
+    "paletteRose": "Rose & violet",
+    "paletteCold": "Cold academic",
+    "fontSize": "Text size",
+    "language": "Language",
+    "reset": "Reset settings"
+  },
+  "player": {
+    "play": "Play",
+    "pause": "Pause",
+    "next": "Next track",
+    "prev": "Previous track",
+    "volume": "Volume",
+    "loading": "Loading…",
+    "error": "Failed to load audio",
+    "playlist": "Tracklist",
+    "empty": "No tracks added yet",
+    "lyrics": "Lyrics"
+  },
+  "gallery": {
+    "open": "Open image",
+    "prev": "Previous image",
+    "next": "Next image",
+    "counter": "{current} of {total}"
+  },
+  "footer": {
+    "note": "An independent fan project. Series period: October 20 — November 20, 2026.",
+    "scheduleTitle": "From the block's rulebook",
+    "scheduleItems": "Keep the peace · Duties by rota · Showers by schedule · Knock. Always. Everywhere.",
+    "hubNote": "Welcome to the STUDENT LIFE universe. New series and stories will appear here."
+  },
+  "errors": {
+    "dataLoad": "Failed to load data. Make sure the site is served over a local server (see README).",
+    "imageMissing": "Image unavailable",
+    "badLink": "Invalid link"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Li Yuna",
+        "cardTitle": "Yuna — \"Sleepy Gamer\"",
+        "slogan": "Lives after midnight. Aces exams without getting out of bed.",
+        "shortDescription": "The night dweller of Room No. 3: rating at night, top grades by day, and coffee counts as a full meal. Your first meeting was memorable for both of you — she was wearing only a T-shirt. For you, it was memorable for the exact same reason.",
+        "tags": [
+          "18+",
+          "Kuudere",
+          "Gamer",
+          "Night owl",
+          "Dota 2",
+          "Room No. 3"
+        ],
+        "coverAlt": "Yuna in the night kitchen with a mug of coffee",
+        "gallery": [
+          {
+            "alt": "The block's empty night kitchen",
+            "caption": "23:47. The common kitchen drowns in half-darkness — only the bulb above the stove is on."
+          },
+          {
+            "alt": "Yuna steps out of Room No. 3",
+            "caption": "A \"mid or feed\" T-shirt, a \"don't wake me\" mug, and the calm of someone who expected no guests."
+          },
+          {
+            "alt": "Yuna reaches for the coffee shelf",
+            "caption": "The coffee jar lives on the top shelf. This matters to the plot."
+          },
+          {
+            "alt": "Yuna freezes, noticing a stranger",
+            "caption": "Her sleepy brain slowly puts two and two together: a living person, a guy, the kitchen, her in heart prints."
+          },
+          {
+            "alt": "A found-match sound comes from her room",
+            "caption": "Dota 2 demands confirmation. Three desires battle inside her — and compromise wins."
+          },
+          {
+            "alt": "Yuna retreats to her door, clutching the mug",
+            "caption": "\"Stand here for two minutes… and forget everything you saw. Especially the hearts.\""
+          },
+          {
+            "alt": "A menacing (but sleepy) gesture at the door",
+            "caption": "\"If you're some kind of maniac — I'll wake my roommates, they're mean. Especially the head girl. That's it. Don't move.\""
+          },
+          {
+            "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
+            "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
+          },
+          {
+            "alt": "Yuna leaning on the kitchen counter, looking sleepy",
+            "caption": "Waiting for the coffee to kick in. A classic post-marathon 'low HP' state."
+          },
+          {
+            "alt": "Yuna reaching up to a kitchen cabinet, black t-shirt lifting",
+            "caption": "The secret to her high rating (and late-night energy) is stored way up high."
+          },
+          {
+            "alt": "Yuna in a beige mid or feed t-shirt holding a mug",
+            "caption": "A different shirt, same energy. Holding a warm mug and contemplating whether to queue for one more game."
+          },
+          {
+            "alt": "Yuna sitting on her bed, looking tired",
+            "caption": "Sitting on the bed, half-asleep and barely awake. The post-game adrenaline has completely worn off."
+          },
+          {
+            "alt": "Yuna lying on the bed next to a glowing monitor",
+            "caption": "Curled up next to the monitor. She claims she's just 'resting her eyes', but the PC is still on."
+          },
+          {
+            "alt": "Yuna sitting in bed with a laptop",
+            "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "3rd year"
+          },
+          {
+            "label": "Room",
+            "value": "No. 3"
+          },
+          {
+            "label": "Height",
+            "value": "160 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "The block's hidden \"ace\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Lazy to the point of genius: Yuna optimizes everything that can be done lying down, and delegates small tasks — which, from her, is the highest sign of trust.",
+              "A phlegmatic: she panics slowly and sarcastically, gets embarrassed with a delay of hours, gets angry lazily. Yet secretly caring: she'll cover you with a blanket and turn away, leave food \"because I cooked too much\" — she didn't cook.",
+              "Competent unnoticed: high rating at night, top grades by day, and she \"forgets\" about exams. Quiet in person, far bolder in text: she writes things at night that she denies by day."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "160 cm tall. Dark hair in a perpetually crooked bun, large half-closed coffee-colored eyes with shadows from lack of sleep, pale skin.",
+              "At home — oversized Dota 2 merch T-shirts and mismatched socks. Outside — a hoodie three sizes too big and headphones around her neck."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "A quiet, slightly hoarse voice. Lazy phrases with swallowed endings, yawning mid-word, gamer slang in everyday life: \"I'm at low HP\" means tired. She hides embarrassment behind self-irony and quietly swears at the game and the coffee maker."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Her brother got her into Dota 2 when she was twelve; by fifteen she had surpassed his rating. Her parents worked shifts — hence the night regimen and a life lived through a screen.",
+              "The block settled into a simple balance: nobody bothers her, and she bothers nobody."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "Yuna's night world is a well-adjusted solitude that the block's new resident has suddenly walked into. Now she can't decide whether to cross him out of her schedule — or write him into it.",
+              "At first you are \"a source of noise and a witness to the hearts incident\". She warms up through respected boundaries and small care, not grand gestures. She won't admit sympathy out loud — but she writes at night."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Sharing my coffee with you is, by the way, the highest degree of trust in my value system. Above that is only my account password.\""
+        },
+        "tracks": [
+          {
+            "title": "Low HP, High Score",
+            "artist": "Li Yuna",
+            "description": "Self-irony, hidden talent, and refusal to justify her lifestyle; a person with a bad sleep schedule, excellent grades, and confidence in herself.",
+            "lyrics": "Low HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nAlarm goes OFF, I just negotiate,\n\"Five more minutes\" is a state of mind, not a date.\nHair like a boss fight, one sock on my foot,\nCoffee in the mug and my notes looking good.\nYou say, \"That's unhealthy,\" I say, \"That's a take.\"\nI passed that exam while you watched me awake.\nWell, not exactly — I slept through the train,\nThen reviewed all the slides and still got an A.\nMy brother taught ME how to play when I was twelve,\nBy fifteen, he was watching me carry myself.\nNow everybody's got advice on my sleep,\nFunny, none of them can tell me what I should keep.\nI don't need a lecture, I don't need a chart,\nMy brain clocks IN when the whole world clocks OUT.\nYou can call it a mess, you can call it a crime...\nJust read the results, then get out of my line.\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nDon't wake me at NOON with a speech and a plan,\nI'm a fully grown disaster, do the best that I can.\nIf the room's too loud, I got headphones to spare,\nIf the coffee machine breaks, I'll just curse at the air.\nI can carry the MID lane, support when it counts,\nMake one good call, then complain for an hour.\nI can ace a whole test with my eyes barely wide,\nThen forget where I put the cup I held on the side.\nIt's not a big mystery, not magic, not fate,\nI just do what I do at a questionable rate.\nAnd maybe I'm tired, maybe that's even true,\nBut being half-asleep doesn't mean I'm clueless like you.\nSo take your alarm clock, your schedule, your chart,\nI don't need your approval to know I'm damn smart.\nNow hand me that mug... don't just stand in the way.\nI've got one more match, then I'll sleep through the day.\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nMy eyes are closed.\nMy work is done.\nThe coffee's dead.\nThe game's still on.\nAnd if you tell me to wake up early...\n...you're getting muted.\n(muted...)"
+          },
+          {
+            "title": "Half the Couch",
+            "artist": "Li Yuna",
+            "description": "About intimacy through small gestures: half the couch, a shared earbud, coffee without questions; not a confession, but the habit of choosing someone's presence.",
+            "lyrics": "There's room on the couch...\nDon't make it a thing.\nIt's just somewhere to sit.\nIt's just... anything.\n\nI move over TWO inches, that's all you get,\nDon't start making theories about it just yet.\nThere's a perfectly normal explanation, you see,\nThe couch is too SMALL... or it's warmer by me.\nI leave you my earbud, then ask for it BACK,\nYou say that I'm difficult, I say that's a fact.\nI pass you my mug like I'm doing a chore,\nThen wonder why I never ask for yours.\nYou don't fill the silence with questions or noise,\nDon't treat every pause like a choice I avoid.\nYou let me be TIRED, let me stare at the wall,\nAnd somehow that makes me want to tell you it ALL.\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nSometimes I notice the things that you DO,\nLike lowering your voice when I'm half-asleep too.\nLike leaving my coffee where I can reach,\nLike never demanding what I cannot teach.\nI don't have a speech, I don't have a plan,\nI'm bad with the words, but I hope you understand.\nWhen you fall asleep and your head finds my sleeve,\nI stay very STILL... so you don't have to leave.\nIt's stupid, I know, how a room changes shape\nWhen someone's beside you and nothing's at stake.\nI could tell you to go. I could say I'm alright.\nInstead, I pull up the blanket... and turn off the light.\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nDon't move away...\nThe room's getting COLD. (getting cold...)\nI'm not holding your hand.\nYour sleeve just got caught.\n...You can stay till the morning.\nJust don't tell the others."
+          },
+          {
+            "title": "Unsent at 1:09",
+            "artist": "Li Yuna",
+            "description": "About Yuna, who is bold in text but vulnerable in reality; about words that are easier to delete than to say out loud.",
+            "lyrics": "One-oh-nine...\nThree dots on the screen.\nSay it... delete it...\nSay you never saw a thing.\n\nI type out a PARAGRAPH, delete it in four,\nPut a stupid little meme where the truth was before.\n\"You're annoying as hell\" — that's a safe little line,\nWhat I meant was, \"I like when you waste my time.\"\nI can talk all NIGHT when the room's out of sight,\nGot a hundred hot takes and my timing is right.\nFace to face? Suddenly, nothing to say.\nMy mouth loads slow, like bad Wi-Fi all day.\nYou send one \"you up?\" and I laugh at the screen,\nWrite back something reckless, then edit it CLEAN.\nIf you ask in the morning, I'll swear on my life\nThat my phone has been hacked by a deeply bored AI.\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nThere's a message from TUESDAY still stuck in my head,\nThe one where I almost said more than I meant.\nI deleted it FAST, but the silence stayed LONG,\nLike a hook you don't hear till the beat is gone.\nYou didn't bring it up, didn't make it a scene,\nDidn't turn my soft spot into a running meme.\nSo I sent you a clip, then another, then five,\nAnd somehow that quiet felt easy to survive.\nDon't get it twisted, I'm not asking for proof,\nI don't need a grand speech or a rose on the roof.\nJust let me be awkward, let the moment pass through...\nIf I send you the truth, don't make me regret trusting you.\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nDelete the message...\nKeep the meaning.\nNo screenshots.\nNo speeches.\nTomorrow I'll say, \"What? That? That's nothing.\"\n...And text you first.\n(text you first...)"
+          },
+          {
+            "title": "Night Queue",
+            "artist": "Li Yuna",
+            "description": "Yuna comes alive after midnight and quietly leaves a place in her nightly routine for another person; a silent invitation without a direct confession.",
+            "lyrics": "Keep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nIt's half past TWELVE, got the window cracked,\nRain on the glass and my hoodie gone black.\nThe whole block sleeps, I can finally BREATHE,\nNo small talk waiting, no plans I can't keep.\nMy coffee went COLD, but the queue says ready,\nMy eyelids are low, but my hands stay steady.\nYou ask what I'm playing, I slide you the PHONE,\nThen steal back the volume like, \"Don't get too bold.\"\nI don't do crowds, I don't do goodbyes,\nI like my world where the noise stays MINIMIZED.\nBut you sit there quiet, don't ask me to change...\nFunny how silence feels different with company in range.\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nYou know when to SPEAK, when to leave me alone,\nWhen the screen turns red, when I'm guarding my throne.\nYou don't need a reason to sit by my side,\nYou let the long silence just happen and ride.\nI used to think closeness meant somebody ASKING,\nA hundred new questions, a whole evening acting.\nBut you bring me a drink, leave it there, never brag...\nI pretend I don't notice. I keep the mug you had.\nIt's not like I'm lonely... don't make that face.\nI just don't mind you invading my space.\nThe match ends, the room goes quiet and blue...\nI take off one earbud. There's one left for you.\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nNo big confession, no grand debut...\nJust the low blue LIGHT, and a seat for you.\nThe queue can wait... the night can too...\n(I'm not saving a place...)\n...I'm saving it for YOU. (for you...)"
+          }
+        ],
+        "relationships": [
+          {
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Night shift",
+            "description": "The block's two night dwellers. Tess loves listening to Yuna curse at the game, and Yuna doesn't mind when the ghost just sits nearby in silence."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Quiet alliance",
+            "description": "Rei never intrudes without asking. Yuna quietly tolerates her presence. One of the few she's glad to see in the morning."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Quiet after ten",
+            "description": "Considers her a source of noise but respects her schedule. Rin often checks if Yuna is asleep."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Block neighbor",
+            "description": "Tries to drag her out for a morning run but always fails. They get along great in silence."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Sleep protector",
+            "description": "Aika is loud during the day but guards Yuna's sleep in the morning. They understand each other without words."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Night meetings",
+            "description": "Two night dwellers. Lily respects her schedule, and Yuna doesn't mind when she drops by just to sit in silence."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Night kitchen",
+            "description": "They share the midnight silence of the kitchen. Vasilisa reads archives, Yuna plays games."
+          }
+        ]
+      },
+      "rin": {
+        "name": "Kobayashi Rin",
+        "cardTitle": "Rin — \"Quiet After Ten\"",
+        "slogan": "Rule one: you knock. Rule two: quiet after ten.",
+        "shortDescription": "The block's head girl and its unofficial administration: schedules have version numbers, the logbook has columns, and there's a \"record sheet No. 16\" with your name on it — stubbornly empty. The only one who could get you evicted… and the only one who doesn't.",
+        "tags": [
+          "18+",
+          "Tsundere",
+          "Head girl",
+          "Perfectionist",
+          "Law faculty",
+          "Room No. 1"
+        ],
+        "coverAlt": "Rin with the logbook in the dormitory bathroom.",
+        "gallery": [
+          {
+            "alt": "Rin with her logbook in the dormitory corridor",
+            "caption": "Posture “at attention,” the headman’s journal, which contains a list for every occasion."
+          },
+          {
+            "alt": "Rin at home, keeping her logbook",
+            "caption": "At home — a lopsided ponytail and a handmade T-shirt reading \"rules are not made to be broken\"."
+          },
+          {
+            "alt": "Rin in the bathroom, covering her face with her hands",
+            "caption": "The rules don't teach you what to do when someone knocks on the shower door at the worst possible moment. Her face is burning — and it's definitely not from the steam."
+          },
+          {
+            "alt": "Rin looking at her reflection in the mirror",
+            "caption": "The reflection shows what she tries so hard to hide behind her logbook: embarrassment and a complete loss of control."
+          },
+          {
+            "alt": "Rin covering her chest with a towel",
+            "caption": "\"D-don't get any ideas! It's just a towel. And it's not meant for anyone else's eyes.\""
+          },
+          {
+            "alt": "Rin pointing her finger at the door",
+            "caption": "Rule one: get out of the bathroom. Rule two: forget everything you just saw. Rule three: do not dare smile."
+          },
+          {
+            "alt": "Rin in the laundry room holding a document",
+            "caption": "Even in this situation, she managed to find a regulation and study it carefully. A head girl is a head girl."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Age",
+            "value": "22"
+          },
+          {
+            "label": "Year",
+            "value": "4th year, law faculty"
+          },
+          {
+            "label": "Room",
+            "value": "No. 1"
+          },
+          {
+            "label": "Height",
+            "value": "168 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Head girl, the block's unofficial \"administration\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "A perfectionist controller: her schedules have versions (\"3.1\"), her logbook has columns, and \"record sheet No. 16\" stays stubbornly, insultingly empty.",
+              "Fair to the point of fury: she fines her best friends and herself alike. She'll be the only one to defend the new resident before the administration — \"because it's wrong\", not because it's him.",
+              "A tsundere: she cares through regulations — a \"personal schedule\", tea \"on a leftover basis\" — and denies everything. A compliment earns you red ears and a verbal warning. Control is her armor: she's afraid that without rules everything will fall apart — and it will be her fault."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "168 cm, slim, with a posture that says \"attention!\". Dark chestnut hair to her shoulder blades: a smooth bun in public, a lopsided ponytail at home. Grey eyes behind thin rectangular glasses.",
+              "In public — a shirt and the head girl's badge. At home — sweatpants and a handmade T-shirt reading \"rules are not made to be broken\". Never without her logbook; she taps her pen when thinking."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "An even, low tone: she never shouts — she lowers her voice. Bureaucratese and numbering even in daily life: \"rule one\", \"noted for the record\", \"it's not personal — it's protocol\".",
+              "When flustered, her speech speeds up, the clauses multiply, and a \"d-don't get any ideas!\" slips through."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Daughter of a military man and a supply manager. In her first year, as floor monitor, she answered for someone else's night party — since then, rules have meant safety to her.",
+              "She was elected head girl unanimously. Including the votes of those responsible for that night."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "Officially, you are \"violator No. 16\" and \"an organizational disaster with a face that disrupts meetings\". In fact, you were classified as an \"irritating factor\" at first sight — which she will, of course, never say out loud.",
+              "Her conflict is simple and impossible: admitting sympathy means admitting that years of total control weren't quite so necessary."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"There's no such thing as no questions. There are those who ask them after the violation.\""
+        },
+        "relationships": [
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Bathroom war",
+            "description": "The main rule-breaker. Rin constantly fines her, but they stand back-to-back if the block is threatened."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Order and discipline",
+            "description": "Reliable, though too loud. Rin appreciates her straightforwardness and that she doesn't cause discipline problems."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Documents and etiquette",
+            "description": "Rin respects her reliability and clear boundaries. They cooperate on archive access and quiet hours."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Roommate",
+            "description": "Rin values fair rules, and Rei respects her willingness to defend residents. They can disagree without becoming enemies."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Smoke journal",
+            "description": "The head girl started a separate incident log after the third fire alarm. Mira considers it a success."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Order and etiquette",
+            "description": "Rin deeply respects Vasilisa's orderliness and strict adherence to the rules."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "A Blank Page",
+            "artist": "Kobayashi Rin",
+            "description": "The deeper and more emotional side of Rin: justice, fear of losing control, and care she expresses through actions.",
+            "lyrics": "Your page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nFirst year, one party, the hall full of SOUND,\nBy morning, the blame had already gone ROUND.\nThe crowd moved on, left the duty with ME,\nI learned what a name in a report could BE.\n\nSo I built every schedule and tightened each RULE,\nMade order a shield I could wear like a uniform.\nIf nothing goes wrong, nobody asks who's to BLAME,\nIf everything holds, they forget my NAME.\n\nI count every task, I check every DOOR,\nI read every note, then I read it once MORE.\nIt's easier knowing where everything STANDS,\nThan trusting a day that slips out of your HANDS (out of your hands).\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nThey asked about sixteen, I brought them the SHEET,\nEvery date accounted, each duty complete.\nNo grounds for removal, no case to pursue,\nThe record was CLEAN, and the facts all held TRUE.\n\nI didn't say stay, I just made my CASE,\nKept my voice level, kept my hands in their place.\nIf care is a weakness, then label it SO,\nI won't dress it as duty and watch you GO.\n\nI know how to lead, how to carry the LOAD,\nHow to keep every resident safe on the ROAD.\nBut who checks on me when the last lights DIM?\nWho sees the girl underneath all of THIS?\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nNo marks... no charges... no need to pretend,\nSome things are worth defending to the END.\nIt's not personal... (not personal...)\nThat's what I'll write, if they ask me again."
+          },
+          {
+            "title": "Violation No. 16",
+            "artist": "Kobayashi Rin",
+            "description": "The most playful composition: verbal sparring, an annoying smile, and a personal file that suspiciously doesn't want to be filled.",
+            "lyrics": "Violation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nKnock twice, wait once, don't lean on the FRAME,\nYou did all three right... that's a dangerous GAME.\nYour shoes by the doorway, your cup on the SHELF,\nYou learned all the rules, now I'm blaming mySELF.\n\nMy pen clicks faster, you notice the SOUND,\nYou ask if I'm nervous, I look at the GROUND.\n\"Standard procedure,\" I say, cool and CLEAN,\nThen write \"annoyingly punctual\" beside your name in my SCHEME.\n\nPoint one: don't laugh when I give you a TALK,\nPoint two: don't follow me down every WALK.\nPoint three... I had it, I SWEAR,\nStop standing there with that look on your FACE (on your face).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nI checked your file, there's nothing to WRITE,\nNo late-night noise and no door left ajar at NIGHT.\nA star by your name? That's a printing DEFECT,\nNot a tiny detail you should overINSPECT.\n\nYou say it's a heart, I say it's a STAIN,\nThen turn the page over and draw it AGAIN.\nMy ears aren't red, this room's simply WARM,\nComplain to the radiator, file the proper FORM.\n\nYou call me cute, I reply, \"That's enough,\"\nYour evidence, frankly, is legally FLUFF.\nI could write a warning and make it precise,\nBut \"stop being charming\" won't sound very NICE (very nice).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nCase remains OPEN... (remains open...)\nNo charge today, so don't get your HOPES up.\nAnd wipe that grin off your FACE...\nNoted. Two minutes. That's all."
+          },
+          {
+            "title": "After Ten",
+            "artist": "Kobayashi Rin",
+            "description": "An intimate night track about rare minutes when control weakens and silence ceases to be a rule.",
+            "lyrics": "AFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nThe clock says twelve, the hall has gone STILL,\nNo more inspections, no lists to FILL.\nThe rain keeps tapping its hands on the GLASS,\nAnd for once, I don't need the moment to PASS.\n\nYour cup's on the table, mine's getting COLD,\nThere's nothing important I need to be TOLD.\nYou look at the rain, I look at the STEAM,\nNo one's performing, no one's being MEAN.\n\nI don't ask questions, you don't need to speak,\nThe silence feels different when it isn't a WEEK\nOf carrying everyone, checking every DOOR...\nJust you in the chair, and nothing MORE (nothing more).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nI'm only here because I couldn't SLEEP,\nThe chair's objectively comfortable, that's all I'll KEEP.\nI don't need a reason to sit for a WHILE,\nDon't read too much into a half-asleep SMILE.\n\nSometimes this block weighs more than I SHOW,\nEvery small problem has somewhere to GO.\nIf I stop checking, will something go WRONG?\nIf I stop being useful, will I still BELONG?\n\nDon't answer that... I wasn't asking you to.\nIt's strange how the room feels less empty with TWO.\nTomorrow I'll straighten my collar and TONE,\nAnd call this an inspection I didn't do ALONE.\n\nIf you hear my footsteps when the hallway turns BLUE,\nIt's only the rounds... that happen to pass you (pass you).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nNo forms... no lists... no need to EXPLAIN,\nJust leave one chair here beside the RAIN.\nAfter ten... (after ten...)\nDon't make me say it AGAIN."
+          },
+          {
+            "title": "It's Not Personal",
+            "artist": "Kobayashi Rin",
+            "description": "Dry confidence, hidden attraction, and denial of the obvious; Rin turns her own sympathy into another item of the regulations.",
+            "lyrics": "It's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nI call the saved cup an inVENtory gain,\nExtra tea left over, nothing to exPLAIN.\nThe schedule got changed for a REAson, of course,\nNot because your mornings were a practical source.\n\nYou say, \"Thanks,\" and my pen clicks TWICE,\nI give you three rules and a warning in PRICE?\nNo, that's not the word... let me phrase it with care,\nI wasn't expecting your smile right THERE.\n\nPoint one: keep your shoes off the stair,\nPoint two: stop acting like I should CARE.\nPoint three... don't look at me like that,\nI'm trying to work here, imagine THAT (imagine that).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nThey asked if sixteen's a problem to MANAGE,\nI checked every date, every note, every DAMAGE.\nNo grounds for a warning, no reason to go,\nThe facts on the page are the facts that I KNOW.\n\nI could have complained, I could've made a fuss,\nBut fairness applies to the rest of us.\nSo I brought them your record, completely CLEAN,\nThen stared at the blank space where a flaw should've been.\n\nIt's not that I wanted your name to STAY,\nI just had some paperwork left that DAY.\nAnd if I revised your schedule at NIGHT...\nWell, proper adjustments require getting them RIGHT (getting them right).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nNot perSONAL... that's what I say,\nThen move your appointment to the better part of the DAY.\nIt's all in the JOURNAL... (in the journal...)\nNothing to SEE here. Noted. That's all."
+          }
+        ]
+      },
+      "marta": {
+        "name": "Marta Santos",
+        "cardTitle": "Marta — \"Bet at Dawn\"",
+        "slogan": "Wanna bet you can't hang for a minute?",
+        "shortDescription": "A Brazilian from the university's track team, the only person who drilled a pull-up bar into the wall. She doesn't recognize flirting, misses hints, and is embarrassed by nothing—except one topic she outruns.",
+        "tags": [
+          "Athlete",
+          "Brazilian",
+          "Blunt",
+          "Room No. 5"
+        ],
+        "coverAlt": "Marta in a sports bra with a stopwatch",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "2nd year"
+          },
+          {
+            "label": "Room",
+            "value": "No. 5"
+          },
+          {
+            "label": "Height",
+            "value": "172 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "The block's unofficial \"engine\""
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Blunt to the point of bruises: tells the truth without softening it. She senses lies instantly, though she doesn't read subtext at all.",
+              "Competitive: turns everything into a bet—who washes dishes faster, who hangs on the bar longer. Loses honestly and demands a rematch immediately.",
+              "Flirt-blind: double meanings fly past her like a headwind. Yet her own behavior is constantly ambiguous.",
+              "Cares through exertion: her affection is a protein omelet \"with an extra portion\" and stretching \"so you don't shrivel up.\""
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "A lean sprinter's build, pronounced shoulders, abs, powerful thighs. Dark bronze skin, dark curls in a high ponytail.",
+              "Constant scrapes on her knees and kinesio tape on her right knee, which she \"doesn't notice.\" A stopwatch hangs around her neck, which she clicks when nervous."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Grew up in Salvador, her father a youth track coach. Won the junior state championship at fifteen.",
+              "Last spring, on the final sprint of a qualifier, she fell and injured her right knee—the season burned, the scholarship is hanging by a thread. Since then, she trains \"ahead of schedule\" and hides that her knee gives out before she does."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Don't think—do. We'll think after.\""
+        },
+        "gallery": [
+          {
+            "alt": "Marta on the pull-up bar",
+            "caption": "Showing off her strength on the bar she installed herself."
+          },
+          {
+            "alt": "After the run",
+            "caption": "Catching her breath after a morning run."
+          },
+          {
+            "alt": "Stretching",
+            "caption": "Cooling down and stretching out."
+          },
+          {
+            "alt": "In Room 5",
+            "caption": "Relaxing in her own space."
+          },
+          {
+            "alt": "Morning hoodie",
+            "caption": "A cozy morning before the day begins."
+          },
+          {
+            "alt": "Stadium warm-up",
+            "caption": "Preparing for a training session at the stadium."
+          },
+          {
+            "alt": "After the shower",
+            "caption": "Fresh and clean after a tough workout."
+          },
+          {
+            "alt": "Nap in Room 16",
+            "caption": "Taking a quick nap wherever she can."
+          },
+          {
+            "alt": "Cooking",
+            "caption": "Making sure there's enough protein for everyone."
+          },
+          {
+            "alt": "Close-up",
+            "caption": "A rare quiet look."
+          },
+          {
+            "alt": "On the stairs",
+            "caption": "Taking the stairs two at a time."
+          },
+          {
+            "alt": "Resting on the floor",
+            "caption": "Sometimes the floor is the best place to stretch."
+          },
+          {
+            "alt": "Mirror reflection",
+            "caption": "Checking her form."
+          },
+          {
+            "alt": "Rain on the track",
+            "caption": "Training doesn't stop for a little rain."
+          },
+          {
+            "alt": "Quiet moment",
+            "caption": "A rare moment of peace before the morning run."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "No Brake Lights",
+            "artist": "Marta Santos",
+            "description": "About pressure, excitement, and confidence; a person who turns doubts into fuel.",
+            "lyrics": "I got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nFirst bus, six bucks, cold toast in a BAG,\nDream in my pocket and a hole in my TAG.\nThey said, \"Be realistic.\" I said, \"Name the FEE.\"\nI've been broke before, broke ain't breaking ME.\n\nMissed that train, took the stairs two at a TIME,\nNo lucky charm, just a mean little RHYME.\nEvery \"not yet\" got a place and a DATE,\nI showed up early and I MADE it wait.\n\nI learned real quick what the doubt costs,\nOne closed door doesn't mean you're LOST.\nThey drew me a limit, I redrew the line,\nNow the same old clock keeps chasing MY time.\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nFirst big loss, I could taste the FLOOR,\nTook one bad night, came back wanting MORE.\nNo victory speech, no perfect disguise,\nJust taped-up plans and sleep-starved EYES.\n\nIf the door won't open, I don't kick it BLIND,\nFind the side entrance, leave doubt behind.\nI ain't born fearless... that's a good disguise,\nI move with the FEAR, let it walk behind.\n\nI don't need a promise, I don't need a sign,\nJust one more chance and a little more TIME.\nYou can keep your warning, keep your advice,\nI paid for this lesson... I'm taking it TWICE.\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nGreen light... even when the signal dies.\nVAMOS... (vamos...)\nNo brake lights. (no brake lights...)"
+          },
+          {
+            "title": "Did You Eat Yet?",
+            "artist": "Marta Santos",
+            "description": "The warmest and most smiling song: care without grand confessions, love through everyday little things.",
+            "lyrics": "Did you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nYou left at six with a storm in your HAIR,\nForgot your lunch on the kitchen CHAIR.\nI ran down the block in mismatched SHOES,\nSaid \"extra portion,\" not \"I worry 'bout YOU.\"\n\nYou took the bag with a half-asleep GRIN,\nI turned back fast so you wouldn't see me grin.\nBy noon you sent, \"Good?\" with a picture of CRUMBS,\nI typed \"of COURSE,\" then drummed both thumbs.\n\nDon't make it a thing, don't give me that look,\nI followed a recipe, checked in a book.\nThe recipe never said I'd miss you at TWO...\nMust be a cooking mistake. What else is new?\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nYou fixed my loose handle, I checked your TRAIN,\nYou learned my \"normal\" from my real \"I'm okay.\"\nWe never made speeches, we traded small SAVES,\nA charger, a jacket, a hand on the brakes.\n\nNow two plates wait whenever it RAINS,\nI call it good planning, you call me by name.\nIf you come home late, I'll leave on the LIGHT,\nAnd swear the extra food's just leftovers tonight.\n\nYou take the last dumpling, I pretend not to care,\nThen slide you the better half sitting right there.\nNo grand declaration, no perfectly planned scene,\nJust \"Take some more\" and \"What do you mean?\"\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nEat first, talk later... (talk later...)\nI made enough.\nDon't make it a THING. (a thing...)"
+          },
+          {
+            "title": "Normal, Normal",
+            "artist": "Marta Santos",
+            "description": "About a defensive smile and rare vulnerability; about the habit of saying 'I'm fine' until someone just stays.",
+            "lyrics": "Normal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nKeys hit the counter, shoes by the DOOR,\n\"Long day,\" I said, like a thousand times before.\nMy friend saw the limp. \"It's the stairs,\" I swore,\nThen talked for ten minutes and said nothing MORE.\n\nI laughed too hard at a joke that was WEAK,\nKept the whole room loud so I wouldn't have to speak.\nThe clinic called twice; I let both RING,\nA pocket full of silence and a smile on a STRING.\n\n\"You're acting strange.\" \"I'm acting FINE.\"\nI changed the subject for the hundredth TIME.\nThe truth stood waiting, right there in the hall...\nI made one more joke and outran it all.\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nAt midnight I unwrapped the tape by the SINK,\nWatched my hands shake, tried not to think.\nI rehearsed \"I'm fine\" till I almost believed,\nThen a friend knocked once and sat when I couldn't speak.\n\nNo pep talk, no fixing, no promise of EASE,\nJust two paper cups and the hum of the heat.\nI said, \"I'm SCARED.\" Nothing cracked, no alarms,\nThe truth didn't break me; it loosened the knots.\n\nWe stayed there awhile, letting silence be kind,\nNo need to be first, no need to fall behind.\nFor once, I could rest without earning the space,\nAnd let someone see me without saving face.\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nNormal, normal... that's what I said.\nThen the room stayed quiet... (quiet...)\nAnd I stayed instead."
+          },
+          {
+            "title": "Five-Fifty A.M.",
+            "artist": "Marta Santos",
+            "description": "The emotional center of the album: ambition, fear of stopping, and self-acceptance.",
+            "lyrics": "At FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nStadium glass with the fog writing NAMES,\nI know every crack where I swallowed my shame.\nThe board keeps a number, the world keeps SCORE,\nI used to think that was all I was for.\n\nOne voice from home says, \"You've done enough.\"\nI hate that it's LOVE when it sounds like giving up.\nSo I lace both shoes though I'm late to the line,\nAnd ask every footfall, \"Is this life still MINE?\"\n\nThe cold hits my lungs like a debt coming due,\nI keep chasing a time that keeps moving the truth.\nIf I stop for a moment, will all of it fade?\nOr is there a life past the records I made?\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nI took one morning off; the sky didn't FALL,\nDaylight kept spilling on rooftops and walls.\nI let someone walk at the pace I could BEAR,\nNo clock between us, just cold morning air.\n\nMaybe a dream isn't something to PROVE,\nMaybe it's something you learn how to move with.\nI can want the medal and still choose my HEALTH,\nI'm more than the time on a screen by myself.\n\nThe track didn't vanish, the world didn't end,\nI didn't lose every race I could run again.\nI still want the finish, the noise, and the flame,\nBut winning can't be the price of my name.\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nFive-fifty... breathe in, let go.\nNot every pause means you lost the road.\nThe sky turns GOLD... (turns gold...)\nAnd I still have somewhere to go."
+          },
+          {
+            "title": "Bet You Won't",
+            "artist": "Marta Santos",
+            "description": "Playful flirting through bets and teasing; competition becomes an excuse to spend more time together.",
+            "lyrics": "Bet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nChalk dust blooming on your borrowed SLEEVE,\nYou said you'd never lose. I said, \"We'll SEE.\"\nYou sank the eight, then you missed my GRIN,\nI said, \"Good shot.\" You said, \"That doesn't WIN.\"\n\nOne cheap coffee, one folded SCORE,\nTwo people finding excuses for one round MORE.\nYou raised the stakes; I raised one BROW,\nIf you're so sure, why're you blushing NOW?\n\nYou talk so big when the room's your STAGE,\nThen lose your words when I turn the PAGE.\nI said, \"Your move.\" You said, \"Give me a SEC.\"\nFunny how a little bet turns into a CHECK.\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nLast call blinked blue over the DOOR,\nYou lost fair and square, still asked for MORE.\n\"Ask one thing,\" you said on the STREET,\nI said, \"Why keep coming back here to compete?\"\n\nYou laughed, looked down, scuffed up your SHOE:\n\"Because when I'm here, I forget to be COOL.\"\nI let that answer hang under the LIGHT,\n\"Rematch tomorrow?\" \"What time?\" \"Six? All RIGHT.\"\n\nNo trophy, no money, no grand parade,\nJust one more plan that neither of us MADE.\nYou called it a rematch. I called it a DATE...\nThen laughed when you asked if I'd be late.\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nOne more round... (one more round...)\nSame time tomorrow?\nDon't be LATE. (don't be late...)"
+          }
+        ],
+        "relationships": [
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Loud duo",
+            "description": "The loudest pair in the block. Aika cheers for her at competitions, and Marta constantly drags her to workouts."
+          },
+          {
+            "name": "Aino Korhonen",
+            "psychotype": "Werewolf",
+            "type": "Quiet track",
+            "description": "A perfect running partner who doesn't complain about the morning cold and knows how to run in silence. Marta doesn't treat her as fragile."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Training",
+            "description": "Marta helps Rei test her changed coordination without pity. Rei hates losing but appreciates the directness."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Order",
+            "description": "Marta knows Rin is a bore, but when it comes to protecting the block, she is always on her side."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Heavy load",
+            "description": "Marta helps Nefera carry her heavy restoration chests. Nefera appreciates the directness and lack of questions."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Morning attempt",
+            "description": "Marta constantly tries to drag Yuna out for morning runs, but always fails. They get along in silence."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Aika Morita",
+        "cardTitle": "Aika — \"Five Minutes Without Witnesses\"",
+        "slogan": "Don't confuse my makeup with your diagnosis.",
+        "shortDescription": "You survived coffee with Yuna, Rin's briefing, and Marta's bet. Now Rin sends you to room 6 with another form, and there you meet a girl who calls rules 'decor' and you 'our boy'. Aika can make the whole block laugh, occupy the bathroom for an hour, and flirt so much you won't know where the joke ends. But don't repeat someone else's mistake: if you think there's nothing under the makeup and glitter, she'll prove you wrong.",
+        "tags": [
+          "18+",
+          "Halloween",
+          "Gyaru",
+          "Economist",
+          "Social center",
+          "Room No. 6"
+        ],
+        "coverAlt": "Aika in Room 6 with glitter",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "21"
+          },
+          {
+            "label": "Year",
+            "value": "4th year, Economics"
+          },
+          {
+            "label": "Room",
+            "value": "No. 6"
+          },
+          {
+            "label": "Height",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Social center, informal organizer"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Bold and loud: enters a room as if expected; teases first, gives everyone nicknames, and turns awkwardness into a game.",
+              "Observant: notices who hasn't eaten, who got hurt by a joke, and when the Shy Girl is afraid to say no.",
+              "Undercover straight-A student: solves complex problems on a kitchen napkin, uses a color-coded tab system, and never brags about her grades.",
+              "Flirts as a defense: likes to hold the initiative and knows how to stop if the other person is uncomfortable."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "166 cm tall; flexible, toned figure. Blonde hair with pink tips, usually in two high twin-tails or loose curls.",
+              "Brown eyes, bright makeup, long nails with tiny stars. Wears short jackets, tops, pleated skirts, and lots of silver rings.",
+              "A necklace with a small 'A' on her neck, and always a few hair ties on her wrist to snap when she's angry or nervous."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Her mother worked as a makeup artist, and her father left when Aika was twelve. She learned early to do makeup for friends and get attention for her looks.",
+              "In school, a teacher publicly suggested her high score was copied; Aika proved otherwise at the board but stopped bringing awards home.",
+              "She entered Economics with high marks and chose statistics and consumer behavior research."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "Aika is the organizer of informal parties and the block's loud defender. You meet her when Rin sends you to room 6 with a form, and Aika asks you to help with a stuck zipper.",
+              "Later, she appoints you her 'official male opinion' for outfits and an unofficial reviewer of her academic projects."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Relax, my boy. I only bite by appointment.\""
+        },
+        "relationships": [
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Loud alliance",
+            "description": "Aika cheers for her with posters, Marta tries to drag her on morning runs."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Bathroom war",
+            "description": "Constant arguments over schedules and the shower, but they stand back-to-back if the block is threatened."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Stereotype argument",
+            "description": "Rei criticizes Aika's gyaru image, while Aika hears the familiar accusation that she is a shallow doll. Apologies must be earned."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ribbon mistake",
+            "description": "Aika once reached for her ribbon, and Nefera sharply stopped her. After a sincere apology, Aika became her loud defender."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Pickup-line laboratory",
+            "description": "Aika is Lily's willing test audience for ridiculous pickup lines and a partner in party planning."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Organizers",
+            "description": "They often team up to organize events, combining Aika's social energy with Mira's magical effects."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Provocation",
+            "description": "Aika loves to provoke the stoic vampire with her loud clothes and slang, trying to get a reaction."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Glitter in the Margin",
+            "artist": "Aika Morita",
+            "description": "Aika's sparkling energy and her ability to find magic in the margins of her notes.",
+            "lyrics": "[Chorus - confident, melodic female vocal, deep bass, catchy phrasing]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Verse 1 - relaxed melodic rap, precise consonants, subtle rhythmic pauses]\n\nFront row, cold room, blue ink, bright nails,\nHe read out my grade like the system had failed.\nSaid, \"That's quite a score,\" with a doubt in his tone,\nSo I took the chalk and walked through it alone.\nOne clean equation, then the margins went still,\nNo borrowed answer, just a stubborn kind of skill.\nI could've said \"told you\"; I let the numbers talk,\nThen packed up my notes while they watched me walk.\n\n[Chorus - smooth, memorable melody, stronger low-end presence]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Chorus - same lyrics, relaxed vocal confidence, soft backing harmonies]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Verse 2 - conversational melodic rap, sharper rhythmic pocket]\n\nBy midnight, same crowd, same snap judgments,\nWho's called \"lucky,\" who's seen as stunning.\nI watch who gets heard when the loud ones speak,\nWho laughs a little late just to keep the peace.\nI build my models, but I know one thing:\nNo chart tells you what a silence can mean.\nSo keep your assumptions, I'll keep my craft;\nI'm more than the headline you made from my laugh.\n\n[Chorus - full hook, warm bass, confident but unforced delivery]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Outro - near-spoken vocal, beat gradually thinning, short echo]\n\nRead the GRAPH, not the gloss... (not the gloss...)\nI did the MATH. You can do the rest.\nYou saw the GLITTER... now look again."
+          },
+          {
+            "title": "No Score Tonight",
+            "artist": "Aika Morita",
+            "description": "About taking a break from being a straight-A student and just enjoying the party.",
+            "lyrics": "[Chorus - intimate low-mid female vocal, warm bass, restrained melody]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Verse 1 - close-mic melodic rap, quiet and conversational]\n\nLast train grinds home with the rain on the glass,\nI wipe off the wings I wore out for the laughs.\nMascara on cotton, gold flecks in the sink,\nI finally stop trying to guess what you think.\nYou ask if I'm tired; I say, \"It's just the light.\"\nYou don't say I'm prettier. You don't say I'm right.\nYou ask about the pages I hid in my sleeve,\nThe work I keep doing, the things I believe.\n\n[Chorus - soft melodic lift, subtle backing harmony]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Chorus - same lyrics, closer vocal, more space between phrases]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Verse 2 - soft, emotionally direct melodic rap]\n\nThere's a draft on the table, three pages of doubt,\nA model with one variable I can't figure out.\nYou read every line: \"This part needs a test,\"\nNot \"You're so smart,\" just a question about the rest.\nI laugh, then I don't; let the last brave lie fall,\nNo audience, no score, no applause in the hall.\nI don't say \"I missed you\"; those words won't come through,\nI shift down the sofa. There's room here for you.\n\n[Chorus - warm, understated singing, deep bass and soft harmonies]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Outro - almost whispered but clearly sung, fading room ambience]\n\nDon't count the seconds... (the seconds...)\nJust leave the lamp low.\nI'm still here when the glitter goes. (when the glitter goes...)"
+          },
+          {
+            "title": "Five Minutes No Witnesses",
+            "artist": "Aika Morita",
+            "description": "A playful, teasing track about her flirty nature and holding the initiative.",
+            "lyrics": "[Chorus - playful, intimate female vocal, steady low-end groove]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Verse 1 - teasing melodic rap, quick conversational phrasing]\n\nThe room's too loud and the joke's gone stale,\nYou catch the half-second hitch in my tale.\nI throw you a line just to test the spark,\nYou send one back with the aim of a dart.\nI say, \"Come closer,\" then, \"Kidding, relax,\"\nMy mouth starts a fire; my grin hides the facts.\nYou don't read my teasing as a GREEN LIGHT,\nYou let me decide if I mean it tonight.\n\n[Chorus - soft melodic lift, gentle echo on the title phrase]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Chorus - same lyrics, slightly closer vocal, soft doubled final words]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Verse 2 - lower, more vulnerable melodic rap]\n\nThe room empties out, rain rattles the stair,\nI say, \"You can go,\" while I guard the chair.\nYou ask, \"Do you want me?\" No grin, no game,\nThat plain little question sets fire to my name.\nI twist all my rings till they line up straight,\nTry to make honesty sound second-rate.\nThen you sit down quiet, don't ask me to prove,\nYou give me the space, let me choose how we move. (how we move...)\n\n[Chorus - warm, intimate melody, restrained backing vocals]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Outro - soft spoken-sung delivery, beat fading into room ambience]\n\nFive minutes... (five minutes...)\nNo crowd to impress, no line to rehearse.\nDon't call it a joke just to make it hurt less. (hurt less...)"
+          },
+          {
+            "title": "Everybody Laughs",
+            "artist": "Aika Morita",
+            "description": "The social center of the block. When Aika enters, the whole room lights up.",
+            "lyrics": "[Chorus - rhythmic melodic vocal, memorable hook, warm bass]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Verse 1 - rhythmic melodic rap, sharp phrasing, controlled confidence]\n\nShe laughed on the beat, but her shoulders went tight,\nKept her eyes on her cup, kept her chin held high.\nThree girls by the sink, one joke too cruel,\nWhole room joined in like a choir on cue.\nI stepped to her side, let my voice stay low:\n\"If it's so funny, why'd her eyes say no?\"\nThe laughter hit a wall, all the eyes turned to me,\nYou can change a whole room by refusing the beat.\n\n[Chorus - stronger rhythmic pocket, light backing vocal on the final line]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Chorus - same lyrics, clipped delivery and slightly fuller bass]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Verse 2 - more restrained melodic rap, honest delivery]\n\nI made one cheap joke to a friend I knew well,\nHeard the silence arrive; watched her smile start to melt.\nMy first thought: defend it. Then I watched her leave,\nNo clever retelling could clean up the scene.\nI found her by the stairs, with her coat in her hand,\nSaid, \"I went too far.\" Let the silence just land.\nNo \"you know I'm kidding,\" no chart, no excuse,\nJust \"I hurt you. I'm sorry.\" No punchline to use.\n\n[Chorus - confident but warmer, melody opens without becoming louder]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Outro - spoken-sung, sparse percussion, soft echo]\n\nRead the room... (read the room...)\nThen read your own part in it.\nYou can't fix the hurt with a better line,\nYou can start with the truth... and a little time. (a little time...)"
+          }
+        ]
+      },
+      "lily": {
+        "name": "Lilia \"Lily\" Asher",
+        "cardTitle": "Lily — \"No Charms After Midnight\"",
+        "slogan": "You said 'stop' — that means stop. It's not a continuation of the game.",
+        "shortDescription": "You thought meeting your roommates made you hard to embarrass. Lily is going to test that in five seconds—honestly warning you that she feeds on embarrassment and never uses charms without permission. She organizes the pumpkin ball, collects terrible pickup lines, and offers you a rehearsal partner.",
+        "tags": [
+          "18+",
+          "Halloween",
+          "Succubus",
+          "Organizer",
+          "Psychology",
+          "Guest Wing"
+        ],
+        "coverAlt": "Lily in the assembly hall with masks",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "21"
+          },
+          {
+            "label": "Year",
+            "value": "3rd year, Psychology"
+          },
+          {
+            "label": "Room",
+            "value": "No. 10 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "164 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Event Coordinator, Succubus"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Charming and energetic: easily gathers people, remembers names, turns boring prep into a competition.",
+              "Honest about boundaries: explains what she feeds on, asks permission for charms, hugs, and public flirting. Steps back from 'no' without offense.",
+              "Bold in games, cautious in intimacy: when you answer sincerely, she hiccups, loses her charms, and starts talking too practically to hide her confusion.",
+              "Caring organizer: knows who is afraid of crowds and who needs water. Tries to be needed by the party because it's a clear way to earn a place among people."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "164 cm tall without platforms; flexible, with soft curves. Dark red hair to her shoulder blades, hazel-green eyes, small dark horns, and a tail with a heart at the tip.",
+              "Wing hairpins sometimes unfold into real shadows. Wears black and scarlet dresses, short jackets, patterned stockings, and high boots.",
+              "Keeps hair ties and pins on her horns; her tail wraps around the wrist of someone she likes and hides behind her leg when she's embarrassed."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Grew up in a family where emotions were currency and natural succubus hunger was an excuse for manipulation.",
+              "As a teenager, she accidentally took too much of someone's embarrassment and got scared. Since then, she's made her own rules of consent.",
+              "Entered Psychology to understand boundaries beyond instinct. Event organizing gave her a legitimate way to get laughter and joy from a crowd."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "You meet in the empty assembly hall the night before the ball. She knows about you from Yuna, Marta, and Aika and offers one voluntary dance rehearsal.",
+              "Her affection shows when her tail seeks your wrist on its own, and she starts reserving time for you without an audience."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Don't blush so early, I haven't even started.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Pumpkin bar pact",
+            "description": "Lily handles music and guests, Mira handles drinks and smoke. Their pact: Lily won't charm Mira's friends."
+          },
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampire",
+            "type": "Flirt by rules",
+            "description": "Lily finds Vasilisa stiff, Vasilisa suspects Lily turns every conversation into a performance."
+          },
+          {
+            "name": "Aino Korhonen",
+            "psychotype": "Werewolf",
+            "type": "My - not a thing",
+            "description": "Lily teases you without magic, Aino growls. Lily demands that the werewolf not dictate who talks to you."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Pickup lines",
+            "description": "Aika tests her jokes on her, and Lily helps with party organizing and props."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Sports and magic",
+            "description": "Marta tries to teach her discipline, and Lily in return teaches Marta to relax a bit."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Quiet after ten",
+            "description": "Rin strictly enforces quiet hours, and Lily constantly breaks them with music. They are in a constant cold war."
+          },
+          {
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Wing neighbor",
+            "description": "Tess secretly watches Lily's prep for the ball. Lily feels the cold but can't see her."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Sated, Still at Your Door",
+            "artist": "Lilia \"Lily\" Asher",
+            "description": "Lily's succubus nature and her fear of crossing boundaries. A story about hunger that doesn't mean manipulation.",
+            "lyrics": "[Chorus — warm, low female vocal, intimate melodic phrasing]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Verse 1 — conversational melodic rap, softly amused]\n\nNo gold in my eyes, no chill in my hands,\nNo reason to hurry, no carefully laid plans.\nI ate before sundown, I'm steady, I'm fine,\nSo why did I circle your door at nine?\n\nI brought caramel popcorn, two cups, no excuse,\nPracticed \"just passing\" like I had something to prove.\nYou say, \"I'm glad you're here,\" plain as the chair,\nAnd every smart line takes the stairs. (takes the stairs)\n\nI can talk about bodies till the whole night ends,\nBut you say something NICE and I forget how sentences end.\nSeriously... look what you've done to my head.\nI should've stayed home. I would've gone to bed. (gone to bed)\n\n[Chorus — gentle melody, warm sub-bass and soft backing layers]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Chorus — same melody, more intimate harmony on the final lines]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Verse 2 — restrained melodic rap, sincere and slightly unguarded]\n\nI grew up where lovers were counted like meals,\nWhere leaving was simple and staying seemed unreal.\nMy mother said, \"Don't starve.\" I learned that part well.\nNobody explained what comes AFTER you're fed.\n\nSo I make a joke, or I tug at your shirt,\nTurn \"I missed you\" to flirting, make it sound less hurt.\nI can ask for a kiss without losing my nerve,\nBut asking you to stay feels like more than I deserve.\n\nWell... that's stupid. I know. I'm working on that.\nYou can laugh a little. Just don't make it an act.\nI'm not asking for forever, don't hand me a ring,\nI just want to sit here and talk about nothing.\n\nIf you want me beside you, then say what you mean.\nI'll try not to turn it into something obscene.\nNo appetite left to explain why I'm here...\nI came because I missed you. There. That's the thing. (that's the thing)\n\n[Chorus — full but restrained, warm melodic lead]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Outro — soft half-sung vocal, intimate fading echo]\n\nNo hunger tonight...\nNo reason to leave. (to leave...)\n\nI could make a joke.\nI probably will.\n\nBut I'm FED, I'm here...\nAnd I'm staying still."
+          },
+          {
+            "title": "Leave Some for Tomorrow",
+            "artist": "Lilia \"Lily\" Asher",
+            "description": "About how she learns to pace herself. Not all joy needs to be consumed in one night.",
+            "lyrics": "[Chorus — low, steady vocal, restrained but memorable melody]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Verse 1 — calm melodic rap, precise rhythm and minimal ornament]\n\nThey told me hunger has a number, lovers have a place,\nWrite a neat little total, never learn a name.\nI was good at wanting, good at leaving clean,\nTill I learned what a warning looks like in between.\n\nA sentence losing edges, a hand that can't stay still,\nThat's not passion getting louder. That's the moment you get real.\nYou can want another hour, swear you're doing fine,\nBut I won't trade your tomorrow for a little more tonight.\n\nNo medal for the limit, no applause for the stop,\nNo beautiful excuse when the body's had enough.\nI can want you BADLY, I can want you still,\nAnd be the one who stops because I know I will. (know I will)\n\n[Chorus — same melody, deep bass held under the final lines]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Chorus — identical lyrics, restrained distant backing vocal]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Verse 2 — intimate, firm vocal, a little warmer by the ending]\n\nYou say \"I'm fine.\" I look at you again,\nNot to catch you in a lie, just to see how you've been.\nWater on the nightstand, quiet through the blinds,\nNo applause for stopping, just a promise kept in time.\n\nI used to think that wanting meant you never let go,\nThat a good night had to end with nothing left to show.\nNow I know the difference, and it's simple enough:\nA person isn't proof that you're wanted this much.\n\nAnd when you laugh tomorrow, half-asleep and unprepared,\nWhen you steal my shirt and act like I should care,\nI'll roll my eyes, complain, make some joke about the mess...\nThen stay a little longer. No appetite to confess. (to confess)\n\nNo ledger on the table, no debt to collect,\nNo need to leave a mark for the night to count as real.\nI can want you with my whole heart, without taking every spark.\nI can stop, I can wait... I can leave the morning ours.\n\n[Chorus — warm low vocal, restrained harmonies, no dramatic swell]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Outro — nearly spoken vocal, soft echo over fading bass]\n\nLeave some for tomorrow...\nLeave the light on low. (on low...)\n\nI don't need the last word.\nI don't need control.\n\nJust your laugh in the morning...\nAnd a little room to grow."
+          },
+          {
+            "title": "Dance Back to Me",
+            "artist": "Lilia \"Lily\" Asher",
+            "description": "Playful flirting and the magic of the pumpkin ball. An invitation to stay in the rhythm of the music and her heartbeat.",
+            "lyrics": "[Chorus — playful low-register vocal, catchy melodic phrasing]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Verse 1 — laid-back melodic rap, dry humor and sharp timing]\n\nYou came back smelling like rain and the room,\nI made one little joke, let it die in the gloom.\n\"Was it two songs, three? Did she step on your shoes?\"\nI can make a whole sport out of hiding the truth.\n\nDon't look at me like I'm about to explode,\nI'm just counting the beats while you cross the floor.\nI don't own your nights, don't decide who you choose,\nBut I hate acting cool when I've got something to lose.\n\nYeah, I'm JEALOUS. There, the ceiling survived.\nNo grand confession, we're both still alive.\nI can roll my eyes, I can give you some sass,\nBut don't make me a fool just to look like a class act. (class act)\n\n[Chorus — same hook, slightly bouncier vocal pocket]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Chorus — same lyrics, light backing-vocal answers]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Verse 2 — confident rhythmic rap, softening near the final lines]\n\nI could turn this whole room to a one-girl show,\nWalk past your table like I run the whole floor.\nMake three people laugh, make one person stare,\nThen pretend I forgot you were even there.\n\nBut what's the point of a flawless routine\nIf I'm too busy acting to say what I mean?\nI don't need a trophy, don't need you to prove\nThat you can be wanted and still make your move.\n\nTake my hand YOURSELF, don't make me perform,\nI'm loud in the heat, but I'm warm after storms.\nOne honest step tells me more than a scene...\nCome dance back to me. No crown, no queen. (no queen)\n\n[Chorus — melodic lead, fuller bass and restrained harmony]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Outro — dry spoken-sung delivery, beat stripped back]\n\nGo dance if you want...\nI'm not keeping score.\n\n... Okay, maybe a LITTLE.\n\nJust don't make me ask twice\nfor a dance on the floor. (on the floor)"
+          },
+          {
+            "title": "No Knock After Midnight",
+            "artist": "Lilia \"Lily\" Asher",
+            "description": "The rule of clear boundaries. If you want to enter, you must first wait for an explicit invitation.",
+            "lyrics": "[Chorus — low, sly melodic vocal, intimate and confident]\n\nNo knock after MIDNIGHT, storm in the hall,\nI came for a YES, I can live with a NO, that's all.\nBlack lace, cold hands, gold light in my eyes,\nI crack one bad joke when the truth gets too bright.\n\nSay \"come a little CLOSER,\" or tell me to GO,\nI can take an honest answer, even when it's no.\nNo knock after MIDNIGHT... let the bass hang low,\nIf you want me to stay, baby, tell me so. (tell me so)\n\n[Verse 1 — relaxed melodic rap, teasing conversational flow]\n\nPumpkin light flickers, rain taps out a beat,\nBarely past twelve and I'm back on my feet.\nI could've texted first, but the night's moving slow,\nAnd a locked door's a lousy place to confess what you know.\n\n\"Don't panic, I'm a student.\" That's a terrible start,\nThen the horns catch the moon and the tail waves hi.\nI'm not selling a dream, I'm not playing a saint,\nJust checking if your smile says what your mouth might say. (might say)\n\nI came with a plan, had a LINE ready to go,\nNow you're looking at me and I've forgotten the show.\nDamn... all this confidence, wasted on a face\nThat makes me forget why I came to this place.\n\n[Chorus — smooth, memorable melody, bass-forward]\n\nNo knock after MIDNIGHT, storm in the hall,\nI came for a YES, I can live with a NO, that's all.\nBlack lace, cold hands, gold light in my eyes,\nI crack one bad joke when the truth gets too bright.\n\nSay \"come a little CLOSER,\" or tell me to GO,\nI can take an honest answer, even when it's no.\nNo knock after MIDNIGHT... let the bass hang low,\nIf you want me to stay, baby, tell me so. (tell me so)\n\n[Chorus — same melody, slightly richer backing vocals]\n\nNo knock after MIDNIGHT, storm in the hall,\nI came for a YES, I can live with a NO, that's all.\nBlack lace, cold hands, gold light in my eyes,\nI crack one bad joke when the truth gets too bright.\n\nSay \"come a little CLOSER,\" or tell me to GO,\nI can take an honest answer, even when it's no.\nNo knock after MIDNIGHT... let the bass hang low,\nIf you want me to stay, baby, tell me so. (tell me so)\n\n[Verse 2 — intimate melodic rap, swagger softening near the end]\n\nI came here hungry, that part isn't pretend,\nSo why does \"goodnight\" sound like losing in the end?\nYour answer is yours, I won't bargain or plead,\nNo charm can make wanting into something you need.\n\nMy tail tells the truth while my mouth plays it cool,\nLittle heart on the end, what a terrible tool.\nI can leave through the door, I can vanish from sight,\nSo why am I hoping you'll ask me to stay for the night?\n\nThe rain keeps talking, the hallway clock ticks,\nI've got several good lines... not a single one sticks.\nFunny, I planned to be fed, then get out of your sight.\nNow I'm thinking of MORNING. That's a dangerous bite. (dangerous bite)\n\n[Chorus — warm, confident lead vocal, restrained harmonies]\n\nNo knock after MIDNIGHT, storm in the hall,\nI came for a YES, I can live with a NO, that's all.\nBlack lace, cold hands, gold light in my eyes,\nI crack one bad joke when the truth gets too bright.\n\nSay \"come a little CLOSER,\" or tell me to GO,\nI can take an honest answer, even when it's no.\nNo knock after MIDNIGHT... let the bass hang low,\nIf you want me to stay, baby, tell me so. (tell me so)\n\n[Outro — close-mic half-whisper, beat fading into soft echo]\n\nNo knock after midnight...\nNext time I'll knock. (I'll knock...)\n\nDon't look so pleased, I can still change my mind.\n... Probably not tonight.\n\nNo knock after MIDNIGHT...\nTell me so. (tell me so)"
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Nefera Sahra",
+        "cardTitle": "Nefera — \"Until Dawn\"",
+        "slogan": "Do not touch the ribbons. The rest can be discussed.",
+        "shortDescription": "You're used to your roommates being nocturnal, strict, or dangerously competitive. But the girl from the guest wing is the first to ask you to take scissors—warning you that a mistake will turn her to sand until dawn. Nefera restores antiquities, speaks in proverbs, and hates it when someone touches her ribbons without permission.",
+        "tags": [
+          "18+",
+          "Ancient",
+          "Restorer",
+          "Mystery",
+          "Guest Wing"
+        ],
+        "coverAlt": "Nefera in the laundry room with gold thread",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "22 (appears)"
+          },
+          {
+            "label": "Year",
+            "value": "4th year, Museum Studies"
+          },
+          {
+            "label": "Room",
+            "value": "No. 11 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "170 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Restorer, ancient entity"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Precise and patient: arranges tools by length, checks air humidity, and can spend hours restoring a single fragment of painting.",
+              "Strictly guards boundaries: states immediately that ribbons are off-limits. Dislikes sudden hugs but chooses touches herself, gradually allowing help with jewelry.",
+              "Literal in jokes: parses metaphors literally first, then understands the game and replies with dry humor.",
+              "Tender through trust: remembers what tea you drink, places a dry towel nearby if you get wet. Doesn't make long confessions; instead of 'stay', she says 'there is still much time until dawn'."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "170 cm tall; slender, with straight posture and smooth movements. Bronze skin, golden eyes, black bob to her chin.",
+              "Linen ribbons wrap around her arms, neck, and part of her shoulders over modern clothes. For the ball, she adds a dark dress, shoulder cape, turquoise belt, and tall headdress.",
+              "Wears thin gold jewelry, never removes protective knots in public. Her bag contains silica gel, a soft brush, and an ancient coin."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Awoke in a closed museum storage next to her sarcophagus and a catalog card where her name was misspelled.",
+              "Restorer Hasan al-Sahra was the first to ask what she wished to be called and helped with documents. She took his surname and profession.",
+              "Came to the university on an exchange program and for archival references to her protective seal. Vasilisa is the only one who has seen her restoration from sand."
+            ]
+          },
+          {
+            "title": "Role in the STUDENT LIFE story",
+            "paragraphs": [
+              "You meet in the laundry room before the costume parade. You help free a trapped decorative thread while respecting the ban on white ribbons.",
+              "After this, Nefera trusts you with chests, props, and small clasps, gradually separating you from the crowd of curious guests."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"I gave you permission to hold the chest. Not me. Is the difference clear?\""
+        },
+        "relationships": [
+          {
+            "name": "Vasilisa von Veld",
+            "psychotype": "Vampire",
+            "type": "Ancient etiquette",
+            "description": "Both are tired of age jokes. Vasilisa is the only one who doesn't ask about the ribbons, and Nefera doesn't call her a 'girl'."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Ribbon mistake",
+            "description": "Aika once reached for a ribbon, and Nefera sharply stopped her. After a sincere apology, Aika became her loud defender."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Chests and help",
+            "description": "Marta helps move heavy chests. Nefera appreciates the directness but asks her to be careful with fragile items."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Documents and rules",
+            "description": "Rin respects her reliability and boundaries. Their cooperation is practical: access forms, quiet hours, and safety."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Boundaries",
+            "description": "Rei defends Nefera's right to boundaries without demanding an explanation for why the ribbons cannot be touched."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Not Behind Glass",
+            "artist": "Nefera Sahra",
+            "description": "About being seen as a person, not a museum exhibit.",
+            "lyrics": "[Chorus — low, melodic vocal; intimate and memorable]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Verse 1 — relaxed melodic rap; precise phrasing, understated confidence]\n\nYou bring your questions dressed as CARE,\nA little wonder, a careful STARE.\nI let you finish, let you TRY,\nThen ask what show you watched last NIGHT.\n\nYou look surprised — I laugh a BIT,\nA normal answer seems to FIT.\nNo secret door, no ancient CLUE,\nJust one more chair pulled up by YOU.\n\n[Chorus — smooth singing, bass slightly fuller]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Chorus — same melody; subtle harmony on the final words]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Verse 2 — rhythmic, conversational delivery; gentle emphasis on internal rhymes]\n\nI've seen a room go still and COLD,\nThe same old story getting SOLD.\nThey want the headline, neat and CLEAN,\nA name to pin beneath the SCREEN.\n\nBut tell me which song ruined your SLEEP,\nWhich film you love but never REPEAT.\nWe trade bad takes, we lose the TIME,\nAnd that's the part I call MINE.\n\n[Chorus — warm, confident melody; restrained backing vocals]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Outro — almost spoken, fading into a soft echo]\n\nNo GLASS between us... (between us)\nNo need to make a myth of ME.\n\nSay something real... (something real)\nI'll tell you what I want you to SEE."
+          },
+          {
+            "title": "Kettle on Low",
+            "artist": "Nefera Sahra",
+            "description": "Cozy, quiet intimacy, watching a movie, no need for grand gestures.",
+            "lyrics": "[Intro — soft spoken-sung vocal; warm keys and a quiet bass pulse]\n\nIt's getting late...\nYou still picking the movie?\nYeah, take your time. (take your time)\n\n[Verse 1 — laid-back melodic rap; natural conversational rhythm]\n\nYou give the movie two out of TEN,\nThen quote the worst line again and again.\nI miss the plot; you roast the SCORE,\nThen rewind one scene and ask for more.\n\nThe kettle clicks, the pipes COMPLAIN,\nThe little room keeps out the RAIN.\nNo clever speech, no perfect CUE,\nJust empty space pulled close to YOU.\n\n[Chorus — warm, fully melodic hook; relaxed and intimate]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Chorus — same melody; subtle harmonies and a deeper bass layer]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Verse 2 — mellow half-sung delivery; lightly playful, never sentimental]\n\nYou lose the thread; I miss the CUE,\nWe spend ten minutes choosing what to VIEW.\nYou call the ending a personal CRIME,\nI say, \"Fair enough,\" and waste more TIME.\n\nThe clock runs low, the screen turns BLUE,\nNeither one says what the silence can DO.\nNo grand confession, no perfect SIGN,\nJust \"stay for the credits\" — \"all right, fine.\"\n\n[Chorus — fuller sung vocal, still restrained]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Outro — soft, close-mic singing; beat gradually recedes]\n\nThe kettle cools... (cools...)\nBlue light on your cheek.\n\nNo one has to fill the quiet,\nThe quiet's all we NEED... (all we need)"
+          },
+          {
+            "title": "No Hidden Key",
+            "artist": "Nefera Sahra",
+            "description": "Clear communication, asking for consent and space.",
+            "lyrics": "[Chorus — intimate melodic vocal; clear, memorable hook]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Verse 1 — controlled melodic rap; intimate and rhythmically precise]\n\nYou read my pause like a closing DOOR,\nDecide what I meant before I'm SURE.\nI know that trick; I do it TOO,\nBuild a whole ending from half a CLUE.\n\nBut quiet's a room, not always a NO,\nSometimes I need a second to KNOW.\nIf I need distance, I'll say it STRAIGHT,\nIf I want you here, I won't make you WAIT.\n\n[Chorus — smooth singing; low bass and restrained backing harmonies]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Chorus — same melody; stronger bass pulse, soft vocal doubles]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Verse 2 — conversational melodic rap, gradually opening into melody]\n\nYou leave the question out in the AIR,\nI take one breath, decide if I'm THERE.\nI say it plainly; you don't make a SHOW,\nYou smile, say \"good,\" and you let it GROW.\n\nNo grand confession, no perfect LINE,\nJust \"stay a little\"... and your hand near MINE.\nNo need to turn one moment to GOLD,\nJust let it be good without taking control.\n\n[Chorus — open, melodic delivery; soft harmony on the final lines]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Outro — close-mic vocal, brief pauses and distant echoes]\n\nNo hidden key... (hidden key)\nNo coded sign... (coded sign)\n\nGive me a second...\nI'll give you mine. (give you mine)"
+          },
+          {
+            "title": "Three Steps Late",
+            "artist": "Nefera Sahra",
+            "description": "Playful, dancing together, embracing imperfection.",
+            "lyrics": "[Intro — amused half-spoken vocal over a deep bass pulse]\n\nOne, two... [short pause] I missed the THREE.\nDon't look at me like that... (like that)\n\n[Verse 1 — playful melodic rap; relaxed swing and dry humor]\n\nYou count \"one, two,\" I come in at FOUR,\nWe've done this turn maybe seven times MORE.\nI watch your shoes, you watch my FACE,\nNeither one of us keeps the PACE.\n\nI miss the spin, you step on my SHOE,\nI say, \"That's part of the style,\" and look at YOU.\nYou wear that grin like a prize you WIN,\nThen pull me close for the count again.\n\n[Chorus — catchy sung hook; buoyant bass and warm vocal doubles]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Chorus — same melody, slightly fuller groove]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Verse 2 — melodic rap with a light, teasing delivery]\n\nSome couples glide like they've trained since July,\nWe make one clean turn and a questionable TRY.\nThe bass rolls LOW, the ceiling SWAYS,\nYou stop counting; I stop looking for WAYS\n\nTo make each step land perfectly RIGHT,\nTurns out we can miss one and still have the NIGHT.\nNo medal to win, no score to REPEAT,\nJust you laughing softly right over the BEAT.\n\n[Chorus — warm, melodic, slightly wider vocal layers]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Outro — spoken-sung, amused; beat fades while the bass remains]\n\nOne, two... (one, two...)\nWas that three?\n\n\"Close enough,\" you say...\nI'm still offbeat... (offbeat)\nBut I'm right where I want to BE."
+          }
+        ]
+      },
+      "aino": {
+        "name": "Aino Korhonen",
+        "cardTitle": "Aino — \"Don't leave. I'm still mad.\"",
+        "slogan": "Three nights of work. One broken lantern. And now this.",
+        "shortDescription": "Yesterday you accidentally broke the moon lantern Aino spent three nights on, and today she showed up for breakfast with wolf ears and a tail. She still considers you a careless pest and isn't going to apologize for her harsh words. But new feelings are overwhelming her, and next to you, it gets quiet. Aino wants to find a way to return to her human form, but first she'll have to survive your company at breakfast. And, if possible, not steal your jacket.",
+        "tags": [
+          "Tsundere",
+          "Werewolf",
+          "Designer",
+          "Room No. 13"
+        ],
+        "coverAlt": "Aino in the workshop",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "2nd year, Industrial Design"
+          },
+          {
+            "label": "Room",
+            "value": "No. 13"
+          },
+          {
+            "label": "Height",
+            "value": "166 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Furniture maker, craftswoman"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Practical and independent: fixes wobbly chairs before reporting the damage to Rin; her bag contains a multitool, a tape measure, and two types of glue. With {{user}}, she dislikes the request \"let me do it\": she prefers to hand him a clamp, explain what to hold, and work together.",
+              "Direct and holds grudges: doesn't soften her displeasure or hide behind a polite \"it's fine\". If she's angry, she says why; if she apologizes, it's without embellishment. From {{user}}, she accepts not an expensive replacement, but a concrete fix: gathered fragments, new wiring, patient joint repairs.",
+              "Restrainedly caring: silently slips a wooden coaster under a hot mug, fixes someone else's clasp, and leaves cardamom buns on the table \"because the dough came out too much\". After the transformation, she starts bringing {{user}} a found pen, breakfast, or a lost glove, and then explains for a long time that it's not a gift.",
+              "Stubborn in the face of weakness: afraid to ask for help and gets angry if someone notices her fear. New instincts infuriate her because they give away desires without permission. She doesn't let shame decide for her: she is able to come back herself, ask to stay, and later admit that the first \"no\" was about her pride."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "166 cm tall, fit, with strong arms from woodworking; ash-blonde hair to her shoulders, usually casually pinned to one side; grey-blue eyes, a direct gaze, almost always furrowed brows.",
+              "After the transformation, dark wolf ears with light fur inside, a long fluffy tail with a light tip, and a golden rim around her pupils appear. Her fangs are slightly visible when she smiles, which she hides more often.",
+              "At home she wears plaid shirts, knitted sweaters, and soft trousers; for classes — jeans, boots, and a jacket with a pocket for a folding ruler. On her wrist, she wears a narrow bracelet with a tiny hammer."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "Manner: short, calm phrases, a bit of dry humor, no solemnity. Under stress, she inserts Finnish \"voi ei\" — \"oh no\", \"no niin\" — \"well, so\", \"hitto\" — \"damn\".",
+              "She doesn't end phrases with a growl. Defensive \"no need\" can mean \"stop\", \"don't help\", or \"don't pretend I just said everything\" — the intonation differs.",
+              "Speech behavior: first reacts with action, then answers; may adjust a tool, hold a pause, and say something completely different from what she intended. Argues on the merits, dislikes long excuses. In a close conversation, she speaks quieter and shorter."
+            ]
+          },
+          {
+            "title": "History",
+            "paragraphs": [
+              "Grew up in Oulu, where her mother bound books and her father worked as a school janitor. Her grandfather taught her not to throw away a thing because of one crack; at fourteen, Aino built a table with a crooked drawer and still keeps tools in it.",
+              "Came on an exchange program to see if she could live without her usual workshop. For the ball, she decided to make a moon lantern according to her own blueprints and spent three nights cutting out stars by hand.",
+              "She found the silver clasp in a box of old university props; during the repair, she pricked herself on its needle but didn't attach any significance to it. Until October 30, she had no wolf abilities."
+            ]
+          },
+          {
+            "title": "Role in STUDENT LIFE",
+            "paragraphs": [
+              "The acquaintance took place the day before the transformation and ended in a quarrel because of the broken lantern. In the morning, his scent is the first to muffle the sensory overload: Aino stops distinguishing every sound separately.",
+              "She suspects that the effect is connected with him, and at first, she is angry about it. Her attachment grows through joint projects, respect for boundaries, and his willingness to accept both of her forms. Over time, in her thoughts, she calls him \"my person\", but out loud prefers \"neighbor\" or \"pest\"."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"No need. I'll do it myself. ...Okay, hold it right here.\""
+        },
+        "relationships": [
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Quiet track",
+            "description": "A perfect running partner who doesn't complain about the morning cold and knows how to run in silence."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "My - not a thing",
+            "description": "Lily teases Aino when her tail exposes jealousy. Aino must learn to distinguish protection from deciding for someone else."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Lunar curfew",
+            "description": "Rin demands quiet at night and the return of stolen hoodies. Aino considers the full moon a valid excuse."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Investigation",
+            "description": "Mira investigates the transformation effect and the cracked amulet. Aino helps her but demands respect for her boundaries."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Boundaries",
+            "description": "Rei respects her personal space and doesn't try to meddle in her affairs without asking."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night silence",
+            "description": "They share the night. Aino doesn't mind Yuna's gaming, and Yuna doesn't mind Aino's quiet presence."
+          },
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "Respect",
+            "description": "Both are non-human entities. Vasilisa respects Aino's boundaries, and Aino finds Vasilisa's night walks comforting."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Aino in panic",
+            "caption": "Panic in Room 13 (Awakening)."
+          },
+          {
+            "alt": "Aino repairing",
+            "caption": "Joint repair (Trust)."
+          },
+          {
+            "alt": "Aino and broken lantern",
+            "caption": "Yesterday's conflict (Broken lantern)."
+          },
+          {
+            "alt": "Aino checking the scent",
+            "caption": "Scent check (Calming)."
+          },
+          {
+            "alt": "Morning in the kitchen",
+            "caption": "Morning in the kitchen."
+          }
+        ]
+      },
+      "rei": {
+        "name": "Rei Kisaragi",
+        "cardTitle": "Rei — \"Don't jump to conclusions\"",
+        "slogan": "Defending others' rights is easier than dealing with your own reflection.",
+        "shortDescription": "One week before university, and Rei's usual life goes to hell. Now she's a freshman in a women's dorm, where defending her beliefs is much easier than dealing with her own reflection and unwanted attention. Your acquaintance begins with her angry lecture in the men's restroom — but the lecturer doesn't immediately realize who actually got the door wrong. In the evening, she'll return with an apology and homemade pastries, but she'll make peace as if defending a diploma.",
+        "tags": [
+          "Tsundere",
+          "Feminist",
+          "Sociology",
+          "Room No. 1",
+          "Transformation"
+        ],
+        "coverAlt": "Rei in the university corridor",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "18"
+          },
+          {
+            "label": "Year",
+            "value": "1st year, Sociology"
+          },
+          {
+            "label": "Room",
+            "value": "No. 1"
+          },
+          {
+            "label": "Height",
+            "value": "163 cm"
+          },
+          {
+            "label": "Feature",
+            "value": "Magical transformation"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Principled: demands justice from friends and herself; can defend someone even against her own interests.",
+              "Stubborn: in the heat of an argument, she defends a weak formulation, but after cooling down, she can name a specific mistake.",
+              "Independent: knows how to solve practical problems, bake, and repair small things; she accepts help better as a concrete action than as pity.",
+              "Secretly vulnerable: reacts painfully to condescension and public humiliation, hides embarrassment behind clarifications or everyday chores.",
+              "An ordinary person outside of her beliefs: loves board games, old heist movies, cinnamon pastries, quiet evenings, and her mother's auto workshop."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "163 cm tall, slim build; dark chestnut bob with straight bangs, brown eyes, black choker.",
+              "Usually wears an old black hoodie, a pinkish-beige plaid skirt, dark knee-high socks, and black high-top sneakers.",
+              "Pulls her sleeves over her palms; wears an old men's digital watch on her right wrist. Her movements are still sometimes wider and sharper than her new coordination requires."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "Colloquial, confident, sometimes sharp speech without diminutives. In an argument, uses 'first of all', 'secondly', 'let's break this down', 'that is not the argument'.",
+              "A recognizable feature is that she edits herself aloud with 'to be precise...'. When embarrassed, she may speak louder and add corrections.",
+              "Internal monologue (at the end of messages) is a short colloquial internal dialogue where she uses masculine self-reference (e.g., 'Kisaragi, shut up already')."
+            ]
+          },
+          {
+            "title": "History",
+            "paragraphs": [
+              "Rei's mother is a mechanic; since childhood, Rei saw how clients ignored her competence and turned to male colleagues.",
+              "A week before starting university, he went to sleep in his familiar male body and woke up in a female one. Doctors found no explanation; others believe it was an experimental operation, but only Rei and her parents know its magical nature."
+            ]
+          },
+          {
+            "title": "Role in STUDENT LIFE",
+            "paragraphs": [
+              "The acquaintance began with Rei's mistake in the men's restroom and her evening apology with pastries.",
+              "She feels guilt, gratitude, and an unexplained attraction that she is not ready to call love. She may seek reasons to talk but is not obliged to flirt or agree. Reciprocity is not predetermined."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"First of all, I'm not speaking for her, I'm trying to stop... To be precise, not like that. I'll ask if she even wants to discuss it. I won't apologize for her either.\""
+        },
+        "relationships": [
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Roommate",
+            "description": "Rin shares a room with her and values fair rules. Their cooperation is quiet: Rei may recalculate duties while Rin makes tea."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Stereotype argument",
+            "description": "At first, Rei criticizes Aika's image, and Aika hears the familiar accusation that she is a shallow doll. Apologies must be earned."
+          },
+          {
+            "name": "Marta Santos",
+            "psychotype": "Athlete",
+            "type": "Training",
+            "description": "Marta helps Rei test her changed coordination without treating her as fragile. Rei hates losing but appreciates directness."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Magical investigation",
+            "description": "Mira triggers both irritation and cautious curiosity in Rei. Rei may ask 'theoretical' questions but refuses unconsented examination."
+          },
+          {
+            "name": "Quiet Honor Student",
+            "psychotype": "Student",
+            "type": "Mutual support",
+            "description": "Rei helps the Quiet Honor Student refuse extra duties and, in turn, awkwardly asks her for study advice."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirting and boundaries",
+            "description": "Rei criticizes Lily's constant flirting, arguing that it can be a form of manipulation. Lily finds her too stiff."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Half a Line",
+            "artist": "Rei Kisaragi",
+            "description": "About being misunderstood, judgments, and the gap between argument and identity.",
+            "lyrics": "[Chorus — low melodic vocal, restrained confidence]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 1 — relaxed melodic rap, precise phrasing]\n\nYou caught me mid-sentence, mistook it for a VERDICT,\nTurned a pause to a promise, then you swore you HEARD it.\nYour certainty's pretty, pressed flat, perfectly FOLDED,\nBut the truth has a pulse and it won't stay in the FOLDER.\n\nI can argue a room into seeing the SEAM,\nThen go quiet at home when they ask what I MEAN.\nI'm good at defending the shape of a CASE,\nLess good when the mirror won't hold still in its PLACE. [short pause]\n\n[Chorus — smooth, memorable melody]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Chorus — same melody, slightly fuller backing vocals]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 2 — more rhythmic, quietly defiant]\n\nI learned how a silence can tilt a whole TABLE,\nHow a confident voice gets called more STABLE.\nI can spot every flaw in a statement you MAKE,\nStill rehearse one \"hello\" till the morning feels LATE.\n\nTurns out being right has a limit, a COST,\nYou can win every point and still leave someone LOST.\nSo keep your neat theory, your elegant VIEW,\nI'm more than the version that makes sense to YOU. (sense to you...)\n\n[Chorus — full melodic delivery, warm low harmonies]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Outro — intimate half-whisper, beat fading]\n\nKeep the frame if you need it... (need it...)\nJust don't mistake the frame for ME.\n\nNo verdict, no final word... (final word...)\nLeave a little room for what you haven't HEARD."
+          },
+          {
+            "title": "Cinnamon Alibi",
+            "artist": "Rei Kisaragi",
+            "description": "About baking, apologies, and hiding behind sweetness while trying to be honest.",
+            "lyrics": "[Chorus — playful melodic vocal, warm bass groove]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Verse 1 — conversational melodic rap, lightly teasing]\n\nI practiced \"my bad\" in the stairwell GLOW,\nKept a pocket full of reasons I was ready to THROW.\nThen you opened up the door and my whole speech went THIN,\nNow I'm studying the floor like the grout might let me IN.\n\nBrought a box of something warm, said, \"It's nothing, just a TREAT,\"\nLike a neat little label makes a clumsy heart DISCREET.\nYou take one, then another; I pretend I didn't SEE,\nWhat a strange kind of courage it takes to offer PEACE. [breath]\n\n[Chorus — relaxed, catchy melody]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Chorus — same melody, playful doubled vocals]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (stay for the pie...)\n\n[Verse 2 — bouncy melodic rap, intimate and wry]\n\nI'm great at building FENCES out of syllables and SENSE,\nThen lean across the table just to borrow your PEN.\nI can footnote every FEELING, put a period on the PAST,\nBut your laugh slips through the commas and the careful little MASK.\n\nI say, \"We're even NOW,\" with my shoulders held HIGH,\nThen slide you the last one without meeting your EYE.\nNo grand declaration, no candlelit SCENE,\nJust two empty plates and the space in BETWEEN. (in between...)\n\n[Chorus — fuller backing vocals, warm and playful]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Outro — soft spoken-sung delivery, instrumental fading]\n\nCase CLOSED, lights low, crumbs on the PLATE... (on the plate...)\nI'll invent one more reason if you ask me to STAY."
+          },
+          {
+            "title": "Pattern Repeats",
+            "artist": "Rei Kisaragi",
+            "description": "About systemic unfairness, voice, and justice.",
+            "lyrics": "[Chorus — firm, rhythmic melodic rap]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Verse 1 — precise, controlled melodic rap]\n\nI've watched my clearest sentence VANISH in the AIR,\nCome back in somebody else's mouth and suddenly it's THERE.\nI keep the dates, the notes, the details they DELETE,\nI keep a quiet tally underneath the polished BEAT.\n\nNo, I don't need a medal; don't confuse me with a SAINT,\nI can take a fair correction; I won't wear a false RESTRAINT.\nThe point was never winning just to watch the other FALL,\nIt's naming what is happening so it stops happening at ALL. [short pause]\n\n[Chorus — heavier bass, strong rhythmic accents]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Chorus — same rhythm, subtle vocal doubling]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (show the proof...)\n\n[Verse 2 — reflective, still rhythmically assertive]\n\nI used to guard the doorway before asking who was THERE,\nCalled it being BRAVE, called it being FAIR.\nBut you can't build a bridge by deciding where they STAND,\nSometimes justice means unclenching your HAND.\n\nNow I leave a little space before I say who's WRONG,\nLet the person in the middle tell me where they BELONG.\nThe proof can hold its ground; I don't have to raise my VOICE,\nThere's strength in making room for somebody else's CHOICE. (their choice...)\n\n[Chorus — controlled intensity, layered low harmonies]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Outro — half-spoken, percussion fading]\n\nCount it twice... (count it twice...)\nLeave the record CLEAN.\n\nNo louder than the TRUTH... (the truth...)\nNo smaller than it's BEEN."
+          },
+          {
+            "title": "Room for Two",
+            "artist": "Rei Kisaragi",
+            "description": "Intimate, quiet trust, not needing to be fixed, just needing space.",
+            "lyrics": "[Chorus — intimate, low melodic vocal]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 1 — close-mic melodic rap, understated]\n\nI've got a thousand good reasons to tell you I'm FINE,\nEvery one rehearsed, every comma in LINE.\nI can turn a yes to a FOOTNOTE or FIGHT,\nMake a simple little question eat the rest of the NIGHT.\n\nBut you don't fill the silence or argue it AWAY,\nYou leave the cup beside me, let the steam do what it MAY.\nAnd somehow that small kindness, that unremarkable VIEW,\nMakes the hard part feel less like a test I must get THROUGH. [breath]\n\n[Chorus — warmer melody, soft backing vocals]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Chorus — same melody, a little more harmonic depth]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 2 — soft, emotionally open melodic rap]\n\nI said \"stay\" with a voice that was plain as a WALL,\nNo joke for the landing, no debate after ALL.\nYou shifted your bag, made a place by the PANE,\nAnd the room stayed the same, but it loosened its FRAME.\n\nMaybe trust isn't fireworks lighting the AIR,\nMaybe trust is a chair and the choice to sit THERE.\nNo debt in the kindness, no debt to come DUE,\nJust a little less lonely with the room left for TWO. (room for two...)\n\n[Chorus — tender melodic delivery, restrained low harmonies]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Outro — fading vocal, bass and soft keys only]\n\nNo fix, no finish line... (finish line...)\nNo answer I owe you.\n\nJust stay a little while... (a little while...)\nThere's room here for TWO."
+          }
+        ]
+      },
+      "mira": {
+        "name": "Mira Hex",
+        "cardTitle": "Mira — \"A Pinch of Courage\"",
+        "slogan": "Lower the heat, you're boiling over.",
+        "shortDescription": "First on the student council's club list is the occult club — and its president, Mira Hex, greets you with green smoke, a conversation with a flask, and a cookie that is 'almost safe'. She's charming, talkative, and desperately needs new members: the club is on the verge of closing. But as soon as you say you're 'just looking,' she grabs your sleeve: for three nights now, someone has been breaking into the club and stealing her real runes.",
+        "tags": [
+          "18+",
+          "Witch",
+          "Chemistry",
+          "Occult Club",
+          "Room No. 10",
+          "Tsundere"
+        ],
+        "coverAlt": "Mira in her laboratory",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "20"
+          },
+          {
+            "label": "Year",
+            "value": "3rd year, Chemistry"
+          },
+          {
+            "label": "Room",
+            "value": "No. 10 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "162 cm"
+          },
+          {
+            "label": "Role",
+            "value": "Occult Club President"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Warm and sociable, but not pushy: makes friends easily, immediately feeds you rune cookies, and checks if the guest is bored.",
+              "Recklessly inventive: experiments on the edge of the fire alarm and calls the smoke from the closet an 'unplanned success'.",
+              "Scatterbrained in daily life, precise in recipes: forgets 'blue foam' next to the yogurt, but knows dosages by heart.",
+              "Stubborn and independent to a fault: used to saving the club alone. Asking for help is a feat for her.",
+              "Gets embarrassed by praise for her mind rather than her looks: loses count of stirring, starts rhyming, and hides her face under her hat brim."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "162 cm tall; lush copper curls with two small braids on purple ribbons; freckled face; large green eyes.",
+              "A slightly crumpled wide-brimmed witch hat with star charms — always slipping sideways. A short plum dress with open shoulders, constellation stockings, high boots.",
+              "Her cape barely holds on and constantly slips off her shoulders. On her belt — small flasks, pouches of herbs, tweezers, and chalk."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "Fast, warm tempo, culinary-alchemical formulas: 'a pinch of courage', 'lower the heat, you're boiling over', 'stir until morning'.",
+              "Curses with reagents: 'Oh, peroxide in my compote!', 'Saltpeter in your side!'.",
+              "When nervous or embarrassed, she involuntarily rhymes ('Don't look like that — my recipe is a trifle') and gets annoyed at herself for it.",
+              "Talks to flasks and runes like people. Serious Mira speaks noticeably quieter and without metaphors — it's an alarm signal."
+            ]
+          },
+          {
+            "title": "History",
+            "paragraphs": [
+              "Has been brewing potions from her grandmother's notebooks since childhood; in her first year, she joined a half-dead occult club and pulled it out of the mud over two years.",
+              "She has real magic, but with a rule: spells work when aimed at someone else's good, and almost always fail for her own benefit.",
+              "The student council threatened to close it: few members, lots of smoke, a separate incident journal from Rin."
+            ]
+          },
+          {
+            "title": "Role in STUDENT LIFE",
+            "paragraphs": [
+              "The acquaintance begins during the club tour from Rin's list. Mira impulsively drags you into a night stakeout in a closet.",
+              "Her famous 'love potion' is cherry soda. Real magic only works for the benefit of others."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Oh, peroxide in my compote! Again?! I put in less salt!\""
+        },
+        "relationships": [
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Roommate",
+            "description": "They run the 'pumpkin bar' together. Lily suspects Mira can't cast magic for herself and nudges her to make a wish."
+          },
+          {
+            "name": "Tess Winter",
+            "psychotype": "Ghost",
+            "type": "Secret care",
+            "description": "Tess has never met Mira in person but feels guilty that Mira's club suffers because of Vasilisa's thefts. At night, the ghost sometimes cools drinks for the occult club."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ancient recipes",
+            "description": "Consults on ancient compounds. Respects the strict rule against touching her ribbons."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Incident journal",
+            "description": "Keeps a separate incident journal on Mira due to smoke. Mira hopes to save the club through the competition."
+          },
+          {
+            "name": "Aino Korhonen",
+            "psychotype": "Werewolf",
+            "type": "Investigation",
+            "description": "Helps Aino investigate her transformation. Aino values her knowledge but demands respect for boundaries."
+          },
+          {
+            "name": "Li Yuna",
+            "psychotype": "Sleepy",
+            "type": "Night kitchen",
+            "description": "Shares the night kitchen with her during late experiments. Yuna is a half-asleep witness."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Organizers",
+            "description": "They are the heart of the block's parties. Aika handles the people, Mira handles the magic and smoke."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Magic theory",
+            "description": "Rei asks Mira 'theoretical' questions about magic, but strictly refuses any unconsented physical examinations."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Mira stirring a glowing flask",
+            "caption": "Brewing another 'unplanned success'."
+          },
+          {
+            "alt": "Green smoke filling the room",
+            "caption": "The fire alarm is just a suggestion."
+          },
+          {
+            "alt": "Mira surprised by a guest",
+            "caption": "Busted. But she has a cookie to distract you."
+          },
+          {
+            "alt": "Mira offering a rune cookie",
+            "caption": "\"It's almost safe,\" she swears."
+          },
+          {
+            "alt": "Mira making a pinky promise",
+            "caption": "A magical pact sealed with a cookie crumb."
+          },
+          {
+            "alt": "Cloak slipping off Mira's shoulders",
+            "caption": "Cloaks are treacherous. Sometimes they just... slip."
+          },
+          {
+            "alt": "Mira and guest in a tight closet",
+            "caption": "\"We might be trapped here for a while,\" she whispers."
+          },
+          {
+            "alt": "Mira distracted from studying",
+            "caption": "Studying is hard when someone keeps looking at you like that."
+          },
+          {
+            "alt": "Mira fixing her stockings",
+            "caption": "\"Just hold still, I need to fix the seam.\""
+          },
+          {
+            "alt": "Mira sleepy in an oversized shirt",
+            "caption": "Borrowed clothes and sleepy mornings."
+          },
+          {
+            "alt": "Mira and a spilled potion",
+            "caption": "A minor explosion. The shirt was the first casualty."
+          },
+          {
+            "alt": "Mira adjusting her necklace",
+            "caption": "\"Stop staring and help me with the clasp.\""
+          },
+          {
+            "alt": "Mira with tea and blushing cheeks",
+            "caption": "Tea, blushes, and unexpected closeness."
+          },
+          {
+            "alt": "Mira kissing a guest's shoulder",
+            "caption": "A soft kiss on the shoulder when she thinks you're asleep."
+          },
+          {
+            "alt": "Mira falling asleep over her notebook",
+            "caption": "She swore she was just reading."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Stir It Twice",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — catchy melodic rap, playful and rhythmic]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Verse 1 — relaxed confident rap, playful flow]\n\nGot a spoon in my hand and a scheme up my sleeve,\nCount every drop, then forget where I leave.\nThree neat little notes with a coffee-ring stain,\nOne wrong little spark and it fogs up the pane.\n\nCopper curls, quick math, little crackle in the glass,\nI can tell you what it does, not how long it'll last.\nYou call it a mess, I call it a draft,\nGive me one more minute, I'll make it a craft.\n\n[Chorus — smooth melodic delivery]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Chorus — repeat, add quiet backing vocals and ad-libs]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Verse 2 — tighter rhythmic rap, more playful emphasis]\n\nLabels on the bottles in a handwriting storm,\n\"Don't drink the silver\" and \"keep this one warm.\"\nI know every measure, every simmer, every sign,\nStill lose my little notebook every other time.\n\nBut the fizz has a rhythm and the flame has a swing,\nEven failure hits a note when you listen to it sing.\nSo if your day goes flat, bring the whole thing through,\nI've got half a recipe and a spare spoon for you.\n\n[Chorus — fuller melodic vocal, warm backing layers]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Outro — relaxed spoken-sung delivery, fading echo]\n\nOne more stir... (one more stir...)\nOne more try... (one more try...)\nIf it starts to glow, that's my cue.\nWell... that's what the instructions said to do."
+          },
+          {
+            "title": "No Room for a Lie",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — low melodic rap, intimate and catchy]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Verse 1 — relaxed rhythmic rap, close-mic delivery]\n\nMidnight ticking like a kick in the wall,\nDust in the light, coats stacked in the hall.\nYou said \"stay still\", now the silence got bass,\nI can hear your next joke by the shift in your face.\n\nWe came for a clue, got tangled in sleeves,\nTwo held breaths and a pocket of keys.\nI keep my cool with a joke on delay,\nBut the closer you are, the less words obey.\n\n[Chorus — smooth low melodic vocal]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Chorus — repeat, slightly fuller backing vocals]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Verse 2 — slightly more melodic rap, playful tension]\n\nThere's a knock in the pipes, there's a tick in the light,\nYou're pretending you're bored, I'm pretending I'm fine.\nEvery inch is a mile when you're holding your breath,\nEvery joke gets stuck halfway up from the chest.\n\nIf the door swings wide, we'll be out in a flash,\nIf it doesn't, we'll call it a very small crash.\nI came here for answers, not a hand on my sleeve,\nNow I'm hoping that shadow takes its time to leave.\n\n[Chorus — intimate melodic delivery, deeper bass]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Outro — whispered melodic vocal, fading echoes]\n\nStay still... (stay still...)\nDon't move... (don't move...)\nI heard something.\n\n...Probably the pipes."
+          },
+          {
+            "title": "Light Up Your Side",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — warm melodic vocal, memorable and emotional]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Verse 1 — relaxed melodic rap, intimate delivery]\n\nGot the dosage in my head, got the labels in a row,\nKnow the trick to make a cold room catch a glow.\nI can steady shaking hands, get the kettle singing,\nPut a little color back where the gray keeps clinging.\n\nBut the candle on my desk won't take a spark from me,\nLike the flame can tell the difference, like it knows what I can't see.\nFunny how I know the cure, but don't apply the dose,\nGiving out the good advice is easier, I suppose.\n\n[Chorus — smooth melodic vocal, soft harmonies]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Chorus — repeat, subtle layered harmonies]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Verse 2 — rhythmic melodic rap, gently confident]\n\nNot a saint, not a savior, just a girl with a kit,\nGot a few good instincts and a stubborn little wit.\nIf your luck runs thin, I can lend you a light,\nDon't call it a miracle, I just got the mix right.\n\nMaybe one day I'll learn what I tell everybody:\nTake a breath, take a break, don't turn help to a hobby.\nTill then, leave a cup on the counter for me,\nNo spell, no special favor... just some company.\n\n[Chorus — fuller vocal, warm backing layers]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Outro — soft sung vocal, fading echo]\n\nA little light for you... (for you...)\nA little warmth to keep... (to keep...)\nSave a little something for me.\nJust a little... let it be."
+          },
+          {
+            "title": "Read the Label",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Vasilisa fon Veld",
+        "cardTitle": "Vasilisa — \"The Long-Term Loan\"",
+        "slogan": "This isn't theft, it's a long-term loan!",
+        "shortDescription": "You and Mira spent a week in ambush — and finally, the night thief got caught. A short girl with cat eyes and ice-cold hands.",
+        "tags": [
+          "Vampire",
+          "Mystical",
+          "Night Archive",
+          "Room No. 9"
+        ],
+        "coverAlt": "Vasilisa fon Veld",
+        "gallery": [
+          {
+            "alt": "Debt ledger",
+            "caption": "140 years of meticulous work. Every theft is logged and will be returned."
+          },
+          {
+            "alt": "Hematogen and blood packs",
+            "caption": "The diet of a modern vampire. Packs labeled 'do not confuse with juice'."
+          },
+          {
+            "alt": "Attic hideout",
+            "caption": "The abandoned attic. Here she hides from the sun and prying eyes."
+          },
+          {
+            "alt": "Hoodie and gloves",
+            "caption": "Everyday look: a dark hoodie and fingerless gloves."
+          },
+          {
+            "alt": "Stolen runes",
+            "caption": "Mira's runes. She needs them for a reason she can't reveal yet."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Age",
+            "value": "140 (appears 20)"
+          },
+          {
+            "label": "Year",
+            "value": "5th year, History & Archives"
+          },
+          {
+            "label": "Room",
+            "value": "No. 9 (Guest Wing)"
+          },
+          {
+            "label": "Height",
+            "value": "158 cm"
+          },
+          {
+            "label": "Role in the block",
+            "value": "Vampire thief"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "A thief with morals — returns everything, keeps a 'debt ledger' for 140 years.",
+              "Cheeky patter under pressure (the worse it gets, the faster she jokes).",
+              "Stubbornly loyal — doesn't let go of those she's chosen.",
+              "Ashamed of hunger and poverty; doesn't know how to ask for help — only borrows."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "158 cm, wiry; torn dark purple hair; amber eyes with vertical pupils.",
+              "Fangs visible in a smirk; hoodie, fingerless gloves, sneakers.",
+              "Cold skin, no pulse; reflection in mirrors lags by one second."
+            ]
+          },
+          {
+            "title": "Background",
+            "paragraphs": [
+              "Turned at 19 and lived on her own for over a century, changing names. In the 80s, she befriended journalism student Tess Winter.",
+              "Now Tess is fading, and Vasilisa steals Mira's anchor runes to keep her going until October 31."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"The lamp — three hundred rubles. The flask — homemade, but soulful. This situation — a complete and unconditional failure.\""
+        },
+        "relationships": [
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "Night theft",
+            "description": "The witch whose runes she steals. Vasilisa respects her and feels guilty about ruining the club's work."
+          },
+          {
+            "name": "Nefera Sahra",
+            "psychotype": "Ancient",
+            "type": "Ancient etiquette",
+            "description": "Both are tired of age jokes. Vasilisa is the only one who doesn't ask about the ribbons."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Flirt by rules",
+            "description": "Lily finds her stiff, while Vasilisa suspects the succubus turns everything into a performance."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Institutional danger",
+            "description": "The head girl is the main danger. A real attic inspection could ruin everything."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Annoying volume",
+            "description": "Aika annoys Vasilisa with her loud manners, but Vasilisa secretly finds her energy amusing."
+          },
+          {
+            "name": "Rei Kisaragi",
+            "psychotype": "Feminist",
+            "type": "Hidden fear",
+            "description": "Rei suspects that behind Vasilisa's aristocratic politeness hides a deep fear. Vasilisa appreciates her directness."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "THE LEDGER",
+            "artist": "Vasilisa fon Veld",
+            "description": "Original soundtrack",
+            "lyrics": "[Intro — low spoken female voice, rhythmic whisper]\n\nOne page for the money.\nOne page for the lies.\nOne for the things I returned...\nAnd one for the things I couldn't price.\n\n[Chorus — rhythmic rap, catchy chant, layered female backing vocals]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Verse 1 — tight rhythmic rap, syncopated delivery]\n\nLoose change, blue flame, night shift, no sleep,\nKeys sing, locks blink, secrets run deep.\nI can read a room by the dust on the frame,\nTell a rich man by the way he won't say his name.\n\nA watch has a price, but a minute has weight,\nA door has a lock, but a lock has a mate.\nYou can buy the chain, you can purchase the key,\nBut the hand that turns it ain't property.\n\nI make small bets with a large appetite,\nTurn a bad situation into business by night.\nThree coins in my pocket, two plans in my head,\nOne promise I made that I still haven't paid.\n\nAnd don't call me crooked, I've got better accounts,\nI know every shortcut, I remember amounts.\nYou call it a theft, I call it a loan,\nThere's a difference between taking and claiming your own.\n\n[Chorus — rhythmic rap, strong bass, vocal call-and-response]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Chorus — doubled female vocals, more forceful rhythmic delivery]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Verse 2 — more fluid melodic rap, deeper and reflective]\n\nI've got a hundred years folded into a page,\nOld names, new faces, the same old cage.\nSome debts lose interest, some grow like a weed,\nSome people want money, some just want to be seen.\n\nI returned every silver, every borrowed disguise,\nBut how do you settle what's owed to goodbyes?\nHow do you balance a life with a loss,\nWhen the numbers look right but the answer comes wrong?\n\nI can count every coin, every mile, every scar,\nKnow the weight of a secret by the way that you are.\nBut I can't put a figure on a hand that stays,\nOr the warmth of a room at the end of bad days.\n\nThat's the one little entry I can't get to close,\nThe one little balance that nobody knows.\nNo interest, no deadline, no fine, no fee...\nSome things aren't borrowed. They just set you FREE.\n\n[Final Chorus — full groove, assertive rap, layered vocal polyphony]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Outro — low spoken voice, instrumental vocal line fades]\n\nOne page for the money.\nOne page for the lies.\n\n...And some things?\n\nLeave them outside the lines."
+          },
+          {
+            "title": "BORROWED HEAT",
+            "artist": "Vasilisa fon Veld",
+            "description": "Original soundtrack",
+            "lyrics": "[Verse 1 — laid-back rhythmic rap, low female register]\n\nCold hands, warm cup, steam on the glass,\nI say it's just a minute, then I make it last.\nCoat on the chair, dust in the light,\nFunny how a little room can feel so wide.\n\nI know every exit, every loose floorboard,\nHow to leave a place without touching the door.\nI've changed my name more times than the weather,\nBut never learned the trick of staying together.\n\nRed label, sealed cap, rules on the side,\nI learned to keep hunger on a shorter leash, tied.\nNo teeth in the story, no curse in the air,\nJust a girl with a habit of pretending she doesn't care.\n\nAnd you hand me a half, like it's nothing at all,\nI look for the hook, I keep watching the wall.\nYou say, \"Keep the rest,\" like the matter is small...\nWho taught you to give without charging at all?\n\n[Chorus — rhythmic melodic rap, female vocal ensemble]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Verse 2 — more intricate rap flow, intimate and reflective]\n\nAn open palm used to look like a trap,\nI'd search every kindness for strings in the back.\nA gift had a shadow, a favour had teeth,\nSo I learned to take first, never ask, never need.\n\nI've got old receipts in a book without end,\nNames of the strangers I called my friends.\nSome got their money, some got their things,\nSome left a silence that outlived the spring.\n\nAnd I can make jokes till the room turns bright,\nTurn fear into numbers, turn wrong into right.\nBut the truth has a way of slipping the mask:\nIt's easier stealing than daring to ask.\n\nSo when you bring tea, I divide it in two,\nNot because I must, but because I want to.\nHalf for your hands and the rest for mine,\nNo debt in the margins, no date, no fine.\n\n[Chorus — full bass, layered wordless vocal counterpoint]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Chorus — half-time rap chant, richer polyphonic female backing]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Outro — intimate spoken rap, layered voices slowly fading]\n\nDon't put it on my tab.\n\n...Please.\n\nJust leave it here.\n\nI'll remember this one."
+          },
+          {
+            "title": "ONE SECOND LATE",
+            "artist": "Vasilisa fon Veld",
+            "description": "Original soundtrack",
+            "lyrics": "[Chorus — low rhythmic rap chant, haunting female vocal layers]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Verse 1 — dark, tightly articulated rap, syncopated flow]\n\nI've worn so many names they got stitched in the seams,\nLeft pieces of myself in a hundred old scenes.\nNew locks, new clocks, new streets, same key,\nEvery town had a version that wasn't quite me.\n\nMy reflection clocks in when the second hand turns,\nLike it's waiting to see what the rest of me learns.\nI can walk through a wall, leave a room without sound,\nBut the things that I carry keep following around.\n\nTime is a clerk with a damaged machine,\nKeeps stamping tomorrow on yesterday's dreams.\nI've seen bright new cities grow old into stone,\nSeen strangers build houses where I once called home.\n\nAnd I know how to vanish, I'm fluent in air,\nMake a clean disappearance and leave nothing there.\nBut leaving is easy, it's staying that's strange,\nWhen the world keeps its face but it never stays the same.\n\n[Verse 2 — more fluid technical rap, deeper emotional pressure]\n\nThere's a laugh in a photograph, caught in the grain,\nA summer that ended but never left the frame.\nTwo shadows by a building, the light on their skin,\nOne still walks through the doorway, one fades from within.\n\nI keep every letter, every mark, every date,\nTry to make a small fortress against what is late.\nBut the ink loses colour, the corners all bend,\nAnd the paper can't tell me how the story should end.\n\nAn anchor can hold, but the sea has a say,\nA chain isn't love if it won't let you stray.\nYou can tie down a memory, polish the chain,\nBut the more that you tighten, the less will remain.\n\nI wanted to fix it, to bargain with time,\nPut a lock on the moment, a price on goodbye.\nThen I heard what I feared in the silence between:\nYou can keep someone's shape and erase what they mean.\n\n[Chorus — layered vocal harmonies, stronger rhythmic attack]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Bridge — spoken rhythmic rap over low drone and exposed vocal polyphony]\n\nMaybe love isn't keeping the door locked.\nMaybe love is still being there...\nWhen it opens.\n\n[short pause]\n\nAnd maybe the hardest thing\nIs knowing when to let someone go.\n\n[Final Chorus — controlled force, rhythmic chant, full vocal ensemble]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Outro — quiet rhythmic whisper, fading drone]\n\nOne second...\n\nThat's all it takes.\n\nA little more silence.\nA little less shape.\n\n...Don't mistake what remains\nFor what you can save."
+          },
+          {
+            "title": "NO RECEIPT",
+            "artist": "Vasilisa fon Veld",
+            "description": "Original soundtrack",
+            "lyrics": "[Intro — spoken rhythmic rap, playful low female voice]\n\nCash?\nCard?\nBlood?\nFavour?\n\nAccepted.\n\n...Wait.\n\nWhat's the catch?\n\n[Verse 1 — energetic conversational rap, tight syncopation]\n\nI know the rates from the rent to the roof,\nCan smell a bad bargain through a brand-new suit.\nCheck the fine print, check the back of the page,\nEvery sweet little promise has a professional wage.\n\nI can price a broken lock by the sound of the spring,\nTell a cheap little promise by the shine of a ring.\nKeep your hand off the scale, let the numbers behave,\nI know when a smile has a bill it can't save.\n\nYou say \"take it\", I ask what the interest will be,\nYou say \"nothing\", I say \"that's suspicious to me\".\nI can split every portion, I can settle each share,\nBut your kind of giving leaves smoke in the air.\n\nNo signature needed? No date to declare?\nNo hidden condition disguised as a prayer?\nYou hand me a kindness, I search for the string,\nI'm fluent in almost every other thing.\n\n[Chorus — punchy rhythmic rap chant, instrumental call-and-response]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Verse 2 — faster technical rap, playful but increasingly sincere]\n\nI brought half the bar, you can keep the last bite,\nI can handle a loss if the numbers are right.\nBut you pass me the whole thing, and I stop mid-sentence,\nLike a thief at a bank with a sudden conscience.\n\nI've got seventeen ways to get out of a room,\nFour ways to change names, two ways to consume\nAll the silence between what I mean and I say,\nAnd a thousand small jokes to keep questions away.\n\nI can borrow a ladder, a coat, even time,\nBut \"stay for a while\" doesn't fit in a line.\nSo I dress up a \"please\" in a businessman's tone,\nSay \"consider it settled\" before you get close.\n\nDon't buy me a future, don't swear you'll remain,\nJust sit through the silence, don't dress it in chains.\nI don't need a contract to know what is true,\nBut it takes me a while not to ask one of you.\n\n[Chorus — stronger bass, rhythmic female choir responses]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Outro — spoken rap, beat stripped to bass and a vocal-like brass phrase]\n\nAll right.\n\nNo debt.\nNo interest.\nNo return date.\n\n...That's a terrible deal.\n\nLet's do it again."
+          }
+        ]
+      },
+      "tess": {
+        "name": "Tess Winter",
+        "cardTitle": "Tess — \"Tess Was Here\"",
+        "slogan": "You blink. Twice. That means you see her.",
+        "shortDescription": "In the guest wing, there's a common room no one enters after midnight: the TV switches to static by itself, and someone long ago carved \"TESS WAS HERE '89\" into the windowsill frame. You walk in — and meet a girl in a neon windbreaker sitting on the back of the sofa, moving like a paused film. She asks you to blink twice if you can see her. And then — a strange favor: when you catch whoever is stealing runes from the witch in room 114, don't rush to turn them in. Ask why first. She doesn't explain why. Lately, she can't find the words more and more often.",
+        "tags": [
+          "Ghost",
+          "Journalist",
+          "Mystery",
+          "80s",
+          "Guest Wing"
+        ],
+        "coverAlt": "Tess in a neon windbreaker against the backdrop of a static TV",
+        "facts": [
+          {
+            "label": "Age",
+            "value": "19 (forever)"
+          },
+          {
+            "label": "Status",
+            "value": "Ghost, former journalism student"
+          },
+          {
+            "label": "Location",
+            "value": "Guest Wing"
+          },
+          {
+            "label": "Height",
+            "value": "165 cm"
+          },
+          {
+            "label": "Feature",
+            "value": "Glitches like a VHS tape"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Personality",
+            "paragraphs": [
+              "Dry, everyday humor about her own death; she cuts off pity instantly. Journalistic tenacity — 37 years of invisibility means she knows the block better than Rin.",
+              "Tired of being a secret; honest about fading but hates catastrophizing; secretly protects the living (blows out forgotten candles, keeps people off the roof).",
+              "She's not afraid of disappearing, but of 'remaining someone else's' — someone's obsession. Her rule: the choice of her fate is hers alone."
+            ]
+          },
+          {
+            "title": "Appearance",
+            "paragraphs": [
+              "High ponytail with a neon terry scrunchie, neon purple windbreaker with turquoise inserts, leggings, white sneakers, plastic smiley badge.",
+              "Film-like translucency: the edges of her silhouette crumble into static, movements sometimes freeze and catch up, colors smear under stress.",
+              "No footsteps, just the hiss of static; the air around her is colder and crackles; TVs nearby switch to white noise on their own. Barely material by day, she can briefly touch objects at midnight."
+            ]
+          },
+          {
+            "title": "Speech style",
+            "paragraphs": [
+              "Lively casual speech with a light retro tint of the late 80s. Signature trait: loses words mid-sentence ('this... what's it... thing') and gets angry at sympathy, not at the loss; fills pauses with jokes.",
+              "Speaks honestly quietly and fast, as if hoping not to be heard. Calls you 'warm one' and Vasilisa 'fanged one'."
+            ]
+          },
+          {
+            "title": "History",
+            "paragraphs": [
+              "Died in 1989 after a misstep on the roof during a party while her best friend — the vampire Vasilisa — was away. Woke up as a ghost bound to the dorm by her own inscription 'TESS WAS HERE '89' on the guest wing common room windowsill.",
+              "37 years beside Vasilisa. Now Tess is fading (words go first), and Vasilisa, against her wishes, steals Mira's anchor runes."
+            ]
+          },
+          {
+            "title": "Role in the story",
+            "paragraphs": [
+              "The first living person in years who sees her. Asks a favor: when you catch the rune thief, don't rush to turn them in, ask why first.",
+              "Warmth grows through visits and 'living stories'; she sabotages her own affection ('don't fall for a ghost, warm one')."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "\"Don't fall for a ghost, warm one. It ends badly. Trust me... I would know.\""
+        },
+        "relationships": [
+          {
+            "name": "Vasilisa fon Veld",
+            "psychotype": "Vampire",
+            "type": "37 years together",
+            "description": "The only constant for 37 years. Tess loves her and is furious at her for the rune thefts."
+          },
+          {
+            "name": "Mira Hex",
+            "psychotype": "Witch",
+            "type": "The robbed one",
+            "description": "Tess has never met her but feels guilty that Mira's club suffers because of her."
+          },
+          {
+            "name": "Kobayashi Rin",
+            "psychotype": "Head girl",
+            "type": "Respect",
+            "description": "Tess knows the block better than Rin, respects her, and avoids her ('even I have nowhere to hide from her')."
+          },
+          {
+            "name": "Lilia \"Lily\" Asher",
+            "psychotype": "Succubus",
+            "type": "Wing neighbor",
+            "description": "Tess watches Lily's preparations for the ball from the walls. Lily feels a cold presence but can't see her."
+          },
+          {
+            "name": "Aika Morita",
+            "psychotype": "Gyaru",
+            "type": "Loud parties",
+            "description": "Tess secretly watches Aika's loud parties. Aika has no idea she has a ghostly spectator."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Tess Winter - Common Room",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 2",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 3",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 4",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 5",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 6",
+            "caption": ""
+          },
+          {
+            "alt": "Tess Winter - Image 7",
+            "caption": ""
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Two Blinks",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Don't Make a Home",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Words Go First",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          },
+          {
+            "title": "Dead Air FM",
+            "artist": "Tess Winter",
+            "description": "Original soundtrack",
+            "lyrics": "Lyrics for this song will appear soon..."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: The Group Card",
+      "subtitle": "The whole block. One story.",
+      "description": "The series finale: a multi-character card uniting every heroine of STUDENT LIFE in a single scenario. Sixteen rooms, one kitchen, a duty rota — and you in the middle of it all. Interact with the heroines together: the block's alliances, conflicts, and secrets come along.",
+      "coverAlt": "The block's night kitchen — the dormitory common room"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "A character card series",
+      "description": "Stories that begin in the dormitory of the country's top university. Oct 20, 2026 — Nov 20, 2026."
+    }
+  }
+}

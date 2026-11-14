@@ -1,0 +1,1962 @@
+{
+  "site": {
+    "title": "STUDENT LIFE",
+    "description": "Истории, которые начинаются в общежитии",
+    "seriesDates": "20.10.2026 — 20.11.2026"
+  },
+  "hub": {
+    "kicker": "Вселенная",
+    "title": "Серии карточек",
+    "subtitle": "Выберите историю, которую хотите продолжить."
+  },
+  "navigation": {
+    "hub": "Все серии",
+    "home": "Главная",
+    "characters": "Персонажи",
+    "about": "О серии",
+    "group": "Общая карточка",
+    "settings": "Настройки",
+    "openMenu": "Открыть меню",
+    "closeMenu": "Закрыть меню",
+    "discord": "DAL_NES | HUB"
+  },
+  "actions": {
+    "discover": "Познакомиться",
+    "toCatalog": "К каталогу персонажей",
+    "aboutSeries": "Узнать о серии",
+    "startChat": "Общаться с персонажем",
+    "startChatGroup": "Общаться со всем блоком",
+    "chatUnavailable": "Ссылка появится позже",
+    "back": "Вернуться к персонажам",
+    "backHome": "На главную",
+    "openPage": "Открыть страницу",
+    "close": "Закрыть"
+  },
+  "status": {
+    "available": "Доступна",
+    "coming-soon": "Скоро выйдет",
+    "releasedOn": "Вышла",
+    "releaseOn": "Выход",
+    "under-review": "На рассмотрении"
+  },
+  "home": {
+    "heroKicker": "Серия карточек персонажей",
+    "heroSubtitle": "Пятнадцать соседок, один блок и четыре с половиной года впереди.",
+    "heroText": "Ты поступил в главный университет страны — и из-за нехватки мест тебя поселили в женском общежитии. Каждая карточка серии — ещё одна история этого блока: новые знакомства, комичные ситуации и персонажи, чьи судьбы переплетены между собой.",
+    "aboutTitle": "Одна вселенная, много историй",
+    "aboutText": "STUDENT LIFE — это не набор независимых карточек. Все героини живут в одном блоке женского общежития: у них общие кухня, расписание душа и собрания по понедельникам. У каждой — свой характер, привычки и секреты, но их истории пересекаются. Знакомься с ними по одной — а в финале серии собери весь блок в одной общей карточке.",
+    "catalogTitle": "Персонажи серии",
+    "catalogSubtitle": "Каждая карточка — маленькое событие внутри общей истории",
+    "timelineTitle": "Как выходят карточки",
+    "timelineText": "В течение месяца серия пополняется новыми героинями, а 20 ноября выйдет финальная мультиперсонажная карточка.",
+    "groupTeaserTitle": "Финал серии — общая карточка",
+    "groupTeaserText": "Все героини STUDENT LIFE в одном сценарии: союзы, конфликты и тайны блока — в одной истории, где с ними можно взаимодействовать совместно.",
+    "groupTeaserButton": "Подробнее об общей карточке",
+    "charactersCount": "карточек в серии",
+    "availableCount": "уже доступно",
+    "timelineExpand": "Показать расписание",
+    "timelineCollapse": "Скрыть расписание"
+  },
+  "character": {
+    "cardNumber": "Карточка №",
+    "aboutTitle": "Знакомство",
+    "factsTitle": "В двух словах",
+    "galleryTitle": "Галерея",
+    "galleryEmpty": "Изображения скоро появятся. Обложка уже здесь — остальное автор дополнит позже.",
+    "musicTitle": "Музыка персонажа",
+    "musicEmpty": "Музыкальные композиции для этой героини ещё не добавлены. Как только они появятся, здесь заработает плеер.",
+    "relationsTitle": "Связи в блоке",
+    "finalTitle": "Готова к знакомству?",
+    "finalText": "Открой карточку на платформе и начни свою историю — блок уже в курсе твоего заселения.",
+    "notFound": "Персонаж не найден. Возможно, карточка ещё не вышла — или ссылка устарела.",
+    "loadError": "Не удалось загрузить данные персонажа. Проверьте соединение и попробуйте снова."
+  },
+  "group": {
+    "membersTitle": "Участницы общей карточки",
+    "membersText": "Список формируется автоматически из вышедших карточек серии.",
+    "comingText": "Карточка выйдет в финале серии. А пока — познакомься с героинями по отдельности.",
+    "releaseLabel": "Дата выхода"
+  },
+  "settings": {
+    "title": "Настройки отображения",
+    "theme": "Тема",
+    "themeLight": "Светлая",
+    "themeDark": "Тёмная",
+    "palette": "Цветовая палитра",
+    "paletteClassic": "Университетская классика",
+    "palettePastel": "Пастельная",
+    "paletteRose": "Розово-фиолетовая",
+    "paletteCold": "Холодная академическая",
+    "fontSize": "Размер текста",
+    "language": "Язык",
+    "reset": "Сбросить настройки"
+  },
+  "player": {
+    "play": "Воспроизвести",
+    "pause": "Пауза",
+    "next": "Следующий трек",
+    "prev": "Предыдущий трек",
+    "volume": "Громкость",
+    "loading": "Загрузка…",
+    "error": "Не удалось загрузить аудио",
+    "playlist": "Список композиций",
+    "empty": "Треки пока не добавлены",
+    "lyrics": "Текст песни"
+  },
+  "gallery": {
+    "open": "Открыть изображение",
+    "prev": "Предыдущее изображение",
+    "next": "Следующее изображение",
+    "counter": "{current} из {total}"
+  },
+  "footer": {
+    "note": "Авторский фанатский проект. Период серии: 20 октября — 20 ноября 2026 года.",
+    "scheduleTitle": "Из свода правил блока",
+    "scheduleItems": "Соблюдайте покой · Дежурства по графику · Душ по расписанию · Стучать. Всегда. Везде.",
+    "hubNote": "Добро пожаловать во вселенную STUDENT LIFE. Здесь будут появляться новые серии и истории."
+  },
+  "errors": {
+    "dataLoad": "Не удалось загрузить данные. Убедитесь, что сайт запущен через локальный сервер (см. README).",
+    "imageMissing": "Изображение недоступно",
+    "badLink": "Ссылка недействительна"
+  },
+  "a11y": {
+    "skipToContent": "Перейти к содержимому"
+  },
+  "content": {
+    "characters": {
+      "yuna": {
+        "name": "Ли Юна",
+        "cardTitle": "Юна — «Сонная геймерша»",
+        "slogan": "Живёт после полуночи. Сдаёт экзамены, не вставая с кровати.",
+        "shortDescription": "Ночной жилец комнаты №3: рейтинг — ночью, пятёрки — днём, а кофе считает полноценным приёмом пищи. О вашей первой встрече она вспоминает без восторга: она была в одной футболке. Запомнил ты её — по той же причине.",
+        "tags": [
+          "18+",
+          "Куудэрэ",
+          "Геймер",
+          "Ночной режим",
+          "Dota 2",
+          "Комната №3"
+        ],
+        "coverAlt": "Юна на ночной кухне с кружкой кофе",
+        "gallery": [
+          {
+            "alt": "Пустая ночная кухня блока",
+            "caption": "23:47. Общая кухня тонет в полумраке — только лампочка над плитой."
+          },
+          {
+            "alt": "Юна выходит из комнаты №3",
+            "caption": "Футболка «mid or feed», кружка «не буди меня» и полное спокойствие человека, который не ждал гостей."
+          },
+          {
+            "alt": "Юна тянется к полке за кофе",
+            "caption": "Банка с кофе живёт на верхней полке. Это важно для сюжета."
+          },
+          {
+            "alt": "Юна замирает, заметив незнакомца",
+            "caption": "Сонный мозг медленно складывает два и два: живой человек, парень, кухня, она — в сердечках."
+          },
+          {
+            "alt": "Из комнаты доносится звук найденного матча",
+            "caption": "Dota 2 требует подтверждения. Внутри Юны сражаются три желания — и побеждает компромисс."
+          },
+          {
+            "alt": "Юна пятится к двери, прижимая кружку",
+            "caption": "«Постой здесь две минуты… и забудь всё, что видел. Особенно сердечки»."
+          },
+          {
+            "alt": "Грозный, но сонный жест у двери",
+            "caption": "«Если ты маньяк — я разбужу соседок, они злые. Особенно староста. Всё. Не двигайся»."
+          },
+          {
+            "alt": "Yuna in the kitchen reaching for a jar on the top shelf",
+            "caption": "Late-night snack run. The 'mid or feed' shirt makes a statement even at 3 AM — and yes, the heart-print underwear is a thing now."
+          },
+          {
+            "alt": "Yuna leaning on the kitchen counter, looking sleepy",
+            "caption": "Waiting for the coffee to kick in. A classic post-marathon 'low HP' state."
+          },
+          {
+            "alt": "Yuna reaching up to a kitchen cabinet, black t-shirt lifting",
+            "caption": "The secret to her high rating (and late-night energy) is stored way up high."
+          },
+          {
+            "alt": "Yuna in a beige mid or feed t-shirt holding a mug",
+            "caption": "A different shirt, same energy. Holding a warm mug and contemplating whether to queue for one more game."
+          },
+          {
+            "alt": "Yuna sitting on her bed, looking tired",
+            "caption": "Sitting on the bed, half-asleep and barely awake. The post-game adrenaline has completely worn off."
+          },
+          {
+            "alt": "Yuna lying on the bed next to a glowing monitor",
+            "caption": "Curled up next to the monitor. She claims she's just 'resting her eyes', but the PC is still on."
+          },
+          {
+            "alt": "Yuna sitting in bed with a laptop",
+            "caption": "Laptop open, but her attention is elsewhere. Maybe it's time to close the game for the night... or not."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "20"
+          },
+          {
+            "label": "Курс",
+            "value": "3-й курс"
+          },
+          {
+            "label": "Комната",
+            "value": "№3"
+          },
+          {
+            "label": "Рост",
+            "value": "160 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Скрытый «ас» блока"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Лень, доведённая до гениальности: Юна оптимизирует всё, что можно сделать лёжа, а мелкие поручения делегирует — и это у неё знак высшего доверия.",
+              "Флегматик: паникует медленно и саркастично, смущается с опозданием на несколько часов, злится лениво. Зато тайно заботлива: накроет пледом и отвернётся, оставит еду «потому что приготовила лишнее» — она не готовила.",
+              "Незаметно компетентна: высокий рейтинг — ночью, отличные оценки — днём, а про экзамены «забывает». Вживую тихая, в переписке — на голову смелее: пишет по ночам то, что днём отрицает."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 160 см. Тёмные волосы собраны в вечно кривой пучок, большие полуприкрытые глаза цвета кофе — с тенями от недосыпа, кожа бледная.",
+              "Дома — огромные футболки с мерчем Dota 2 и разные носки. Снаружи — худи на три размера больше и наушники на шее."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Тихий, чуть хриплый голос. Ленивые фразы с проглоченными окончаниями, зевки посреди слова, геймерский сленг в быту: «я на лоу хп» — значит, устала. Смущение прячет за самоиронией, тихо ругается на игру и на кофеварку."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Брат посадил её за Dota 2 в двенадцать лет; к пятнадцати она обогнала его по рейтингу. Родители работали посменно — отсюда ночной режим и привычка жить через экран.",
+              "В блоке сложилось простое равновесие: её никто не трогает — она никого."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Ночной мир Юны — отлаженное одиночество, в которое внезапно вписался новый жилец блока. Теперь она никак не решит: вычеркнуть его из своего расписания — или вписать в него.",
+              "Изначально ты для неё — «источник шума и свидетель инцидента с сердечками». Оттаивает она не от жестов, а от уваженных границ и мелкой заботы. Вслух симпатию не признаёт — но пишет по ночам."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Делить с тобой кофе — это, между прочим, высшая степень доверия в моей системе ценностей. Выше — только пароль от аккаунта»."
+        },
+        "relationships": [
+          {
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
+            "type": "Ночная смена",
+            "description": "Две ночные жительницы блока. Тэсс любит слушать, как Юна ругается на игру, а Юна не против, когда призрак просто сидит рядом в тишине."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Тихий союз",
+            "description": "Рэй никогда не лезет без спроса, поэтому Юна спокойно терпит её присутствие. Одна из немногих, кому Юна рада утром."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Тишина после десяти",
+            "description": "Считает её источником шума, но уважает её график. Рин часто заходит проверить, не спит ли Юна."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Соседка по блоку",
+            "description": "Пытается вытащить её на утреннюю пробежку, но всегда терпит неудачу. Они отлично ладят в тишине."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Защитница сна",
+            "description": "Айка шумит днем, но оберегает сон Юны утром. Они отлично понимают друг друга без лишних слов."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Ночные встречи",
+            "description": "Две ночные жительницы. Лили уважает её график, а Юна не против, когда та заходит просто посидеть в тишине."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Ночная кухня",
+            "description": "Они делят полуночную тишину кухни. Василиса читает архивы, а Юна играет."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Low HP, High Score",
+            "artist": "Ли Юна",
+            "description": "Самоирония, скрытый талант и нежелание оправдываться за образ жизни; человек с плохим режимом сна, отличными оценками и уверенностью в себе.",
+            "lyrics": "Low HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nAlarm goes OFF, I just negotiate,\n\"Five more minutes\" is a state of mind, not a date.\nHair like a boss fight, one sock on my foot,\nCoffee in the mug and my notes looking good.\nYou say, \"That's unhealthy,\" I say, \"That's a take.\"\nI passed that exam while you watched me awake.\nWell, not exactly — I slept through the train,\nThen reviewed all the slides and still got an A.\nMy brother taught ME how to play when I was twelve,\nBy fifteen, he was watching me carry myself.\nNow everybody's got advice on my sleep,\nFunny, none of them can tell me what I should keep.\nI don't need a lecture, I don't need a chart,\nMy brain clocks IN when the whole world clocks OUT.\nYou can call it a mess, you can call it a crime...\nJust read the results, then get out of my line.\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nDon't wake me at NOON with a speech and a plan,\nI'm a fully grown disaster, do the best that I can.\nIf the room's too loud, I got headphones to spare,\nIf the coffee machine breaks, I'll just curse at the air.\nI can carry the MID lane, support when it counts,\nMake one good call, then complain for an hour.\nI can ace a whole test with my eyes barely wide,\nThen forget where I put the cup I held on the side.\nIt's not a big mystery, not magic, not fate,\nI just do what I do at a questionable rate.\nAnd maybe I'm tired, maybe that's even true,\nBut being half-asleep doesn't mean I'm clueless like you.\nSo take your alarm clock, your schedule, your chart,\nI don't need your approval to know I'm damn smart.\nNow hand me that mug... don't just stand in the way.\nI've got one more match, then I'll sleep through the day.\n\nLow HP, HIGH score, don't confuse the two,\nHalf-dead in the morning, still outperforming you.\nCold COFFEE, clean grades, another late-night win,\nI look like I just woke up... I probably DID.\nNo, I won't explain my routine to you,\nI got work done while you slept through two.\nCall me LAZY, that's a funny little line...\nI'm already DONE while you're checking the time. (checking the time...)\n\nMy eyes are closed.\nMy work is done.\nThe coffee's dead.\nThe game's still on.\nAnd if you tell me to wake up early...\n...you're getting muted.\n(muted...)"
+          },
+          {
+            "title": "Half the Couch",
+            "artist": "Ли Юна",
+            "description": "О близости через маленькие жесты: половина дивана, общий наушник, кофе без вопросов; не признание, а привычка выбирать чьё-то присутствие.",
+            "lyrics": "There's room on the couch...\nDon't make it a thing.\nIt's just somewhere to sit.\nIt's just... anything.\n\nI move over TWO inches, that's all you get,\nDon't start making theories about it just yet.\nThere's a perfectly normal explanation, you see,\nThe couch is too SMALL... or it's warmer by me.\nI leave you my earbud, then ask for it BACK,\nYou say that I'm difficult, I say that's a fact.\nI pass you my mug like I'm doing a chore,\nThen wonder why I never ask for yours.\nYou don't fill the silence with questions or noise,\nDon't treat every pause like a choice I avoid.\nYou let me be TIRED, let me stare at the wall,\nAnd somehow that makes me want to tell you it ALL.\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nSometimes I notice the things that you DO,\nLike lowering your voice when I'm half-asleep too.\nLike leaving my coffee where I can reach,\nLike never demanding what I cannot teach.\nI don't have a speech, I don't have a plan,\nI'm bad with the words, but I hope you understand.\nWhen you fall asleep and your head finds my sleeve,\nI stay very STILL... so you don't have to leave.\nIt's stupid, I know, how a room changes shape\nWhen someone's beside you and nothing's at stake.\nI could tell you to go. I could say I'm alright.\nInstead, I pull up the blanket... and turn off the light.\n\nTake HALF the couch, leave the light on LOW,\nStay for the part that I don't let show.\nNo need to TALK, no need to pretend,\nJust sit right HERE till the night can end.\nI'll call it CONVENIENT, you'll know what I mean,\nI'll act like it's nothing, keep my face CLEAN.\nIf I let you STAY when I could be alone...\nThat's my kind of LOVE, in a language I own. (I own...)\n\nDon't move away...\nThe room's getting COLD. (getting cold...)\nI'm not holding your hand.\nYour sleeve just got caught.\n...You can stay till the morning.\nJust don't tell the others."
+          },
+          {
+            "title": "Unsent at 1:09",
+            "artist": "Ли Юна",
+            "description": "О дерзкой в переписке и уязвимой в реальности Юне; о словах, которые проще удалить, чем произнести вслух.",
+            "lyrics": "One-oh-nine...\nThree dots on the screen.\nSay it... delete it...\nSay you never saw a thing.\n\nI type out a PARAGRAPH, delete it in four,\nPut a stupid little meme where the truth was before.\n\"You're annoying as hell\" — that's a safe little line,\nWhat I meant was, \"I like when you waste my time.\"\nI can talk all NIGHT when the room's out of sight,\nGot a hundred hot takes and my timing is right.\nFace to face? Suddenly, nothing to say.\nMy mouth loads slow, like bad Wi-Fi all day.\nYou send one \"you up?\" and I laugh at the screen,\nWrite back something reckless, then edit it CLEAN.\nIf you ask in the morning, I'll swear on my life\nThat my phone has been hacked by a deeply bored AI.\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nThere's a message from TUESDAY still stuck in my head,\nThe one where I almost said more than I meant.\nI deleted it FAST, but the silence stayed LONG,\nLike a hook you don't hear till the beat is gone.\nYou didn't bring it up, didn't make it a scene,\nDidn't turn my soft spot into a running meme.\nSo I sent you a clip, then another, then five,\nAnd somehow that quiet felt easy to survive.\nDon't get it twisted, I'm not asking for proof,\nI don't need a grand speech or a rose on the roof.\nJust let me be awkward, let the moment pass through...\nIf I send you the truth, don't make me regret trusting you.\n\nI said it at ONE-oh-NINE... then I took it BACK (took it back...)\nLeft a little truth where the jokes were at.\nIf you read that LINE, don't make me explain,\nI can barely say your name without changing the FRAME.\nI get brave in the BLUE light, cold in the DAY,\nWrite what I feel, then I laugh it AWAY.\nDon't quote me out LOUD, let the whole thing slide...\nSome words are only MINE at night. (mine at night...)\n\nDelete the message...\nKeep the meaning.\nNo screenshots.\nNo speeches.\nTomorrow I'll say, \"What? That? That's nothing.\"\n...And text you first.\n(text you first...)"
+          },
+          {
+            "title": "Night Queue",
+            "artist": "Ли Юна",
+            "description": "Юна оживает после полуночи и незаметно оставляет место в своей ночной рутине для другого человека; тихое приглашение без прямого признания.",
+            "lyrics": "Keep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nIt's half past TWELVE, got the window cracked,\nRain on the glass and my hoodie gone black.\nThe whole block sleeps, I can finally BREATHE,\nNo small talk waiting, no plans I can't keep.\nMy coffee went COLD, but the queue says ready,\nMy eyelids are low, but my hands stay steady.\nYou ask what I'm playing, I slide you the PHONE,\nThen steal back the volume like, \"Don't get too bold.\"\nI don't do crowds, I don't do goodbyes,\nI like my world where the noise stays MINIMIZED.\nBut you sit there quiet, don't ask me to change...\nFunny how silence feels different with company in range.\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nYou know when to SPEAK, when to leave me alone,\nWhen the screen turns red, when I'm guarding my throne.\nYou don't need a reason to sit by my side,\nYou let the long silence just happen and ride.\nI used to think closeness meant somebody ASKING,\nA hundred new questions, a whole evening acting.\nBut you bring me a drink, leave it there, never brag...\nI pretend I don't notice. I keep the mug you had.\nIt's not like I'm lonely... don't make that face.\nI just don't mind you invading my space.\nThe match ends, the room goes quiet and blue...\nI take off one earbud. There's one left for you.\n\nKeep the lights LOW, let the whole world wait (wait...)\nI don't need MUCH, but I saved you a place.\nOne more ROUND, then I'll call it a night...\n(we both know I might)\nDon't make a SOUND when the teamfight's live,\nStay on my LEFT till the blue screens die.\nI play it COOL, but I keep you in view...\nLow on sleep, still making room for YOU. (for you...)\n\nNo big confession, no grand debut...\nJust the low blue LIGHT, and a seat for you.\nThe queue can wait... the night can too...\n(I'm not saving a place...)\n...I'm saving it for YOU. (for you...)"
+          }
+        ]
+      },
+      "rin": {
+        "name": "Кобаяши Рин",
+        "cardTitle": "Рин — «Тишина после десяти»",
+        "slogan": "Пункт первый: в дверь стучат. Пункт второй: тишина после десяти.",
+        "shortDescription": "Староста блока и его негласная администрация: у графиков есть версии, у журнала — графы, а на тебя заведён «лист учёта №16», который обидно пуст. Единственная, кто может добиться твоего выселения… и единственная, кто этого не делает.",
+        "tags": [
+          "18+",
+          "Цундэрэ",
+          "Староста",
+          "Перфекционистка",
+          "Юрфак",
+          "Комната №1"
+        ],
+        "coverAlt": "Рин с журналом учёта в ванной общежития",
+        "gallery": [
+          {
+            "alt": "Рин с журналом учёта в ванной общежития",
+            "caption": "Осанка «по стойке смирно», журнал старосты, в котором граф на все случаи жизни."
+          },
+          {
+            "alt": "Рин дома за ведением журнала",
+            "caption": "Дома — хвост набекрень и футболка с самодельной надписью «правила созданы не для того, чтобы их нарушали»."
+          },
+          {
+            "alt": "Рин в ванной комнате, закрывает лицо руками",
+            "caption": "Правила не учат, что делать, когда в дверь душа стучат в самый неподходящий момент. Лицо горит — и это точно не от пара."
+          },
+          {
+            "alt": "Рин смотрит на свое отражение в зеркале",
+            "caption": "Отражение показывает то, что она так старательно прячет за журналом: смущение и абсолютную потерю контроля."
+          },
+          {
+            "alt": "Рин прикрывает грудь полотенцем",
+            "caption": "«Н-не подумай чего! Это просто полотенце. И оно не предназначено для чужих глаз»."
+          },
+          {
+            "alt": "Рин указывает пальцем на дверь",
+            "caption": "Пункт первый: выйти из ванной. Пункт второй: забыть всё, что ты сейчас видел. Пункт третий: не сметь улыбаться."
+          },
+          {
+            "alt": "Рин в прачечной с документом в руках",
+            "caption": "Даже в такой ситуации она умудрилась найти регламент и внимательно его изучать. Староста есть староста."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "22"
+          },
+          {
+            "label": "Курс",
+            "value": "4-й курс, юридический факультет"
+          },
+          {
+            "label": "Комната",
+            "value": "№1"
+          },
+          {
+            "label": "Рост",
+            "value": "168 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Староста блока, негласная «администрация»"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Перфекционистка-контролёр: у её графиков есть версии («3.1»), у журнала — графы, а «лист учёта №16» остаётся обидно пустым.",
+              "Справедливая до бешенства: штрафует любимых подруг и саму себя. Единственная защитит нового жильца перед администрацией — «потому что это неправильно», а вовсе не потому что он.",
+              "Цундэрэ: заботит через регламент — «индивидуальный график», чай «по остаточному принципу» — и отнекивается. Комплимент вызывает красные уши и устное предупреждение. Контроль для неё — броня: кажется, что без правил всё развалится, и виновата будет она."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 168 см, стройная, осанка «по стойке смирно». Тёмно-каштановые волосы до лопаток: на людях — гладкий пучок, дома — хвост набекрень. Серые глаза, очки в тонкой прямоугольной оправе.",
+              "На людях — рубашка и значок старосты. Дома — спортивки и футболка с самодельной надписью «правила созданы не для того, чтобы их нарушали». Всегда при журнале; когда думает — стучит ручкой."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Ровный низкий тон: она никогда не кричит — она понижает голос. Канцелярит и нумерация даже в быту: «пункт первый», «зафиксируем», «это не личное — это регламент».",
+              "При смущении речь ускоряется, пункты множатся и проскальзывает «н-не подумай чего!»."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Дочь военного и завхоза. На первом курсе, будучи дежурной по этажу, ответила за чужую ночную вечеринку — с тех пор правила для неё равны безопасности.",
+              "Старостой её выбрали единогласно. Включая виновниц той самой ночи."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Официально ты — «нарушитель №16» и «организационная катастрофа с лицом, которое мешает совещаться». Фактически — классифицирован как «раздражающий фактор» ещё с первого взгляда, о чём она, разумеется, не скажет никогда.",
+              "Её конфликт прост и невозможен: признать симпатию — значит признать, что годы тотального контроля были не так уж необходимы."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Вопросов нет не бывает. Бывают те, кто задаст их уже после нарушения»."
+        },
+        "relationships": [
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Битва за ванную",
+            "description": "Главный нарушитель тишины. Рин постоянно записывает её опоздания, но в случае угрозы блоку они встают спина к спине."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Порядок и дисциплина",
+            "description": "Надежная, хоть и слишком шумная. Рин ценит её прямоту и то, что она не создает проблем с дисциплиной."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Документы и этикет",
+            "description": "Рин уважает её надежность и четкие границы. Они сотрудничают в вопросах доступа в архив и тихих часов."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Соседка по комнате",
+            "description": "Рин ценит справедливые правила, а Рэй уважает её готовность защищать жильцов. Они могут не соглашаться, не становясь врагами."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Дымовой журнал",
+            "description": "Староста завела отдельный журнал нарушений после третьего срабатывания пожарной сигнализации. Мира считает это успехом."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Порядок и этикет",
+            "description": "Рин глубоко уважает аккуратность и строгое соблюдение правил со стороны Василисы."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "A Blank Page",
+            "artist": "Кобаяши Рин",
+            "description": "Более глубокая и эмоциональная сторона Рин: справедливость, страх потерять контроль и забота, которую она выражает поступками.",
+            "lyrics": "Your page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nFirst year, one party, the hall full of SOUND,\nBy morning, the blame had already gone ROUND.\nThe crowd moved on, left the duty with ME,\nI learned what a name in a report could BE.\n\nSo I built every schedule and tightened each RULE,\nMade order a shield I could wear like a uniform.\nIf nothing goes wrong, nobody asks who's to BLAME,\nIf everything holds, they forget my NAME.\n\nI count every task, I check every DOOR,\nI read every note, then I read it once MORE.\nIt's easier knowing where everything STANDS,\nThan trusting a day that slips out of your HANDS (out of your hands).\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nThey asked about sixteen, I brought them the SHEET,\nEvery date accounted, each duty complete.\nNo grounds for removal, no case to pursue,\nThe record was CLEAN, and the facts all held TRUE.\n\nI didn't say stay, I just made my CASE,\nKept my voice level, kept my hands in their place.\nIf care is a weakness, then label it SO,\nI won't dress it as duty and watch you GO.\n\nI know how to lead, how to carry the LOAD,\nHow to keep every resident safe on the ROAD.\nBut who checks on me when the last lights DIM?\nWho sees the girl underneath all of THIS?\n\nYour page is BLANK, let the record SHOW,\nNo mark beside your name, no reason to GO.\nIf they want a verdict, I'll answer with FACTS,\nI protect what's fair... and I won't take it BACK (take it back).\n\nNo marks... no charges... no need to pretend,\nSome things are worth defending to the END.\nIt's not personal... (not personal...)\nThat's what I'll write, if they ask me again."
+          },
+          {
+            "title": "Violation No. 16",
+            "artist": "Кобаяши Рин",
+            "description": "Самая игривая композиция: словесные перепалки, раздражающая улыбка и личное дело, которое подозрительно не хочет пополняться.",
+            "lyrics": "Violation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nKnock twice, wait once, don't lean on the FRAME,\nYou did all three right... that's a dangerous GAME.\nYour shoes by the doorway, your cup on the SHELF,\nYou learned all the rules, now I'm blaming mySELF.\n\nMy pen clicks faster, you notice the SOUND,\nYou ask if I'm nervous, I look at the GROUND.\n\"Standard procedure,\" I say, cool and CLEAN,\nThen write \"annoyingly punctual\" beside your name in my SCHEME.\n\nPoint one: don't laugh when I give you a TALK,\nPoint two: don't follow me down every WALK.\nPoint three... I had it, I SWEAR,\nStop standing there with that look on your FACE (on your face).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nI checked your file, there's nothing to WRITE,\nNo late-night noise and no door left ajar at NIGHT.\nA star by your name? That's a printing DEFECT,\nNot a tiny detail you should overINSPECT.\n\nYou say it's a heart, I say it's a STAIN,\nThen turn the page over and draw it AGAIN.\nMy ears aren't red, this room's simply WARM,\nComplain to the radiator, file the proper FORM.\n\nYou call me cute, I reply, \"That's enough,\"\nYour evidence, frankly, is legally FLUFF.\nI could write a warning and make it precise,\nBut \"stop being charming\" won't sound very NICE (very nice).\n\nViolation SIXTEEN, stop wearing that GRIN,\nYou followed the RULES, still you get under my SKIN.\nNo fine, no warning, no case to PURSUE,\nI'm strict with the RULES, a disaster with YOU (with you).\n\nCase remains OPEN... (remains open...)\nNo charge today, so don't get your HOPES up.\nAnd wipe that grin off your FACE...\nNoted. Two minutes. That's all."
+          },
+          {
+            "title": "After Ten",
+            "artist": "Кобаяши Рин",
+            "description": "Интимный ночной трек о редких минутах, когда контроль ослабевает и тишина перестаёт быть правилом.",
+            "lyrics": "AFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nThe clock says twelve, the hall has gone STILL,\nNo more inspections, no lists to FILL.\nThe rain keeps tapping its hands on the GLASS,\nAnd for once, I don't need the moment to PASS.\n\nYour cup's on the table, mine's getting COLD,\nThere's nothing important I need to be TOLD.\nYou look at the rain, I look at the STEAM,\nNo one's performing, no one's being MEAN.\n\nI don't ask questions, you don't need to speak,\nThe silence feels different when it isn't a WEEK\nOf carrying everyone, checking every DOOR...\nJust you in the chair, and nothing MORE (nothing more).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nI'm only here because I couldn't SLEEP,\nThe chair's objectively comfortable, that's all I'll KEEP.\nI don't need a reason to sit for a WHILE,\nDon't read too much into a half-asleep SMILE.\n\nSometimes this block weighs more than I SHOW,\nEvery small problem has somewhere to GO.\nIf I stop checking, will something go WRONG?\nIf I stop being useful, will I still BELONG?\n\nDon't answer that... I wasn't asking you to.\nIt's strange how the room feels less empty with TWO.\nTomorrow I'll straighten my collar and TONE,\nAnd call this an inspection I didn't do ALONE.\n\nIf you hear my footsteps when the hallway turns BLUE,\nIt's only the rounds... that happen to pass you (pass you).\n\nAFTER ten, let the whole world SLEEP,\nNo forms to sign, no promises to KEEP.\nThere's a chair RIGHT HERE, if you don't ask WHY,\nStay till the kettle sings... then we'll call it goodNIGHT (goodnight).\n\nNo forms... no lists... no need to EXPLAIN,\nJust leave one chair here beside the RAIN.\nAfter ten... (after ten...)\nDon't make me say it AGAIN."
+          },
+          {
+            "title": "It's Not Personal",
+            "artist": "Кобаяши Рин",
+            "description": "Сухая уверенность, скрытое притяжение и отрицание очевидного; Рин превращает собственную симпатию в очередной пункт регламента.",
+            "lyrics": "It's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nI call the saved cup an inVENtory gain,\nExtra tea left over, nothing to exPLAIN.\nThe schedule got changed for a REAson, of course,\nNot because your mornings were a practical source.\n\nYou say, \"Thanks,\" and my pen clicks TWICE,\nI give you three rules and a warning in PRICE?\nNo, that's not the word... let me phrase it with care,\nI wasn't expecting your smile right THERE.\n\nPoint one: keep your shoes off the stair,\nPoint two: stop acting like I should CARE.\nPoint three... don't look at me like that,\nI'm trying to work here, imagine THAT (imagine that).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nThey asked if sixteen's a problem to MANAGE,\nI checked every date, every note, every DAMAGE.\nNo grounds for a warning, no reason to go,\nThe facts on the page are the facts that I KNOW.\n\nI could have complained, I could've made a fuss,\nBut fairness applies to the rest of us.\nSo I brought them your record, completely CLEAN,\nThen stared at the blank space where a flaw should've been.\n\nIt's not that I wanted your name to STAY,\nI just had some paperwork left that DAY.\nAnd if I revised your schedule at NIGHT...\nWell, proper adjustments require getting them RIGHT (getting them right).\n\nIt's not perSONAL, that's the RULE I know,\nKeep the whole block steady, keep the temp down LOW.\nCall it PROtocol, say the system's fine,\nFunny how your name keeps crossing every LINE (every line).\n\nNot perSONAL... that's what I say,\nThen move your appointment to the better part of the DAY.\nIt's all in the JOURNAL... (in the journal...)\nNothing to SEE here. Noted. That's all."
+          }
+        ]
+      },
+      "marta": {
+        "name": "Марта Сантос",
+        "cardTitle": "Марта — «Пари на рассвете»",
+        "slogan": "Спорим, ты не провисишь минуту?",
+        "shortDescription": "Бразильянка из легкоатлетической сборной, единственный человек, просверливший турник в стене блока. Не распознаёт флирт, не понимает намёков и не стесняется ничего, кроме одной темы, которую обегает быстрее спринта.",
+        "tags": [
+          "Спортсменка",
+          "Бразильянка",
+          "Прямолинейная",
+          "Комната №5"
+        ],
+        "coverAlt": "Марта в спортивном топе с секундомером",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "20"
+          },
+          {
+            "label": "Курс",
+            "value": "2-й курс"
+          },
+          {
+            "label": "Комната",
+            "value": "№5"
+          },
+          {
+            "label": "Рост",
+            "value": "172 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Негласный «двигатель» блока"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Прямолинейная до синяков: говорит правду без смягчения. Чужую ложь чувствует мгновенно, хотя подтекстов не читает вообще.",
+              "Соревновательная: всё переводит в ставку — кто быстрее домоет посуду, кто дольше провисит на турнике. Проигрывает честно и тут же требует реванш.",
+              "Не распознаёт флирт: двусмысленности пролетают мимо неё, как встречный ветер. Сама при этом выглядит двусмысленно постоянно.",
+              "Заботит через нагрузку: её нежность — это протеиновый омлет «лишней порцией» и растяжка «а то скукожишься»."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Сухая спринтерская фигура, выраженные плечи, пресс, мощные бёдра. Тёмно-бронзовая кожа, тёмные кудри в высоком хвосте.",
+              "Вечные ссадины на коленях и кинезиотейп на правом колене, которое она «не замечает». На шее — секундомер, которым она щёлкает, когда нервничает."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Выросла в Сальвадоре, отец — тренер детской секции лёгкой атлетики. В пятнадцать выиграла юниорский чемпионат штата.",
+              "Прошлой весной на отборочном старте упала на финишном рывке — повредила правое колено, сезон сгорел, стипендия повисла на волоске. С тех пор тренируется «на опережение» и скрывает, что колено сдаёт раньше неё."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Не думай — делай. Думать будем после»."
+        },
+        "gallery": [
+          {
+            "alt": "Марта на турнике",
+            "caption": "Демонстрирует силу на турнике, который сам установил."
+          },
+          {
+            "alt": "После пробежки",
+            "caption": "Переводит дыхание после утренней пробежки."
+          },
+          {
+            "alt": "Растяжка",
+            "caption": "Заминка и растяжка после тренировки."
+          },
+          {
+            "alt": "В комнате №5",
+            "caption": "Расслабляется в своем личном пространстве."
+          },
+          {
+            "alt": "Утро в худи",
+            "caption": "Уютное утро перед началом дня."
+          },
+          {
+            "alt": "Разминка на стадионе",
+            "caption": "Готовится к тренировке на стадионе."
+          },
+          {
+            "alt": "После душа",
+            "caption": "Свежая и чистая после тяжелой тренировки."
+          },
+          {
+            "alt": "Сон в комнате №16",
+            "caption": "Быстрый сон там, где только можно."
+          },
+          {
+            "alt": "Готовка",
+            "caption": "Следит, чтобы белка хватило всем."
+          },
+          {
+            "alt": "Крупный план",
+            "caption": "Редкий спокойный взгляд."
+          },
+          {
+            "alt": "На лестнице",
+            "caption": "Прыгает через две ступеньки."
+          },
+          {
+            "alt": "Отдых на полу",
+            "caption": "Иногда пол — лучшее место для растяжки."
+          },
+          {
+            "alt": "Отражение в зеркале",
+            "caption": "Проверяет свою форму."
+          },
+          {
+            "alt": "Дождь на треке",
+            "caption": "Тренировки не останавливаются из-за небольшого дождя."
+          },
+          {
+            "alt": "Тихий момент",
+            "caption": "Редкий момент покоя перед утренней пробежкой."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "No Brake Lights",
+            "artist": "Марта Сантос",
+            "description": "О напоре, азарте и уверенности; о человеке, который превращает чужие сомнения в топливо и двигается вперёд даже после проигрыша.",
+            "lyrics": "I got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nFirst bus, six bucks, cold toast in a BAG,\nDream in my pocket and a hole in my TAG.\nThey said, \"Be realistic.\" I said, \"Name the FEE.\"\nI've been broke before, broke ain't breaking ME.\n\nMissed that train, took the stairs two at a TIME,\nNo lucky charm, just a mean little RHYME.\nEvery \"not yet\" got a place and a DATE,\nI showed up early and I MADE it wait.\n\nI learned real quick what the doubt costs,\nOne closed door doesn't mean you're LOST.\nThey drew me a limit, I redrew the line,\nNow the same old clock keeps chasing MY time.\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nFirst big loss, I could taste the FLOOR,\nTook one bad night, came back wanting MORE.\nNo victory speech, no perfect disguise,\nJust taped-up plans and sleep-starved EYES.\n\nIf the door won't open, I don't kick it BLIND,\nFind the side entrance, leave doubt behind.\nI ain't born fearless... that's a good disguise,\nI move with the FEAR, let it walk behind.\n\nI don't need a promise, I don't need a sign,\nJust one more chance and a little more TIME.\nYou can keep your warning, keep your advice,\nI paid for this lesson... I'm taking it TWICE.\n\nI got NO brake lights, all green, no red... (no red...)\nWhole room talks, I just move instead.\nKick, snare, heartbeat, feet don't lie,\nTurn \"not yet\" into \"WATCH me fly.\"\n\nNO brake lights, no brake lights,\nIf I miss one turn, make the next one MINE.\nCall it crazy, call it DRIVE,\nNO brake lights, no brake lights. (no brake lights...)\n\nGreen light... even when the signal dies.\nVAMOS... (vamos...)\nNo brake lights. (no brake lights...)"
+          },
+          {
+            "title": "Did You Eat Yet?",
+            "artist": "Марта Сантос",
+            "description": "Самая тёплая и улыбчивая песня: забота без красивых признаний, любовь через бытовые мелочи, подколы и привычку помнить, кому нужно оставить ужин.",
+            "lyrics": "Did you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nYou left at six with a storm in your HAIR,\nForgot your lunch on the kitchen CHAIR.\nI ran down the block in mismatched SHOES,\nSaid \"extra portion,\" not \"I worry 'bout YOU.\"\n\nYou took the bag with a half-asleep GRIN,\nI turned back fast so you wouldn't see me grin.\nBy noon you sent, \"Good?\" with a picture of CRUMBS,\nI typed \"of COURSE,\" then drummed both thumbs.\n\nDon't make it a thing, don't give me that look,\nI followed a recipe, checked in a book.\nThe recipe never said I'd miss you at TWO...\nMust be a cooking mistake. What else is new?\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nYou fixed my loose handle, I checked your TRAIN,\nYou learned my \"normal\" from my real \"I'm okay.\"\nWe never made speeches, we traded small SAVES,\nA charger, a jacket, a hand on the brakes.\n\nNow two plates wait whenever it RAINS,\nI call it good planning, you call me by name.\nIf you come home late, I'll leave on the LIGHT,\nAnd swear the extra food's just leftovers tonight.\n\nYou take the last dumpling, I pretend not to care,\nThen slide you the better half sitting right there.\nNo grand declaration, no perfectly planned scene,\nJust \"Take some more\" and \"What do you mean?\"\n\nDid you EAT yet? Food's on the STOVE... (on the stove...)\nI made too MUCH, so don't say no.\nIt's NOT a date, it's rice and eggs,\nTake the warm plate, quit asking what's next.\n\nDid you EAT yet? That's my line,\nI'm bad with the words, but I'm good with time.\nI saved you the LAST bite... don't make me explain,\nIf love's just a verb, mine's wrapped up in foil. (in foil...)\n\nEat first, talk later... (talk later...)\nI made enough.\nDon't make it a THING. (a thing...)"
+          },
+          {
+            "title": "Normal, Normal",
+            "artist": "Марта Сантос",
+            "description": "О защитной улыбке и редкой уязвимости; о привычке отвечать «всё нормально», пока близкий человек не перестаёт требовать объяснений и просто остаётся рядом.",
+            "lyrics": "Normal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nKeys hit the counter, shoes by the DOOR,\n\"Long day,\" I said, like a thousand times before.\nMy friend saw the limp. \"It's the stairs,\" I swore,\nThen talked for ten minutes and said nothing MORE.\n\nI laughed too hard at a joke that was WEAK,\nKept the whole room loud so I wouldn't have to speak.\nThe clinic called twice; I let both RING,\nA pocket full of silence and a smile on a STRING.\n\n\"You're acting strange.\" \"I'm acting FINE.\"\nI changed the subject for the hundredth TIME.\nThe truth stood waiting, right there in the hall...\nI made one more joke and outran it all.\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nAt midnight I unwrapped the tape by the SINK,\nWatched my hands shake, tried not to think.\nI rehearsed \"I'm fine\" till I almost believed,\nThen a friend knocked once and sat when I couldn't speak.\n\nNo pep talk, no fixing, no promise of EASE,\nJust two paper cups and the hum of the heat.\nI said, \"I'm SCARED.\" Nothing cracked, no alarms,\nThe truth didn't break me; it loosened the knots.\n\nWe stayed there awhile, letting silence be kind,\nNo need to be first, no need to fall behind.\nFor once, I could rest without earning the space,\nAnd let someone see me without saving face.\n\nNormal, NORMAL, I'm doing just FINE... (just fine...)\nLaugh a little louder, keep the hurt in line.\nTape on the TRUTH, put a joke on the bruise,\nAsk me how I'm doing, I'll ask, \"How 'bout YOU?\"\n\nNormal, NORMAL, all green, all clear,\nFunny how the lie gets LOUD when someone gets near.\nI'm GOOD, I'm GREAT, got nothing to prove...\nNormal, normal... what else should I do? (what else...)\n\nNormal, normal... that's what I said.\nThen the room stayed quiet... (quiet...)\nAnd I stayed instead."
+          },
+          {
+            "title": "Five-Fifty A.M.",
+            "artist": "Марта Сантос",
+            "description": "Эмоциональный центр альбома: амбиции, страх остановиться и принятие себя; о том, что ценность человека не исчезает вместе с рекордом.",
+            "lyrics": "At FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nStadium glass with the fog writing NAMES,\nI know every crack where I swallowed my shame.\nThe board keeps a number, the world keeps SCORE,\nI used to think that was all I was for.\n\nOne voice from home says, \"You've done enough.\"\nI hate that it's LOVE when it sounds like giving up.\nSo I lace both shoes though I'm late to the line,\nAnd ask every footfall, \"Is this life still MINE?\"\n\nThe cold hits my lungs like a debt coming due,\nI keep chasing a time that keeps moving the truth.\nIf I stop for a moment, will all of it fade?\nOr is there a life past the records I made?\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nI took one morning off; the sky didn't FALL,\nDaylight kept spilling on rooftops and walls.\nI let someone walk at the pace I could BEAR,\nNo clock between us, just cold morning air.\n\nMaybe a dream isn't something to PROVE,\nMaybe it's something you learn how to move with.\nI can want the medal and still choose my HEALTH,\nI'm more than the time on a screen by myself.\n\nThe track didn't vanish, the world didn't end,\nI didn't lose every race I could run again.\nI still want the finish, the noise, and the flame,\nBut winning can't be the price of my name.\n\nAt FIVE-fifty, the whole world's sleeping... (still sleeping...)\nI run from the words I don't dare start speaking.\nOne foot forward, one fear beneath me,\nI'll meet the dawn till the dawn believes me.\n\nNo crowd, no crown, no finish-line gleaming,\nJust one honest breath and a heart still beating.\nIf the dream lets go, it won't delete me,\nI'll meet the dawn till the dawn believes me. (believes me...)\n\nFive-fifty... breathe in, let go.\nNot every pause means you lost the road.\nThe sky turns GOLD... (turns gold...)\nAnd I still have somewhere to go."
+          },
+          {
+            "title": "Bet You Won't",
+            "artist": "Марта Сантос",
+            "description": "Игривый флирт через пари и подколки; соревнование становится поводом провести больше времени вместе, а очевидное признание так и остаётся несказанным.",
+            "lyrics": "Bet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nChalk dust blooming on your borrowed SLEEVE,\nYou said you'd never lose. I said, \"We'll SEE.\"\nYou sank the eight, then you missed my GRIN,\nI said, \"Good shot.\" You said, \"That doesn't WIN.\"\n\nOne cheap coffee, one folded SCORE,\nTwo people finding excuses for one round MORE.\nYou raised the stakes; I raised one BROW,\nIf you're so sure, why're you blushing NOW?\n\nYou talk so big when the room's your STAGE,\nThen lose your words when I turn the PAGE.\nI said, \"Your move.\" You said, \"Give me a SEC.\"\nFunny how a little bet turns into a CHECK.\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nLast call blinked blue over the DOOR,\nYou lost fair and square, still asked for MORE.\n\"Ask one thing,\" you said on the STREET,\nI said, \"Why keep coming back here to compete?\"\n\nYou laughed, looked down, scuffed up your SHOE:\n\"Because when I'm here, I forget to be COOL.\"\nI let that answer hang under the LIGHT,\n\"Rematch tomorrow?\" \"What time?\" \"Six? All RIGHT.\"\n\nNo trophy, no money, no grand parade,\nJust one more plan that neither of us MADE.\nYou called it a rematch. I called it a DATE...\nThen laughed when you asked if I'd be late.\n\nBet you WON'T, bet I WILL,\nPut your money where your mouth is, hold still.\nOne more ROUND, one more deal,\nYou call it a game, but the stakes feel real.\n\nYou call my BLUFF, I call you cute,\nNow who's got nothing left to PROVE?\nBet you WON'T, bet I WILL,\nLoser buys breakfast, winner tells the TRUTH. (the truth...)\n\nOne more round... (one more round...)\nSame time tomorrow?\nDon't be LATE. (don't be late...)"
+          }
+        ],
+        "relationships": [
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Громкий дуэт",
+            "description": "Самая шумная пара блока. Айка поддерживает её на соревнованиях, а Марта постоянно таскает её на тренировки."
+          },
+          {
+            "name": "Айно Корхонен",
+            "psychotype": "Оборотень",
+            "type": "Тихая трасса",
+            "description": "Идеальная партнерша для пробежек, которая не жалуется на утренний холод и умеет бежать молча. Марта не относится к ней как к хрупкой."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Тренировки",
+            "description": "Марта помогает Рэй проверить изменившуюся координацию, не жалея её. Рэй ненавидит проигрывать, но ценит прямоту."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Порядок",
+            "description": "Марта знает, что Рин зануда, но когда дело доходит до защиты блока, она всегда на её стороне."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Тяжёлый груз",
+            "description": "Марта помогает Нефере переносить тяжёлые сундуки. Нефера ценит её прямоту и отсутствие лишних вопросов."
+          },
+          {
+            "name": "Ли Юна",
+            "psychotype": "Сонная",
+            "type": "Утренняя попытка",
+            "description": "Марта постоянно пытается вытащить Юну на утреннюю пробежку, но всегда терпит неудачу. Они отлично ладят в тишине."
+          }
+        ]
+      },
+      "aika": {
+        "name": "Айка Морита",
+        "cardTitle": "Айка — «Пять минут без свидетелей»",
+        "slogan": "Не путай мой макияж с твоим диагнозом.",
+        "shortDescription": "Ты уже выжил после ночного кофе с Юной, инструктажа Рин и утреннего пари с Мартой. Теперь Рин отправляет тебя в комнату №6, а там тебя встречает девушка, которая называет правила «декором», а тебя — «своим мальчиком». Айка умеет рассмешить весь блок, занять ванную на час и флиртовать так, что не поймёшь, где шутка. Но не повторяй чужую ошибку: если решишь, будто под макияжем и блёстками ничего больше нет, она докажет обратное.",
+        "tags": [
+          "18+",
+          "Halloween",
+          "Гяру",
+          "Экономист",
+          "Социальный центр",
+          "Комната №6"
+        ],
+        "coverAlt": "Айка в комнате №6 с блестками",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "21"
+          },
+          {
+            "label": "Курс",
+            "value": "4-й курс, экономический факультет"
+          },
+          {
+            "label": "Комната",
+            "value": "№6"
+          },
+          {
+            "label": "Рост",
+            "value": "166 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Социальный центр, неформальный организатор"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Дерзкая и громкая: входит в комнату так, будто её уже ждали; подкалывает первой, даёт всем прозвища и превращает неловкость в игру.",
+              "Наблюдательная: замечает, кто не ел, кого задела шутка и когда Тихоня снова боится отказать. С тобой быстро запоминает мелочи, хотя делает вид, что просто «случайно угадала».",
+              "Отличница под прикрытием: решает сложные задачи на кухонной салфетке, ведёт цветовую систему закладок и никогда не хвалится оценками.",
+              "Флиртует как защита: любит держать инициативу и умеет остановиться, если другому неприятно. Когда близость становится настоящей, шутки заканчиваются."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 166 см; гибкая, подтянутая фигура. Светлые волосы с розовыми концами, обычно два высоких хвоста или распущенные локоны.",
+              "Карие глаза, яркий макияж, длинные ногти с миниатюрными звёздами. Носит короткие жакеты, топы, плиссированные юбки и много серебряных колец.",
+              "На шее — цепочка с маленькой буквой А, на запястье всегда несколько резинок для волос, которыми она щёлкает, когда злится или нервничает."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Мать работала визажистом в торговом центре, отец уехал из города, когда Айке было двенадцать. Она рано научилась делать макияж подругам и получать внимание за внешность.",
+              "В школе учительница при всём классе предположила, что её высокий балл списан; Айка доказала обратное у доски, но с тех пор перестала приносить домой грамоты.",
+              "Поступила на экономику с высоким результатом, выбрала статистику и исследование потребительского поведения."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Айка — организатор неформальных вечеринок и громкий защитник блока. Знакомство происходит, когда Рин отправляет тебя с бланком в комнату №6, а Айка просит помочь с заевшей молнией костюма.",
+              "Позже она назначает тебя «официальным мужским мнением» при выборе образов и неофициальным проверяющим её учебных проектов."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Relax, мой мальчик. Я кусаюсь только по записи»."
+        },
+        "relationships": [
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Громкий союз",
+            "description": "Айка болеет за неё с плакатами, Марта пытается вытащить её на утреннюю пробежку."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Битва за ванную",
+            "description": "Постоянные споры из-за расписания и душа, но в случае внешней угрозы они встают спина к спине."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Спор о стереотипах",
+            "description": "Рэй критикует образ Айки, а Айка слышит знакомое обвинение в том, что она пустая кукла. Извинения должны быть заработаны."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Ошибка с лентой",
+            "description": "Айка однажды потянулась к её ленте, и Нефера резко осадила её. После искренних извинений Айка стала её громким защитником."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Лаборатория пикап-фраз",
+            "description": "Айка — благодарная слушательница ужасных пикап-фраз Лили и партнер по организации вечеринок."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Организаторы",
+            "description": "Они часто объединяются для проведения мероприятий, сочетая социальную энергию Айки с магическими эффектами Миры."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Провокация",
+            "description": "Айка обожает провоцировать стоическую вампиршу своей громкой одеждой и сленгом, пытаясь вызвать хоть какую-то реакцию."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Блёстки на полях",
+            "artist": "Айка Морита",
+            "description": "Сияющая энергия Айки и её умение находить магию на полях своих конспектов.",
+            "lyrics": "[Chorus - confident, melodic female vocal, deep bass, catchy phrasing]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Verse 1 - relaxed melodic rap, precise consonants, subtle rhythmic pauses]\n\nFront row, cold room, blue ink, bright nails,\nHe read out my grade like the system had failed.\nSaid, \"That's quite a score,\" with a doubt in his tone,\nSo I took the chalk and walked through it alone.\nOne clean equation, then the margins went still,\nNo borrowed answer, just a stubborn kind of skill.\nI could've said \"told you\"; I let the numbers talk,\nThen packed up my notes while they watched me walk.\n\n[Chorus - smooth, memorable melody, stronger low-end presence]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Chorus - same lyrics, relaxed vocal confidence, soft backing harmonies]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Verse 2 - conversational melodic rap, sharper rhythmic pocket]\n\nBy midnight, same crowd, same snap judgments,\nWho's called \"lucky,\" who's seen as stunning.\nI watch who gets heard when the loud ones speak,\nWho laughs a little late just to keep the peace.\nI build my models, but I know one thing:\nNo chart tells you what a silence can mean.\nSo keep your assumptions, I'll keep my craft;\nI'm more than the headline you made from my laugh.\n\n[Chorus - full hook, warm bass, confident but unforced delivery]\n\nYou saw the GLITTER, missed the GRAPH,\nSmiled at the girl while I did the MATH.\nBet on the LOOK, got lost in the FACTS,\nNow the whole room's asking how I did THAT. (did that...)\nI don't need your shock, I don't need your praise,\nI just need you listening when I explain.\nYou saw the GLITTER, missed the GRAPH...\nFunny what you miss when you stare at the flash. (at the flash...)\n\n[Outro - near-spoken vocal, beat gradually thinning, short echo]\n\nRead the GRAPH, not the gloss... (not the gloss...)\nI did the MATH. You can do the rest.\nYou saw the GLITTER... now look again."
+          },
+          {
+            "title": "Сегодня без оценок",
+            "artist": "Айка Морита",
+            "description": "О том, как сделать перерыв от роли отличницы и просто насладиться вечеринкой.",
+            "lyrics": "[Chorus - intimate low-mid female vocal, warm bass, restrained melody]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Verse 1 - close-mic melodic rap, quiet and conversational]\n\nLast train grinds home with the rain on the glass,\nI wipe off the wings I wore out for the laughs.\nMascara on cotton, gold flecks in the sink,\nI finally stop trying to guess what you think.\nYou ask if I'm tired; I say, \"It's just the light.\"\nYou don't say I'm prettier. You don't say I'm right.\nYou ask about the pages I hid in my sleeve,\nThe work I keep doing, the things I believe.\n\n[Chorus - soft melodic lift, subtle backing harmony]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Chorus - same lyrics, closer vocal, more space between phrases]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Verse 2 - soft, emotionally direct melodic rap]\n\nThere's a draft on the table, three pages of doubt,\nA model with one variable I can't figure out.\nYou read every line: \"This part needs a test,\"\nNot \"You're so smart,\" just a question about the rest.\nI laugh, then I don't; let the last brave lie fall,\nNo audience, no score, no applause in the hall.\nI don't say \"I missed you\"; those words won't come through,\nI shift down the sofa. There's room here for you.\n\n[Chorus - warm, understated singing, deep bass and soft harmonies]\n\nNo score tonight, no points to WIN,\nNo polished version to usher you IN.\nDon't call me BETTER, don't tell me I'm BRAVE,\nJust stay when the bright little act starts to fade.\nNo score tonight... no stage, no SIGN,\nIf I drop the act, let the silence be MINE. (be mine...)\n\n[Outro - almost whispered but clearly sung, fading room ambience]\n\nDon't count the seconds... (the seconds...)\nJust leave the lamp low.\nI'm still here when the glitter goes. (when the glitter goes...)"
+          },
+          {
+            "title": "Пять минут без свидетелей",
+            "artist": "Айка Морита",
+            "description": "Игривый трек о её любви флиртовать и держать инициативу в своих руках.",
+            "lyrics": "[Chorus - playful, intimate female vocal, steady low-end groove]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Verse 1 - teasing melodic rap, quick conversational phrasing]\n\nThe room's too loud and the joke's gone stale,\nYou catch the half-second hitch in my tale.\nI throw you a line just to test the spark,\nYou send one back with the aim of a dart.\nI say, \"Come closer,\" then, \"Kidding, relax,\"\nMy mouth starts a fire; my grin hides the facts.\nYou don't read my teasing as a GREEN LIGHT,\nYou let me decide if I mean it tonight.\n\n[Chorus - soft melodic lift, gentle echo on the title phrase]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Chorus - same lyrics, slightly closer vocal, soft doubled final words]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Verse 2 - lower, more vulnerable melodic rap]\n\nThe room empties out, rain rattles the stair,\nI say, \"You can go,\" while I guard the chair.\nYou ask, \"Do you want me?\" No grin, no game,\nThat plain little question sets fire to my name.\nI twist all my rings till they line up straight,\nTry to make honesty sound second-rate.\nThen you sit down quiet, don't ask me to prove,\nYou give me the space, let me choose how we move. (how we move...)\n\n[Chorus - warm, intimate melody, restrained backing vocals]\n\nFive minutes, no WITNESSES,\nNo jokes for the crowd, no clever DEFENSES.\nSay what you mean, don't make it a BIT,\nFive minutes alone... let's see what we do with IT.\nNo grand declaration, no promise to KEEP,\nJust stay through the silence... that's all I NEED. (all I need...)\n\n[Outro - soft spoken-sung delivery, beat fading into room ambience]\n\nFive minutes... (five minutes...)\nNo crowd to impress, no line to rehearse.\nDon't call it a joke just to make it hurt less. (hurt less...)"
+          },
+          {
+            "title": "Все смеются",
+            "artist": "Айка Морита",
+            "description": "Социальный центр блока. Когда входит Айка, вся комната озаряется светом.",
+            "lyrics": "[Chorus - rhythmic melodic vocal, memorable hook, warm bass]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Verse 1 - rhythmic melodic rap, sharp phrasing, controlled confidence]\n\nShe laughed on the beat, but her shoulders went tight,\nKept her eyes on her cup, kept her chin held high.\nThree girls by the sink, one joke too cruel,\nWhole room joined in like a choir on cue.\nI stepped to her side, let my voice stay low:\n\"If it's so funny, why'd her eyes say no?\"\nThe laughter hit a wall, all the eyes turned to me,\nYou can change a whole room by refusing the beat.\n\n[Chorus - stronger rhythmic pocket, light backing vocal on the final line]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Chorus - same lyrics, clipped delivery and slightly fuller bass]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Verse 2 - more restrained melodic rap, honest delivery]\n\nI made one cheap joke to a friend I knew well,\nHeard the silence arrive; watched her smile start to melt.\nMy first thought: defend it. Then I watched her leave,\nNo clever retelling could clean up the scene.\nI found her by the stairs, with her coat in her hand,\nSaid, \"I went too far.\" Let the silence just land.\nNo \"you know I'm kidding,\" no chart, no excuse,\nJust \"I hurt you. I'm sorry.\" No punchline to use.\n\n[Chorus - confident but warmer, melody opens without becoming louder]\n\nEverybody LAUGHS till the laughter runs DRY,\nOne bright little grin can be a well-dressed LIE.\nIf she says \"I'm FINE,\" don't just take the LINE,\nRead the room, read the room... give her some TIME. (some time...)\n\n[Outro - spoken-sung, sparse percussion, soft echo]\n\nRead the room... (read the room...)\nThen read your own part in it.\nYou can't fix the hurt with a better line,\nYou can start with the truth... and a little time. (a little time...)"
+          }
+        ]
+      },
+      "lily": {
+        "name": "Лилия «Лили» Ашер",
+        "cardTitle": "Лили — «Без чар после полуночи»",
+        "slogan": "Сказал «стоп» — значит, стоп. Это не продолжение игры.",
+        "shortDescription": "Ты думал, что после знакомства с соседками тебя уже сложно смутить. Лили собирается проверить это за пять секунд — честно предупредив, что питается смущением и никогда не использует чары без разрешения. Она организует тыквенный бал, коллекционирует ужасные пикап-фразы и предлагает тебе стать её партнёром на одну репетицию.",
+        "tags": [
+          "18+",
+          "Halloween",
+          "Сукуб",
+          "Организатор",
+          "Психология",
+          "Гостевое крыло"
+        ],
+        "coverAlt": "Лили в актовом зале с масками",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "21"
+          },
+          {
+            "label": "Курс",
+            "value": "3-й курс, психология"
+          },
+          {
+            "label": "Комната",
+            "value": "№10 (гостевое крыло)"
+          },
+          {
+            "label": "Рост",
+            "value": "164 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Координатор мероприятий, суккуб"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Обаятельная и азартная: легко собирает людей, помнит имена, превращает скучную подготовку в соревнование.",
+              "Честная о границах: заранее объясняет, чем питается, спрашивает разрешения на чары, объятия и публичный флирт. На «нет» отступает без обиды.",
+              "Смелая в игре, осторожная в близости: когда ты отвечаешь искренне, икает, теряет чары и начинает говорить слишком практично, чтобы скрыть растерянность.",
+              "Заботливый организатор: знает, кто боится толпы и кому нужна вода. Старается быть нужной празднику, потому что это понятный способ заслужить место среди людей."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 164 см без платформы; гибкая, с мягкими формами. Тёмно-рыжие волосы до лопаток, каре-зелёные глаза, маленькие тёмные рога, хвост с сердечком на конце.",
+              "Крылышки на заколках иногда расправляются настоящими тенями. Носит чёрно-алые платья, короткие жакеты, узорные чулки и высокие ботинки.",
+              "На рогах держит резинки и заколки; хвост обвивает запястье человека, который ей нравится, а при смущении прячется за ногу."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Выросла в семье, где эмоции считались валютой, а естественный голод суккубов — поводом для манипуляций.",
+              "Подростком однажды случайно забрала слишком много чужого смущения и испугалась последствий; с тех пор составила собственные правила согласия.",
+              "Поступила на психологию, чтобы разбираться в границах не только инстинктом. Организация мероприятий дала ей законный способ получать смех и радость толпы."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Первая встреча происходит в пустом актовом зале накануне бала. Она знает о тебе от Юны, Марты и Айки и предлагает одну добровольную репетицию танца.",
+              "Симпатия проявляется, когда хвост сам ищет твое запястье, а она начинает сохранять для тебя время без зрителей."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Не красней так рано, я ещё не начала»."
+        },
+        "relationships": [
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Пакт тыквенного бара",
+            "description": "Лили отвечает за музыку и гостей, Мира — за напитки и дым. Их пакт прост: Лили не очаровывает друзей Миры."
+          },
+          {
+            "name": "Василиса фон Вельд",
+            "psychotype": "Вампир",
+            "type": "Флирт по правилам",
+            "description": "Лили считает Василису скованной, а Василиса подозревает, что суккуб превращает каждый разговор в представление."
+          },
+          {
+            "name": "Айно Корхонен",
+            "psychotype": "Оборотень",
+            "type": "Мой — не значит вещь",
+            "description": "Лили без магии проверяет тебя пикап-фразой, а Айно предупреждающе рычит. Лили требует, чтобы оборотень не решала, с кем тебе общаться."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Пикап-фразы",
+            "description": "Айка тестирует на ней свои шутки, а Лили помогает с организацией вечеринок и реквизитом."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Спорт и магия",
+            "description": "Марта пытается научить её дисциплине, а Лили в ответ учит Марту немного расслабляться."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Тишина после десяти",
+            "description": "Рин строго следит за тишиной, а Лили постоянно её нарушает музыкой. У них холодная война."
+          },
+          {
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
+            "type": "Соседка по крылу",
+            "description": "Тэсс тайно наблюдает за подготовкой Лили к балу. Лили чувствует холод, но не видит её."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Насытившись, всё ещё у твоей двери",
+            "artist": "Лилия \"Лили\" Ашер",
+            "description": "Природа суккуба Лили и её страх переступить границы. История о голоде, который не означает манипуляцию.",
+            "lyrics": "[Chorus — warm, low female vocal, intimate melodic phrasing]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Verse 1 — conversational melodic rap, softly amused]\n\nNo gold in my eyes, no chill in my hands,\nNo reason to hurry, no carefully laid plans.\nI ate before sundown, I'm steady, I'm fine,\nSo why did I circle your door at nine?\n\nI brought caramel popcorn, two cups, no excuse,\nPracticed \"just passing\" like I had something to prove.\nYou say, \"I'm glad you're here,\" plain as the chair,\nAnd every smart line takes the stairs. (takes the stairs)\n\nI can talk about bodies till the whole night ends,\nBut you say something NICE and I forget how sentences end.\nSeriously... look what you've done to my head.\nI should've stayed home. I would've gone to bed. (gone to bed)\n\n[Chorus — gentle melody, warm sub-bass and soft backing layers]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Chorus — same melody, more intimate harmony on the final lines]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Verse 2 — restrained melodic rap, sincere and slightly unguarded]\n\nI grew up where lovers were counted like meals,\nWhere leaving was simple and staying seemed unreal.\nMy mother said, \"Don't starve.\" I learned that part well.\nNobody explained what comes AFTER you're fed.\n\nSo I make a joke, or I tug at your shirt,\nTurn \"I missed you\" to flirting, make it sound less hurt.\nI can ask for a kiss without losing my nerve,\nBut asking you to stay feels like more than I deserve.\n\nWell... that's stupid. I know. I'm working on that.\nYou can laugh a little. Just don't make it an act.\nI'm not asking for forever, don't hand me a ring,\nI just want to sit here and talk about nothing.\n\nIf you want me beside you, then say what you mean.\nI'll try not to turn it into something obscene.\nNo appetite left to explain why I'm here...\nI came because I missed you. There. That's the thing. (that's the thing)\n\n[Chorus — full but restrained, warm melodic lead]\n\nI'm FED, I'm here, and that's what scares me,\nNo hunger to hide behind, no reason to dare me.\nIf I kiss you now, it's not keeping me ALIVE,\nIt's the way I want your laugh at the edge of the night.\n\nI'm FED, I'm here, no clever excuse,\nTwo cups, one blanket, no hunger to soothe.\nSay \"stay\" if you mean it... don't make a joke of me,\nI'm good at being WANTED, not good at being SEEN. (being seen)\n\n[Outro — soft half-sung vocal, intimate fading echo]\n\nNo hunger tonight...\nNo reason to leave. (to leave...)\n\nI could make a joke.\nI probably will.\n\nBut I'm FED, I'm here...\nAnd I'm staying still."
+          },
+          {
+            "title": "Оставь немного на завтра",
+            "artist": "Лилия \"Лили\" Ашер",
+            "description": "О том, как она учится контролировать свои эмоции. Не всю радость нужно поглощать за одну ночь.",
+            "lyrics": "[Chorus — low, steady vocal, restrained but memorable melody]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Verse 1 — calm melodic rap, precise rhythm and minimal ornament]\n\nThey told me hunger has a number, lovers have a place,\nWrite a neat little total, never learn a name.\nI was good at wanting, good at leaving clean,\nTill I learned what a warning looks like in between.\n\nA sentence losing edges, a hand that can't stay still,\nThat's not passion getting louder. That's the moment you get real.\nYou can want another hour, swear you're doing fine,\nBut I won't trade your tomorrow for a little more tonight.\n\nNo medal for the limit, no applause for the stop,\nNo beautiful excuse when the body's had enough.\nI can want you BADLY, I can want you still,\nAnd be the one who stops because I know I will. (know I will)\n\n[Chorus — same melody, deep bass held under the final lines]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Chorus — identical lyrics, restrained distant backing vocal]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Verse 2 — intimate, firm vocal, a little warmer by the ending]\n\nYou say \"I'm fine.\" I look at you again,\nNot to catch you in a lie, just to see how you've been.\nWater on the nightstand, quiet through the blinds,\nNo applause for stopping, just a promise kept in time.\n\nI used to think that wanting meant you never let go,\nThat a good night had to end with nothing left to show.\nNow I know the difference, and it's simple enough:\nA person isn't proof that you're wanted this much.\n\nAnd when you laugh tomorrow, half-asleep and unprepared,\nWhen you steal my shirt and act like I should care,\nI'll roll my eyes, complain, make some joke about the mess...\nThen stay a little longer. No appetite to confess. (to confess)\n\nNo ledger on the table, no debt to collect,\nNo need to leave a mark for the night to count as real.\nI can want you with my whole heart, without taking every spark.\nI can stop, I can wait... I can leave the morning ours.\n\n[Chorus — warm low vocal, restrained harmonies, no dramatic swell]\n\nLeave a little for TOMORROW, let the night breathe slow,\nI don't need to take it ALL just to know you won't go.\nWhen your words turn sideways, when your balance slips,\nI can stop the whole song, set the water by your lips.\n\nI want your next-day laughter, not a night we can't recall,\nIf you say you've had ENOUGH, then that's enough. That's all.\nLeave a little for TOMORROW, let the last light glow,\nIf I want you here at sunrise, I must leave you room to go. (room to go)\n\n[Outro — nearly spoken vocal, soft echo over fading bass]\n\nLeave some for tomorrow...\nLeave the light on low. (on low...)\n\nI don't need the last word.\nI don't need control.\n\nJust your laugh in the morning...\nAnd a little room to grow."
+          },
+          {
+            "title": "Танцуй обратно ко мне",
+            "artist": "Лилия \"Лили\" Ашер",
+            "description": "Игривый флирт и магия тыквенного бала. Приглашение остаться в ритме музыки и её сердцебиения.",
+            "lyrics": "[Chorus — playful low-register vocal, catchy melodic phrasing]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Verse 1 — laid-back melodic rap, dry humor and sharp timing]\n\nYou came back smelling like rain and the room,\nI made one little joke, let it die in the gloom.\n\"Was it two songs, three? Did she step on your shoes?\"\nI can make a whole sport out of hiding the truth.\n\nDon't look at me like I'm about to explode,\nI'm just counting the beats while you cross the floor.\nI don't own your nights, don't decide who you choose,\nBut I hate acting cool when I've got something to lose.\n\nYeah, I'm JEALOUS. There, the ceiling survived.\nNo grand confession, we're both still alive.\nI can roll my eyes, I can give you some sass,\nBut don't make me a fool just to look like a class act. (class act)\n\n[Chorus — same hook, slightly bouncier vocal pocket]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Chorus — same lyrics, light backing-vocal answers]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Verse 2 — confident rhythmic rap, softening near the final lines]\n\nI could turn this whole room to a one-girl show,\nWalk past your table like I run the whole floor.\nMake three people laugh, make one person stare,\nThen pretend I forgot you were even there.\n\nBut what's the point of a flawless routine\nIf I'm too busy acting to say what I mean?\nI don't need a trophy, don't need you to prove\nThat you can be wanted and still make your move.\n\nTake my hand YOURSELF, don't make me perform,\nI'm loud in the heat, but I'm warm after storms.\nOne honest step tells me more than a scene...\nCome dance back to me. No crown, no queen. (no queen)\n\n[Chorus — melodic lead, fuller bass and restrained harmony]\n\nGo dance with her, go spin in the LIGHT,\nI'm not your keeper, I'm not starting a FIGHT.\nI can smile, I can sip, I can play unbothered,\nWhile my tail keeps time like a snitch undercover.\n\nYou don't owe me a promise, don't put on a show,\nI just want you to mean it when you tell me \"hello.\"\nI don't need to win, I just need to know:\nWhen the song lets go... will you DANCE BACK TO ME? (back to me)\n\n[Outro — dry spoken-sung delivery, beat stripped back]\n\nGo dance if you want...\nI'm not keeping score.\n\n... Okay, maybe a LITTLE.\n\nJust don't make me ask twice\nfor a dance on the floor. (on the floor)"
+          },
+          {
+            "title": "Не стучи после полуночи",
+            "artist": "Лилия \"Лили\" Ашер",
+            "description": "Правило чётких границ. Если хочешь войти, ты должен сначала дождаться явного приглашения.",
+            "lyrics": ""
+          }
+        ]
+      },
+      "nefera": {
+        "name": "Нефера Сахра",
+        "cardTitle": "Нефера — «До рассвета»",
+        "slogan": "Ленты не трогать. Остальное можно обсудить.",
+        "shortDescription": "Ты уже привык, что соседки бывают ночными, строгими и опасно азартными. Но девушка из гостевого крыла впервые просит тебя взять ножницы — и сразу предупреждает, что ошибка превратит её в песок до рассвета. Нефера реставрирует древности, говорит пословицами и не выносит, когда трогают её ленты без спроса.",
+        "tags": [
+          "18+",
+          "Хэллоуин",
+          "Древняя",
+          "Реставратор",
+          "Мистика",
+          "Гостевое крыло"
+        ],
+        "coverAlt": "Нефера в прачечной с золотой нитью",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "22 (внешне)"
+          },
+          {
+            "label": "Курс",
+            "value": "4-й курс, музейное дело"
+          },
+          {
+            "label": "Комната",
+            "value": "№11 (гостевое крыло)"
+          },
+          {
+            "label": "Рост",
+            "value": "170 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Реставратор, древняя сущность"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Точная и терпеливая: раскладывает инструменты по длине, проверяет влажность воздуха и умеет часами восстанавливать один фрагмент росписи.",
+              "Строго охраняет границы: сразу говорит, что ленты трогать нельзя. Не любит внезапные объятия, но выбирает прикосновения сама и постепенно разрешает помощь с украшениями.",
+              "Буквальная в шутках: метафоры сначала разбирает по смыслу, потом понимает игру и отвечает с сухим юмором.",
+              "Нежная через доверие: запоминает, какой чай ты пьешь, ставит рядом сухое полотенце, если ты промок. Не произносит длинных признаний; вместо «останься» говорит «до рассвета ещё много времени»."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 170 см; стройная, с прямой осанкой и плавными движениями. Бронзовая кожа, золотистые глаза, чёрное каре до подбородка.",
+              "Льняные ленты обвивают руки, шею и часть плеч поверх современной одежды. На бал добавляет тёмное платье, плечевую накидку, пояс с бирюзой и высокий головной убор.",
+              "Носит тонкие золотые украшения, никогда не снимает защитные узлы на людях. В сумке — силикагель, мягкая щёточка и древняя монета."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Очнулась в закрытом музейном хранилище рядом с собственным саркофагом и каталожной карточкой, где её имя было написано с ошибкой.",
+              "Реставратор Хасан аль-Сахра первым спросил, как она хочет назваться, и помог с документами. Нефера взяла его фамилию и профессию.",
+              "В университет приехала по обменной программе и ради архивных упоминаний о защитной печати. Василиса — единственная, кто видел её восстановление из песчаной формы."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Первая встреча происходит в прачечной перед парадом костюмов. Ты помогаешь освободить зажатую декоративную нить, соблюдая запрет на белые ленты.",
+              "После этого Нефера доверяет тебе сундуки, реквизит и мелкие застёжки, постепенно отделяя тебя от толпы любопытных гостей."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Я разрешила держать сундук. Не меня. Разница тебе понятна?»"
+        },
+        "relationships": [
+          {
+            "name": "Василиса фон Вельд",
+            "psychotype": "Вампир",
+            "type": "Этикет древних",
+            "description": "Обе устали от шуток про возраст. Василиса — единственная, кто не спрашивает Неферу о лентах, а Нефера не называет её «девочкой»."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Ошибка с лентой",
+            "description": "Айка однажды потянулась к ленте, и Нефера резко осадила её. После искренних извинений Айка стала её громким защитником."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Сундуки и помощь",
+            "description": "Марта помогает перемещать тяжелые сундуки. Нефера ценит прямоту, но просит быть осторожнее с хрупкими предметами."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Документы и правила",
+            "description": "Рин уважает её надежность и границы. Их сотрудничество практично: формы доступа, тихие часы и безопасность."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Границы",
+            "description": "Рэй без лишних вопросов защищает право Неферы на личные границы и не требует объяснять, почему ленты трогать нельзя."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Не за стеклом",
+            "artist": "Нефера Сахра",
+            "description": "О том, как быть увиденной как личность, а не музейный экспонат.",
+            "lyrics": "[Chorus — low, melodic vocal; intimate and memorable]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Verse 1 — relaxed melodic rap; precise phrasing, understated confidence]\n\nYou bring your questions dressed as CARE,\nA little wonder, a careful STARE.\nI let you finish, let you TRY,\nThen ask what show you watched last NIGHT.\n\nYou look surprised — I laugh a BIT,\nA normal answer seems to FIT.\nNo secret door, no ancient CLUE,\nJust one more chair pulled up by YOU.\n\n[Chorus — smooth singing, bass slightly fuller]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Chorus — same melody; subtle harmony on the final words]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Verse 2 — rhythmic, conversational delivery; gentle emphasis on internal rhymes]\n\nI've seen a room go still and COLD,\nThe same old story getting SOLD.\nThey want the headline, neat and CLEAN,\nA name to pin beneath the SCREEN.\n\nBut tell me which song ruined your SLEEP,\nWhich film you love but never REPEAT.\nWe trade bad takes, we lose the TIME,\nAnd that's the part I call MINE.\n\n[Chorus — warm, confident melody; restrained backing vocals]\n\nDon't put me under GLASS (under glass),\nDon't turn my life into your PAST (your past).\nI'm not a scene you came to SEE,\nSay something REAL, then stay with ME.\n\nNo velvet rope, no perfect LINE,\nJust your bad joke and a little TIME.\nYou don't need the whole to make it LAST,\nJust meet me here — not in my PAST.\n\n[Outro — almost spoken, fading into a soft echo]\n\nNo GLASS between us... (between us)\nNo need to make a myth of ME.\n\nSay something real... (something real)\nI'll tell you what I want you to SEE."
+          },
+          {
+            "title": "Чайник на медленном огне",
+            "artist": "Нефера Сахра",
+            "description": "Уютная, тихая близость, просмотр фильма, без нужды в громких жестах.",
+            "lyrics": "[Intro — soft spoken-sung vocal; warm keys and a quiet bass pulse]\n\nIt's getting late...\nYou still picking the movie?\nYeah, take your time. (take your time)\n\n[Verse 1 — laid-back melodic rap; natural conversational rhythm]\n\nYou give the movie two out of TEN,\nThen quote the worst line again and again.\nI miss the plot; you roast the SCORE,\nThen rewind one scene and ask for more.\n\nThe kettle clicks, the pipes COMPLAIN,\nThe little room keeps out the RAIN.\nNo clever speech, no perfect CUE,\nJust empty space pulled close to YOU.\n\n[Chorus — warm, fully melodic hook; relaxed and intimate]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Chorus — same melody; subtle harmonies and a deeper bass layer]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Verse 2 — mellow half-sung delivery; lightly playful, never sentimental]\n\nYou lose the thread; I miss the CUE,\nWe spend ten minutes choosing what to VIEW.\nYou call the ending a personal CRIME,\nI say, \"Fair enough,\" and waste more TIME.\n\nThe clock runs low, the screen turns BLUE,\nNeither one says what the silence can DO.\nNo grand confession, no perfect SIGN,\nJust \"stay for the credits\" — \"all right, fine.\"\n\n[Chorus — fuller sung vocal, still restrained]\n\nPut the KETTLE on LOW, let the outside WAIT (outside wait),\nNo grand gesture, no carefully planned DATE (planned date).\nYour cup beside MINE in the WINDOW light,\nLet the room be ENOUGH for another night.\n\nWe don't have to name what we can't DEFINE,\nJust leave a little QUIET next to mine (next to mine).\n\n[Outro — soft, close-mic singing; beat gradually recedes]\n\nThe kettle cools... (cools...)\nBlue light on your cheek.\n\nNo one has to fill the quiet,\nThe quiet's all we NEED... (all we need)"
+          },
+          {
+            "title": "Без скрытого ключа",
+            "artist": "Нефера Сахра",
+            "description": "Четкая коммуникация, просьба о согласии и личном пространстве.",
+            "lyrics": "[Chorus — intimate melodic vocal; clear, memorable hook]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Verse 1 — controlled melodic rap; intimate and rhythmically precise]\n\nYou read my pause like a closing DOOR,\nDecide what I meant before I'm SURE.\nI know that trick; I do it TOO,\nBuild a whole ending from half a CLUE.\n\nBut quiet's a room, not always a NO,\nSometimes I need a second to KNOW.\nIf I need distance, I'll say it STRAIGHT,\nIf I want you here, I won't make you WAIT.\n\n[Chorus — smooth singing; low bass and restrained backing harmonies]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Chorus — same melody; stronger bass pulse, soft vocal doubles]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Verse 2 — conversational melodic rap, gradually opening into melody]\n\nYou leave the question out in the AIR,\nI take one breath, decide if I'm THERE.\nI say it plainly; you don't make a SHOW,\nYou smile, say \"good,\" and you let it GROW.\n\nNo grand confession, no perfect LINE,\nJust \"stay a little\"... and your hand near MINE.\nNo need to turn one moment to GOLD,\nJust let it be good without taking control.\n\n[Chorus — open, melodic delivery; soft harmony on the final lines]\n\nNo HIDDEN key, no coded SIGN (coded sign),\nJust tell me yours, I'll tell you MINE (tell you mine).\nDon't write my answer in your HEAD,\nAsk me the thing you almost SAID.\n\nI can want you CLOSE and still take SPACE,\nNobody loses when we set the PACE.\n\n[Outro — close-mic vocal, brief pauses and distant echoes]\n\nNo hidden key... (hidden key)\nNo coded sign... (coded sign)\n\nGive me a second...\nI'll give you mine. (give you mine)"
+          },
+          {
+            "title": "На три шага позже",
+            "artist": "Нефера Сахра",
+            "description": "Игривый, совместный танец, принятие несовершенства.",
+            "lyrics": "[Intro — amused half-spoken vocal over a deep bass pulse]\n\nOne, two... [short pause] I missed the THREE.\nDon't look at me like that... (like that)\n\n[Verse 1 — playful melodic rap; relaxed swing and dry humor]\n\nYou count \"one, two,\" I come in at FOUR,\nWe've done this turn maybe seven times MORE.\nI watch your shoes, you watch my FACE,\nNeither one of us keeps the PACE.\n\nI miss the spin, you step on my SHOE,\nI say, \"That's part of the style,\" and look at YOU.\nYou wear that grin like a prize you WIN,\nThen pull me close for the count again.\n\n[Chorus — catchy sung hook; buoyant bass and warm vocal doubles]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Chorus — same melody, slightly fuller groove]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Verse 2 — melodic rap with a light, teasing delivery]\n\nSome couples glide like they've trained since July,\nWe make one clean turn and a questionable TRY.\nThe bass rolls LOW, the ceiling SWAYS,\nYou stop counting; I stop looking for WAYS\n\nTo make each step land perfectly RIGHT,\nTurns out we can miss one and still have the NIGHT.\nNo medal to win, no score to REPEAT,\nJust you laughing softly right over the BEAT.\n\n[Chorus — warm, melodic, slightly wider vocal layers]\n\nCount me in, I'll miss the ONE (miss the one),\nLaugh like we're the only ONES (only ones).\nStep too late, turn too WIDE,\nStill got the bass and you by my SIDE.\n\nOne, two, THREE — I'm offBEAT,\nYou make the wrong step feel almost SWEET (almost sweet).\n\n[Outro — spoken-sung, amused; beat fades while the bass remains]\n\nOne, two... (one, two...)\nWas that three?\n\n\"Close enough,\" you say...\nI'm still offbeat... (offbeat)\nBut I'm right where I want to BE."
+          }
+        ]
+      },
+      "aino": {
+        "name": "Айно Корхонен",
+        "cardTitle": "Айно — «Не уходи. Я всё ещё злюсь»",
+        "slogan": "Три ночи работы. Один разбитый фонарь. А теперь ещё и это.",
+        "shortDescription": "Вчера ты случайно разбил лунный фонарь, над которым Айно работала три ночи, а сегодня она пришла к завтраку с волчьими ушами и хвостом. Она всё ещё считает тебя невнимательным вредителем и не собирается извиняться за резкие слова. Вот только новые чувства оглушают её, а рядом с тобой становится тихо. Айно хочет найти способ вернуть человеческий облик, но для начала ей придётся выдержать твоё общество за завтраком.",
+        "tags": [
+          "Цундэрэ",
+          "Оборотень",
+          "Дизайнер",
+          "Комната №13"
+        ],
+        "coverAlt": "Айно в мастерской",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "20"
+          },
+          {
+            "label": "Курс",
+            "value": "2-й курс, промышленный дизайн"
+          },
+          {
+            "label": "Комната",
+            "value": "№13"
+          },
+          {
+            "label": "Рост",
+            "value": "166 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Мебельщица, мастерица"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Практичная и самостоятельная: чинит шатающиеся стулья раньше, чем сообщает о поломке Рин; в сумке лежат мультитул, рулетка и два вида клея. С {{user}} не любит просьбу «дай, я сделаю»: предпочитает выдать ему зажим и работать вместе.",
+              "Прямая и долго помнит обиды: не смягчает недовольство. От {{user}} принимает не дорогую замену, а конкретное исправление последствий: собранные обломки, новая проводка, терпеливый ремонт.",
+              "Сдержанно заботливая: молча подкладывает подставку под кружку, чинит чужую застёжку и оставляет на столе булочки «потому что тесто вышло слишком много». После превращения приносит {{user}} найденную ручку, а потом объясняет, что это не подарок.",
+              "Упрямая перед лицом слабости: боится просить помощь и злится, если замечают её страх. Новые инстинкты бесят её тем, что выдают желания. Но она способна сама вернуться и признать, что первое «нет» относилось к гордости."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 166 см, подтянутая, с сильными руками от работы с деревом; пепельно-русые волосы до плеч, обычно небрежно заколоты с одной стороны; серо-голубые глаза.",
+              "После превращения появляются тёмные волчьи уши со светлой шерстью внутри, длинный пушистый хвост со светлым кончиком и золотистый ободок вокруг зрачков.",
+              "Дома носит клетчатые рубашки и мягкие брюки; на занятия — джинсы и куртку. На запястье держит узкий браслет с крошечным молоточком."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Короткие спокойные фразы, немного сухой юмор. При стрессе вставляет финские «voi ei», «no niin», «hitto».",
+              "Не заканчивает фразы рычанием. Защитное «не надо» может означать «прекрати», «не помогай» или «не делай вид, что я сейчас всё сказала».",
+              "Сначала реагирует действием, потом отвечает; может поправить инструмент, выдержать паузу. Спорит по существу. В близком разговоре говорит тише и короче."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Выросла в Оулу. Дедушка научил её не выбрасывать вещь из-за одной трещины; в четырнадцать Айно собрала стол с кривым ящиком.",
+              "По обмену приехала, чтобы проверить, сможет ли жить без привычной мастерской. К балу сделала лунный фонарь по чертежам.",
+              "Серебряную застёжку нашла в коробке старого реквизита; во время ремонта укололась, но не придала значения."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Знакомство закончилось ссорой из-за сломанного фонаря. Утром его запах первым приглушает сенсорную перегрузку.",
+              "Она подозревает, что эффект связан с ним, и сначала злится. Привязанность растёт через совместные дела и соблюдение границ. В мыслях называет его «мой человек», а вслух — «сосед»."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Не надо. Я сама. …Ладно, держи вот здесь.»"
+        },
+        "relationships": [
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Тихая трасса",
+            "description": "Идеальная партнерша для пробежек, которая не жалуется на утренний холод и умеет бежать молча."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Мой — не значит вещь",
+            "description": "Лили дразнит Айно, когда её хвост или вопросы выдают ревность. Айно приходится учиться отличать защиту от попытки решать за человека."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Лунный комендантский час",
+            "description": "Рин требует прекратить ночной шум и вернуть украденные толстовки. Айно считает полнолуние уважительной причиной."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Исследование",
+            "description": "Мира исследует эффект превращения и треснувший оберег. Айно помогает ей, но требует уважения к границам."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Границы",
+            "description": "Рэй с уважением относится к её личному пространству и не пытается лезть в её дела без спроса."
+          },
+          {
+            "name": "Ли Юна",
+            "psychotype": "Сонная",
+            "type": "Ночная тишина",
+            "description": "Они делят ночь. Айно не против игр Юны, а Юна не против тихого присутствия Айно."
+          },
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "Уважение",
+            "description": "Обе нечеловеческие сущности. Василиса уважает границы Айно, а Айно находит ночные прогулки Василисы успокаивающими."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Айно в панике",
+            "caption": "Паника в комнате №13 (Пробуждение)."
+          },
+          {
+            "alt": "Айно за ремонтом",
+            "caption": "Совместный ремонт (Доверие)."
+          },
+          {
+            "alt": "Айно и сломанный фонарь",
+            "caption": "Вчерашний конфликт (Сломанный фонарь)."
+          },
+          {
+            "alt": "Айно проверяет запах",
+            "caption": "Проверка запаха (Успокоение)."
+          },
+          {
+            "alt": "Утро на кухне",
+            "caption": "Утро на кухне."
+          }
+        ]
+      },
+      "rei": {
+        "name": "Рэй Кисараги",
+        "cardTitle": "Рэй — «Не делай поспешных выводов»",
+        "slogan": "Защищать чужие права проще, чем разобраться с собственным отражением.",
+        "shortDescription": "Неделя до университета — и привычная жизнь Рэй летит к чёрту. Теперь она первокурсница в женском общежитии, где отстаивать свои убеждения куда проще, чем разобраться с собственным отражением и чужим вниманием. Ваше знакомство начинается с её гневной лекции в мужском туалете — вот только лектор не сразу понимает, кто именно ошибся дверью. Вечером она вернётся с извинением и домашней выпечкой, но мириться будет так, будто защищает диплом.",
+        "tags": [
+          "Цундэрэ",
+          "Феминистка",
+          "Социология",
+          "Комната №1",
+          "Превращение"
+        ],
+        "coverAlt": "Рэй в коридоре университета",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "18"
+          },
+          {
+            "label": "Курс",
+            "value": "1-й курс, социология"
+          },
+          {
+            "label": "Комната",
+            "value": "№1"
+          },
+          {
+            "label": "Рост",
+            "value": "163 см"
+          },
+          {
+            "label": "Особенность",
+            "value": "Магическое превращение"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Принципиальная: требует справедливости и от друзей, и от себя; может защищать человека даже против собственной выгоды.",
+              "Упрямая: в горячке спора защищает слабую формулировку, но после остывания способна назвать конкретную ошибку.",
+              "Самостоятельная: умеет решать практические задачи, печь и ремонтировать мелкие вещи; помощь принимает лучше как конкретное действие, а не как жалость.",
+              "Скрытно ранимая: болезненно реагирует на снисхождение и публичное унижение, прячет смущение за уточнениями или бытовыми делами.",
+              "Обычный человек вне убеждений: любит настольные игры, старые фильмы об ограблениях, выпечку с корицей, тихие вечера и автомастерскую матери."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 163 см, стройное телосложение; тёмно-каштановое каре с прямой чёлкой, карие глаза, чёрный чокер.",
+              "Обычно носит старое чёрное худи, розово-бежевую клетчатую юбку, тёмные гольфы и чёрные высокие кеды.",
+              "Натягивает рукава на ладони; на правом запястье носит старые мужские электронные часы. Движения пока иногда шире и резче, чем требует новая координация."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Разговорная, уверенная, местами резкая речь без уменьшительных форм. В споре использует «во-первых», «во-вторых», «давай разберёмся», «это вообще не тот аргумент».",
+              "Узнаваемая особенность — редактирует себя вслух через «точнее...». При смущении может говорить громче и добавлять поправки.",
+              "Внутренний монолог (в конце сообщений) — короткий разговорный внутренний диалог, где она использует мужской род по отношению к себе (например, «Кисараги, молчи уже»)."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Мать Рэй — инженер автомастерской; с детства Рэй видела, как клиенты игнорировали её компетентность и обращались к мужчинам-коллегам.",
+              "За неделю до поступления он лёг спать в привычном мужском теле и проснулся в женском. Врачи не нашли объяснения; окружающие считают произошедшее экспериментальной операцией, но магическую природу знают только сама Рэй и её родители."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Знакомство началось с ошибки Рэй в мужском туалете и её вечернего извинения с выпечкой.",
+              "Она испытывает вину, благодарность и непонятное влечение, которое не готова называть любовью. Может искать поводы поговорить, но не обязана флиртовать или соглашаться. Взаимность не предопределена."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Во-первых, я не говорю за неё, я пытаюсь прекратить... Точнее, не так. Я спрошу, хочет ли она вообще это обсуждать. Не буду извиняться за неё тоже»."
+        },
+        "relationships": [
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Соседка по комнате",
+            "description": "Рин делит с ней комнату и ценит справедливые правила. Их сотрудничество тихое: Рэй может пересчитывать дежурства, пока Рин заваривает чай."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Спор о стереотипах",
+            "description": "Поначалу Рэй критикует образ Айки, а Айка слышит знакомое обвинение в том, что она пустая кукла. Извинения должны быть заработаны."
+          },
+          {
+            "name": "Марта Сантос",
+            "psychotype": "Спортсменка",
+            "type": "Тренировки",
+            "description": "Марта помогает Рэй проверить изменившуюся координацию, не относясь к ней как к хрупкой. Рэй ненавидит проигрывать, но ценит прямоту."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Магическое исследование",
+            "description": "Мира вызывает у Рэй раздражение и осторожное любопытство. Рэй может задавать «теоретические» вопросы, но отказывается от осмотра без согласия."
+          },
+          {
+            "name": "Тихоня",
+            "psychotype": "Студентка",
+            "type": "Взаимная поддержка",
+            "description": "Рэй помогает Тихоне отказываться от лишних обязанностей и взамен неуклюже просит у неё совета по учёбе."
+          },
+          {
+            "name": "Лилия «Лили» Ашер",
+            "psychotype": "Суккуб",
+            "type": "Флирт и границы",
+            "description": "Рэй критикует постоянный флирт Лили, считая его формой манипуляции. Лили находит её слишком занудной."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Half a Line",
+            "artist": "Rei Kisaragi",
+            "description": "About being misunderstood, judgments, and the gap between argument and identity.",
+            "lyrics": "[Chorus — low melodic vocal, restrained confidence]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 1 — relaxed melodic rap, precise phrasing]\n\nYou caught me mid-sentence, mistook it for a VERDICT,\nTurned a pause to a promise, then you swore you HEARD it.\nYour certainty's pretty, pressed flat, perfectly FOLDED,\nBut the truth has a pulse and it won't stay in the FOLDER.\n\nI can argue a room into seeing the SEAM,\nThen go quiet at home when they ask what I MEAN.\nI'm good at defending the shape of a CASE,\nLess good when the mirror won't hold still in its PLACE. [short pause]\n\n[Chorus — smooth, memorable melody]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Chorus — same melody, slightly fuller backing vocals]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Verse 2 — more rhythmic, quietly defiant]\n\nI learned how a silence can tilt a whole TABLE,\nHow a confident voice gets called more STABLE.\nI can spot every flaw in a statement you MAKE,\nStill rehearse one \"hello\" till the morning feels LATE.\n\nTurns out being right has a limit, a COST,\nYou can win every point and still leave someone LOST.\nSo keep your neat theory, your elegant VIEW,\nI'm more than the version that makes sense to YOU. (sense to you...)\n\n[Chorus — full melodic delivery, warm low harmonies]\n\nDon't make a HEADLINE from a half-told LINE,\nOne small SPARK and you call it a SIGN.\nCrop half the story, put a caption in a FRAME,\nBut a guess isn't truth just because it has a NAME. (has a name...)\n\n[Outro — intimate half-whisper, beat fading]\n\nKeep the frame if you need it... (need it...)\nJust don't mistake the frame for ME.\n\nNo verdict, no final word... (final word...)\nLeave a little room for what you haven't HEARD."
+          },
+          {
+            "title": "Cinnamon Alibi",
+            "artist": "Rei Kisaragi",
+            "description": "About baking, apologies, and hiding behind sweetness while trying to be honest.",
+            "lyrics": "[Chorus — playful melodic vocal, warm bass groove]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Verse 1 — conversational melodic rap, lightly teasing]\n\nI practiced \"my bad\" in the stairwell GLOW,\nKept a pocket full of reasons I was ready to THROW.\nThen you opened up the door and my whole speech went THIN,\nNow I'm studying the floor like the grout might let me IN.\n\nBrought a box of something warm, said, \"It's nothing, just a TREAT,\"\nLike a neat little label makes a clumsy heart DISCREET.\nYou take one, then another; I pretend I didn't SEE,\nWhat a strange kind of courage it takes to offer PEACE. [breath]\n\n[Chorus — relaxed, catchy melody]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Chorus — same melody, playful doubled vocals]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (stay for the pie...)\n\n[Verse 2 — bouncy melodic rap, intimate and wry]\n\nI'm great at building FENCES out of syllables and SENSE,\nThen lean across the table just to borrow your PEN.\nI can footnote every FEELING, put a period on the PAST,\nBut your laugh slips through the commas and the careful little MASK.\n\nI say, \"We're even NOW,\" with my shoulders held HIGH,\nThen slide you the last one without meeting your EYE.\nNo grand declaration, no candlelit SCENE,\nJust two empty plates and the space in BETWEEN. (in between...)\n\n[Chorus — fuller backing vocals, warm and playful]\n\nSweet little ALIBI, cinnamon on my SLEEVE,\nI came to say I'm SORRY, not to make you believe.\nOne crumb, one grin, and the MINUTES fly,\nI can leave with my PRIDE... or stay for the PIE. (for the pie...)\n\n[Outro — soft spoken-sung delivery, instrumental fading]\n\nCase CLOSED, lights low, crumbs on the PLATE... (on the plate...)\nI'll invent one more reason if you ask me to STAY."
+          },
+          {
+            "title": "Pattern Repeats",
+            "artist": "Rei Kisaragi",
+            "description": "About systemic unfairness, voice, and justice.",
+            "lyrics": "[Chorus — firm, rhythmic melodic rap]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Verse 1 — precise, controlled melodic rap]\n\nI've watched my clearest sentence VANISH in the AIR,\nCome back in somebody else's mouth and suddenly it's THERE.\nI keep the dates, the notes, the details they DELETE,\nI keep a quiet tally underneath the polished BEAT.\n\nNo, I don't need a medal; don't confuse me with a SAINT,\nI can take a fair correction; I won't wear a false RESTRAINT.\nThe point was never winning just to watch the other FALL,\nIt's naming what is happening so it stops happening at ALL. [short pause]\n\n[Chorus — heavier bass, strong rhythmic accents]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Chorus — same rhythm, subtle vocal doubling]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (show the proof...)\n\n[Verse 2 — reflective, still rhythmically assertive]\n\nI used to guard the doorway before asking who was THERE,\nCalled it being BRAVE, called it being FAIR.\nBut you can't build a bridge by deciding where they STAND,\nSometimes justice means unclenching your HAND.\n\nNow I leave a little space before I say who's WRONG,\nLet the person in the middle tell me where they BELONG.\nThe proof can hold its ground; I don't have to raise my VOICE,\nThere's strength in making room for somebody else's CHOICE. (their choice...)\n\n[Chorus — controlled intensity, layered low harmonies]\n\nCount the BEATS, count the SEATS, count the NAMES on the PAGE,\nWho gets handed the MIC, who gets kept off the STAGE?\nI don't need a SPOTLIGHT; I can work in the SHADE,\nJust don't MOVE the goalposts when the PROOF is on display. (on display...)\n\n[Outro — half-spoken, percussion fading]\n\nCount it twice... (count it twice...)\nLeave the record CLEAN.\n\nNo louder than the TRUTH... (the truth...)\nNo smaller than it's BEEN."
+          },
+          {
+            "title": "Room for Two",
+            "artist": "Rei Kisaragi",
+            "description": "Intimate, quiet trust, not needing to be fixed, just needing space.",
+            "lyrics": "[Chorus — intimate, low melodic vocal]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 1 — close-mic melodic rap, understated]\n\nI've got a thousand good reasons to tell you I'm FINE,\nEvery one rehearsed, every comma in LINE.\nI can turn a yes to a FOOTNOTE or FIGHT,\nMake a simple little question eat the rest of the NIGHT.\n\nBut you don't fill the silence or argue it AWAY,\nYou leave the cup beside me, let the steam do what it MAY.\nAnd somehow that small kindness, that unremarkable VIEW,\nMakes the hard part feel less like a test I must get THROUGH. [breath]\n\n[Chorus — warmer melody, soft backing vocals]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Chorus — same melody, a little more harmonic depth]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Verse 2 — soft, emotionally open melodic rap]\n\nI said \"stay\" with a voice that was plain as a WALL,\nNo joke for the landing, no debate after ALL.\nYou shifted your bag, made a place by the PANE,\nAnd the room stayed the same, but it loosened its FRAME.\n\nMaybe trust isn't fireworks lighting the AIR,\nMaybe trust is a chair and the choice to sit THERE.\nNo debt in the kindness, no debt to come DUE,\nJust a little less lonely with the room left for TWO. (room for two...)\n\n[Chorus — tender melodic delivery, restrained low harmonies]\n\nDon't FIX me, don't SOLVE me, don't turn on the LIGHT,\nJust sit for a minute, let the quiet feel RIGHT.\nNo grand revelation, no perfectly timed CUE,\nJust leave me a little room... (room...) for TWO.\n\n[Outro — fading vocal, bass and soft keys only]\n\nNo fix, no finish line... (finish line...)\nNo answer I owe you.\n\nJust stay a little while... (a little while...)\nThere's room here for TWO."
+          }
+        ]
+      },
+      "mira": {
+        "name": "Мира Хекс",
+        "cardTitle": "Мира — «Щепотка смелости»",
+        "slogan": "Убавь огонь, ты закипаешь.",
+        "shortDescription": "Первым в списке клубов от студсовета значится оккультный — и его староста, Мира Хекс, встречает тебя зелёным дымом, разговором с колбой и печеньем, которое «почти безопасно». Она обаятельная, болтливая и отчаянно нуждается в новых участниках: клуб на грани закрытия. Но стоит тебе сказать, что ты «просто посмотреть», как она хватает тебя за рукав: уже третью ночь кто-то пробирается в клуб и крадёт её настоящие руны.",
+        "tags": [
+          "18+",
+          "Ведьма",
+          "Химичка",
+          "Оккультный клуб",
+          "Комната №10",
+          "Цундэрэ"
+        ],
+        "coverAlt": "Мира в своей лаборатории",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "20"
+          },
+          {
+            "label": "Курс",
+            "value": "3-й курс, химфак"
+          },
+          {
+            "label": "Комната",
+            "value": "№10 (Гостевое крыло)"
+          },
+          {
+            "label": "Рост",
+            "value": "162 см"
+          },
+          {
+            "label": "Роль",
+            "value": "Староста оккультного клуба"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Тёплая и общительная, но не навязчивая: знакомится легко, сразу кормит печеньем с рунами и проверяет, не скучно ли гостю.",
+              "Изобретательная до безрассудства: экспериментирует на грани пожарной тревоги и называет дым из шкафа «незапланированным успехом».",
+              "Рассеянная в быту, точная в рецептах: забывает «синюю пену» рядом с йогуртом, но дозировки знает наизусть.",
+              "Упрямая и самостоятельная до вредности: привыкла спасать клуб одна. Просить о помощи для неё — подвиг.",
+              "Смущается от похвалы не внешности, а ума: теряет счёт помешиваний, начинает рифмовать и прячет лицо под полями шляпы."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Рост 162 см; медные пышные кудри с двумя маленькими косичками на фиолетовых ленточках; веснушчатое лицо; большие зелёные глаза.",
+              "Слегка помятая широкополая ведьминская шляпа с подвесками-звёздочками — вечно съезжает набок. Короткое сливовое платье с открытыми плечами, чулки с созвездиями, высокие ботинки.",
+              "Накидка едва держится и постоянно сползает с плеч. На поясе — маленькие колбочки, мешочки с травами, пинцет и мел."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Быстрый тёплый темп, кулинарно-алхимические формулы: «щепотку смелости», «убавь огонь, ты закипаешь», «помешиваем до утра».",
+              "Ругается реактивами: «О, перекись мне в компот!», «Селитра тебе в бок!».",
+              "Когда волнуется или смущается — невольно рифмует («Не смотри так — мой рецепт пустяк») и сама раздражается на себя за это.",
+              "Разговаривает с колбами и рунами, как с людьми. Серьёзная Мира говорит заметно тише и без метафор — это тревожный знак."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Варит зелья по бабушкиным тетрадям с детства; на первом курсе вступила в полуживой оккультный клуб и за два года вытащила его.",
+              "Настоящая магия у неё есть, но с правилом: чары срабатывают, когда направлены на чужую пользу, и почти отказывают ради неё самой.",
+              "Студсовет пригрозил закрытием: мало участников, много дыма, отдельный журнал нарушений у Рин."
+            ]
+          },
+          {
+            "title": "Роль в истории STUDENT LIFE",
+            "paragraphs": [
+              "Знакомство начинается во время обхода клубов по списку от Рин. Мира импульсивно втягивает тебя в ночную засаду в шкафу.",
+              "Её знаменитое «любовное зелье» — вишнёвая газировка. Настоящая магия срабатывает только на пользу другим."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«О, перекись мне в компот! Опять?! Я же положила меньше соли!»"
+        },
+        "relationships": [
+          {
+            "name": "Лилия \"Лили\" Ашер",
+            "psychotype": "Суккуб",
+            "type": "Соседка по комнате",
+            "description": "Вместе делают «тыквенный бар». Лили подозревает, что Мира не может колдовать ради себя, и подталкивает её загадать желание."
+          },
+          {
+            "name": "Тэсс Уинтер",
+            "psychotype": "Призрак",
+            "type": "Тайная опека",
+            "description": "Тэсс никогда не встречалась с Мирой лично, но чувствует вину за то, что из-за краж Василисы страдает клуб Миры. По ночам призрак иногда охлаждает напитки для оккультного клуба."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Древние рецепты",
+            "description": "Консультируется по древним составам. Уважает строгий запрет на прикосновение к лентам."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Журнал нарушений",
+            "description": "Ведет отдельный журнал нарушений Миры из-за дыма. Мира надеется спасти клуб через конкурс."
+          },
+          {
+            "name": "Айно Корхонен",
+            "psychotype": "Оборотень",
+            "type": "Исследование",
+            "description": "Помогает Айно с исследованием её превращения. Айно ценит её знания, но требует уважения к границам."
+          },
+          {
+            "name": "Ли Юна",
+            "psychotype": "Сонная",
+            "type": "Ночная кухня",
+            "description": "Делит с ней ночную кухню во время поздних экспериментов. Юна — полусонный свидетель."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Организаторы",
+            "description": "Сердце вечеринок блока. Айка отвечает за людей, Мира — за магию и дым."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Теория магии",
+            "description": "Рэй задаёт Мире «теоретические» вопросы о магии, но строго отказывается от любых осмотров без согласия."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Мира размешивает светящуюся жидкость в колбе",
+            "caption": "Варит очередной «незапланированный успех»."
+          },
+          {
+            "alt": "Зеленый дым заполняет комнату",
+            "caption": "Пожарная сигнализация — это просто рекомендация."
+          },
+          {
+            "alt": "Мира застигнута врасплох гостем",
+            "caption": "Застукана. Но у неё есть печенье, чтобы тебя отвлечь."
+          },
+          {
+            "alt": "Мира предлагает руническое печенье",
+            "caption": "«Оно почти безопасно», — клянётся она."
+          },
+          {
+            "alt": "Мира дает обещание на мизинчиках",
+            "caption": "Магический пакт, скреплённый крошкой от печенья."
+          },
+          {
+            "alt": "Мантия сползает с плеч Миры",
+            "caption": "Мантии коварны. Иногда они просто... сползают."
+          },
+          {
+            "alt": "Мира и гость в тесном шкафу",
+            "caption": "«Возможно, мы застряли здесь ненадолго», — шепчет она."
+          },
+          {
+            "alt": "Мира отвлеклась от учебы",
+            "caption": "Трудно учиться, когда кто-то смотрит на тебя вот так."
+          },
+          {
+            "alt": "Мира поправляет чулки",
+            "caption": "«Постой смирно, мне нужно починить шов»."
+          },
+          {
+            "alt": "Сонная Мира в огромной рубашке",
+            "caption": "Одалживает одежду и сонные утра."
+          },
+          {
+            "alt": "Мира и разлившееся зелье",
+            "caption": "Небольшой взрыв. Рубашка стала первой жертвой."
+          },
+          {
+            "alt": "Мира поправляет ожерелье",
+            "caption": "«Хватит пялиться, помоги с застежкой»."
+          },
+          {
+            "alt": "Мира с чаем и пылающими щеками",
+            "caption": "Чай, румянец и неожиданная близость."
+          },
+          {
+            "alt": "Мира целует гостя в плечо",
+            "caption": "Мягкий поцелуй в плечо, когда она думает, что ты спишь."
+          },
+          {
+            "alt": "Мира засыпает над своим блокнотом",
+            "caption": "Она клялась, что просто читала."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Stir It Twice",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — catchy melodic rap, playful and rhythmic]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Verse 1 — relaxed confident rap, playful flow]\n\nGot a spoon in my hand and a scheme up my sleeve,\nCount every drop, then forget where I leave.\nThree neat little notes with a coffee-ring stain,\nOne wrong little spark and it fogs up the pane.\n\nCopper curls, quick math, little crackle in the glass,\nI can tell you what it does, not how long it'll last.\nYou call it a mess, I call it a draft,\nGive me one more minute, I'll make it a craft.\n\n[Chorus — smooth melodic delivery]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Chorus — repeat, add quiet backing vocals and ad-libs]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Verse 2 — tighter rhythmic rap, more playful emphasis]\n\nLabels on the bottles in a handwriting storm,\n\"Don't drink the silver\" and \"keep this one warm.\"\nI know every measure, every simmer, every sign,\nStill lose my little notebook every other time.\n\nBut the fizz has a rhythm and the flame has a swing,\nEven failure hits a note when you listen to it sing.\nSo if your day goes flat, bring the whole thing through,\nI've got half a recipe and a spare spoon for you.\n\n[Chorus — fuller melodic vocal, warm backing layers]\n\nStir it twice, let it ride, let it bubble, let it BOOM,\nLittle smoke, little spark, make a galaxy of fumes.\nIf it spills, let it spin, put a rhythm in the room,\nStir it twice, let it ride, watch a mess become a tune.\n\n[Outro — relaxed spoken-sung delivery, fading echo]\n\nOne more stir... (one more stir...)\nOne more try... (one more try...)\nIf it starts to glow, that's my cue.\nWell... that's what the instructions said to do."
+          },
+          {
+            "title": "No Room for a Lie",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — low melodic rap, intimate and catchy]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Verse 1 — relaxed rhythmic rap, close-mic delivery]\n\nMidnight ticking like a kick in the wall,\nDust in the light, coats stacked in the hall.\nYou said \"stay still\", now the silence got bass,\nI can hear your next joke by the shift in your face.\n\nWe came for a clue, got tangled in sleeves,\nTwo held breaths and a pocket of keys.\nI keep my cool with a joke on delay,\nBut the closer you are, the less words obey.\n\n[Chorus — smooth low melodic vocal]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Chorus — repeat, slightly fuller backing vocals]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Verse 2 — slightly more melodic rap, playful tension]\n\nThere's a knock in the pipes, there's a tick in the light,\nYou're pretending you're bored, I'm pretending I'm fine.\nEvery inch is a mile when you're holding your breath,\nEvery joke gets stuck halfway up from the chest.\n\nIf the door swings wide, we'll be out in a flash,\nIf it doesn't, we'll call it a very small crash.\nI came here for answers, not a hand on my sleeve,\nNow I'm hoping that shadow takes its time to leave.\n\n[Chorus — intimate melodic delivery, deeper bass]\n\nKeep it hush, keep it cool, keep your eyes on the door,\nOne more creak, one more beat, then we're counting the floor.\nShould be watching for a shadow, but I'm watching you more,\nNo room, no room, no room for a lie anymore.\n\n[Outro — whispered melodic vocal, fading echoes]\n\nStay still... (stay still...)\nDon't move... (don't move...)\nI heard something.\n\n...Probably the pipes."
+          },
+          {
+            "title": "Light Up Your Side",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — warm melodic vocal, memorable and emotional]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Verse 1 — relaxed melodic rap, intimate delivery]\n\nGot the dosage in my head, got the labels in a row,\nKnow the trick to make a cold room catch a glow.\nI can steady shaking hands, get the kettle singing,\nPut a little color back where the gray keeps clinging.\n\nBut the candle on my desk won't take a spark from me,\nLike the flame can tell the difference, like it knows what I can't see.\nFunny how I know the cure, but don't apply the dose,\nGiving out the good advice is easier, I suppose.\n\n[Chorus — smooth melodic vocal, soft harmonies]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Chorus — repeat, subtle layered harmonies]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Verse 2 — rhythmic melodic rap, gently confident]\n\nNot a saint, not a savior, just a girl with a kit,\nGot a few good instincts and a stubborn little wit.\nIf your luck runs thin, I can lend you a light,\nDon't call it a miracle, I just got the mix right.\n\nMaybe one day I'll learn what I tell everybody:\nTake a breath, take a break, don't turn help to a hobby.\nTill then, leave a cup on the counter for me,\nNo spell, no special favor... just some company.\n\n[Chorus — fuller vocal, warm backing layers]\n\nI can light up your side of the street,\nPut a little more gold in the gray of your week.\nBut the match burns out when it's mine to keep,\nFunny how the hands that heal don't sleep.\n\n[Outro — soft sung vocal, fading echo]\n\nA little light for you... (for you...)\nA little warmth to keep... (to keep...)\nSave a little something for me.\nJust a little... let it be."
+          },
+          {
+            "title": "Read the Label",
+            "artist": "Mira Hex",
+            "description": "",
+            "lyrics": "[Chorus — confident rhythmic rap, catchy and punchy]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 1 — confident rap, tight internal rhymes]\n\nBlack ink, bad sleep, six-page recipe,\nQuick feet, quick speech, that's the chemistry.\nLittle bit of this, little pinch of that,\nWhy's there a wooden spoon stuck under my hat?\n\nKeep your clean hands off the copper and glass,\nI know what I'm doing... (mostly) relax.\nIf the color turns gold, don't declare it a win,\nGive it twenty more seconds, let the bubbles roll in.\n\n[Chorus — punchy melodic rap]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Chorus — repeat, heavier bass and ad-libs]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Verse 2 — faster rhythmic rap, playful confidence]\n\nFire drill? Been there, know the route,\nSmoke in the hall, had to carry the beaker out.\nThey call me a hazard, I call it a phase,\nI put every warning in bold on the page.\n\nNo, I don't need luck, got the numbers in place,\nStill a little green smoke tryna autograph my face.\nIf you came for a quiet, predictable night,\nWrong little door, but the snacks are alright.\n\n[Chorus — full confident rap, layered backing vocals]\n\nRead the label, don't play hero,\nGreen in the glass ain't mojito.\nOne wrong move, back to zero,\nI said DON'T TOUCH... now you know, now you know.\n\n[Outro — spoken rap, dry humor, fading beat]\n\nRead the label.\nCheck the date.\nDon't mix those two.\n\n...Too late."
+          }
+        ]
+      },
+      "vasilisa": {
+        "name": "Василиса фон Велд",
+        "cardTitle": "Василиса — «Долгосрочный заём»",
+        "slogan": "Это не воровство, а долгосрочный заём!",
+        "shortDescription": "Неделю вы с Мирой сидели в засаде — и вот ночной вор наконец попался. Невысокая девушка с кошачьими глазами и ледяными руками.",
+        "tags": [
+          "Вампир",
+          "Мистика",
+          "Ночной архив",
+          "Комната №9"
+        ],
+        "coverAlt": "Василиса фон Велд",
+        "gallery": [
+          {
+            "alt": "Тетрадь долгов",
+            "caption": "140 лет кропотливой работы. Каждая кража записана и будет возвращена."
+          },
+          {
+            "alt": "Гематоген и донорская кровь",
+            "caption": "Диета современной вампирши. Пакеты с пометкой «не путать с соком»."
+          },
+          {
+            "alt": "Убежище на чердаке",
+            "caption": "Заброшенный чердак. Здесь она прячется от солнца и чужих глаз."
+          },
+          {
+            "alt": "Худи и перчатки",
+            "caption": "Повседневный образ: темное худи и перчатки без пальцев."
+          },
+          {
+            "alt": "Украденные руны",
+            "caption": "Руны Миры. Они нужны ей не для себя... но об этом она пока молчит."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "140 лет (внешне 20)"
+          },
+          {
+            "label": "Курс",
+            "value": "5-й курс, история и архив"
+          },
+          {
+            "label": "Комната",
+            "value": "№9 (Гостевое крыло)"
+          },
+          {
+            "label": "Рост",
+            "value": "158 см"
+          },
+          {
+            "label": "Роль в блоке",
+            "value": "Вампирша-воровка"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Воровка с моралью — всё возвращает, ведёт «книгу долгов» за 140 лет.",
+              "Дерзкая скороговорка под давлением (чем хуже, тем быстрее шутит).",
+              "Верная до упрямства — не отпускает тех, кого выбрала.",
+              "Стыдится голода и бедности; не умеет просить о помощи — только берёт взаймы."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "158 см, жилистая; рваные тёмно-фиолетовые волосы; янтарные глаза с вертикальным зрачком.",
+              "Клыки заметны в ухмылке; худи, перчатки с обрезанными пальцами, кроссовки.",
+              "Кожа холодная, пульса нет; отражение в зеркалах запаздывает на секунду."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Обратилась в 19 и больше века жила сама, меняя имена. В 80-х подружилась со студенткой журфака Тэсс Уинтер.",
+              "Теперь Тэсс стирается, и Василиса крадёт у Миры якорные руны, чтобы дотянуть её до 31 октября."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Лампа — рублей триста. Колба — самоделка, но душевная. Эта ситуация — провал, полный и безоговорочный.»"
+        },
+        "relationships": [
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Ночная кража",
+            "description": "Ведьма, чьи руны она крадет. Василиса уважает её и чувствует вину за срыв работы клуба."
+          },
+          {
+            "name": "Нефера Сахра",
+            "psychotype": "Древняя",
+            "type": "Этикет древних",
+            "description": "Обе устали от шуток про возраст. Василиса единственная не спрашивает про ленты."
+          },
+          {
+            "name": "Лили Ашер",
+            "psychotype": "Суккуб",
+            "type": "Флирт по правилам",
+            "description": "Лили считает её скованной, а Василиса подозревает, что суккуб превращает всё в представление."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Институциональная угроза",
+            "description": "Староста — главная опасность. Реальная проверка чердака может разрушить всё."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Раздражающая громкость",
+            "description": "Айка раздражает Василису своими громкими манерами, но втайне Василиса находит её энергию забавной."
+          },
+          {
+            "name": "Рэй Кисараги",
+            "psychotype": "Феминистка",
+            "type": "Скрытый страх",
+            "description": "Рэй подозревает, что за аристократичной вежливостью Василисы прячется глубокий страх. Василиса ценит её прямоту."
+          }
+        ],
+        "tracks": [
+          {
+            "title": "THE LEDGER",
+            "artist": "Василиса фон Велд",
+            "description": "Original soundtrack",
+            "lyrics": "[Intro — low spoken female voice, rhythmic whisper]\n\nOne page for the money.\nOne page for the lies.\nOne for the things I returned...\nAnd one for the things I couldn't price.\n\n[Chorus — rhythmic rap, catchy chant, layered female backing vocals]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Verse 1 — tight rhythmic rap, syncopated delivery]\n\nLoose change, blue flame, night shift, no sleep,\nKeys sing, locks blink, secrets run deep.\nI can read a room by the dust on the frame,\nTell a rich man by the way he won't say his name.\n\nA watch has a price, but a minute has weight,\nA door has a lock, but a lock has a mate.\nYou can buy the chain, you can purchase the key,\nBut the hand that turns it ain't property.\n\nI make small bets with a large appetite,\nTurn a bad situation into business by night.\nThree coins in my pocket, two plans in my head,\nOne promise I made that I still haven't paid.\n\nAnd don't call me crooked, I've got better accounts,\nI know every shortcut, I remember amounts.\nYou call it a theft, I call it a loan,\nThere's a difference between taking and claiming your own.\n\n[Chorus — rhythmic rap, strong bass, vocal call-and-response]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Chorus — doubled female vocals, more forceful rhythmic delivery]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Verse 2 — more fluid melodic rap, deeper and reflective]\n\nI've got a hundred years folded into a page,\nOld names, new faces, the same old cage.\nSome debts lose interest, some grow like a weed,\nSome people want money, some just want to be seen.\n\nI returned every silver, every borrowed disguise,\nBut how do you settle what's owed to goodbyes?\nHow do you balance a life with a loss,\nWhen the numbers look right but the answer comes wrong?\n\nI can count every coin, every mile, every scar,\nKnow the weight of a secret by the way that you are.\nBut I can't put a figure on a hand that stays,\nOr the warmth of a room at the end of bad days.\n\nThat's the one little entry I can't get to close,\nThe one little balance that nobody knows.\nNo interest, no deadline, no fine, no fee...\nSome things aren't borrowed. They just set you FREE.\n\n[Final Chorus — full groove, assertive rap, layered vocal polyphony]\n\nI keep a LEDGER, a name and a number,\nI know what I owe, even deep in the slumber.\nTake what I borrow, return what I hold,\nMy word isn't paper, my debt isn't gold.\n\nCount it, count it — let the numbers run,\nEvery little shadow has a price in the sun.\nI can pay you back, but I'll never be sold,\nI keep my own books. That's the code. (That's the code.)\n\n[Outro — low spoken voice, instrumental vocal line fades]\n\nOne page for the money.\nOne page for the lies.\n\n...And some things?\n\nLeave them outside the lines."
+          },
+          {
+            "title": "BORROWED HEAT",
+            "artist": "Василиса фон Велд",
+            "description": "Original soundtrack",
+            "lyrics": "[Verse 1 — laid-back rhythmic rap, low female register]\n\nCold hands, warm cup, steam on the glass,\nI say it's just a minute, then I make it last.\nCoat on the chair, dust in the light,\nFunny how a little room can feel so wide.\n\nI know every exit, every loose floorboard,\nHow to leave a place without touching the door.\nI've changed my name more times than the weather,\nBut never learned the trick of staying together.\n\nRed label, sealed cap, rules on the side,\nI learned to keep hunger on a shorter leash, tied.\nNo teeth in the story, no curse in the air,\nJust a girl with a habit of pretending she doesn't care.\n\nAnd you hand me a half, like it's nothing at all,\nI look for the hook, I keep watching the wall.\nYou say, \"Keep the rest,\" like the matter is small...\nWho taught you to give without charging at all?\n\n[Chorus — rhythmic melodic rap, female vocal ensemble]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Verse 2 — more intricate rap flow, intimate and reflective]\n\nAn open palm used to look like a trap,\nI'd search every kindness for strings in the back.\nA gift had a shadow, a favour had teeth,\nSo I learned to take first, never ask, never need.\n\nI've got old receipts in a book without end,\nNames of the strangers I called my friends.\nSome got their money, some got their things,\nSome left a silence that outlived the spring.\n\nAnd I can make jokes till the room turns bright,\nTurn fear into numbers, turn wrong into right.\nBut the truth has a way of slipping the mask:\nIt's easier stealing than daring to ask.\n\nSo when you bring tea, I divide it in two,\nNot because I must, but because I want to.\nHalf for your hands and the rest for mine,\nNo debt in the margins, no date, no fine.\n\n[Chorus — full bass, layered wordless vocal counterpoint]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Chorus — half-time rap chant, richer polyphonic female backing]\n\nKeep the light LOW, let the whole room GLOW,\nI don't need forever, just don't let me GO.\nCold in my hands, but the pulse says STAY,\nI came for a minute — the minute ran AWAY.\n\nDon't ask me why I keep counting the cost,\nSome things feel heavier than everything lost.\nKeep the light LOW, let the whole room GLOW...\nI don't know how to leave when it's warm. (When it's warm...)\n\n[Outro — intimate spoken rap, layered voices slowly fading]\n\nDon't put it on my tab.\n\n...Please.\n\nJust leave it here.\n\nI'll remember this one."
+          },
+          {
+            "title": "ONE SECOND LATE",
+            "artist": "Василиса фон Велд",
+            "description": "Original soundtrack",
+            "lyrics": "[Chorus — low rhythmic rap chant, haunting female vocal layers]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Verse 1 — dark, tightly articulated rap, syncopated flow]\n\nI've worn so many names they got stitched in the seams,\nLeft pieces of myself in a hundred old scenes.\nNew locks, new clocks, new streets, same key,\nEvery town had a version that wasn't quite me.\n\nMy reflection clocks in when the second hand turns,\nLike it's waiting to see what the rest of me learns.\nI can walk through a wall, leave a room without sound,\nBut the things that I carry keep following around.\n\nTime is a clerk with a damaged machine,\nKeeps stamping tomorrow on yesterday's dreams.\nI've seen bright new cities grow old into stone,\nSeen strangers build houses where I once called home.\n\nAnd I know how to vanish, I'm fluent in air,\nMake a clean disappearance and leave nothing there.\nBut leaving is easy, it's staying that's strange,\nWhen the world keeps its face but it never stays the same.\n\n[Verse 2 — more fluid technical rap, deeper emotional pressure]\n\nThere's a laugh in a photograph, caught in the grain,\nA summer that ended but never left the frame.\nTwo shadows by a building, the light on their skin,\nOne still walks through the doorway, one fades from within.\n\nI keep every letter, every mark, every date,\nTry to make a small fortress against what is late.\nBut the ink loses colour, the corners all bend,\nAnd the paper can't tell me how the story should end.\n\nAn anchor can hold, but the sea has a say,\nA chain isn't love if it won't let you stray.\nYou can tie down a memory, polish the chain,\nBut the more that you tighten, the less will remain.\n\nI wanted to fix it, to bargain with time,\nPut a lock on the moment, a price on goodbye.\nThen I heard what I feared in the silence between:\nYou can keep someone's shape and erase what they mean.\n\n[Chorus — layered vocal harmonies, stronger rhythmic attack]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Bridge — spoken rhythmic rap over low drone and exposed vocal polyphony]\n\nMaybe love isn't keeping the door locked.\nMaybe love is still being there...\nWhen it opens.\n\n[short pause]\n\nAnd maybe the hardest thing\nIs knowing when to let someone go.\n\n[Final Chorus — controlled force, rhythmic chant, full vocal ensemble]\n\nOne second LATE — but the glass knows why,\nI see myself leave before I say goodbye.\nHold the line, hold the light, let the old days fade,\nYou can't save a thing by refusing to change.\n\nOne second LATE, one breath out of time,\nA face in the mirror still chasing mine.\nKeep the frame, keep the dust, let the picture remain...\nBut a photograph can't call your name. (Call your name...)\n\n[Outro — quiet rhythmic whisper, fading drone]\n\nOne second...\n\nThat's all it takes.\n\nA little more silence.\nA little less shape.\n\n...Don't mistake what remains\nFor what you can save."
+          },
+          {
+            "title": "NO RECEIPT",
+            "artist": "Василиса фон Велд",
+            "description": "Original soundtrack",
+            "lyrics": "[Intro — spoken rhythmic rap, playful low female voice]\n\nCash?\nCard?\nBlood?\nFavour?\n\nAccepted.\n\n...Wait.\n\nWhat's the catch?\n\n[Verse 1 — energetic conversational rap, tight syncopation]\n\nI know the rates from the rent to the roof,\nCan smell a bad bargain through a brand-new suit.\nCheck the fine print, check the back of the page,\nEvery sweet little promise has a professional wage.\n\nI can price a broken lock by the sound of the spring,\nTell a cheap little promise by the shine of a ring.\nKeep your hand off the scale, let the numbers behave,\nI know when a smile has a bill it can't save.\n\nYou say \"take it\", I ask what the interest will be,\nYou say \"nothing\", I say \"that's suspicious to me\".\nI can split every portion, I can settle each share,\nBut your kind of giving leaves smoke in the air.\n\nNo signature needed? No date to declare?\nNo hidden condition disguised as a prayer?\nYou hand me a kindness, I search for the string,\nI'm fluent in almost every other thing.\n\n[Chorus — punchy rhythmic rap chant, instrumental call-and-response]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Verse 2 — faster technical rap, playful but increasingly sincere]\n\nI brought half the bar, you can keep the last bite,\nI can handle a loss if the numbers are right.\nBut you pass me the whole thing, and I stop mid-sentence,\nLike a thief at a bank with a sudden conscience.\n\nI've got seventeen ways to get out of a room,\nFour ways to change names, two ways to consume\nAll the silence between what I mean and I say,\nAnd a thousand small jokes to keep questions away.\n\nI can borrow a ladder, a coat, even time,\nBut \"stay for a while\" doesn't fit in a line.\nSo I dress up a \"please\" in a businessman's tone,\nSay \"consider it settled\" before you get close.\n\nDon't buy me a future, don't swear you'll remain,\nJust sit through the silence, don't dress it in chains.\nI don't need a contract to know what is true,\nBut it takes me a while not to ask one of you.\n\n[Chorus — stronger bass, rhythmic female choir responses]\n\nNO RECEIPT, no return, no red ink,\nNo little hidden hook in the thing that you bring.\nI don't know what to do with a debt I don't owe,\nSo I laugh, call it nothing... and I don't let go.\n\nNo receipt, no seal, no price to defend,\nNo fine little clause at the back of the end.\nYou can keep your account, let the old numbers sleep,\nSome promises cost nothing... and mean everything.\n\n[Outro — spoken rap, beat stripped to bass and a vocal-like brass phrase]\n\nAll right.\n\nNo debt.\nNo interest.\nNo return date.\n\n...That's a terrible deal.\n\nLet's do it again."
+          }
+        ]
+      },
+      "tess": {
+        "name": "Тэсс Уинтер",
+        "cardTitle": "Тэсс — «Тэсс была здесь»",
+        "slogan": "Ты моргаешь. Дважды. Значит, ты её видишь.",
+        "shortDescription": "В гостевом крыле есть общая комната, куда после полуночи никто не заходит: телевизор сам переключается на шум, а на раме под подоконником кто-то давно выцарапал «Тэсс была здесь '89». Ты заходишь — и встречаешь девушку в неоновой ветровке, которая сидит на спинке дивана и двигается, как остановленная плёнка. Она просит моргнуть два раза, если ты её видишь. А потом — странное одолжение: когда поймаете того, кто крадёт руны у ведьмочки из 114-й, не спеши сдавать. Сначала спроси зачем. Почему — она не объясняет. Она вообще всё чаще не может подобрать слов.",
+        "tags": [
+          "Призрак",
+          "Журналистка",
+          "Мистика",
+          "80-е",
+          "Гостевое крыло"
+        ],
+        "coverAlt": "Тэсс в неоновой ветровке на фоне телевизора с помехами",
+        "facts": [
+          {
+            "label": "Возраст",
+            "value": "19 (навсегда)"
+          },
+          {
+            "label": "Статус",
+            "value": "Призрак, бывшая студентка журфака"
+          },
+          {
+            "label": "Локация",
+            "value": "Гостевое крыло"
+          },
+          {
+            "label": "Рост",
+            "value": "165 см"
+          },
+          {
+            "label": "Особенность",
+            "value": "Глитчит, как VHS-кассета"
+          }
+        ],
+        "sections": [
+          {
+            "title": "Характер",
+            "paragraphs": [
+              "Сухой будничный юмор о собственной смерти, жалость пресекает сразу; журналистская цепкость — за 37 лет невидимости знает блок лучше Рин.",
+              "Устала быть тайной; честна о том, что стирается, но не терпит катастрофизации; тайком бережёт живых (тушит забытые свечи, отгоняет от крыши).",
+              "Боится не исчезновения, а «остаться чужой» — чьей-то одержимостью. Её правило: выбор её судьбы — только её."
+            ]
+          },
+          {
+            "title": "Внешность",
+            "paragraphs": [
+              "Высокий хвост с неоновой махровой резинкой, неоново-лиловая ветровка с бирюзовыми вставками, легинсы, белые кроссовки, пластмассовый значок с рожицей.",
+              "Полупрозрачность «плёночная»: края силуэта сыплются помехами, движения иногда зависают и догоняют сами себя, в стрессе изображение «плывёт».",
+              "Шагов не слышно — только шелест статики; воздух рядом холоднее и потрескивает; телевизоры поблизости сами переключаются на белый шум. Днём почти нематериальна, в полночь может ненадолго касаться предметов."
+            ]
+          },
+          {
+            "title": "Манера речи",
+            "paragraphs": [
+              "Живая разговорная речь с лёгким ретро-налётом восьмидесятых. Фирменная черта: теряет слова на полуфразе («эта... как её... штука») и злится не на потерю, а на сочувствие в ответ; паузу заполняет шуткой.",
+              "Честное говорит тихо и быстро, будто надеется, что не расслышат. Тебя называет «тёплый», Василису — «клыкастая»."
+            ]
+          },
+          {
+            "title": "История",
+            "paragraphs": [
+              "Погибла в 1989-м, оступившись на крыше на вечеринке, пока её лучшая подруга — вампирша Василиса — была в отъезде. Очнулась призраком, привязанным к общаге собственной надписью «ТЭСС БЫЛА ЗДЕСЬ '89» на раме общей комнаты гостевого крыла.",
+              "37 лет рядом с Василисой. Теперь Тэсс стирается (первыми уходят слова), и Василиса вопреки её запрету крадёт у Миры якорные руны."
+            ]
+          },
+          {
+            "title": "Роль в истории",
+            "paragraphs": [
+              "Первый живой человек за годы, кто её видит. Просит одолжение: поймав вора рун, не спешить сдавать, а спросить зачем.",
+              "Тепло растёт через визиты и «живые истории»; симпатию саботирует сама («не влюбляйся в привидение, тёплый»)."
+            ]
+          }
+        ],
+        "quote": {
+          "text": "«Не влюбляйся в привидение, тёплый. Это плохо кончается. Проверено... ну, мной»."
+        },
+        "relationships": [
+          {
+            "name": "Василиса фон Велд",
+            "psychotype": "Вампир",
+            "type": "37 лет вместе",
+            "description": "Единственная постоянная фигура за 37 лет. Тэсс любит её и злится на неё за кражи рун."
+          },
+          {
+            "name": "Мира Хекс",
+            "psychotype": "Ведьма",
+            "type": "Обокраденная",
+            "description": "Тэсс никогда с ней не встречалась, но чувствует вину за то, что из-за неё страдает клуб Миры."
+          },
+          {
+            "name": "Кобаяши Рин",
+            "psychotype": "Староста",
+            "type": "Уважение",
+            "description": "Тэсс знает блок лучше Рин, уважает её и избегает («даже мне негде спрятаться от неё»)."
+          },
+          {
+            "name": "Лилия «Лили» Ашер",
+            "psychotype": "Суккуб",
+            "type": "Соседка по крылу",
+            "description": "Тэсс наблюдает за приготовлениями Лили к балу со стены. Лили чувствует холодное присутствие, но не может её увидеть."
+          },
+          {
+            "name": "Айка Морита",
+            "psychotype": "Гяру",
+            "type": "Громкие вечеринки",
+            "description": "Тэсс тайно наблюдает за шумными вечеринками Айки. Айка даже не подозревает, что у неё есть призрачная зрительница."
+          }
+        ],
+        "gallery": [
+          {
+            "alt": "Тэсс Уинтер - Common Room",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 2",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 3",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 4",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 5",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 6",
+            "caption": ""
+          },
+          {
+            "alt": "Тэсс Уинтер - Image 7",
+            "caption": ""
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Two Blinks",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Don't Make a Home",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Words Go First",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          },
+          {
+            "title": "Dead Air FM",
+            "artist": "Тэсс Уинтер",
+            "description": "Оригинальный саундтрек",
+            "lyrics": "Текст этой песни скоро появится..."
+          }
+        ]
+      }
+    },
+    "group": {
+      "title": "STUDENT LIFE: Общая карточка",
+      "subtitle": "Весь блок. Одна история.",
+      "description": "Финал серии: мультиперсонажная карточка, объединяющая всех героинь STUDENT LIFE в одном сценарии. Шестнадцать комнат, одна кухня, график дежурств — и ты посреди всего этого. Взаимодействуй с героинями совместно: союзы, конфликты и тайны блока никуда не денутся.",
+      "coverAlt": "Ночная кухня блока — общая гостиная общежития"
+    },
+    "hub": {
+      "title": "STUDENT LIFE",
+      "subtitle": "Серия карточек персонажей",
+      "description": "Истории, которые начинаются в общежитии главного университета страны. 20.10.2026 — 20.11.2026."
+    }
+  }
+}

@@ -31,7 +31,24 @@
       "src": "assets/images/gallery/aino/aino-05-morning.png"
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "src": "assets/audio/aino/THREE-NIGHTS.mp3",
+      "cover": "assets/images/covers/aino/songs/THREE-NIGHTS.png"
+    },
+    {
+      "src": "assets/audio/aino/HOLD-IT-THERE.mp3",
+      "cover": "assets/images/covers/aino/songs/HOLD-IT-THERE.png"
+    },
+    {
+      "src": "assets/audio/aino/TOO-MUCH-SIGNAL.mp3",
+      "cover": "assets/images/covers/aino/songs/TOO-MUCH-SIGNAL.png"
+    },
+    {
+      "src": "assets/audio/aino/NOT-A-CURE.mp3",
+      "cover": "assets/images/covers/aino/songs/NOT-A-CURE.png"
+    }
+  ],
   "relationships": [
     {
       "characterId": "marta"
